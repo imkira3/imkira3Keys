@@ -11,7 +11,6 @@ script:
 The imkira3 Keyboard Design
 
 ![alt text](https://archive.org/download/20230121-124552/imkira3KeyboardMod2.jpg)
-
 SC0145::^c
 ^SC0145::numlock
 SC0135::^v
