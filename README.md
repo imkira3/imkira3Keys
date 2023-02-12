@@ -9,6 +9,7 @@ until you edit the entry. You can set 2 different binds for these 7 buttons and 
 of whether the numpad is on, but CTRL will still switch to the buttons secondary action. Well anyway, here is the
 script:
 The imkira3 Keyboard Design
+
 ![alt text](https://archive.org/download/20230121-124552/imkira3KeyboardMod2.jpg)
 SC0145::^c
 ^SC0145::numlock
