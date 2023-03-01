@@ -1,0 +1,2497 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 10">
+<meta name=Originator content="Microsoft Word 10">
+<link rel=File-List href="index.files/filelist.xml">
+<link rel=Edit-Time-Data href="index.files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>RocketDock Documentation</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>*</o:Author>
+  <o:LastAuthor>*</o:LastAuthor>
+  <o:Revision>91</o:Revision>
+  <o:TotalTime>367</o:TotalTime>
+  <o:Created>2007-01-22T12:12:00Z</o:Created>
+  <o:LastSaved>2007-01-23T12:55:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>1213</o:Words>
+  <o:Characters>6919</o:Characters>
+  <o:Company>DEEPIN</o:Company>
+  <o:Lines>57</o:Lines>
+  <o:Paragraphs>16</o:Paragraphs>
+  <o:CharactersWithSpaces>8116</o:CharactersWithSpaces>
+  <o:Version>10.2625</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>150</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:Compatibility>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]-->
+<link rel=Stylesheet type="text/css" media=all href="../shared/style.css">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:SimSun;}
+h1
+	{mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:24.0pt;
+	font-family:"Times New Roman";
+	font-weight:bold;}
+h2
+	{mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:"Times New Roman";
+	font-weight:bold;}
+h3
+	{mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:13.5pt;
+	font-family:"Times New Roman";
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:SimSun;}
+p.indent, li.indent, div.indent
+	{mso-style-name:indent;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:15.0pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:SimSun;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:60059890;
+	mso-list-template-ids:-1948218490;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:68818063;
+	mso-list-template-ids:-1109335918;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level3
+	{mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level4
+	{mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level5
+	{mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level6
+	{mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level7
+	{mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level8
+	{mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level9
+	{mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2
+	{mso-list-id:228811126;
+	mso-list-template-ids:1986446662;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3
+	{mso-list-id:298612462;
+	mso-list-template-ids:-857569248;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4
+	{mso-list-id:320817678;
+	mso-list-template-ids:1961933034;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5
+	{mso-list-id:461382273;
+	mso-list-template-ids:-717424376;}
+@list l5:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l6
+	{mso-list-id:482815273;
+	mso-list-template-ids:1913046336;}
+@list l6:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l6:level2
+	{mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l6:level3
+	{mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l6:level4
+	{mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l6:level5
+	{mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l6:level6
+	{mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l6:level7
+	{mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l6:level8
+	{mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l6:level9
+	{mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l7
+	{mso-list-id:493642561;
+	mso-list-template-ids:-89988154;}
+@list l7:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l7:level2
+	{mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l7:level3
+	{mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l7:level4
+	{mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l7:level5
+	{mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l7:level6
+	{mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l7:level7
+	{mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l7:level8
+	{mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l7:level9
+	{mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l8
+	{mso-list-id:628437983;
+	mso-list-template-ids:2113175876;}
+@list l8:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l8:level2
+	{mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l8:level3
+	{mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l8:level4
+	{mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l8:level5
+	{mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l8:level6
+	{mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l8:level7
+	{mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l8:level8
+	{mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l8:level9
+	{mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l9
+	{mso-list-id:718482578;
+	mso-list-template-ids:733762460;}
+@list l9:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l10
+	{mso-list-id:727461577;
+	mso-list-template-ids:1191738834;}
+@list l10:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l11
+	{mso-list-id:971326516;
+	mso-list-template-ids:1684722986;}
+@list l11:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l12
+	{mso-list-id:1169714197;
+	mso-list-template-ids:1910962916;}
+@list l12:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l13
+	{mso-list-id:1250965096;
+	mso-list-template-ids:-892412116;}
+@list l13:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l14
+	{mso-list-id:1367874330;
+	mso-list-template-ids:-660980392;}
+@list l14:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l14:level2
+	{mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l14:level3
+	{mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l14:level4
+	{mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l14:level5
+	{mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l14:level6
+	{mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l14:level7
+	{mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l14:level8
+	{mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l14:level9
+	{mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l15
+	{mso-list-id:1447040845;
+	mso-list-template-ids:568084720;}
+@list l15:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l16
+	{mso-list-id:1475562514;
+	mso-list-template-ids:928260338;}
+@list l16:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l17
+	{mso-list-id:1496149059;
+	mso-list-template-ids:866812536;}
+@list l17:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l18
+	{mso-list-id:1528592903;
+	mso-list-template-ids:1307839896;}
+@list l18:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l18:level2
+	{mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l18:level3
+	{mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l18:level4
+	{mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l18:level5
+	{mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l18:level6
+	{mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l18:level7
+	{mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l18:level8
+	{mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l18:level9
+	{mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l19
+	{mso-list-id:1568880354;
+	mso-list-template-ids:2038469888;}
+@list l19:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l19:level2
+	{mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l19:level3
+	{mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l19:level4
+	{mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l19:level5
+	{mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l19:level6
+	{mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l19:level7
+	{mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l19:level8
+	{mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l19:level9
+	{mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l20
+	{mso-list-id:1606495225;
+	mso-list-template-ids:1064847352;}
+@list l20:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l21
+	{mso-list-id:1631325835;
+	mso-list-template-ids:1546712444;}
+@list l21:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l22
+	{mso-list-id:1706978402;
+	mso-list-template-ids:1816547878;}
+@list l22:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l23
+	{mso-list-id:1772696542;
+	mso-list-template-ids:-129995628;}
+@list l23:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l24
+	{mso-list-id:1836991557;
+	mso-list-template-ids:-1322331668;}
+@list l24:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l24:level2
+	{mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l24:level3
+	{mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l24:level4
+	{mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l24:level5
+	{mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l24:level6
+	{mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l24:level7
+	{mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l24:level8
+	{mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l24:level9
+	{mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l25
+	{mso-list-id:1892502248;
+	mso-list-template-ids:-814080392;}
+@list l25:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l26
+	{mso-list-id:1931111648;
+	mso-list-template-ids:510971952;}
+@list l26:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l27
+	{mso-list-id:1940943633;
+	mso-list-template-ids:1191205906;}
+@list l27:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l27:level2
+	{mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l27:level3
+	{mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l27:level4
+	{mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l27:level5
+	{mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l27:level6
+	{mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l27:level7
+	{mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l27:level8
+	{mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l27:level9
+	{mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l28
+	{mso-list-id:2045980575;
+	mso-list-template-ids:1208391268;}
+@list l28:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l28:level2
+	{mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l28:level3
+	{mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l28:level4
+	{mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l28:level5
+	{mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l28:level6
+	{mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l28:level7
+	{mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l28:level8
+	{mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l28:level9
+	{mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:\666E\901A\8868\683C;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+</style>
+<![endif]-->
+<link rel="shortcut icon" href="../shared/Help.ico">
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="9218"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+	
+
+<body lang=ZH-CN link=blue vlink=blue style='tab-interval:21.0pt'>
+
+<div class=Section1>
+
+<h1><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600"
+ o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f"
+ stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_s1026" type="#_x0000_t75" alt="" style='position:absolute;
+ margin-left:322pt;margin-top:0;width:80.25pt;height:401.25pt;z-index:1;
+ mso-wrap-distance-left:0;mso-wrap-distance-right:0;mso-position-horizontal:right;
+ mso-position-vertical-relative:line' o:allowoverlap="f">
+ <v:imagedata src="images/Snap1.jpg"/>
+ <w:wrap type="square"/>
+</v:shape><![endif]--><![if !vml]><img width=107 height=535
+src="images/Snap1.jpg" align=right title="" v:shapes="_x0000_s1026"><![endif]><span
+lang=EN-US><span class=SpellE>
+
+<iframe id=languages src="../shared/languages.html">
+</iframe>
+
+<!-- Main -->RocketDock</span> </span><span style='font-family:SimSun;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#35828;&#26126;&#25991;&#26723;</span><span
+lang=EN-US><o:p></o:p></span></h1>
+
+<div>
+
+<ul type=disc id=nav>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l18 level1 lfo3;tab-stops:list 36.0pt'><span lang=EN-US><a
+     href="#introduction"><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20171;&#32461;</span></a></span></li>
+</ul>
+
+<ul type=disc>
+ <ol start=1 type=1>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l18 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US><a
+      href="#what-is-rocketdock">RocketDock<span style='font-family:SimSun;
+      mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#26159;&#20160;&#20040;</span>?</a></span></li>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l18 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US><a
+      href="#features"><span style='font-family:SimSun;mso-ascii-font-family:
+      "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#36719;&#20214;&#29305;&#24615;</span></a></span></li>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l18 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US><a
+      href="#system-requirements"><span style='font-family:SimSun;mso-ascii-font-family:
+      "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#26368;&#20302;&#31995;&#32479;&#37197;&#32622;</span></a></span></li>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l18 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US><a
+      href="#supported-languages"><span style='font-family:SimSun;mso-ascii-font-family:
+      "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#25903;&#25345;&#30340;&#35821;&#35328;</span></a></span></li>
+ </ol>
+</ul>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l18 level1 lfo3;tab-stops:list 36.0pt'><span lang=EN-US><a
+     href="#managing-items"><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#39033;&#30446;&#31649;&#29702;</span></a></span></li>
+</ul>
+
+<ul type=disc>
+ <ol start=1 type=1>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l18 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US><a
+      href="#adding-new-items"><span style='font-family:SimSun;mso-ascii-font-family:
+      "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#28155;&#21152;&#26032;&#39033;&#30446;</span></a></span></li>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l18 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US><a
+      href="#docklets"><span style='font-family:SimSun;mso-ascii-font-family:
+      "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#25554;&#20214;</span>Docklets</a></span></li>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l18 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US><a
+      href="#customizing-items"><span style='font-family:SimSun;mso-ascii-font-family:
+      "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#39033;&#30446;&#30340;&#20010;&#24615;&#21270;&#35774;&#32622;</span></a></span></li>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l18 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US><a
+      href="#removing-items"><span style='font-family:SimSun;mso-ascii-font-family:
+      "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#21024;&#38500;&#39033;&#30446;</span></a></span></li>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l18 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US><a
+      href="#drag-n-drop"><span style='font-family:SimSun;mso-ascii-font-family:
+      "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#25302;&#26355;&#25805;&#20316;</span></a></span></li>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l18 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US><a
+      href="#minimized-windows"><span style='font-family:SimSun;mso-ascii-font-family:
+      "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#26368;&#23567;&#21270;&#31383;&#21475;</span></a></span></li>
+ </ol>
+</ul>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l18 level1 lfo3;tab-stops:list 36.0pt'><span lang=EN-US><a
+     href="#dock-settings">Dock<span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#30340;&#35774;&#32622;</span></a></span></li>
+</ul>
+
+<ul type=disc>
+ <ol start=1 type=1>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l18 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US><a
+      href="#settings-general"><span style='font-family:SimSun;mso-ascii-font-family:
+      "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#19968;&#33324;&#35774;&#32622;</span></a></span></li>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l18 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US><a
+      href="#settings-icons"><span style='font-family:SimSun;mso-ascii-font-family:
+      "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#22270;&#26631;</span></a></span></li>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l18 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US><a
+      href="#settings-position"><span style='font-family:SimSun;mso-ascii-font-family:
+      "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20301;&#32622;</span></a></span></li>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l18 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US><a
+      href="#settings-style"><span style='font-family:SimSun;mso-ascii-font-family:
+      "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20027;&#39064;&#39118;&#26684;</span></a></span></li>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l18 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US><a
+      href="#settings-behavior"><span style='font-family:SimSun;mso-ascii-font-family:
+      "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#34892;&#20026;&#27169;&#24335;</span></a></span></li>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l18 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US><a
+      href="#quick-access-to-options"><span style='font-family:SimSun;
+      mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#24555;&#36895;&#35774;&#32622;&#36873;&#39033;</span></a></span></li>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l18 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US><a
+      href="#settings-reset-options"><span style='font-family:SimSun;
+      mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#37325;&#26032;&#35774;&#32622;</span></a></span></li>
+ </ol>
+</ul>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l18 level1 lfo3;tab-stops:list 36.0pt'><span lang=EN-US><a
+     href="#hotkeys"><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#28909;&#38190;&#35774;&#32622;</span></a></span></li>
+</ul>
+
+<ul type=disc>
+ <ol start=1 type=1>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l18 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US><a
+      href="#hotkeys-disable"><span style='font-family:SimSun;mso-ascii-font-family:
+      "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#31105;&#27490;</span>Dock</a></span></li>
+ </ol>
+</ul>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l18 level1 lfo3;tab-stops:list 36.0pt'><span lang=EN-US><a
+     href="#finding-help-and-contributing"><span style='font-family:SimSun;
+     mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#23547;&#27714;&#24110;&#21161;&#21644;&#25424;&#21161;</span></a></span></li>
+</ul>
+
+<ul type=disc>
+ <ol start=1 type=1>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l18 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US><a
+      href="#more-help"><span style='font-family:SimSun;mso-ascii-font-family:
+      "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#22312;&#21738;&#20799;&#21487;&#20197;&#24471;&#21040;&#24110;&#21161;&#20449;&#24687;</span></a></span></li>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l18 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US><a
+      href="#help-translate"><span style='font-family:SimSun;mso-ascii-font-family:
+      "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#24110;&#21161;&#32763;&#35793;</span></a></span></li>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l18 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US><a
+      href="#spread-the-word"><span style='font-family:SimSun;mso-ascii-font-family:
+      "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#25512;&#24191;</span></a></span></li>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l18 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US><a
+      href="#our-shop"><span style='font-family:SimSun;mso-ascii-font-family:
+      "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#35775;&#38382;&#25105;&#20204;&#30340;&#32593;&#19978;&#21830;&#24215;</span></a><o:p></o:p></span></li>
+ </ol>
+</ul>
+
+</div>
+
+<h1 id=introduction><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'><!-- End Section -->&#20171;&#32461;</span><span
+lang=EN-US><o:p></o:p></span></h1>
+
+<div>
+
+<h2 id=what-is-rocketdock><span lang=EN-US>1. <span class=SpellE>RocketDock</span></span><span
+style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>&#26159;&#20160;&#20040;</span><span lang=EN-US>?</span></h2>
+
+<div>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20320;&#26159;&#21542;&#26366;&#32463;&#36879;&#36807;&#37027;&#20123;&#33529;&#26524;&#26426;&#29992;&#25143;&#30340;&#32937;&#22836;&#30629;&#35265;&#36807;&#20182;&#20204;&#23631;&#24149;&#19979;&#26041;&#37027;&#20010;&#28418;&#20142;&#30340;&#22270;&#26631;&#26639;</span><span
+lang=EN-US>?</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#36825;&#23601;&#26159;&#33879;&#21517;&#30340;</span><span
+class=GramE><span lang=EN-US>&#8221;</span></span><span lang=EN-US>Dock<span
+class=GramE>&#8221;</span>. </span><span style='font-family:SimSun;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#23545;&#37027;&#20123;&#27809;&#26377;&#30475;&#21040;&#36807;</span><span
+lang=EN-US>Dock</span><span style='font-family:SimSun;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#30340;&#20154;&#26469;&#35828;</span><span
+lang=EN-US>,Dock</span><span style='font-family:SimSun;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#23601;&#26159;&#20301;&#20110;&#20320;&#23631;&#24149;&#19979;&#26041;&#21487;&#20197;&#35774;&#32622;&#32972;&#26223;&#21644;&#22270;&#26631;&#30340;<span
+class=GramE>&#30340;</span>&#24037;&#20855;&#26639;</span><span lang=EN-US>.</span><span
+style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>&#36825;&#20010;&#24037;&#20855;&#26639;&#30340;&#20316;&#29992;&#23601;&#26159;&#23558;&#20320;&#30340;&#24212;&#29992;&#31243;&#24207;&#21644;&#21508;&#31181;&#22270;&#26631;&#26377;&#26426;&#30340;&#32452;&#32455;&#36215;&#26469;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20174;&#32780;&#25226;&#20320;&#20174;&#26434;&#20081;&#30340;&#26700;&#38754;&#20013;&#35299;&#33073;&#20986;&#26469;</span><span
+lang=EN-US>.<o:p></o:p></span></p>
+
+</div>
+
+<h2 id=features><span lang=EN-US>2. </span><span style='font-family:SimSun;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#29305;&#24615;</span></h2>
+
+<div>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l7 level1 lfo15;tab-stops:list 36.0pt'><span style='font-family:
+     SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#26368;&#23567;&#21270;&#31383;&#21475;&#21040;</span><span
+     lang=EN-US>Dock</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l7 level1 lfo15;tab-stops:list 36.0pt'><span lang=EN-US>Vista</span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#31995;&#32479;&#20013;&#23454;&#26102;&#30340;&#31383;&#21475;&#39044;&#35272;</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l7 level1 lfo15;tab-stops:list 36.0pt'><span style='font-family:
+     SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#27491;&#22312;&#36816;&#34892;&#30340;&#31243;&#24207;&#30340;&#25351;&#31034;&#22120;</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l7 level1 lfo15;tab-stops:list 36.0pt'><span style='font-family:
+     SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#31616;&#21333;&#30340;&#25302;&#26355;&#30028;&#38754;</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l7 level1 lfo15;tab-stops:list 36.0pt'><span style='font-family:
+     SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#25903;&#25345;&#22810;&#30417;&#35270;&#22120;&#31995;&#32479;</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l7 level1 lfo15;tab-stops:list 36.0pt'><span style='font-family:
+     SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#25903;&#25345;</span><span
+     lang=EN-US>alpha</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#25928;&#26524;</span><span
+     lang=EN-US>PNG</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#21644;</span><span
+     lang=EN-US>ICO</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#22270;&#26631;</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l7 level1 lfo15;tab-stops:list 36.0pt'><span style='font-family:
+     SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#22270;&#26631;&#30340;&#24179;&#28369;&#32553;&#25918;&#25928;&#26524;</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l7 level1 lfo15;tab-stops:list 36.0pt'><span style='font-family:
+     SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#33258;&#21160;&#38544;&#34255;</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l7 level1 lfo15;tab-stops:list 36.0pt'><span style='font-family:
+     SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#40736;&#26631;&#28369;&#36807;&#33258;&#21160;&#24377;&#20986;</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l7 level1 lfo15;tab-stops:list 36.0pt'><span style='font-family:
+     SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20301;&#32622;<span
+     class=GramE>&#21644;&#22270;&#23618;&#35774;&#32622;</span></span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l7 level1 lfo15;tab-stops:list 36.0pt'><span style='font-family:
+     SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#23436;&#20840;&#20010;&#24615;&#21270;&#35774;&#32622;</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l7 level1 lfo15;tab-stops:list 36.0pt'><span style='font-family:
+     SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#25903;&#25345;</span><span
+     class=SpellE><span lang=EN-US>ObjectDock</span></span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#25554;&#20214;</span><span
+     lang=EN-US>(<span class=SpellE>Docklet</span>)</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l7 level1 lfo15;tab-stops:list 36.0pt'><span style='font-family:
+     SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20860;&#23481;</span><span
+     class=SpellE><span lang=EN-US>MobyDock</span></span><span lang=EN-US>, <span
+     class=SpellE>ObjectDock</span>, RK Launcher, </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#21644;</span><span lang=EN-US> <span
+     class=SpellE>Y'z</span> Dock</span><span style='font-family:SimSun;
+     mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#30382;&#32932;</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l7 level1 lfo15;tab-stops:list 36.0pt'><span style='font-family:
+     SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#22312;&#20302;&#37197;&#32622;&#30005;&#33041;&#19978;&#36816;&#34892;&#27969;&#30021;</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l7 level1 lfo15;tab-stops:list 36.0pt'><span style='font-family:
+     SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#25903;&#25345;&#32479;&#19968;&#23383;&#31526;&#32534;&#30721;&#26631;&#20934;</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l7 level1 lfo15;tab-stops:list 36.0pt'><span style='font-family:
+     SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#22810;&#35821;&#31181;&#25903;&#25345;</span><span
+     lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#21487;&#20197;&#26041;&#20415;&#30340;&#32763;&#35793;&#25104;&#21508;&#31181;&#25991;&#23383;&#29256;&#26412;</span><span
+     lang=EN-US><o:p></o:p></span></li>
+</ul>
+
+</div>
+
+<h2 id=system-requirements><span lang=EN-US>3. </span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#26368;&#20302;&#31995;&#32479;&#37197;&#32622;</span></h2>
+
+<div>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l19 level1 lfo18;tab-stops:list 36.0pt'><span lang=EN-US>Windows
+     2000/XP/Vista</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l19 level1 lfo18;tab-stops:list 36.0pt'><span lang=EN-US>500Mhz </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#25110;&#32773;&#26356;&#24555;&#30340;</span><span
+     lang=EN-US>CPU</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l19 level1 lfo18;tab-stops:list 36.0pt'><span lang=EN-US>10MB </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#31354;&#38386;&#20869;&#23384;</span><span
+     lang=EN-US><o:p></o:p></span></li>
+</ul>
+
+</div>
+
+<h2 id=supported-languages><span lang=EN-US>4. </span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#25903;&#25345;&#30340;&#35821;&#35328;</span></h2>
+
+<div>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#21335;&#38750;&#33655;&#20848;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#38463;&#23572;&#24052;&#23612;&#20122;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#38463;&#25289;&#20271;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#23391;&#21152;&#25289;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#24052;&#35199;&#33889;&#33796;&#29273;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20445;&#21152;&#21033;&#20122;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#21152;&#27888;&#32599;&#23612;&#20122;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#31616;&#20307;&#20013;&#25991;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#32321;&#20307;&#20013;&#25991;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20811;&#32599;&#22320;&#20122;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#25463;&#20811;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20025;&#40614;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#33655;&#20848;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#33521;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#33452;&#20848;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#27861;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#21152;&#21033;&#35199;&#20122;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20052;&#27835;&#20122;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#24503;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#24076;&#33098;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#24076;&#20271;&#26469;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#21256;&#29273;&#21033;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#21360;&#24230;&#23612;&#35199;&#20122;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#24847;&#22823;&#21033;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#26085;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#38889;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#25386;&#23041;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#27874;&#26031;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#27874;&#20848;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#33889;&#33796;&#29273;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#32599;&#39532;&#23612;&#20122;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20420;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#22622;&#23572;&#32500;&#20122;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20711;&#20285;&#32599;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#26031;&#27931;&#20240;&#20811;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#26031;&#27931;&#25991;&#23612;&#20122;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#35199;&#29677;&#29273;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#29790;&#20856;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#27888;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#22303;&#32819;&#20854;&#35821;</span><span
+lang=EN-US>, </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20044;&#20811;&#20848;&#35821;</span><span
+lang=EN-US><o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+<h1 id=managing-items><span style='font-family:SimSun;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'><!-- End Section -->&#39033;&#30446;&#31649;&#29702;</span><span
+lang=EN-US><o:p></o:p></span></h1>
+
+<div>
+
+<h2 id=adding-new-items><span lang=EN-US>1. </span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#28155;&#21152;&#26032;&#39033;&#30446;</span></h2>
+
+<div>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#24456;&#22810;&#20154;&#23433;&#35013;&#23436;</span><span
+class=SpellE><span lang=EN-US>Rocketdock</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#30340;&#31532;&#19968;&#20214;&#20107;&#23601;&#26159;&#28155;&#21152;&#26032;&#30340;&#39033;&#30446;</span><span
+lang=EN-US>.</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#26377;&#20960;&#31181;&#30340;&#26041;&#27861;&#26469;&#28155;&#21152;&#26032;&#39033;&#30446;</span><span
+lang=EN-US>:</span></p>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20320;&#21487;&#20197;&#31616;&#21333;&#30340;<span
+class=GramE>&#20174;&#20960;&#20046;</span>&#20219;&#20309;&#22320;&#26041;</span><span
+lang=EN-US>(</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#26700;&#38754;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#27983;&#35272;&#22120;&#31383;&#21475;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#24555;&#36895;&#21551;&#21160;&#26639;&#21644;&#24320;&#22987;&#33756;&#21333;</span><span
+lang=EN-US>)</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#25302;&#26355;&#19968;&#20010;&#26032;&#39033;&#30446;&#21040;</span><span
+class=SpellE><span lang=EN-US>RocketDock</span></span><span lang=EN-US>.</span></p>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#21478;&#19968;&#20010;&#26041;&#27861;&#26159;&#36890;&#36807;&#22312;</span><span
+class=SpellE><span lang=EN-US>RocketDock</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#19978;&#28857;&#20987;&#21491;&#38190;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20174;&#24377;&#20986;&#30340;&#33756;&#21333;&#19978;&#36873;&#25321;&#28155;&#21152;&#39033;&#30446;</span><span
+lang=EN-US>.</span></p>
+
+<p class=MsoNormal><span lang=EN-US><img border=0 width=1086 height=299
+id="_x0000_i1025" src="images/Snap2.jpg" title=""></span></p>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20174;&#36825;&#20799;&#20320;&#21487;&#20197;&#30475;&#21040;&#20960;&#20010;&#36873;&#39033;&#26469;&#28155;&#21152;&#19981;&#21516;&#31867;&#22411;&#30340;&#39033;&#30446;&#21040;</span><span
+class=SpellE><span lang=EN-US>RocketDock</span></span><span lang=EN-US>.</span><span
+style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>&#35265;&#19979;&#38754;&#30340;&#21015;&#34920;</span></p>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l8 level1 lfo21;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#25991;&#20214;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#20320;&#21487;&#20197;&#28155;&#21152;&#20219;&#20309;&#31867;&#22411;&#30340;&#25991;&#20214;&#21040;</span><span
+     class=SpellE><span lang=EN-US>RocketDock</span></span><span lang=EN-US>.</span><span
+     class=GramE><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#28857;&#20987;&#35813;&#39033;&#30446;</span></span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#21487;&#20197;&#36890;&#36807;&#40664;&#35748;&#30340;&#24212;&#29992;&#31243;&#24207;&#25171;&#24320;&#25991;&#20214;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l8 level1 lfo21;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#30446;&#24405;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#20320;&#21487;&#20197;&#28155;&#21152;&#20219;&#20309;&#30446;&#24405;&#21040;</span><span
+     class=SpellE><span lang=EN-US>RocketDock</span></span><span lang=EN-US>.</span><span
+     class=GramE><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#28857;&#20987;&#35813;&#39033;&#30446;</span></span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#21487;&#20197;&#22312;&#27983;&#35272;&#22120;&#20013;&#25171;&#24320;&#35813;&#25991;&#20214;&#22841;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l8 level1 lfo21;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#31354;&#30333;&#22270;&#26631;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#25972;&#20010;&#36873;&#39033;&#21487;&#20197;&#21019;&#24314;&#19968;&#20010;&#27809;&#26377;&#20219;&#20309;&#35774;&#32622;&#30340;&#31354;&#30333;&#39033;&#30446;</span><span
+     lang=EN-US>.</span><span class=GramE><span style='font-family:SimSun;
+     mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#28857;&#20987;&#35813;&#39033;&#30446;</span></span><span
+     lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20250;&#25171;&#24320;</span><span
+     class=SpellE><span lang=EN-US>RocketDock</span></span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#30340;&#22270;&#26631;&#35774;&#32622;&#31383;&#21475;</span><span
+     lang=EN-US>.</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20320;&#21487;&#20197;&#25163;&#24037;&#37197;&#32622;&#35813;&#22270;&#26631;&#30340;&#21508;&#20010;&#21442;&#25968;</span><span
+     lang=EN-US>.</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#36825;&#23545;&#20110;&#28155;&#21152;&#19968;&#20010;&#29305;&#21035;&#30340;&#39033;&#30446;&#26159;&#38750;&#24120;&#26377;&#29992;&#30340;</span><span
+     lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#27604;&#22914;&#28155;&#21152;&#19968;&#20010;&#25351;&#21521;&#19968;&#20010;&#32593;&#39029;&#30340;&#36830;&#25509;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l8 level1 lfo21;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#20998;&#38548;&#31526;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#22312;&#22270;&#26631;&#20013;&#38388;&#28155;&#21152;&#19968;&#20010;&#20998;&#38548;&#31526;&#21487;&#20197;&#26377;&#25928;&#30340;&#24110;&#21161;&#20320;&#23558;&#19981;&#21516;&#30340;&#22270;&#26631;&#24402;&#31867;&#25972;&#29702;</span><span
+     lang=EN-US>.</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#25110;&#32773;&#26159;&#31616;&#21333;&#30340;&#20998;&#38548;</span><span
+     lang=EN-US>..</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l8 level1 lfo21;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#22238;&#25910;&#31449;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#28155;&#21152;&#19968;&#20010;&#22238;&#25910;&#31449;&#30340;&#24555;&#25463;&#26041;&#24335;</span><span
+     lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#36825;&#20010;&#24555;&#25463;&#26041;&#24335;&#25317;&#26377;</span><span
+     class=GramE><span lang=EN-US>&#8221;</span></span><span style='font-family:
+     SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#31354;</span><span
+     class=GramE><span lang=EN-US>&#8221;</span></span><span style='font-family:
+     SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#21644;</span><span
+     class=GramE><span lang=EN-US>&#8221;</span></span><span style='font-family:
+     SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#28385;</span><span
+     class=GramE><span lang=EN-US>&#8221;</span></span><span style='font-family:
+     SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20004;&#20010;&#29366;&#24577;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l8 level1 lfo21;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#31243;&#24207;&#35774;&#23450;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#36825;&#26159;&#19968;&#20010;&#29305;&#21035;&#30340;&#39033;&#30446;</span><span
+     lang=EN-US>.</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#19975;&#19968;&#20320;&#23558;</span><span
+     class=SpellE><span lang=EN-US>RocketDock</span></span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#20013;&#21407;&#26412;&#30340;&#31243;&#24207;&#35774;&#23450;&#22270;&#26631;&#21024;&#38500;&#20102;</span><span
+     lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#36825;&#20010;&#36873;&#39033;&#21487;&#20197;&#24110;&#20320;&#26041;&#20415;&#30340;&#25214;&#22238;&#26469;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l8 level1 lfo21;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#36864;&#20986;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#36825;&#39033;&#20250;&#28155;&#21152;&#19968;&#20010;&#22270;&#26631;</span><span
+     lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#28857;&#20987;&#23427;&#21487;&#20197;&#36864;&#20986;</span><span
+     class=SpellE><span lang=EN-US>RocketDock</span></span><span lang=EN-US>.<o:p></o:p></span></li>
+</ul>
+
+</div>
+
+<h2 id=docklets><span lang=EN-US>2. </span><span style='font-family:SimSun;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#25554;&#20214;</span><span
+lang=EN-US>(<span class=SpellE>Docklets</span>)</span></h2>
+
+<div>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#25554;&#20214;</span><span
+lang=EN-US>(<span class=SpellE>Docklets</span>)</span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#23601;&#20687;&#26159;&#19968;&#20010;&#23567;&#22411;&#30340;&#24212;&#29992;&#31243;&#24207;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#23427;&#21487;&#20197;&#22312;</span><span
+class=SpellE><span lang=EN-US>RocketDock</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20013;&#36816;&#34892;&#24182;&#23436;&#25104;&#29305;&#23450;&#30340;&#21151;&#33021;</span><span
+lang=EN-US>.</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#36825;&#20123;&#25554;&#20214;&#30340;&#31181;&#31867;&#24456;&#22810;&#20174;&#31995;&#32479;&#26816;&#27979;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20869;&#23384;&#21344;&#29992;&#21040;&#22238;&#25910;&#31449;</span><span
+lang=EN-US>(</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#26681;&#25454;&#31995;&#32479;&#30340;&#22238;&#25910;&#31449;&#30340;&#29366;&#24577;&#26174;&#31034;</span><span
+class=GramE><span lang=EN-US>&#8221;</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#31354;</span><span
+class=GramE><span lang=EN-US>&#8221;</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#21644;</span><span
+class=GramE><span lang=EN-US>&#8221;</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#28385;</span><span
+class=GramE><span lang=EN-US>&#8221;</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#19981;&#21516;&#30340;&#22270;&#26631;</span><span
+lang=EN-US>). </span><span style='font-family:SimSun;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20320;&#21487;&#20197;&#36890;&#36807;&#25226;&#25554;&#20214;</span><span
+lang=EN-US>(<span class=SpellE>docklets</span>)</span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#25302;&#21040;</span><span
+class=SpellE><span lang=EN-US>RocketDock</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#30340;&#25554;&#20214;&#25991;&#20214;&#22841;&#37324;</span><span
+lang=EN-US>:</span></p>
+
+<p><em><span lang=EN-US>C:\Program Files\<span class=SpellE>RocketDock\Docklets</span></span></em><span
+lang=EN-US> (</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#40664;&#35748;&#20301;&#32622;</span><span
+lang=EN-US>)</span></p>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#28982;&#21518;&#20320;&#21487;&#20197;&#22312;</span><span
+class=SpellE><span lang=EN-US>RocketDock</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#28857;&#20987;&#21491;&#38190;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20174;</span><span class=GramE><span
+lang=EN-US>&#8221;</span></span><span style='font-family:SimSun;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#28155;&#21152;&#39033;&#30446;</span><span
+class=GramE><span lang=EN-US>&#8221;</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#30340;&#33756;&#21333;&#20013;&#28155;&#21152;&#20320;&#24819;&#35201;&#30340;&#25554;&#20214;</span><span
+lang=EN-US>.</span></p>
+
+<p class=MsoNormal><span lang=EN-US><img border=0 width=1074 height=301
+id="_x0000_i1026" src="images/Snap3.jpg" title=""></span></p>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#27880;&#24847;</span><span
+lang=EN-US>: <span class=SpellE>RocketDock</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20165;&#20165;&#25903;&#25345;</span><span
+class=SpellE><span lang=EN-US>ObjectDock</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#30340;&#25554;&#20214;</span><span
+lang=EN-US>(<span class=SpellE>docklets</span>).<o:p></o:p></span></p>
+
+</div>
+
+<h2 id=customizing-items><span lang=EN-US>3. </span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#39033;&#30446;&#30340;&#20010;&#24615;&#35805;&#35774;&#32622;</span></h2>
+
+<div>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20320;&#21487;&#20197;&#25913;&#21464;</span><span
+class=SpellE><span lang=EN-US>RocketDock</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20013;&#27599;&#20010;&#39033;&#30446;&#30340;&#22806;&#35266;</span><span
+lang=EN-US>. </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#36890;&#36807;&#31616;&#21333;&#22312;&#39033;&#30446;&#19978;&#28857;&#20987;&#21491;&#38190;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#36873;&#25321;</span><span
+class=GramE><span lang=EN-US>&#8221;</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#22270;&#26631;&#35774;&#32622;</span><span
+class=GramE><span lang=EN-US>&#8221;</span></span><span lang=EN-US>.</span></p>
+
+<p class=MsoNormal><span lang=EN-US><img border=0 width=788 height=280
+id="_x0000_i1027" src="images/Snap4.jpg" title=""></span></p>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20174;&#36825;&#20799;&#20320;&#21487;&#20197;&#30475;&#21040;&#22270;&#26631;&#35774;&#32622;&#31383;&#21475;</span><span
+lang=EN-US>.</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20320;&#21487;&#20197;&#25913;&#21464;&#22270;&#26631;&#30340;&#23646;&#24615;</span><span
+lang=EN-US>.</span></p>
+
+<p class=MsoNormal><span lang=EN-US><img border=0 width=676 height=628
+id="_x0000_i1028" src="images/Snap5.jpg" title=""></span></p>
+
+<h3><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#22270;&#26631;&#30446;&#24405;</span></h3>
+
+<div>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#22312;&#36825;&#20799;&#20320;&#21487;&#20197;&#30475;&#21040;&#25152;&#26377;&#22312;&#20320;&#30340;</span><span
+class=SpellE><span lang=EN-US>RocketDock</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#22270;&#26631;&#30446;&#24405;&#19979;&#30340;&#25152;&#26377;&#25991;&#20214;&#22841;&#30340;&#21015;&#34920;</span><span
+lang=EN-US>:</span></p>
+
+<p><em><span lang=EN-US>C:\Program Files\<span class=SpellE>RocketDock</span>\Icons</span></em><span
+lang=EN-US> (</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#40664;&#35748;&#36335;&#24452;</span><span
+lang=EN-US>)</span></p>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20320;&#20063;&#21487;&#20197;&#28155;&#21152;&#22270;&#26631;&#21040;&#36825;&#20010;&#25991;&#20214;&#22841;</span><span
+lang=EN-US>. &#8211; </span><span style='font-family:SimSun;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#21644;</span><span
+lang=EN-US> + </span><span style='font-family:SimSun;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#25353;&#38062;&#21487;&#20197;&#35753;&#20320;&#28155;&#21152;&#21644;&#21024;&#38500;&#19981;&#22312;&#20320;&#30340;</span><span
+class=SpellE><span lang=EN-US>RocketDock</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#22270;&#26631;&#30446;&#24405;&#37324;&#30340;&#21547;&#26377;&#22270;&#26631;&#30340;&#25991;&#20214;&#22841;</span><span
+lang=EN-US>.</span></p>
+
+</div>
+
+<h3><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#22270;&#26631;</span></h3>
+
+<div>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#36825;&#20010;&#31383;&#26684;&#21487;&#20197;&#20197;&#32553;&#30053;&#22270;&#30340;&#26041;&#24335;&#26174;&#31034;&#20320;&#36873;&#25321;&#30340;&#25991;&#20214;&#22841;&#20013;&#30340;&#25152;&#26377;&#22270;&#26631;&#25991;&#20214;</span><span
+lang=EN-US>.</span></p>
+
+</div>
+
+<h3><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#39044;&#35272;</span></h3>
+
+<div>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20320;&#21487;&#20197;&#30475;&#21040;&#20320;&#25152;&#36873;&#25321;&#30340;&#22270;&#26631;</span><span
+lang=EN-US>. </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#22312;&#39044;&#35272;&#31383;&#21475;&#19979;&#38754;&#30340;&#19979;&#25289;&#33756;&#21333;</span><span
+lang=EN-US>(</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#36890;&#24120;&#26159;&#26174;&#31034;&#28784;&#33394;&#30340;</span><span
+class=GramE><span lang=EN-US>&#8221;</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#40664;&#35748;&#22270;&#26631;</span><span
+class=GramE><span lang=EN-US>&#8221;</span></span><span lang=EN-US>)</span><span
+style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>&#21487;&#20197;&#35774;&#23450;&#19981;&#21516;&#29366;&#24577;&#19979;&#30340;&#22270;&#26631;</span><span
+lang=EN-US>.</span></p>
+
+</div>
+
+<h3><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#23646;&#24615;</span></h3>
+
+<div>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#22312;&#36825;&#20799;&#20320;&#21487;&#20197;&#26356;&#25913;&#39033;&#30446;&#30340;&#21517;&#31216;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#30446;&#26631;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#24037;&#20316;&#30446;&#24405;&#20197;&#21450;&#20854;&#20182;&#30340;&#21442;&#25968;</span><span
+lang=EN-US>.</span></p>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l27 level1 lfo24;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#21517;&#31216;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#35774;&#32622;&#24403;&#40736;&#26631;&#28369;&#36807;</span><span
+     class=SpellE><span lang=EN-US>RocketDock</span></span><span class=GramE><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#26102;&#26174;&#31034;</span></span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#30340;&#26631;&#31614;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l27 level1 lfo24;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#30446;&#26631;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#36825;&#20010;&#26159;&#22270;&#26631;&#25152;&#23545;&#24212;&#30340;&#30446;&#26631;&#31243;&#24207;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l27 level1 lfo24;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#24037;&#20316;&#30446;&#24405;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#36825;&#20010;&#26159;&#35774;&#23450;&#30446;&#26631;&#31243;&#24207;&#30340;&#24037;&#20316;&#30446;&#24405;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l27 level1 lfo24;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#21442;&#25968;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#35774;&#32622;&#30446;&#26631;&#31243;&#24207;&#36816;&#34892;&#26102;&#38656;&#35201;&#20256;&#36882;&#30340;&#21442;&#25968;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l27 level1 lfo24;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#36816;&#34892;&#26041;&#24335;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#36825;&#20010;&#35774;&#23450;&#24403;&#31243;&#24207;&#20174;</span><span
+     class=SpellE><span lang=EN-US>RocketDock</span></span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#21551;&#21160;&#26102;&#30340;&#31383;&#21475;&#22823;&#23567;&#30340;&#29366;&#24577;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l27 level1 lfo24;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#26597;&#25214;&#30446;&#26631;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#35753;&#20320;&#36890;&#36807;&#27983;&#35272;&#22120;&#31383;&#21475;&#30340;&#24418;&#24335;&#25913;&#21464;&#30446;&#26631;&#31243;&#24207;&#25110;&#30446;&#26631;&#30446;&#24405;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l27 level1 lfo24;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#24377;&#20986;&#33756;&#21333;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#36825;&#20010;&#23558;&#20026;&#39033;&#30446;&#28155;&#21152;&#25805;&#20316;&#31995;&#32479;&#30340;&#29305;&#23450;&#32622;&#33756;&#21333;</span><span
+     lang=EN-US>. </span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20363;&#22914;&#19968;&#20010;&#32593;&#32476;&#36830;&#25509;&#30340;&#39033;&#30446;&#35774;&#23450;&#20102;&#24377;&#20986;&#33756;&#21333;&#26102;</span><span
+     lang=EN-US>.</span></li>
+</ul>
+
+<p class=MsoNormal><span lang=EN-US><img border=0 width=832 height=195
+id="_x0000_i1029" src="images/Snap6.jpg" title=""><o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+<h2 id=removing-items><span lang=EN-US>4. </span><span style='font-family:SimSun;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#21024;&#38500;&#39033;&#30446;</span></h2>
+
+<div>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20320;&#21487;&#20197;&#26377;&#20004;&#31181;&#19981;&#21516;&#30340;&#36884;&#24452;&#20174;</span><span
+class=SpellE><span lang=EN-US>RocketDock</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20013;&#21024;&#38500;&#39033;&#30446;</span><span
+lang=EN-US>.</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#31532;&#19968;&#31181;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#26159;&#31616;&#21333;&#30340;&#23558;&#39033;&#30446;&#25302;&#26355;&#20986;</span><span
+class=SpellE><span lang=EN-US>RocketDock</span></span><span lang=EN-US>,</span><span
+style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>&#25918;&#21040;&#26700;&#38754;&#19978;&#26494;&#24320;&#40736;&#26631;</span><span
+lang=EN-US>.</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#25509;&#30528;&#23601;&#20250;&#26377;&#19968;&#20010;&#31616;&#21333;&#30340;&#21160;&#30011;&#26174;&#31034;&#39033;&#30446;&#34987;&#21024;&#38500;</span><span
+lang=EN-US>.</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#31532;&#20108;&#31181;&#26041;&#27861;&#26159;&#22312;&#39033;&#30446;&#22270;&#26631;&#19978;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#28857;&#20987;&#21491;&#38190;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20174;&#21491;&#38190;&#33756;&#21333;&#19978;&#36873;&#25321;</span><span
+class=GramE><span lang=EN-US>&#8221;</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#21024;&#38500;&#39033;&#30446;</span><span
+class=GramE><span lang=EN-US>&#8221;</span></span><span lang=EN-US>.</span></p>
+
+<p class=MsoNormal><span lang=EN-US><img border=0 width=854 height=284
+id="_x0000_i1030" src="images/Snap7.jpg" title=""></span></p>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#29992;&#21516;&#26679;&#30340;&#20004;&#31181;&#26041;&#27861;&#20320;&#20063;&#21487;&#20197;&#21024;&#38500;&#20998;&#38548;&#31526;</span><span
+lang=EN-US>.</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#32780;&#25554;&#20214;</span><span
+lang=EN-US>(<span class=SpellE>Docklets</span>)</span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#21017;&#21482;&#33021;&#36890;&#36807;&#25302;&#25918;&#21040;&#26700;&#38754;&#30340;&#26041;&#24335;&#26469;&#21024;&#38500;</span><span
+lang=EN-US>.</span></p>
+
+</div>
+
+<h2><span lang=EN-US>5. </span><span class=GramE><span style='font-family:SimSun;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#25302;&#25918;&#25805;&#20316;</span></span></h2>
+
+<div>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20320;&#21487;&#20197;&#23558;&#25991;&#20214;&#25110;&#32773;&#25991;&#20214;&#22841;<span
+class=GramE>&#36890;&#36807;&#25302;&#25918;&#25805;&#20316;</span>&#28155;&#21152;&#21040;&#20320;&#30340;</span><span
+lang=EN-US>Dock</span><span style='font-family:SimSun;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#19978;</span><span
+lang=EN-US>.</span></p>
+
+<p><span class=GramE><span style='font-family:SimSun;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#22914;&#26524;&#25302;&#25918;&#19968;&#20010;</span></span><span
+style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>&#25991;&#20214;&#25110;&#32773;&#25991;&#20214;&#22841;&#21040;&#24212;&#29992;&#31243;&#24207;&#30340;&#19978;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#22914;&#26524;&#24212;&#29992;&#31243;&#24207;&#25903;&#25345;&#30456;&#24212;&#30340;&#25991;&#20214;&#31867;&#22411;&#21017;&#31243;&#24207;&#20250;&#33258;&#21160;&#21551;&#21160;</span><span
+lang=EN-US>,</span><span class=GramE><span style='font-family:SimSun;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#24182;&#35813;&#25991;&#20214;</span></span><span
+style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>&#25110;&#25991;&#20214;&#22841;&#30340;&#20869;&#23481;</span><span
+lang=EN-US>.</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20363;&#22914;&#20320;<span
+class=GramE>&#22914;&#26524;&#25302;&#25918;&#19968;&#20010;</span></span><span
+class=SpellE><span lang=EN-US>png</span></span><span style='font-family:SimSun;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#30340;&#25991;&#20214;&#21040;</span><span
+lang=EN-US>Photoshop</span><span style='font-family:SimSun;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#30340;&#22270;&#26631;&#19978;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#37027;&#20040;</span><span
+lang=EN-US>Photoshop</span><span style='font-family:SimSun;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#23558;&#20250;&#21551;&#21160;&#24182;&#25171;&#24320;&#35813;</span><span
+class=SpellE><span lang=EN-US>png</span></span><span style='font-family:SimSun;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#25991;&#20214;</span><span
+lang=EN-US>.</span></p>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#22914;&#26524;<span class=GramE>&#20320;&#25302;&#25918;&#19968;&#20010;</span>&#25991;&#20214;&#25110;&#32773;&#25991;&#20214;&#22841;&#21040;&#19968;&#20010;&#25991;&#20214;&#22841;&#30340;&#22270;&#26631;&#19978;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#37027;&#20040;&#35813;&#25991;&#20214;&#25110;&#32773;&#25991;&#20214;&#22841;&#20250;&#33258;&#21160;&#34987;&#22797;&#21046;&#21040;&#35813;&#25991;&#20214;&#22841;&#20869;</span><span
+lang=EN-US>.</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#23601;&#20687;<span class=GramE>&#20320;&#25302;&#25918;&#25991;&#20214;</span>&#25110;&#25991;&#20214;&#22841;&#21040;&#26700;&#38754;&#19978;&#30340;&#25805;&#20316;&#19968;&#26679;</span><span
+lang=EN-US>.</span></p>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#22914;&#26524;<span class=GramE>&#20320;&#25302;&#25918;&#25991;&#20214;</span>&#25110;&#25991;&#20214;&#22841;&#21040;&#22238;&#25910;&#31449;&#30340;&#22270;&#26631;&#19978;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#37027;&#20040;&#35813;&#25991;&#20214;&#25110;&#32773;&#25991;&#20214;&#22841;&#20250;&#34987;&#21024;&#38500;</span><span
+lang=EN-US>.<o:p></o:p></span></p>
+
+</div>
+
+<h2 id=minimized-windows><span lang=EN-US>6. </span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#26368;&#23567;&#21270;&#31383;&#21475;</span></h2>
+
+<div>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#22914;&#26524;&#20320;&#21551;&#21160;</span><span
+class=GramE><span lang=EN-US>&#8221;</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#26368;&#23567;&#21270;&#21040;</span><span
+lang=EN-US>Dock<span class=GramE>&#8221;</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#30340;&#36873;&#39033;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#37027;&#20040;&#31383;&#21475;&#26368;&#23567;&#21270;&#20043;&#21518;&#20250;&#22312;</span><span
+lang=EN-US>Dock</span><span style='font-family:SimSun;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20013;&#20197;<span
+class=GramE>&#23631;&#24149;&#25130;&#22270;&#30340;</span>&#26041;&#24335;&#26174;&#31034;</span><span
+lang=EN-US>.</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#21516;&#26102;&#20320;&#21487;&#20197;&#23558;<span
+class=GramE>&#36825;&#20123;&#25130;&#22270;&#22312;</span></span><span
+lang=EN-US>Dock</span><span style='font-family:SimSun;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#38543;&#24847;&#30340;&#31227;&#21160;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20294;&#26159;&#20320;&#19981;&#33021;&#36890;&#36807;&#23558;<span
+class=GramE>&#25130;&#22270;&#25302;</span>&#25918;&#21040;&#26700;&#38754;&#30340;&#26041;&#24335;&#26469;&#21024;&#38500;&#20182;&#20204;</span><span
+lang=EN-US>.</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#22312;</span><span lang=EN-US>Windows
+Vista</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20013;</span><span lang=EN-US>,</span><span
+style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>&#22914;&#26524;&#20320;&#21551;&#21160;&#20102;&#30456;&#20851;&#30340;&#25928;&#26524;&#36873;&#39033;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20320;&#24471;&#21040;&#30340;&#23558;&#19981;&#26159;&#31616;&#21333;&#30340;<span
+class=GramE>&#23631;&#24149;&#25130;&#22270;</span></span><span lang=EN-US>,</span><span
+style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>&#32780;&#26159;&#23454;&#26102;&#30340;&#31383;&#21475;&#39044;&#35272;</span><span
+lang=EN-US>.</span></p>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20320;&#21487;&#20197;&#22312;</span><span
+lang=EN-US>Dock</span><span style='font-family:SimSun;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20013;&#30340;<span
+class=GramE>&#23631;&#24149;&#25130;&#22270;&#30340;</span>&#22270;&#26631;&#19978;&#20174;&#21491;&#38190;&#33756;&#21333;&#20013;&#30340;</span><span
+class=GramE><span lang=EN-US>&#8221;</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#25171;&#24320;&#31383;&#21475;</span><span
+class=GramE><span lang=EN-US>&#8221;</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#21644;</span><span
+class=GramE><span lang=EN-US>&#8221;</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20851;&#38381;&#31383;&#21475;</span><span
+class=GramE><span lang=EN-US>&#8221;</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#26469;&#25171;&#24320;&#25110;&#32773;&#20851;&#38381;&#30456;&#24212;&#30340;&#31243;&#24207;</span><span
+lang=EN-US>.</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#22914;&#26524;&#20320;&#24038;&#38190;&#21333;&#20987;<span
+class=GramE>&#35813;&#25130;&#22270;&#30340;</span>&#22270;&#26631;&#23558;&#20250;&#24674;&#22797;&#26368;&#23567;&#21270;&#30340;&#31383;&#21475;&#21040;&#26700;&#38754;</span><span
+lang=EN-US>.</span></p>
+
+<p class=MsoNormal><span lang=EN-US><img border=0 width=877 height=193
+id="_x0000_i1031" src="images/Snap14.jpg" title=""></span></p>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20320;&#21487;&#20197;&#36890;&#36807;&#25353;&#20303;</span><span
+class=GramE><span lang=EN-US>&#8221;</span></span><span lang=EN-US>Ctrl<span
+class=GramE>&#8221;</span></span><span style='font-family:SimSun;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#38190;&#30340;&#21516;&#26102;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#36827;&#34892;&#26368;&#23567;&#21270;&#25805;&#20316;&#26469;&#36991;&#20813;&#23558;&#31383;&#21475;&#26368;&#23567;&#21270;&#21040;</span><span
+lang=EN-US>Dock.</span><span style='font-family:SimSun;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#36825;&#21487;&#20197;&#30830;&#20445;&#20320;&#21487;&#20197;&#27491;&#24120;&#30340;&#23558;&#23186;&#20307;&#25773;&#25918;&#22120;&#25110;&#32773;&#32842;&#22825;&#31383;&#21475;&#26368;&#23567;&#21270;&#21040;&#31995;&#32479;&#25176;&#30424;&#20013;</span><span
+lang=EN-US>.<o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+<h1 id=dock-settings><span lang=EN-US><!-- End Section -->Dock </span><span
+style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>&#35774;&#32622;</span><span lang=EN-US><o:p></o:p></span></h1>
+
+<div>
+
+<h2 id=settings-general><span lang=EN-US>1. </span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#24120;&#35268;&#35774;&#32622;</span></h2>
+
+<div>
+
+<p class=MsoNormal><span lang=EN-US><img border=0 width=513 height=562
+id="_x0000_i1032" src="images/Snap8.jpg" title=""></span></p>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l6 level1 lfo27;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#35821;&#35328;</span><span
+     lang=EN-US>:</span></strong><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#36873;&#25321;&#20320;&#24076;&#26395;</span><span
+     class=SpellE><span lang=EN-US>RocketDock</span></span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#26174;&#31034;&#30340;&#35821;&#35328;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l6 level1 lfo27;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#21551;&#21160;&#26102;&#33258;&#21160;&#36816;&#34892;</span><span
+     lang=EN-US>Run at Startup:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#21487;&#20197;&#20351;</span><span
+     lang=EN-US>windows</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#21551;&#21160;&#26102;</span><span
+     lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#33258;&#21160;&#21152;&#36733;</span><span
+     class=SpellE><span lang=EN-US>RocketDock</span></span><span lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l6 level1 lfo27;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#26368;&#23567;&#21270;&#21040;</span><span
+     lang=EN-US>Dock:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#21487;&#20197;&#20351;&#31383;&#21475;<span
+     class=GramE>&#26368;&#23567;&#35805;</span>&#21040;</span><span
+     lang=EN-US>Dock</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20013;&#24182;&#20197;<span
+     class=GramE>&#31383;&#21475;&#25130;&#22270;&#30340;</span>&#26041;&#24335;&#26174;&#31034;</span><span
+     lang=EN-US>. </span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#22312;</span><span
+     lang=EN-US>Vista</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20013;&#21017;&#26159;&#20197;&#31383;&#21475;&#30340;&#23454;&#26102;&#39044;&#35272;&#30340;&#26041;&#24335;&#26174;&#31034;</span><span
+     lang=EN-US>(</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#38656;&#35201;&#24320;&#21551;</span><span
+     lang=EN-US>Vista</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20013;&#30456;&#20851;&#30340;&#25928;&#26524;&#30340;&#35774;&#32622;</span><span
+     lang=EN-US>).</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l6 level1 lfo27;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#26174;&#31034;&#36816;&#34892;&#31243;&#24207;&#30340;&#25351;&#31034;&#22120;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#22312;&#27491;&#22312;&#36816;&#34892;&#30340;&#31243;&#24207;&#30340;&#22270;&#26631;&#19979;&#26041;</span><span
+     lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#26174;&#31034;&#19968;&#20010;&#23567;&#30340;&#22270;&#26631;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l6 level1 lfo27;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#23558;&#24050;&#32463;&#22312;&#36816;&#34892;&#30340;&#31243;&#24207;&#22312;&#26700;&#38754;&#26174;&#31034;</span><span
+     lang=EN-US>,</span></strong><strong><span style='font-family:SimSun;
+     mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#32780;<span
+     class=GramE>&#19981;</span>&#26032;&#24314;&#36827;&#31243;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#28857;&#20987;&#31243;&#24207;&#22270;&#26631;&#26102;</span><span
+     lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#21487;&#20197;&#36991;&#20813;</span><span
+     class=SpellE><span lang=EN-US>RocketDock</span></span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#20877;&#27425;&#25171;&#24320;&#26032;&#30340;&#36827;&#31243;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l6 level1 lfo27;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#38145;&#23450;&#22270;&#26631;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#21487;&#20197;&#38450;&#27490;&#19981;&#32463;&#24847;&#30340;&#31227;&#21160;&#25110;&#21024;&#38500;&#25805;&#20316;</span><span
+     lang=EN-US>. </span></li>
+</ul>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span style='font-family:SimSun;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#23567;&#25552;&#31034;</span><span
+lang=EN-US>:</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#22312;&#38145;&#23450;&#22270;&#26631;&#30340;&#29366;&#24577;&#19979;&#21487;&#20197;&#36890;&#36807;&#25353;&#20303;</span><span
+class=GramE><span lang=EN-US>&#8221;</span></span><span lang=EN-US>ctrl<span
+class=GramE>&#8221;</span></span><span style='font-family:SimSun;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#38190;&#26469;&#36827;&#34892;&#39033;&#30446;&#30340;&#31227;&#21160;&#21644;&#21024;&#38500;&#25805;&#20316;</span><span
+lang=EN-US>.<o:p></o:p></span></p>
+
+</div>
+
+<h2 id=settings-icons><span lang=EN-US>2. </span><span style='font-family:SimSun;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#22270;&#26631;</span></h2>
+
+<div>
+
+<p class=MsoNormal><span lang=EN-US><img border=0 width=513 height=562
+id="_x0000_i1033" src="images/Snap9.jpg" title=""></span></p>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l14 level1 lfo30;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#36136;&#37327;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#35774;&#32622;&#22270;&#26631;&#32553;&#25918;&#26102;&#30340;&#26174;&#31034;&#36136;&#37327;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l14 level1 lfo30;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#19981;&#36879;&#26126;&#24230;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#35774;&#32622;&#39033;&#30446;&#22270;&#26631;&#30340;&#36879;&#26126;&#24230;</span><span
+     lang=EN-US>.100%</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20026;&#19981;&#36879;&#26126;</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l14 level1 lfo30;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#32553;&#25918;&#26102;&#19981;&#36879;&#26126;&#24230;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#20801;&#35768;&#22270;&#26631;&#22312;&#32553;&#25918;&#30340;&#26102;&#20505;&#26174;&#31034;&#20026;&#36879;&#26126;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l14 level1 lfo30;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#22823;&#23567;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#35774;&#32622;</span><span
+     class=SpellE><span lang=EN-US>RocketDock</span></span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#20013;&#22270;&#26631;&#30340;&#21407;&#22987;&#22823;&#23567;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l14 level1 lfo30;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#24748;&#20572;&#25928;&#26524;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#21487;&#20197;&#25913;&#21464;&#24403;&#40736;&#26631;&#24748;&#20572;&#22312;&#39033;&#30446;&#22270;&#26631;&#19978;&#26102;</span><span
+     lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#22270;&#26631;&#30340;&#26174;&#31034;&#27169;&#24335;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l14 level1 lfo30;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#25918;&#22823;&#21518;&#30340;&#23610;&#23544;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#35774;&#32622;&#24403;&#40736;&#26631;&#28369;<span
+     class=GramE>&#36807;&#39033;&#30446;</span>&#22270;&#26631;&#26102;&#30340;&#22270;&#26631;&#30340;&#26368;&#22823;&#23610;&#23544;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l14 level1 lfo30;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#32553;&#25918;&#33539;&#22260;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#35774;&#32622;&#22312;&#21551;&#21160;&#32553;&#25918;&#26102;&#22810;&#23569;&#20010;&#39033;&#30446;&#22270;&#26631;&#20250;&#25913;&#21464;&#22823;&#23567;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l14 level1 lfo30;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#32553;&#25918;&#24310;&#36831;&#26102;&#38388;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#20174;&#40736;&#26631;&#28369;<span
+     class=GramE>&#36807;&#39033;&#30446;</span>&#22270;&#26631;&#21040;&#22270;&#26631;&#24320;&#22987;&#32553;&#25918;&#21160;&#20316;&#38656;&#35201;&#22810;&#23569;&#26102;&#38388;</span><span
+     lang=EN-US>(</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20197;&#30334;&#19975;&#20998;&#20043;&#19968;&#31186;&#20026;&#21333;&#20301;</span><span
+     lang=EN-US>).<o:p></o:p></span></li>
+</ul>
+
+</div>
+
+<h2 id=settings-position><span lang=EN-US>3. </span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#23631;&#24149;&#20301;&#32622;</span></h2>
+
+<div>
+
+<p class=MsoNormal><span lang=EN-US><img border=0 width=513 height=562
+id="_x0000_i1034" src="images/Snap10.jpg" title=""></span></p>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l1 level1 lfo33;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#26174;&#31034;&#22120;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#22914;&#26524;&#20320;&#26377;&#19981;&#27490;&#19968;&#20010;&#26174;&#31034;&#22120;&#30340;&#35805;</span><span
+     lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20320;&#21487;&#20197;&#36873;&#25321;&#22312;&#21738;&#20010;&#26174;&#31034;&#22120;&#19978;&#26174;&#31034;</span><span
+     class=SpellE><span lang=EN-US>Dock.&#8221;Monitor</span></span><span
+     class=GramE><span lang=EN-US>&#8221;</span></span><span style='font-family:
+     SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#36873;&#39033;&#20250;&#23558;&#25152;&#26377;&#30340;&#26174;&#31034;&#22120;&#35270;&#20026;&#19968;&#20010;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l1 level1 lfo33;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#23631;&#24149;&#20013;&#20301;&#32622;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#21487;&#20197;&#36873;&#25321;</span><span
+     class=SpellE><span lang=EN-US>RocketDock</span></span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#22312;&#23631;&#24149;&#30340;&#21738;&#20010;&#36793;&#19978;&#26174;&#31034;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l1 level1 lfo33;tab-stops:list 36.0pt'><span class=GramE><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#22270;&#23618;&#20301;&#32622;</span></strong></span><strong><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#35774;&#32622;</span><span
+     class=SpellE><span lang=EN-US>RocketDock</span></span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#22312;&#31383;&#21475;&#21472;&#21152;&#26102;&#20505;&#30340;&#26174;&#31034;&#27169;&#24335;</span><span
+     lang=EN-US>.&quot;</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#24635;&#22312;&#19978;&#38754;</span><span
+     lang=EN-US>&quot;</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#24847;&#21619;&#30528;</span><span
+     class=SpellE><span lang=EN-US>RocketDock</span></span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#30456;&#20250;&#22312;&#25152;&#26377;&#21644;&#20182;&#21472;&#21152;&#30340;&#31383;&#21475;&#19978;&#26041;&#26174;&#31034;</span><span
+     lang=EN-US>.&quot;</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#27491;&#24120;</span><span
+     lang=EN-US>&quot;</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#24847;&#21619;&#30528;&#22312;&#31383;&#21475;&#21472;&#21152;&#26102;</span><span
+     lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#27963;&#21160;&#30340;&#31383;&#21475;&#20248;&#20808;&#26174;&#31034;</span><span
+     lang=EN-US>.&quot;</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#24635;&#22312;&#19979;&#38754;</span><span
+     class=GramE><span lang=EN-US>&#8221;</span></span><span style='font-family:
+     SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#24847;&#21619;&#30528;&#22312;&#31383;&#21475;&#21472;&#21152;&#26102;</span><span
+     class=SpellE><span lang=EN-US>RocketDock</span></span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#20248;&#20808;</span><span
+     class=GramE><span lang=EN-US>&#8221;</span></span><span style='font-family:
+     SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#19981;</span><span
+     class=GramE><span lang=EN-US>&#8221;</span><span style='font-family:SimSun;
+     mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#34987;&#26174;&#31034;</span></span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l1 level1 lfo33;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#24038;&#21491;&#20301;&#31227;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#21487;&#20197;&#35774;&#32622;</span><span
+     class=SpellE><span lang=EN-US>RocketDock</span></span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#22312;&#23631;&#24149;&#36793;&#19978;&#30340;&#23545;&#20854;&#27169;&#24335;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l1 level1 lfo33;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#22402;&#30452;&#20559;&#31227;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#21487;&#20197;&#35774;&#32622;</span><span
+     class=SpellE><span lang=EN-US>RocketDock</span></span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#36317;&#31163;&#23631;&#24149;&#36793;&#32536;&#30340;&#36317;&#31163;</span><span
+     lang=EN-US>.<o:p></o:p></span></li>
+</ul>
+
+</div>
+
+<h2 id=settings-style><span lang=EN-US>4. </span><span style='font-family:SimSun;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#39118;&#26684;</span></h2>
+
+<div>
+
+<p class=MsoNormal><span lang=EN-US><img border=0 width=513 height=562
+id="_x0000_i1035" src="images/Snap11.jpg" title=""></span></p>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l28 level1 lfo36;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#20027;&#39064;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#21487;&#20197;&#36873;&#25321;&#20320;&#25152;&#21916;&#27426;&#30340;</span><span
+     class=SpellE><span lang=EN-US>RocketDock</span></span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#30340;&#20027;&#39064;</span><span
+     lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20320;&#20063;&#21487;&#20197;&#36890;&#36807;&#23558;&#20027;&#39064;&#25991;&#20214;&#25335;&#36125;&#21040;</span><span
+     class=SpellE><span lang=EN-US>RocketDock</span></span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#30340;&#30382;&#32932;&#25991;&#20214;&#22841;&#30340;&#26041;&#24335;&#26469;&#28155;&#21152;&#20027;&#39064;</span><span
+     lang=EN-US>.<span class=SpellE>RocketDock</span></span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#30340;&#30382;&#32932;&#25991;&#20214;&#22841;&#20301;&#20110;</span><em><span
+     lang=EN-US>C:\Program Files\<span class=SpellE>RocketDock</span>\Skins</span></em><span
+     lang=EN-US> (</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#40664;&#35748;&#36335;&#24452;</span><span
+     lang=EN-US>)</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l28 level1 lfo36;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#19981;&#36879;&#26126;&#24230;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#32972;&#26223;&#30340;&#36879;&#26126;&#24230;</span><span
+     lang=EN-US>100%</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20026;&#19981;&#36879;&#26126;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l28 level1 lfo36;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#38544;&#34255;&#21517;&#31216;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#22312;&#40736;&#26631;&#28369;<span
+     class=GramE>&#36807;&#39033;&#30446;</span>&#22270;&#26631;&#26102;</span><span
+     lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#19981;&#26174;&#31034;&#22270;&#26631;&#21517;&#31216;</span><span
+     lang=EN-US>. </span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l28 level1 lfo36;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#35774;&#32622;&#23383;&#20307;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#35774;&#32622;&#22270;&#26631;&#21517;&#31216;&#30340;&#23383;&#20307;</span><span
+     lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#39068;&#33394;</span><span
+     lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#22823;&#23567;&#21644;&#39118;&#26684;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l28 level1 lfo36;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#38452;&#24433;&#39068;&#33394;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#20320;&#21487;&#20197;&#20026;&#39033;&#30446;&#22270;&#26631;&#21517;&#31216;&#36873;&#25321;&#29305;&#23450;&#39068;&#33394;&#30340;&#38452;&#24433;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l28 level1 lfo36;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#36793;&#26694;&#39068;&#33394;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#20320;&#21487;&#20197;&#20026;&#39033;&#30446;&#22270;&#26631;&#21517;&#31216;&#36873;&#25321;&#29305;&#23450;&#39068;&#33394;&#30340;&#36793;&#26694;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l28 level1 lfo36;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#36793;&#26694;&#30340;&#19981;&#36879;&#26126;&#24230;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#20320;&#21487;&#20197;&#35774;&#32622;&#36793;&#26694;&#30340;&#36879;&#26126;&#24230;</span><span
+     lang=EN-US>100%</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20026;&#19981;&#36879;&#26126;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l28 level1 lfo36;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#38452;&#24433;&#30340;&#19981;&#36879;&#26126;&#24230;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#20320;&#21487;&#20197;&#35774;&#32622;&#38452;&#24433;&#30340;&#36879;&#26126;&#24230;</span><span
+     lang=EN-US>100%</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20026;&#19981;&#36879;&#26126;</span><span
+     lang=EN-US>.<o:p></o:p></span></li>
+</ul>
+
+</div>
+
+<h2 id=settings-behavior><span lang=EN-US>5. </span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#34892;&#20026;</span></h2>
+
+<div>
+
+<p class=MsoNormal><span lang=EN-US><img border=0 width=513 height=562
+id="_x0000_i1036" src="images/Snap12.jpg" title=""></span></p>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l24 level1 lfo39;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#22270;&#26631;&#21551;&#21160;&#26102;&#21160;&#30011;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#35774;&#23450;&#24403;&#28857;&#20987;&#22270;&#26631;&#26102;</span><span
+     lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#22270;&#26631;&#30340;&#21160;&#30011;&#27169;&#24335;</span><span
+     lang=EN-US>.</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#24403;&#26368;&#23567;&#21270;&#30340;&#31243;&#24207;&#26377;<span
+     class=GramE>&#26032;&#20107;&#20214;</span>&#21457;&#29983;&#26102;&#20063;&#20250;&#37319;&#29992;<span
+     class=GramE>&#27492;&#27169;&#24335;</span></span><span lang=EN-US>.</span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#20363;&#22914;</span><span
+     lang=EN-US>:</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#32842;&#22825;&#31383;&#21475;&#26377;&#26032;&#28040;&#24687;&#26102;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l24 level1 lfo39;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#33258;&#21160;&#38544;&#34255;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#36825;&#39033;&#35774;&#32622;&#21487;&#20197;&#20351;&#20320;&#30340;</span><span
+     lang=EN-US>Dock</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#22312;&#40736;&#26631;&#33073;&#31163;</span><span
+     lang=EN-US>Dock</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#33539;&#22260;&#30340;&#26102;&#20505;</span><span
+     lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#33258;&#21160;&#38544;&#34255;&#21040;&#23631;&#24149;&#30340;&#36793;&#32536;&#19979;&#26041;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l24 level1 lfo39;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#33258;&#21160;&#38544;&#34255;</span><span
+     lang=EN-US>-</span></strong><strong><span style='font-family:SimSun;
+     mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#26174;&#29616;&#33267;&#38544;&#34255;&#21608;&#26399;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#24403;&#40736;&#26631;&#21010;&#21521;</span><span
+     class=SpellE><span lang=EN-US>RocketDock</span></span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#38544;&#34255;&#30340;&#23631;&#24149;&#36793;&#32536;&#26102;</span><span
+     lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#22810;&#38271;&#26102;&#38388;&#21518;</span><span
+     lang=EN-US>Dock</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20250;&#37325;&#26032;&#24377;&#36215;</span><span
+     lang=EN-US>(</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20197;&#30334;&#19975;&#20998;&#20043;&#19968;&#31186;&#20026;&#21333;&#20301;</span><span
+     lang=EN-US>).</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l24 level1 lfo39;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#33258;&#21160;&#38544;&#34255;&#24310;&#36831;&#26102;&#38388;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#24403;&#40736;&#26631;&#33073;&#31163;</span><span
+     lang=EN-US>Dock</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#33539;&#22260;&#21518;</span><span
+     lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#22810;&#38271;&#26102;&#38388;</span><span
+     lang=EN-US>Dock</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20250;&#38544;&#34255;</span><span
+     lang=EN-US>.</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#25110;&#32773;&#40736;&#26631;&#22238;&#21040;</span><span
+     class=SpellE><span lang=EN-US>RocketDock</span></span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#38544;&#34255;&#30340;&#23631;&#24149;&#36793;&#32536;&#26102;</span><span
+     lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#22810;&#38271;&#26102;&#38388;&#21518;</span><span
+     lang=EN-US>Dock</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20250;&#37325;&#26032;&#24377;&#36215;</span><span
+     lang=EN-US>(</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20197;&#30334;&#19975;&#20998;&#20043;&#19968;&#31186;&#20026;&#21333;&#20301;</span><span
+     lang=EN-US>).</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l24 level1 lfo39;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#40736;&#26631;&#32463;&#36807;&#24377;&#20986;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#24403;&#40736;&#26631;&#28369;&#36807;&#30340;&#26102;&#20505;&#33258;&#21160;&#28608;&#27963;&#25104;&#20026;&#28608;&#27963;&#31383;&#21475;</span><span
+     lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#28369;&#36807;&#21518;&#37322;&#25918;&#31383;&#21475;&#28966;&#28857;</span><span
+     lang=EN-US>.</span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l24 level1 lfo39;tab-stops:list 36.0pt'><strong><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#24377;&#20986;&#24310;&#36831;</span><span
+     lang=EN-US>:</span></strong><span lang=EN-US> </span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#21487;&#20197;&#35774;&#32622;&#40736;&#26631;&#28369;&#36807;</span><span
+     lang=EN-US>Dock</span><span style='font-family:SimSun;mso-ascii-font-family:
+     "Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#32463;&#36807;&#22810;&#38271;&#26102;&#38388;</span><span
+     class=SpellE><span lang=EN-US>RocketDock</span></span><span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+     mso-hansi-font-family:"Times New Roman"'>&#33719;&#24471;&#28966;&#28857;&#25104;&#20026;&#28608;&#27963;&#31383;&#21475;</span><span
+     lang=EN-US>.<o:p></o:p></span></li>
+</ul>
+
+</div>
+
+<h2 id=quick-access-to-options><span lang=EN-US>6. </span><span
+style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>&#24555;&#36895;&#35775;&#38382;&#36873;&#39033;</span></h2>
+
+<div>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20320;&#21487;&#20197;&#36890;&#36807;&#22312;</span><span
+class=SpellE><span lang=EN-US>RocketDock</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#19978;&#30340;&#21491;&#38190;&#33756;&#21333;&#26469;&#35775;&#38382;&#20960;&#20010;&#24120;&#35265;&#30340;&#36873;&#39033;</span><span
+lang=EN-US>.</span></p>
+
+<p class=MsoNormal><span lang=EN-US><img border=0 width=817 height=240
+id="_x0000_i1037" src="images/Snap13.jpg" title=""></span></p>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20320;&#21487;&#20197;&#35774;&#32622;</span><span
+lang=EN-US>Dock</span><span style='font-family:SimSun;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#22312;&#23631;&#24149;&#19978;&#30340;&#20301;&#32622;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#38145;&#23450;&#22270;&#26631;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#36873;&#25321;&#30417;&#35270;&#22120;&#21644;&#33258;&#21160;&#38544;&#34255;</span><span
+lang=EN-US>.</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20320;&#20063;&#21487;&#20197;&#36890;&#36807;&#21491;&#38190;&#33756;&#21333;&#26469;&#24320;&#21551;</span><span
+lang=EN-US>Dock</span><span style='font-family:SimSun;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#35774;&#32622;&#31383;&#21475;</span><span
+lang=EN-US>.<o:p></o:p></span></p>
+
+</div>
+
+<h2 id=settings-reset-options><span lang=EN-US>7. </span><span
+style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>&#40664;&#35748;&#20540;</span></h2>
+
+<div>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#22312;</span><span lang=EN-US>Dock</span><span
+style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>&#35774;&#32622;&#31383;&#21475;&#20013;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20320;&#20250;&#30475;&#21040;&#19968;&#20010;</span><span
+lang=EN-US>&#8221;</span><span style='font-family:SimSun;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#40664;&#35748;&#20540;</span><span
+lang=EN-US>&#8221;</span><span style='font-family:SimSun;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#25353;&#38062;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#28857;&#20987;&#27492;&#25353;&#38062;&#23558;&#20250;&#20351;</span><span
+lang=EN-US>RocketDock</span><span style='font-family:SimSun;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#24674;&#22797;&#21040;&#21018;&#23433;&#35013;&#26102;&#30340;&#29366;&#24577;</span><span
+lang=EN-US>.</span></p>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#27880;&#24847;</span><span
+lang=EN-US>: </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#36825;&#20010;&#36873;&#39033;&#24182;&#19981;&#20250;&#24433;&#21709;&#20320;&#30340;&#39033;&#30446;&#35774;&#32622;</span><span
+lang=EN-US>.<o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+<h1 id=hotkeys><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'><!-- End Section -->&#28909;&#38190;</span><span
+lang=EN-US><o:p></o:p></span></h1>
+
+<div>
+
+<h2 id=hotkeys-disable><span lang=EN-US>1. </span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#26242;&#20572;</span><span
+lang=EN-US>Dock</span></h2>
+
+<div>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20320;&#21487;&#20197;&#26242;&#20572;&#24182;&#38544;&#34255;</span><span
+class=SpellE><span lang=EN-US>RocketDock</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#36890;&#36807;&#25353;&#19979;&#32452;&#21512;&#38190;</span><span
+class=SpellE><strong><span lang=EN-US>Control+Alt+R</span></strong></span><span
+lang=EN-US>. </span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20877;&#27425;&#25353;&#19979;&#21487;&#20197;&#28608;&#27963;&#24182;&#37325;<span
+class=GramE>&#26032;&#26174;&#31034;</span></span><span class=SpellE><span
+lang=EN-US>RocketDock</span></span><span lang=EN-US>.<o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+<h1 id=finding-help-and-contributing><span style='font-family:SimSun;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#24110;&#21161;&#21644;&#25424;&#21161;</span><span
+lang=EN-US><o:p></o:p></span></h1>
+
+<div>
+
+<h2 id=more-help><span lang=EN-US>1. </span><span style='font-family:SimSun;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20174;&#21738;&#20799;&#21487;&#20197;&#24471;&#21040;&#24110;&#21161;</span></h2>
+
+<div>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#22914;&#26524;&#20320;&#26377;&#20219;&#20309;&#20851;&#20110;</span><span
+class=SpellE><span lang=EN-US>RocketDock</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#30340;&#38382;&#39064;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20320;&#21487;&#20197;&#35775;&#38382;&#25105;&#20204;&#30340;</span><span
+lang=EN-US><a href="http://forums.punksoftware.com"><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#32593;&#32476;&#35770;&#22363;</span>.</a>
+</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20320;&#20063;&#21487;&#20197;&#25214;&#21040;&#25351;&#23548;&#25163;&#20876;&#20851;&#20110;&#22914;&#20309;&#23545;</span><span
+class=SpellE><span lang=EN-US>RocketDock</span></span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20316;&#19968;&#20123;&#29305;&#27530;&#30340;&#35774;&#32622;</span><span
+lang=EN-US>.<o:p></o:p></span></p>
+
+</div>
+
+<h2 id=help-translate><span lang=EN-US>2. </span><span style='font-family:SimSun;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#24110;&#21161;&#32763;&#35793;</span></h2>
+
+<div>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#22914;&#26524;&#20320;&#20204;&#22269;&#23478;&#30340;&#35821;&#35328;&#19981;&#22312;&#35821;&#35328;&#21015;&#34920;&#20013;</span><span
+lang=EN-US>,</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#21516;&#26102;&#20320;&#20048;&#24847;&#25552;&#20379;&#32763;&#35793;&#25991;&#26412;</span><span
+lang=EN-US>.</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#25110;&#32773;&#20320;&#24819;&#26356;&#26032;&#30456;&#24212;&#30340;&#35821;&#35328;&#25991;&#26412;&#20320;&#21487;&#20197;&#22312;&#36825;&#20799;&#25214;&#21040;</span><span
+lang=EN-US><a href="http://www.punksoftware.com/localize-win"><span
+style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>&#35828;&#26126;&#25991;&#26723;</span>.</a> </span><span
+style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>&#22914;&#26524;&#20320;&#20048;&#24847;&#24110;&#21161;&#32763;&#35793;&#27492;&#35828;&#26126;&#25991;&#26723;</span><span
+lang=EN-US>,</span><span class=GramE><span style='font-family:SimSun;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#35831;&#32852;&#31995;</span></span>
+<span lang=EN-US><a href="http://forums.punksoftware.com"><span
+style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>&#25105;&#20204;</span>.</a><o:p></o:p></span></p>
+
+</div>
+
+<h2 id=spread-the-word><span lang=EN-US>3. </span><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#20256;&#25773;</span></h2>
+
+<div>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#21521;&#20854;&#20182;&#20154;&#20171;&#32461;&#25105;&#20204;&#30340;&#36719;&#20214;&#26159;&#23545;&#25105;&#20204;&#38750;&#24120;&#22823;&#30340;&#24110;&#21161;</span><span
+lang=EN-US>.</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20363;&#22914;&#22312;&#24744;&#30340;&#20027;&#39029;&#19978;&#28155;&#21152;&#25105;&#20204;&#32593;&#31449;&#30340;&#36830;&#25509;</span><span
+lang=EN-US>.</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20320;&#21487;&#20197;&#22312;&#25105;&#20204;&#30340;</span><span
+lang=EN-US><a href="http://forums.punksoftware.com"><span style='font-family:
+SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#32593;&#31449;</span></a></span><span
+style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>&#19978;&#25214;&#21040;&#25105;&#20204;&#30340;&#24191;&#21578;&#26639;&#21644;&#26631;&#24535;</span><span
+lang=EN-US><o:p></o:p></span></p>
+
+</div>
+
+<h2 id=our-shop><span lang=EN-US>4. </span><span style='font-family:SimSun;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#35775;&#38382;&#25105;&#20204;&#30340;&#29616;&#22312;&#21830;&#24215;</span></h2>
+
+<div>
+
+<p><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#25105;&#20204;&#29616;&#22312;&#26377;&#19968;&#20010;&#29616;&#22312;&#21830;&#24215;</span><span
+lang=EN-US><a href="http://www.punksoftware.com/shop">Punk Software Swag Shack.</a>
+</span><span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>&#20320;&#21487;&#20197;&#36141;&#20080;&#21040;&#19968;&#20123;&#26377;&#25105;&#20204;&#26631;&#24535;&#30340;</span><span
+lang=EN-US>T</span><span class=GramE><span style='font-family:SimSun;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>&#24676;&#21644;&#40736;&#26631;&#22443;&#25110;&#32773;</span></span><span
+style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>&#24125;&#23376;</span><span lang=EN-US>.</span><span
+style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>&#19968;&#37096;&#20998;&#25910;&#30410;&#20250;&#29992;&#26469;&#36164;&#21161;&#25105;&#20204;&#29616;&#22312;&#36164;&#37329;&#32570;&#20047;&#30340;&#39033;&#30446;&#24182;&#26159;&#20182;&#20204;&#20445;&#25345;&#20813;&#36153;</span><span
+lang=EN-US>.<o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+</div>
+
+<!-- End Section -->
+</body>
+
+</html>

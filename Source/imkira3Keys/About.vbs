@@ -1,0 +1,1 @@
+x=msgbox("imkira3Keys v5" & vbNewLine & "Copyright © 2023 Kevin Wood" & vbNewLine & "HomePage: gg.gg/imkira3Keys" ,64, "About imkira3Keys") 

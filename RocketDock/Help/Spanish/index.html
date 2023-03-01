@@ -1,0 +1,637 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+	<title>RocketDock Documentation</title>
+
+
+	<link rel="shortcut icon" href="../shared/Help.ico">
+
+	<link href="../shared/style.css" rel="stylesheet" type="text/css">
+
+</head>
+
+
+	<body>
+
+<iframe id="languages" src="../shared/languages.html"></iframe>
+<!-- Main --><img src="images/Snap1.jpg" alt="" title="" align="right">
+<h1>Documentación de RocketDock</h1>
+
+<div class="indent">
+<ul id="nav">
+
+	<li><a href="#introduction">Introducción</a></li>
+
+	<ol>
+
+		<li><a href="#what-is-rocketdock">Qué es RocketDock? </a></li>
+
+		<li><a href="#features">Características</a></li>
+
+		<li><a href="#system-requirements">Requerimientos mínimos del Sistema</a></li>
+
+		<li><a href="#supported-languages">Lenguajes Soportados</a></li>
+
+	</ol>
+
+	<li><a href="#managing-items">Manejo de Elementos</a></li>
+
+	<ol>
+
+		<li><a href="#adding-new-items">Agregar un nuevo Elemento</a></li>
+
+		<li><a href="#docklets">Docklets</a></li>
+
+		<li><a href="#customizing-items">Modificar  Elementos</a></li>
+
+		<li><a href="#removing-items">Eliminar Elementos</a></li>
+
+		<li><a href="#drag-n-drop">Arrastrar y Soltar</a></li>
+
+		<li><a href="#minimized-windows">Ventanas Minimizadas</a></li>
+
+	</ol>
+
+	<li><a href="#dock-settings">Opciones del Dock</a></li>
+
+	<ol>
+
+		<li><a href="#settings-general">General</a></li>
+
+		<li><a href="#settings-icons">Iconos</a></li>
+
+		<li><a href="#settings-position">Posición</a></li>
+
+		<li><a href="#settings-style">Estilo</a></li>
+		
+		<li><a href="#settings-behavior">Actuación</a></li>
+
+		<li><a href="#quick-access-to-options">Acceso Rápido a las Opciones</a></li>
+
+		<li><a href="#settings-reset-options">Opciones por Defecto</a></li>
+
+	</ol>
+	
+	<li><a href="#hotkeys">Atajos de Teclado</a></li>
+	<ol>
+	
+		<li><a href="#hotkeys-disable">Deshabilitar el Dock</a></li>
+		
+	</ol>
+
+	<li><a href="#finding-help-and-contributing">Encontrar ayuda y Contribuir</a></li>
+
+	<ol>
+
+		<li><a href="#more-help">A donde ir si necesitas más ayuda</a></li>
+
+		<li><a href="#help-translate">Ayudanos a Traducir</a></li>
+
+		<li><a href="#spread-the-word">Extender la Palabra</a></li>
+
+		<li><a href="#our-shop">Visita nuestra Tienda</a></li>
+
+	</ol>
+
+</ul>
+
+</div>
+
+<!-- End Section -->
+<h1 id="introduction">Introducción</h1>
+
+<div class="indent">
+<h2 id="what-is-rocketdock">1. Qué es RocketDock?</h2>
+
+<div class="indent">
+<p>¿Si por casualidad o curiosidad has echado un vistazo al escritorio de un usuario de Mac, 
+y te ha llamado la atención  la pequeña barra nifty de iconos en el fondo de su pantalla?,  
+Esta se conoce como un "dock". Para ti y todos los que no han visto esto, un dock es 
+simplemente una barra que se puede fijar al borde de tu pantalla con un fondo y una 
+fila de iconos. La función de un dock es tener las aplicaciones y los diferentes accesos 
+directos de una manera organizada,  poniéndole orden al escritorio de tu computador.</p>
+
+</div>
+
+<h2 id="features">2. Características</h2>
+
+<div class="indent">
+<ul>
+
+	<li>Minimiza las Ventanas al dock</li>
+	
+	<li>Vista previa de ventanas en tiempo real en Vista</li>
+	
+	<li>Indicadores de Aplicaciones en Uso</li>
+
+	<li>Interfaz Simple de arrastrar y soltar</li>
+
+	<li>Soporte verdadero de Multi-monitor</li>
+
+	<li>Soporta iconos alpha-blended PNG y ICO</li>
+
+	<li>Aumento y transiciones suaves en los iconos</li>
+
+	<li>Auto-hide</li>
+
+	<li>Aparición automática con ratón encima</li>
+
+	<li>Opciones de colocación y Capas</li>
+
+	<li>Completamente modificable</li>
+	
+	<li>Soporta ObjectDock Docklet</li>
+	
+	<li>Compatible con MobyDock, ObjectDock, RK Launcher, y Y'z
+Dock skins</li>
+
+	<li>Corre en la gran cantidad de computadores lentos</li>
+	
+	<li>Acepta Unicode</li>
+
+	<li>Soporta muchos lenguajes y fácilmente puede ser traducido</li>
+
+</ul>
+
+</div>
+
+<h2 id="system-requirements">3. Requerimiento Mínimos del Sistema</h2>
+
+<div class="indent">
+<ul>
+
+	<li>Windows 2000/XP/Vista</li>
+
+	<li>CPU de 500Mhz o mas rápida</li>
+
+	<li>10MB RAM Libres</li>
+
+</ul>
+
+</div>
+
+<h2 id="supported-languages">4. Lenguajes Soportados</h2>
+
+<div class="indent">
+<p>Afrikaans, Albanian, Arabic, Bangla, Brazilian Portuguese, Bulgarian,
+Catalan, Chinese Simplified, Chinese Traditional, Croatian, Czech,
+Danish, Dutch, English, Finnish, French, Galician, Georgian, German, Greek, Hebrew, Hungarian, Indonesian, Italian, Japanese, Korean, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Serbian (Cyrillic), Serbian (Latin), Sinhala, Slovak, Slovenian, Español, Swedish, Thai, Turkish, Ukrainian</p>
+
+</div>
+
+</div>
+
+<!-- End Section -->
+<h1 id="managing-items">Manejo de Elementos</h1>
+
+<div class="indent">
+<h2 id="adding-new-items">1. Agregar un Nevó Elemento</h2>
+
+<div class="indent">
+<p>La primera cosa que la mayoría de las personas desean hacer 
+después de instalar RocketDock es agregar nuevos elementos. 
+Hay diferentes formas de hacer esto:</p>
+
+<p>Puedes simplemente arrastrar y soltar un nuevo elemento en 
+RocketDock de casi cualquier localización; su escritorio,
+una ventana del explorador, la barra de acceso rápido, 
+y el menú inicio. </p>
+
+<p>Otra manera de agregar elementos es haciendo clic derecho en RocketDock 
+y ver el menú "añadir elemento".</p>
+
+<img src="images/Snap2.jpg" alt="" title="">
+<p>De aquí usted tiene algunas opciones para escoger y cada una le añadirá un tipo 
+diferente de elemento a RocketDock. La cuales explicamos en detalle abajo.</p>
+
+<ul>
+
+	<li><strong>Archivo:</strong> Puedes escoger cualquier tipo 
+de archive para agregar a RocketDock.  Cuando de un clic sobre el,
+abrirá ese archivo en su aplicación por defecto.</li>
+
+	<li><strong>Carpeta:</strong> Puedes agregar cualquier carpeta 
+a RocketDock. Cuando de un clic sobre la carpeta se abrirá en el Explorador.</li>
+
+	<li><strong>Icono en Blanco:</strong> Esta opción 
+crea un elemento sin configuración de icono. Cuando de un clic sobre el, 
+cargara la ventana de Opciones de Icono de RocketDock, así es que puedes 
+configurar manualmente sus propiedades. Esto es útil cuando deseas agregar 
+elementos especiales que no sean archivos o carpetas. Un ejemplo seria un enlace a una página Web.</li>
+
+	<li><strong>Separador:</strong> Agregando un separador 
+entre los iconos ayudas a organizarlos en categorías diferentes,
+o simplemente agregas una rotura visual.</li>
+
+	<li><strong>Papelera de Reciclaje:</strong> Sirve para agregar un acceso directo
+		a la papelera de Reciclaje mostrando su estado de Vacía o llena.</li>
+
+	<li><strong>Opciones del Dock:</strong> Este es un 
+elemento especial. En caso de que quieras el elemento Opciones del dock 
+en RocketDock, este lo agregara como respaldo.</li>
+
+	<li><strong>Salir:</strong> Esta opcion agrega un Icono cuando es presionada.</li>
+
+</ul>
+
+</div>
+
+<h2 id="docklets">2. Docklets</h2>
+
+<div class="indent">
+<p>Los docklets son como mini programas que hacen una tarea 
+especifica y corre dentro del RocketDock. Ellos se diferencian del sistema, 
+algunos pueden ser medidores de la RAM en Uso o Papeleras de Reciclajes 
+que cambian su Icono dependiendo de su estado lleno o vacío.
+Puedes agregar docklets a RocketDock colocándolos en la carpeta de RocketDock
+Docklets localizada en:</p>
+
+<p><em>C:\Archivos de programa\RocketDock\Docklets</em>
+(localización por defecto)</p>
+
+<p>Despues clic derecho en RocketDock y en el menu "Añadir elemento",
+allí ahora, en la parte de abajo irán apareciendo cada uno de los
+docklet que vallas agregando en tu carpeta.</p>
+
+<img src="images/Snap3.jpg" alt="" title="">
+<p>Nota: RocketDock solo soporta docklets de ObjectDock.</p>
+
+</div>
+
+<h2 id="customizing-items">3. Modificar Elementos</h2>
+
+<div class="indent">
+<p>Puedes cambiar la apariencia de cada elemento en RocketDock. Con un Simple
+clic derecho en el elemento que quieras cambiar y luego seleccionas "Opciones de Icono."</p>
+
+<img src="images/Snap4.jpg" alt="" title="">
+<p>Inmediatamente aparecerá la ventana de opciones de Icono donde podrás 
+cambiar las propiedades de tu elemento.</p>
+
+<img src="images/Snap5.jpg" alt="" title="">
+<h3>Carpetas</h3>
+
+<div class="indent">
+<p>Aquí verás una lista de todas las carpetas que tienes actualmente
+en tu directorio de iconos de RocketDock localizadadas en:</p>
+
+<p><em>C:\Archivos de programa\RocketDock\Icons</em>
+(localización por defecto)</p>
+
+<p>Puedes agregar cualquier icono a esta carpeta y tenerlo disponible. 
+Los botones - y + te permiten agregar o quitar los directorios que no aparecen en tu carpeta de iconos de RocketDock.</p>
+
+</div>
+
+<h3>Iconos</h3>
+
+<div class="indent">
+<p>En este panel te mostrará una vista previa de todos los iconos
+disponibles en la carpeta que has seleccionado en la sección de carpetas.</p>
+
+</div>
+
+<h3>Vista Previa</h3>
+
+<div class="indent">
+<p>Puedes ver qué icono has seleccionado para utilizar con tu elemento. En la parte de debajo del panel Iconos veras un menú  desplegable (normalmente se ve "Icono normal" en escala de grises) Se utiliza para diversos estados del icono. Este por lo general es  destinado para la Papelera de Reciclaje en los Iconos  lleno y vacío.</p>
+
+</div>
+
+<h3>Propiedades</h3>
+
+<div class="indent">
+<p>Aquí es donde cambias cómo tu elemento mostrara el titulo, en donde 
+se ubica el elemento, y otras acciones especiales disponibles.</p>
+
+<ul>
+
+	<li><strong>Nambre:</strong> Aquí es donde puedes 
+colocar la etiqueta que aparecerá cuando tu ratón pase sobre el RocketDock.</li>
+
+	<li><strong>Ubicación:</strong> Aquí estrá la localización 
+del elemento en tu computador.</li>
+
+	<li><strong>Iniciar en:</strong> Esta fija el directorio 
+de funcionamiento para la ubicación de la aplicación en uso.</li>
+
+	<li><strong>Argumentos:</strong> Fija los parámetros 
+opcionales para la ubicación de la aplicación.</li>
+
+	<li><strong>Ejecutar:</strong> Esta fija el estado
+de la ventana cuando se ejecuta el elemento en RocketDock, estos estados son: Normal, Minimizado, Maximizado.</li>
+
+	<li><strong>Encontrar ubicación:</strong> Permite que cambies 
+el campo ubicación seleccionando un archivo o una carpeta de tu elección.</li>
+
+	<li><strong>Menú emergente:</strong> Esta elegirá entre 
+mostrar acciones especiales del elemento en el menú contextual de RocketDock.
+Un buen ejemplo es la Papelera de Reciclaje presente en 
+RocketDock, si haces clic derecho sobre ella mostrara las "acciones Especiales", solo si la opción menú contextual esta balitada.</li>
+
+</ul>
+
+<img src="images/Snap6.jpg" alt="" title="">
+</div>
+
+</div>
+
+<h2 id="removing-items">4. Eliminar Elementos</h2>
+
+<div class="indent">
+<p>Puedes quitar elementos de RocketDock de dos formas diferentes. La  
+primera es simplemente arrastrando el elemento de RocketDock y soltándolo
+en tu escritorio. Entonces simplemente desaparecerá.
+La segunda es haciendo clic derecho sobre el elemento y usar la opción
+"Eliminar elemento". Esta opción estará disponible siempre que no este
+activado el bloqueo de iconos.</p>
+
+<img src="images/Snap7.jpg" alt="" title="">
+<p>Puedes quitar los separadores de la misma manera. Los Docklets 
+solo pueden ser quitados arrastrándolos fuera de RocketDock.</p>
+
+</div>
+
+<h2 id="drag-n-drop">5. Arrastrar y Soltar</h2>
+
+<div class="indent">
+<p>Puedes arrastrar archivos y carpetas sobre los elementos de tu dock.</p>
+
+<p>Si arrastras un archivo/carpeta sobre el elemento de una aplicación, 
+esta se ejecutara y cargará 
+el archivo/carpeta si esta lo soporta. Por ejemplo si 
+arrastras un PNG sobre el acceso directo de Photoshop 
+este se ejecutara y cargará esta imagen.</p>
+
+<p>Si arrastras un archivo/carpeta en un elemento de carpeta entonces 
+estos se copiaran en esta carpeta. Cada elemento reaccionará de la misma manera que 
+lo hace en tu  escritorio.</p>
+
+<p>Si arrastras archivos/carpetas a un elemento que 
+apunta a la Papelera de reciclaje estos se eliminaran.</p>
+
+</div>
+
+<h2 id="minimized-windows">6. Ventanas Minimizadas</h2>
+
+<div class="indent">
+
+<p>Si ha  configurado "Minimizar las Ventanas al dock" en las Opciones del dock, en  General, tus ventanas minimizadas aparecerán como iconos en el dock.	En Windows Vista, serán observadas como muestras parciales de cada elemento en tiempo real si tienes habilitada la opción composición de escritorio en la configuración de preferencia de ventanas. </p>
+
+<p>Puedes abrir o cerrar una ventana desde aquí con solo hacer clic derecho en el icono de la ventana y seleccionando "Restaurar" o "Cerrar". Por defecto la ventana se abrirá si usted simplemente da un clic sobre ella.</p>
+
+<img src="images/Snap14.jpg" alt="" title="">
+
+<p>Puedes evitar que una ventana específica sea minimizada al dock manteniendo presionada la tecla <strong>Ctrl</strong> mientras que la minimiza. Esto asegurará que tu reproductor de medios y cliente de Chat favoritos se minimicen a la barra de tarea del sistema como es lo normal.</p>
+
+</div>
+
+
+</div>
+
+<!-- End Section -->
+<h1 id="dock-settings">Opciones del Dock</h1>
+
+<div class="indent">
+<h2 id="settings-general">1. General</h2>
+
+<div class="indent">
+<img src="images/Snap8.jpg" alt="" title="">
+<ul>
+
+	<li><strong>Idioma:</strong> Aquí puedes escoger el idioma  
+que quieras utilizar para RocketDock.</li>
+
+	<li><strong>Iniciar con el Sistema:</strong> Esta opción le permite a RocketDock iniciarse junto con Windows.</li>
+
+	<li><strong>Minimizar las ventanas al Dock:</strong> Permite que las ventanas se minimicen en el dock en formas de Iconos.</li>
+
+	<li><strong>Indicadores de Aplicaciones Activas:</strong> Habilita un pequeño marcador sobre los iconos que señala que una aplicación esta en uso.</li>
+
+	<li><strong>Abrir Una Ventana de la Aplicación Activa:</strong> Hace que RocketDock muestre solo una ventana existente de una aplicación activa y no se ejecute otra instancia de la misma.</li>
+
+	<li><strong>Bloquear Iconos:</strong> Evita que los Iconos sean eliminados o movidos por accidente. </li>
+
+Para desbloquearlos rápidamente puedes sostener la tecla "Ctrl" 
+mientras arrastras un Icono para moverlo o eliminarlo.
+
+</ul>
+
+</div>
+
+<h2 id="settings-icons">2. Iconos</h2>
+
+<div class="indent">
+<img src="images/Snap9.jpg" alt="" title="">
+<ul>
+
+	<li><strong>Calidad:</strong> Establece la calidad 
+de rendimiento de los Iconos mientras que aumentan de tamaño.</li>
+
+	<li><strong>Opacidad:</strong> Permite graduar que 
+tan transparentes son los Iconos.</li>
+
+	<li><strong>Zoom Opaco:</strong> Permitir que los iconos lleguen a ser opacos cuando aumentan de tamano.</li>
+
+	<li><strong>Tamaño:</strong> Fija el tamaño inicial de  
+tus Iconos en RocketDock.</li>
+
+	<li><strong>Efecto al pasar el Cursor:</strong> Cambia la manera que el dock se comporta cuando pasa el cursor sobre el.</li>
+
+	<li><strong>Aumento:</strong> Establece el tamaño máximo  
+que su elemento aumentará en el instante que pase el cursor sobre.
+el.</li>
+
+	<li><strong>Rango de Aumento:</strong> Establece cuántos 
+iconos cambiarán de tamaño durante el aumento.</li>
+
+	<li><strong>Tiempo de Aumento:</strong> Con que rapidez (en 
+milisegundos) los elementos tomarán para terminar el aumentar de tamaño.</li>
+
+</ul>
+
+</div>
+
+<h2 id="settings-position">3. Posición</h2>
+
+<div class="indent">
+<img src="images/Snap10.jpg" alt="" title="">
+<ul>
+
+	<li><strong>Monitor:</strong> Si tienes más de un monitor 
+puedes elegir cual mostrara el RocketDock. 
+Este ajuste tratará a todos tus monitores como uno.</li>
+
+	<li><strong>Posición en la Pantalla:</strong> Elige la posición 
+en la pantalla donde RocketDock se ubicara.</li>
+
+	<li><strong>Nivel del dock:</strong> Escoge como   
+RocketDock se mostrara sobre las ventanas. "Siempre encima"  
+esto quiere decir que RocketDock aparecerá por encima de todas las ventanas. 
+"Normal" permite a las ventanas que son nuevas o 
+con foco estar por encina de RocketDock. "Siempre en el Fonfo" hace que RocketDock  
+se quede debajo de todas las ventanas.</li>
+
+	<li><strong>Desplazamiento:</strong> Permite que 
+cambies la posición horizontal de RocketDock en tu pantalla.</li>
+
+	<li><strong>Separación del borde:</strong> Al igual que la anterior, 
+esta te permite decidir que tan separada del borde superior de la pantalla se ubicara tu barra.</li>
+
+</ul>
+
+</div>
+
+<h2 id="settings-style">4. Estilo</h2>
+
+<div class="indent">
+<img src="images/Snap11.jpg" alt="" title="">
+<ul>
+
+	<li><strong>Tema:</strong> Te da la opción de 
+escoger el tema que más te guste para que RocketDock lo use. Puedes agregar más temas colocándolos 
+en la carpeta de temas de RocketDock, localizada en: <em>C:\Archivos de 
+programa\RocketDock\Skins</em> (localización por defecto)</li>
+
+	<li><strong>Opacidad:</strong> Que tan transparente  
+se vera el fondo.</li>
+
+	<li><strong>Ocultar etiquetas:</strong> Oculta el texto que aparece en la parte de abajo de los Iconos al pasar el ratón por encima. 
+
+	<li><strong>Selección de Fuente:</strong> Te permite cambiar la fuente, 
+el color, tamaño y el estilo.</li>
+
+	<li><strong>Color de Sombra:</strong> Puedes elegir  
+el color para la sombra de la fuente.</li>
+
+	<li><strong>Color de Contorno:</strong> Te permite 
+elegir el color para el contorno en la fuente.</li>
+
+	<li><strong>Opacidad de Contorno:</strong> Elige que tan 
+transparente se vera el contorno de la etiqueta.</li>
+
+	<li><strong>Opacidad de Sombra:</strong> Cambia que 
+tan transparente quieres la sombra en la etiqueta.</li>
+
+</ul>
+
+</div>
+
+
+<h2 id="settings-behavior">5. Actuación</h2>
+
+<div class="indent">
+<img src="images/Snap12.jpg" alt="" title="">
+<ul>
+
+	<li><strong>Efecto de Activación:</strong> Con esta opción cambias la animación del Icono cuando haces clic sobre el. Este efecto también será usado cuando una ventana minimizada es restaurada, o cuando recibas un mensaje instantáneo de cualquiera de los clientes más populares de mensajería.</li>
+	
+		<li><strong>Ocultar Automáticamente:</strong> Esta hace que RocketDock 
+oculte automáticamente la barra cuando su ratón no este en el área de
+activación (el borde de la pantalla donde la barra se encuentre).</li>
+
+	<li><strong>Tiempo de Auto-Ocultado:</strong> Puedes controlar el 
+tiempo de Auto-Ocultado (en milisegundos) que requiere RocketDock para
+ocultarse o aparecer después de esconderse.</li>
+
+	<li><strong>Retraso de Auto-Ocultado:</strong> Esta opción 
+fija un retraso de tiempo (en milisegundos) como complemento a la opción anterior.</li>
+
+	<li><strong>Traer al frente al pasar el ratón sobre el Dock:</strong> Esta
+permite a RocketDock ir al primer plano sobre cualquier ventana cuando esta debajo de ellas e ir detrás 
+una vez finalice.</li>
+
+	<li><strong>Retraso para alcanzar el primer Plano:</strong> Es complemento 
+de la anterior, funciona fijando un retraso de tiempo (en milisegundos) en que RockeDock espera antes de alcanzar el primer 
+plano para arriba o abajo.</li>
+
+</ul>
+</div>
+
+
+<h2 id="quick-access-to-options">6. Acceso Rápido a las Opciones</h2>
+
+<div class="indent">
+<p>Puedes tener acceso a algunas de las diferentes opciones haciendo 
+clic derecho en RocketDock.</p>
+
+<img src="images/Snap13.jpg" alt="" title="">
+<p>Puedes elegir la Posición en la pantalla, Bloquear iconos, y 
+Ocultar automáticamente. Puedes también ver un atajo a las Opciones del dock, así que la 
+adición de este elemento a RocketDock no le es necesaria.</p>
+
+</div>
+
+<h2 id="settings-reset-options">7. Opciones por Defecto</h2>
+
+<div class="indent">
+<p>En la ventana Opciones del dock encontrarás el botón "Por Defecto",
+este botón sirve para reajustará todas las Opciones de RocketDock como 
+estaban cuando instalaste RocketDock por primera vez.</p>
+
+<p>Nota: Esto no efectuará cambios de tus elementos.</p>
+
+</div>
+
+</div>
+
+<!-- End Section -->
+
+<h1 id="hotkeys">Atajos de Teclado</h1>
+
+<div class="indent">
+<h2 id="hotkeys-disable">1. Deshabilitar el Dock</h2>
+
+<div class="indent">
+<p>Puedes ocultar RocketDock y detener su funcionamiento totalmente presionando <strong>Ctrl+Alt+R</strong>.  Presionando de nuevo la misma combinación de teclado aparecerá.</p>
+
+</div>
+</div>
+
+<h1 id="finding-help-and-contributing">Encontrar ayuda y Contribuir</h1>
+
+<div class="indent">
+<h2 id="more-help">1. A donde ir si necesitas más ayuda</h2>
+
+<div class="indent">
+<p>Si tienes otras preguntas acerca de RocketDock puedes visitar 
+simplemente nuestro <a href="http://forums.punksoftware.com">foros.</a>
+Puedes también encontrar manuales de instrucción para hacer modificaciones particulares a 
+RocketDock.</p>
+
+</div>
+
+<h2 id="help-translate">2. Ayudanos a Traducir</h2>
+
+<div class="indent">
+<p>Si tu idioma no es soportado y quisieras ayudar a 
+traducir, o poner al día un archivo en tu idioma puedes encontrar <a href="http://www.punksoftware.com/localize-win">instrucciones 
+aquí.</a> Si quisieras traducir esta documentación,  
+por favor contáctenos en el <a href="http://forums.punksoftware.com">foros.</a></p>
+
+</div>
+
+<h2 id="spread-the-word">3. Extender la Palabra</h2>
+
+<div class="indent">
+<p>Decir a otros sobre nuestro software es una gran manera de ayudar a que lo conozcan. 
+Colocando un enlace en tu página Web es una gran manera de comenzar. 
+Puedes encontrar banners o someter a consideración los propios en los <a href="http://forums.punksoftware.com">foros.</a></p>
+
+</div>
+
+<h2 id="our-shop">4. Visita nuestra Tienda</h2>
+
+<div class="indent">
+<p>Tenemos una tienda en línea llamada <a href="http://www.punksoftware.com/shop">Punk Software Swag
+Shack.</a> Puedes comprar cosas como camisas, tapetes para el ratón, o los 
+sombreros que pueden ser de su gusto. Una porción de los ingresos va destinada al sostenimiento de nuestro    
+Valioso grupo de programadores del punky.</p>
+
+</div>
+
+</div>
+
+<!-- End Section -->
+</body>
+</html>

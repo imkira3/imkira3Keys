@@ -1,0 +1,580 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+	<title>RocketDock Documentation</title>
+
+
+	<link rel="shortcut icon" href="../shared/Help.ico">
+
+	<link href="../shared/style.css" rel="stylesheet" type="text/css">
+
+</head>
+
+
+	<body>
+
+<iframe id="languages" src="../shared/languages.html"></iframe>
+<!-- Main --><img src="images/Snap1.jpg" alt="" title="" align="right">
+<h1>RocketDock Documentation</h1>
+
+<div class="indent">
+<ul id="nav">
+
+	<li><a href="#introduction">Introduction</a></li>
+
+	<ol>
+
+		<li><a href="#what-is-rocketdock">What is RocketDock?</a></li>
+
+		<li><a href="#features">Features</a></li>
+
+		<li><a href="#system-requirements">Minimum System Requirements</a></li>
+
+		<li><a href="#supported-languages">Supported Languages</a></li>
+
+	</ol>
+
+	<li><a href="#managing-items">Managing Items</a></li>
+
+	<ol>
+
+		<li><a href="#adding-new-items">Adding New Items</a></li>
+
+		<li><a href="#docklets">Docklets</a></li>
+
+		<li><a href="#customizing-items">Customizing Items</a></li>
+
+		<li><a href="#removing-items">Removing Items</a></li>
+
+		<li><a href="#drag-n-drop">Drag 'n Drop</a></li>
+
+		<li><a href="#minimized-windows">Minimized Windows</a></li>
+
+	</ol>
+
+	<li><a href="#dock-settings">Dock Settings</a></li>
+
+	<ol>
+
+		<li><a href="#settings-general">General</a></li>
+
+		<li><a href="#settings-icons">Icons</a></li>
+
+		<li><a href="#settings-position">Position</a></li>
+
+		<li><a href="#settings-style">Style</a></li>
+		
+		<li><a href="#settings-behavior">Behavior</a></li>
+
+		<li><a href="#quick-access-to-options">Quick Access to Options</a></li>
+
+		<li><a href="#settings-reset-options">Reset Options</a></li>
+
+	</ol>
+	
+	<li><a href="#hotkeys">Hot Keys</a></li>
+	<ol>
+	
+		<li><a href="#hotkeys-disable">Disable the Dock</a></li>
+		
+	</ol>
+
+</ul>
+
+</div>
+
+<!-- End Section -->
+<h1 id="introduction">Introduction</h1>
+
+<div class="indent">
+<h2 id="what-is-rocketdock">1. What is RocketDock?</h2>
+
+<div class="indent">
+<p>Have you ever glanced over the shoulder of a Mac user and seen the nifty little bar of icons at the bottom of their screen? This is known as a "dock." For those of you that haven't seen this, a dock is simply a bar that can be set to the edge of your screen with a background and a row of shortcut icons. The function of a dock is to bring quick access to these shortcuts in an organized fashion relieving your desktop of clutter.  It acts much like the Quick Launch, pointing each icon to the original folder or file.</p>
+
+<p><strong>Note:</strong> RocketDock does not remove, replace, store, duplicate, or backup any of the items you drag into the dock.  You should never delete the original items.  Dock shortcuts are not stored as files and cannot be dragged back onto the desktop or anywhere else.</p>
+
+</div>
+
+<h2 id="features">2. Features</h2>
+
+<div class="indent">
+<ul>
+
+	<li>Minimize windows to the dock</li>
+	
+	<li>Real-time window previews in Vista</li>
+	
+	<li>Running application indicators</li>
+
+	<li>Simple drag-n-drop interface</li>
+
+	<li>True multi-monitor support</li>
+
+	<li>Supports alpha-blended PNG and ICO icons</li>
+
+	<li>Icons zoom and transition smoothly</li>
+
+	<li>Auto-hide and Popup on mouse over</li>
+
+	<li>Positioning and layering options</li>
+
+	<li>Fully customizable</li>
+	
+	<li>Completely Portable</li>
+	
+	<li>ObjectDock Docklet support</li>
+	
+	<li>Compatible with MobyDock, ObjectDock, RK Launcher, and Y'z
+Dock skins</li>
+
+	<li>Runs great on slower computers</li>
+	
+	<li>Unicode compliant</li>
+
+	<li>Supports many languages and can easily be translated</li>
+	
+	<li>A friendly user base :)</li>
+	
+	<li>And best of all... its FREE</li>
+
+</ul>
+
+</div>
+
+<h2 id="system-requirements">3. Minimum System Requirements</h2>
+
+<div class="indent">
+<ul>
+
+	<li>Windows 2000/XP/Vista</li>
+
+	<li>500Mhz or faster CPU</li>
+
+	<li>10MB RAM free</li>
+
+</ul>
+
+<p><span style="font-style: italic;">Please note that Windows XP x64 Edition, Windows Vista 64-bit Editions, and alternate shells are not supported.</span></p>
+
+</div>
+
+<h2 id="supported-languages">4. Supported Languages</h2>
+
+<div class="indent">
+<p>Afrikaans, Albanian, Arabic, Basque, Bangla, Brazilian Portuguese, Bulgarian, Catalan, Chinese Simplified, Chinese Traditional, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, Galician, Georgian, German, Greek, Hebrew, Hungarian, Indonesian, Italian, Japanese, Korean, Lithuanian, Macedonian, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Serbian (Cyrillic), Serbian (Latin), Sinhala, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, Ukrainian, Vietnamese</p>
+
+</div>
+
+</div>
+
+<!-- End Section -->
+<h1 id="managing-items">Managing Items</h1>
+
+<div class="indent">
+<h2 id="adding-new-items">1. Adding New Items</h2>
+
+<div class="indent">
+<p>The first thing most people want to do after installing
+RocketDock is add new items. There are a few different ways of doing
+this:</p>
+
+<p>You can simply drag -n- drop a new item into RocketDock from
+almost any location; your desktop, an Explorer window, the Quick Launch
+Bar, and the Start Menu.</p>
+
+<p>Another way to add items is by right clicking on RocketDock
+and viewing the "Add Item" menu.</p>
+
+<img src="images/Snap2.jpg" alt="" title="">
+<p>From here you have a few options to choose from and each will
+add a different type of item to RocketDock. Let's break each one down.</p>
+
+<ul>
+
+	<li><strong>File:</strong> You can choose any type
+of file to add to RocketDock. When clicked it will open that file in
+its default application.</li>
+
+	<li><strong>Path:</strong> You can add any folder
+to RocketDock. When clicked the folder will open in Explorer.</li>
+
+	<li><strong>Blank Icon:</strong> This option
+creates an item with no icon settings. When clicked it will bring up
+the RocketDock "Icon Settings" window so you can manually configure its
+properties. This is useful when you want to add special items that are
+not files or folders. An example would be a link to a webpage.</li>
+
+	<li><strong>Separator:</strong> Adding a separator
+between icons helps you organize them into different categories, or
+just add a visual break.</li>
+
+	<li><strong>Recycle Bin:</strong> This adds a shortcut to the Recycle Bin that has both an empty and full state.</li>
+
+	<li><strong>Dock Settings:</strong> This is a
+special item. In case you removed the Dock Settings item on RocketDock,
+this will add it back in.</li>
+
+	<li><strong>Quit:</strong> This adds an icon when pressed will quit RocketDock.</li>
+
+</ul>
+
+</div>
+
+<h2 id="docklets">2. Docklets</h2>
+
+<div class="indent">
+<p>Docklets are like mini applications that do one task and run
+inside RocketDock. They vary from system meters for RAM usage to a
+Recycle Bin item that changes the icon depending on whether the system
+Recycle Bin is full or empty. You can add docklets to RocketDock by
+dropping them in the RocketDock Docklets folder located at:</p>
+
+<p><em>C:\Program Files\RocketDock\Docklets</em>
+(default location)</p>
+
+<p>Afterwards right click on RocketDock and in the "Add Item"
+menu there will now be additional options to add each docklet you have
+in the folder.</p>
+
+<img src="images/Snap3.jpg" alt="" title="">
+<p>Note: RocketDock has support for ObjectDock docklets only.</p>
+
+</div>
+
+<h2 id="customizing-items">3. Customizing Items</h2>
+
+<div class="indent">
+<p>Items on the dock can be rearranged by simply dragging them around.  You can change the way each item looks on RocketDock by simply
+right clicking on an item you want to change and selecting "Icon Settings."</p>
+
+<img src="images/Snap4.jpg" alt="" title="">
+<p>From here you will now see the Icon Settings window where you
+can change the properties of your item.</p>
+
+<img src="images/Snap5.jpg" alt="" title="">
+<h3>Folders</h3>
+
+<div class="indent">
+<p>Here you will see a list of all the folders you currently have
+in your RocketDock Icons directory located at:</p>
+
+<p><em>C:\Program Files\RocketDock\Icons</em>
+(default location)</p>
+
+<p>You can add any icons to this folder and have them available.
+The - and + buttons allow you to add and remove folder directories that do not appear in your RocketDock Icons folder.</p>
+
+</div>
+
+<h3>Icons</h3>
+
+<div class="indent">
+<p>This pane will show you a preview of all the icons available
+in the folder you have selected in the Folders section. The drop down menu below the Icons list (usually showing "Normal Icon" grayed out) is used for different icon states.  This is most commonly used for the Recycle Bin full and empty icons.</p>
+
+</div>
+
+<h3>Preview</h3>
+
+<div class="indent">
+<p>You can see which icon you have selected to use for your item.</p>
+
+</div>
+
+<h3>Properties</h3>
+
+<div class="indent">
+<p>Here is where you change how your item title displays, where
+the item links to, and other special actions are available.</p>
+
+<ul>
+
+	<li><strong>Name:</strong> Set the label that
+appears when your mouse goes over it in RocketDock.</li>
+
+	<li><strong>Target:</strong> Here is the location
+of the item on your computer.</li>
+
+	<li><strong>Start In:</strong> This sets the
+working directory for the target application.</li>
+
+	<li><strong>Arguments:</strong> Sets optional
+parameters for the target application.</li>
+
+	<li><strong>Run:</strong> This sets the minimize
+state of the window when the item is launched from RocketDock.</li>
+
+	<li><strong>Open Running:</strong> This drop down menu allows you to override the "Open Running Application Instance" on a per icon basis.  You get the choice of: "Use Global Setting," "Always," and "Never."
+
+	<li><strong>Popup Menu:</strong> This will choose
+between displaying special actions in the RocketDock context menu for
+an item. A good example is when having an Internet Connection shortcut
+present in RocketDock with the "Display Special Actions" option checked.</li>
+
+</ul>
+
+<img src="images/Snap6.jpg" alt="" title="">
+</div>
+
+</div>
+
+<h2 id="removing-items">4. Removing Items</h2>
+
+<div class="indent">
+<p>You can remove items from RocketDock two different ways. The
+first is simply dragging the item off RocketDock and dropping it on
+your desktop. It will then simply vanish. The second is right clicking
+on the item and using the "Delete Item" option.</p>
+
+<img src="images/Snap7.jpg" alt="" title="">
+<p>You can remove separators in the same fashion. Docklets can
+only be removed by dragging them out of RocketDock.</p>
+
+<p><strong>Note:</strong> RocketDock does not store its shortcuts as files.  If you drag an item off the dock there is no way to undo.
+
+</div>
+
+<h2 id="drag-n-drop">5. Drag 'n Drop</h2>
+
+<div class="indent">
+<p>You can drag files and folders into the items on your dock.</p>
+
+<p>If you drag a file/folder into an application item it will
+launch and load
+the file/folder if that application supports it. For example if you
+drag a PNG onto a Photoshop shortcut it will launch and load that
+image.</p>
+
+<p>If you drag a file/folder into a folder item then it will be
+copied into that folder. Each item will react the same way as an item
+would on your desktop.</p>
+
+<p>If you drag files/folders into an item that
+points to the Recycle Bin they will be deleted.</p>
+
+</div>
+
+<h2 id="minimized-windows">6. Minimized Windows</h2>
+
+<div class="indent">
+
+<p>If you have enabled "Minimize Windows to the Dock" in General Settings, your minimized windows will show up as icons on your dock.	These window icons can be dragged around for rearranging, but cannot be deleted or closed by dragging off the dock.	In Windows Vista, they will be rendered as a real-time preview if you have Desktop Composition enabled in your Windows performance settings and the ability to use Aero Glass.</p>
+
+<p>You can open or close a window by right-clicking on the window icon and selecting "Open Window" or "Close Window."	By default the window will be opened if you simply click on it.</p>
+
+<img src="images/Snap14.jpg" alt="" title="">
+
+<p>You can prevent a specific window from ever minimizing to the dock by holding <strong>Control+Alt+Shift</strong> when you minimize it for the the first time.	This will ensure that your favorite media player or chat client will minimize to the taskbar or system tray as you would expect.  This can be undone by repeating the process.  If you want to temporarily prevent a window minimizing to the dock just hold <strong>Control</strong> as you minimize the window.</p>
+
+</div>
+
+
+</div>
+
+<!-- End Section -->
+<h1 id="dock-settings">Dock Settings</h1>
+
+<div class="indent">
+<h2 id="settings-general">1. General</h2>
+
+<div class="indent">
+<img src="images/Snap8.jpg" alt="" title="">
+<ul>
+
+	<li><strong>Language:</strong> Chooses the language
+you would like RocketDock to use.</li>
+
+	<li><strong>Run at Startup:</strong> Allow RocketDock to launch when Windows starts up.</li>
+	
+	<li><strong>Store Settings in a Portable INI File:</strong> Enabling this option will create a "settings.ini" file in the RocketDock directory root.  This file stores all RocketDock's settings in order to allow it to be used on portable devices like USB sticks. This setting should not be enabled for normal use on your hard drive; it does not allow for separate user settings.</li> 
+
+	<li><strong>Minimize Windows to the Dock:</strong> Allow minimized windows to appear as icons on the dock.	In Vista, these icons will show a real-time representation of the window if you have Desktop Composition enabled.</li>
+	
+	<li><strong>Disable Minimize Animations:</strong> This option will disable the animation when Minimize Windows to the Dock is enabled.</li>
+
+	<li><strong>Running Application Indicators:</strong> Enable a small marker next to icons that point to a running application.</li>
+
+	<li><strong>Open Running Application Instance:</strong> Have RocketDock show any existing windows of an application before attempting to run a new instance.</li>
+
+	<li><strong>Lock Items:</strong> Prevent items (icons, separators, etc.) from accidently being deleted or moved. </li>
+
+For quick access you can hold the "Control" key on your keyboard while
+dragging an item to move or delete it.
+
+</ul>
+
+</div>
+
+<h2 id="settings-icons">2. Icons</h2>
+
+<div class="indent">
+<img src="images/Snap9.jpg" alt="" title="">
+<ul>
+
+	<li><strong>Quality:</strong> Set the rendering
+quality of icons while zooming.</li>
+
+	<li><strong>Opacity:</strong> How transparent the
+icons are.</li>
+
+	<li><strong>Zoom Opaque:</strong> Allow the icons to become opaque when zooming in.</li>
+
+	<li><strong>Size:</strong> Set the initial size of
+your items on RocketDock.</li>
+
+	<li><strong>Hover Effect:</strong> Change the way the dock behaves when you hover over it.</li>
+
+	<li><strong>Zoom:</strong> Set the maximum size
+your items will increase during mouseover. Commonly known as "bubbling
+out."</li>
+
+	<li><strong>Zoom Width:</strong> How many icons
+will shift in size during the zoom.</li>
+
+	<li><strong>Zoom Duration:</strong> How fast (in
+milliseconds) the items will take to finish increasing size.</li>
+
+</ul>
+
+</div>
+
+<h2 id="settings-position">3. Position</h2>
+
+<div class="indent">
+<img src="images/Snap10.jpg" alt="" title="">
+<ul>
+
+	<li><strong>Monitor:</strong> If you have more than
+one monitor you can choose which one RocketDock will display on. The
+"Monitor *" setting will treat all your monitors as one.</li>
+
+	<li><strong>Screen Position:</strong> Choose which
+side of your monitor RocketDock will sit at.</li>
+
+	<li><strong>Layering:</strong> Choose how
+RocketDock will display over windows. "Always on Top" means RocketDock
+will appear above all windows. "Normal" allows windows that are new or
+in focus to cover RocketDock. "Always on Bottom" makes RocketDock stay
+below all windows.</li>
+
+	<li><strong>Centering:</strong> Allows you to
+change where on the edge of your screen RocketDock will sit.</li>
+
+	<li><strong>Edge Offset:</strong> You can decide
+how far off the edge of your screen RocketDock is.</li>
+
+</ul>
+
+</div>
+
+<h2 id="settings-style">4. Style</h2>
+
+<div class="indent">
+<img src="images/Snap11.jpg" alt="" title="">
+<ul>
+
+	<li><strong>Theme:</strong> Choose the theme you
+would like RocketDock to use. You can add more themes by dropping them
+in the RocketDock Skins folder located at: <em>C:\Program
+Files\RocketDock\Skins</em> (default location)</li>
+
+	<li><strong>Opacity:</strong> How transparent the
+background is.</li>
+
+	<li><strong>Disable Icon Labels:</strong> Removes the text that appears next to an icon when mousing over.
+
+	<li><strong>Select Font:</strong> Select the font,
+its color, size and style.</li>
+
+	<li><strong>Shadow Color:</strong> You can choose
+the color of the font shadow.</li>
+
+	<li><strong>Outline Color:</strong> You can choose
+the outline color of the font.</li>
+
+	<li><strong>Outline Opacity:</strong> Choose how
+transparent the label outline is.</li>
+
+	<li><strong>Shadow Opacity:</strong> Change how
+transparent the shadow on the label is.</li>
+
+</ul>
+
+</div>
+
+
+<h2 id="settings-behavior">5. Behavior</h2>
+
+<div class="indent">
+<img src="images/Snap12.jpg" alt="" title="">
+<ul>
+
+	<li><strong>Icon Attention Effect:</strong> Change how icons animate when you click on them.	This effect will also be used when a minimized window is flashed, like when you receive an instant message in many popular clients.</li>
+	
+		<li><strong>AutoHide:</strong> This will have
+RocketDock hide off the screen when your mouse is not in the activation
+area (edge of the screen where RocketDock sits).</li>
+
+	<li><strong>AutoHide Duration:</strong> This option
+sets the length of time (in milliseconds) that it takes RocketDock to
+finish popping up after hiding or going away.</li>
+
+	<li><strong>AutoHide Delay:</strong> This option
+sets the length of time (in milliseconds) RocketDock will wait before
+hiding or showing.</li>
+
+	<li><strong>Popup on Mouseover:</strong> This
+allows RocketDock to pop over any window when covered and go back once
+you are finished.</li>
+
+	<li><strong>Popup Delay:</strong> This option
+sets the length of time (in milliseconds) RocketDock will wait before
+popping up or down.</li>
+
+</ul>
+</div>
+
+
+<h2 id="quick-access-to-options">6. Quick Access to Options</h2>
+
+<div class="indent">
+<p>You can access a few of the different options by right
+clicking on RocketDock.</p>
+
+<img src="images/Snap13.jpg" alt="" title="">
+<p>You can choose Screen Position, Locking Icons, Monitor, and
+AutoHiding. You can also see a shortcut to the Dock Settings, so adding
+this item to RocketDock is not necessary.</p>
+
+</div>
+
+<h2 id="settings-reset-options">7. Reset Options</h2>
+
+<div class="indent">
+<p>In the Dock Settings window you will find a "Defaults" button,
+this will reset all RocketDock settings back to how they were when you
+first installed RocketDock.</p>
+
+<p>Note: This will not effect any of your items.</p>
+
+</div>
+
+</div>
+
+<!-- End Section -->
+
+<h1 id="hotkeys">Hot Keys</h1>
+
+<div class="indent">
+<h2 id="hotkeys-disable">1. Disable the Dock</h2>
+
+<div class="indent">
+<p>You can hide RocketDock and stop it from rendering completely by pressing <strong>Control+Alt+R</strong>.  Press it again to make RocketDock appear.</p>
+
+</div>
+</div>
+
+<!-- End Section -->
+</body>
+</html>

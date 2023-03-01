@@ -1,0 +1,5993 @@
+﻿1
+00:00:06,000 --> 00:00:12,074
+Support us and become VIP member 
+to remove all ads from www.OpenSubtitles.org
+
+2
+00:00:21,289 --> 00:00:26,289
+Subtitles by explosiveskull
+
+3
+00:00:26,291 --> 00:00:28,191
+I-Illumination!
+
+4
+00:00:28,193 --> 00:00:30,594
+Yeah! Illumination!
+
+5
+00:00:30,596 --> 00:00:33,298
+Whoo! Ha-ha-ha!
+
+6
+00:00:35,400 --> 00:00:36,867
+- Huh?
+- Aw, man.
+
+7
+00:00:36,869 --> 00:00:38,768
+Aw.
+
+8
+00:00:38,770 --> 00:00:40,503
+Hmm. Whoa.
+
+9
+00:01:16,407 --> 00:01:19,173
+<i>Past the place
+that you come from,</i>
+
+10
+00:01:19,175 --> 00:01:21,343
+<i>far beyond what you've seen,</i>
+
+11
+00:01:21,345 --> 00:01:23,845
+<i>is a town like your town,</i>
+
+12
+00:01:23,847 --> 00:01:26,213
+<i>if your town was a dream.</i>
+
+13
+00:01:32,622 --> 00:01:34,756
+<i>Only it's not a dream</i>
+
+14
+00:01:34,758 --> 00:01:36,925
+<i>or a hoax or a ruse.</i>
+
+15
+00:01:36,927 --> 00:01:39,760
+- Morning!
+- <i>It is Christmas in Who-ville,</i>
+
+16
+00:01:39,762 --> 00:01:41,862
+- <i>the home of the Whos.</i>
+- Hey!
+
+17
+00:01:41,864 --> 00:01:43,297
+Fresh peppermint bread!
+
+18
+00:01:43,299 --> 00:01:46,233
+- Oh, hey, Marge.
+- Morning, Fred.
+
+19
+00:01:46,235 --> 00:01:48,569
+Smells like Christmas.
+
+20
+00:01:52,207 --> 00:01:54,675
+Whoa! Where are you going?
+
+21
+00:01:56,746 --> 00:01:58,746
+- Hey, Tom.
+- Good to see you, Ted.
+
+22
+00:02:00,215 --> 00:02:02,215
+Wreath Man! Wreath Man!
+
+23
+00:02:02,217 --> 00:02:04,217
+Here you go, kid.
+Have a wreath.
+
+24
+00:02:04,219 --> 00:02:06,753
+- Oh, cool!
+- Merry Christmas to ya!
+
+25
+00:02:07,789 --> 00:02:09,222
+Have a great day, dear!
+
+26
+00:02:09,224 --> 00:02:10,624
+- You, too, hon! See you tonight!
+- Hey!
+
+27
+00:02:10,626 --> 00:02:12,394
+Hurry up! Morning.
+
+28
+00:02:26,775 --> 00:02:28,942
+<i>Yes, Who-ville is great,</i>
+
+29
+00:02:28,944 --> 00:02:31,410
+<i>that is known far and wide,</i>
+
+30
+00:02:31,412 --> 00:02:33,579
+<i>and three weeks
+through December,</i>
+
+31
+00:02:33,581 --> 00:02:36,215
+<i>this place hits its stride.</i>
+
+32
+00:02:51,399 --> 00:02:53,999
+<i>Yes, the Whos
+down in Who-ville</i>
+
+33
+00:02:54,001 --> 00:02:56,835
+<i>like Christmas a lot.</i>
+
+34
+00:02:59,439 --> 00:03:03,608
+<i>But the Grinch in his cave,
+north of Who-ville...</i>
+
+35
+00:03:03,610 --> 00:03:05,978
+<i>did not.</i>
+
+36
+00:03:23,897 --> 00:03:26,363
+- ♪ Santa Claus is coming to town ♪
+- Hmm?
+
+37
+00:03:26,365 --> 00:03:28,633
+♪ Santa Claus ♪
+
+38
+00:03:28,635 --> 00:03:30,467
+♪ Is coming to town... ♪
+
+39
+00:03:30,469 --> 00:03:32,036
+♪ Feliz Navidad... ♪
+
+40
+00:03:33,672 --> 00:03:35,405
+♪ Yo, it's
+Christmas, no dissin' ♪
+
+41
+00:03:35,407 --> 00:03:36,874
+♪ Listen, all you listeners... ♪
+
+42
+00:03:36,876 --> 00:03:38,575
+♪ On the first day
+of Christmas ♪
+
+43
+00:03:38,577 --> 00:03:40,744
+♪ My true love sent to me ♪
+
+44
+00:03:40,746 --> 00:03:42,546
+♪ A partridge ♪
+
+45
+00:03:42,548 --> 00:03:43,747
+♪ In a pear tree... ♪
+
+46
+00:03:46,685 --> 00:03:48,752
+♪ On the second day
+of Christmas ♪
+
+47
+00:03:48,754 --> 00:03:51,287
+- ♪ My true love sent to me ♪
+- Max...!
+
+48
+00:03:51,289 --> 00:03:52,923
+♪ Two turtle doves... ♪
+
+49
+00:03:52,925 --> 00:03:55,525
+♪ You're a mean one ♪
+
+50
+00:03:55,527 --> 00:03:57,994
+- ♪ You really are a heel ♪
+- Max...!
+
+51
+00:03:57,996 --> 00:04:00,396
+♪ You're as cuddly
+as a cactus ♪
+
+52
+00:04:00,398 --> 00:04:03,566
+♪ You're as charming
+as an eel ♪
+
+53
+00:04:03,568 --> 00:04:06,302
+♪ Mr. Grinch ♪
+
+54
+00:04:06,304 --> 00:04:08,938
+♪ You're a bad banana, huh ♪
+
+55
+00:04:08,940 --> 00:04:10,940
+<i>♪ Mr. Grinch ♪</i>
+
+56
+00:04:10,942 --> 00:04:13,576
+♪ With a greasy black peel ♪
+
+57
+00:04:13,578 --> 00:04:15,578
+♪ You're a vile one ♪
+
+58
+00:04:15,580 --> 00:04:18,848
+♪ You got termites
+in your smile ♪
+
+59
+00:04:18,850 --> 00:04:21,450
+♪ You have all
+the bittersweetness ♪
+
+60
+00:04:21,452 --> 00:04:23,719
+♪ Of a seasick crocodile ♪
+
+61
+00:04:23,721 --> 00:04:25,721
+♪ Mr. Grinch ♪
+
+62
+00:04:25,723 --> 00:04:28,490
+♪ You're a foul one ♪
+
+63
+00:04:28,492 --> 00:04:29,792
+♪ Friends,
+you don't have none ♪
+
+64
+00:04:29,794 --> 00:04:31,693
+♪ I wouldn't touch you ♪
+
+65
+00:04:31,695 --> 00:04:33,697
+♪ With a thirty-nine-
+and-a-half-foot pole ♪
+
+66
+00:04:35,032 --> 00:04:36,564
+♪ You're a monster ♪
+
+67
+00:04:36,566 --> 00:04:39,467
+♪ Your heart's an empty hole ♪
+
+68
+00:04:39,469 --> 00:04:41,870
+- <i>♪ You have garlic ♪</i>
+- ♪ You've got garlic ♪
+
+69
+00:04:41,872 --> 00:04:43,605
+<i>♪ In your soul ♪</i>
+
+70
+00:04:43,607 --> 00:04:45,707
+♪ You've got garlic
+in your soul ♪
+
+71
+00:04:45,709 --> 00:04:47,709
+♪ All them smiles, homie ♪
+
+72
+00:04:47,711 --> 00:04:50,845
+♪ I turn 'em frowns,
+all them decorations ♪
+
+73
+00:04:50,847 --> 00:04:52,947
+♪ I tear 'em down,
+you can ask Max ♪
+
+74
+00:04:52,949 --> 00:04:55,016
+- ♪ I don't play around ♪
+- <i>♪ La, la, la, la ♪</i>
+
+75
+00:04:55,018 --> 00:04:56,517
+♪ Hey, oh ♪
+
+76
+00:04:56,519 --> 00:04:57,752
+<i>♪ Ew... ♪</i>
+
+77
+00:04:57,754 --> 00:04:59,120
+♪ Who is this mean fellow ♪
+
+78
+00:04:59,122 --> 00:05:00,354
+♪ With his skin all green ♪
+
+79
+00:05:00,356 --> 00:05:02,589
+- ♪ And his teeth all yellow? ♪
+- <i>♪ Ew... ♪</i>
+
+80
+00:05:02,591 --> 00:05:05,692
+♪ What you so mad for?
+Halloween come around ♪
+
+81
+00:05:05,694 --> 00:05:07,694
+♪ And we ain't knocking
+at your door, man ♪
+
+82
+00:05:07,696 --> 00:05:09,696
+<i>♪ Mr. Grinch,
+you're a bad banana ♪</i>
+
+83
+00:05:09,698 --> 00:05:12,065
+<i>♪ You gonna spoil everybody
+with your bad attitude ♪</i>
+
+84
+00:05:12,067 --> 00:05:14,902
+♪ You gon' spoil everybody ♪
+
+85
+00:05:14,904 --> 00:05:16,937
+<i>♪ Mr. Grinch ♪</i>
+
+86
+00:05:16,939 --> 00:05:19,706
+- <i>♪ La, la, la... ♪</i>
+- ♪ Who is this mean fellow ♪
+
+87
+00:05:19,708 --> 00:05:22,576
+♪ With his skin all green
+and his teeth all yellow? ♪
+
+88
+00:05:22,578 --> 00:05:24,745
+- Ooh!
+- ♪ What you so mad for? ♪
+
+89
+00:05:24,747 --> 00:05:26,445
+♪ Halloween come around ♪
+
+90
+00:05:26,447 --> 00:05:29,850
+♪ And we ain't knocking
+at your door... ♪
+
+91
+00:05:36,858 --> 00:05:38,558
+Ooh!
+
+92
+00:05:38,560 --> 00:05:40,593
+I am starving.
+
+93
+00:05:40,595 --> 00:05:41,594
+Huh?
+
+94
+00:05:41,596 --> 00:05:43,462
+Max.
+
+95
+00:05:43,464 --> 00:05:45,798
+What is this depressing bean?
+
+96
+00:05:45,800 --> 00:05:47,133
+No, no, no, no, no, no.
+
+97
+00:05:47,135 --> 00:05:48,134
+That's impossible.
+
+98
+00:05:48,136 --> 00:05:49,502
+We can't be out of food.
+
+99
+00:05:49,504 --> 00:05:50,970
+Wha...?
+
+100
+00:05:50,972 --> 00:05:53,471
+Where's my personal reserve
+of moose juice?
+
+101
+00:05:53,473 --> 00:05:54,807
+And goose juice?
+
+102
+00:05:54,809 --> 00:05:56,809
+My emergency stash of Who Hash?
+
+103
+00:05:56,811 --> 00:05:59,812
+And my secret slew
+of frozen Beezle-Nut stew?
+
+104
+00:06:01,615 --> 00:06:04,783
+I specifically bought enough
+food to last until January.
+
+105
+00:06:04,785 --> 00:06:07,586
+How much emotional eating
+have I been doing?
+
+106
+00:06:16,196 --> 00:06:18,029
+No. I won't. I will not.
+
+107
+00:06:18,031 --> 00:06:20,732
+I am not going to Who-ville
+during Ch...
+
+108
+00:06:20,734 --> 00:06:22,567
+Chri...
+
+109
+00:06:22,569 --> 00:06:24,703
+Chri...
+
+110
+00:06:24,705 --> 00:06:26,671
+Christmas! Ugh!
+
+111
+00:06:26,673 --> 00:06:28,472
+Ugh!
+
+112
+00:06:31,577 --> 00:06:33,711
+Fine. But I'm going to despise
+
+113
+00:06:33,713 --> 00:06:35,646
+every second of it.
+
+114
+00:06:35,648 --> 00:06:38,183
+Come on, Max.
+
+115
+00:06:39,886 --> 00:06:42,586
+<i>Yes, the Grinch
+hated Christmas,</i>
+
+116
+00:06:42,588 --> 00:06:44,889
+<i>the whole Christmas season.</i>
+
+117
+00:06:44,891 --> 00:06:47,658
+<i>Now, please don't ask why.</i>
+
+118
+00:06:47,660 --> 00:06:49,793
+<i>No one quite knows the reason.</i>
+
+119
+00:06:49,795 --> 00:06:51,962
+<i>It could be his head</i>
+
+120
+00:06:51,964 --> 00:06:54,698
+<i>wasn't screwed on just right.</i>
+
+121
+00:06:54,700 --> 00:06:56,133
+<i>It could be perhaps that</i>
+
+122
+00:06:56,135 --> 00:06:59,636
+<i>his shoes were too tight.</i>
+
+123
+00:06:59,638 --> 00:07:02,772
+<i>But I think the most likely
+reason of all</i>
+
+124
+00:07:02,774 --> 00:07:05,042
+<i>may have been that his heart</i>
+
+125
+00:07:05,044 --> 00:07:08,047
+<i>was two sizes too small.</i>
+
+126
+00:07:13,718 --> 00:07:15,718
+Now, remember, Max,
+
+127
+00:07:15,720 --> 00:07:17,820
+this is the time of year
+when the Whos
+
+128
+00:07:17,822 --> 00:07:19,689
+are at their most deceptive.
+
+129
+00:07:19,691 --> 00:07:21,691
+You have my full permission
+
+130
+00:07:21,693 --> 00:07:26,563
+to attack anyone who so much
+as says one kind word to us.
+
+131
+00:07:27,598 --> 00:07:29,065
+Okay, let's go.
+
+132
+00:07:29,067 --> 00:07:30,532
+- Morning, fellas.
+- Greetings.
+
+133
+00:07:30,534 --> 00:07:31,800
+- Ready for Christmas?
+- Greetings.
+
+134
+00:07:31,802 --> 00:07:33,769
+Ah, good to see you.
+How's work?
+
+135
+00:07:33,771 --> 00:07:35,171
+Oh, could be better,
+could be worse.
+
+136
+00:07:35,173 --> 00:07:37,639
+Oh, hi. Merry Christmas.
+
+137
+00:07:37,641 --> 00:07:39,808
+Wait, wait, wait, wait,
+wait, wait! Hold the bus!
+
+138
+00:07:39,810 --> 00:07:41,877
+- Wait. Stop. Oh, sor...
+- Whoa!
+
+139
+00:07:41,879 --> 00:07:43,912
+- Coming through.
+- Hey!
+
+140
+00:07:43,914 --> 00:07:47,649
+Wait! Wait! Sam! Hold the bus!
+
+141
+00:07:47,651 --> 00:07:48,884
+Oh!
+
+142
+00:07:48,886 --> 00:07:50,585
+Whoa!
+
+143
+00:07:50,587 --> 00:07:52,688
+- Whew! Oh!
+- Sorry, Donna.
+
+144
+00:07:52,690 --> 00:07:54,756
+That's okay, Sam.
+
+145
+00:07:56,193 --> 00:07:58,193
+Thanks for stopping.
+
+146
+00:07:58,195 --> 00:08:01,729
+- Whew!
+- They still got you on the night shift, huh?
+
+147
+00:08:01,731 --> 00:08:03,898
+- Sure do.
+- Oh, by the way,
+
+148
+00:08:03,900 --> 00:08:07,001
+Cindy-Lou forgot
+her hockey... stick.
+
+149
+00:08:10,174 --> 00:08:11,806
+♪ Jingle bells ♪
+
+150
+00:08:11,808 --> 00:08:13,541
+♪ Christmas smells... ♪
+
+151
+00:08:13,543 --> 00:08:16,277
+Hmm.
+
+152
+00:08:16,279 --> 00:08:18,982
+- Mm-hmm.
+- Oh. Thanks, mister.
+
+153
+00:08:19,983 --> 00:08:21,148
+Ah-ha.
+
+154
+00:08:21,150 --> 00:08:22,917
+Hey!
+
+155
+00:08:22,919 --> 00:08:24,251
+- Hmm.
+- Huh?
+
+156
+00:08:25,955 --> 00:08:28,122
+You're a mean one, mister.
+
+157
+00:08:31,060 --> 00:08:33,060
+It's really such an awful day.
+
+158
+00:08:33,062 --> 00:08:34,228
+- Hey! Merry Christmas!
+- Huh?
+
+159
+00:08:34,230 --> 00:08:36,563
+Happy holidays, Sue.
+
+160
+00:08:36,565 --> 00:08:38,232
+Good morning, Fred.
+
+161
+00:08:38,234 --> 00:08:40,100
+Season's greetings, folks.
+
+162
+00:08:40,102 --> 00:08:42,202
+And Merry Christmas to you...
+
+163
+00:08:44,206 --> 00:08:46,639
+♪ Comfort and joy ♪
+
+164
+00:08:46,641 --> 00:08:49,275
+- ♪ God rest ye merry, gentlemen ♪
+- Ugh.
+
+165
+00:08:49,277 --> 00:08:52,312
+♪ Let nothing you dismay ♪
+
+166
+00:08:52,314 --> 00:08:54,681
+♪ Remember Christ our Savior ♪
+
+167
+00:08:54,683 --> 00:08:57,283
+♪ Was born on Christmas Day ♪
+
+168
+00:08:57,285 --> 00:09:00,686
+♪ To save us all
+from Satan's power ♪
+
+169
+00:09:00,688 --> 00:09:02,888
+- ♪ When we were gone astray ♪
+- Huh?
+
+170
+00:09:02,890 --> 00:09:05,325
+♪ O tidings
+of comfort and joy ♪
+
+171
+00:09:05,327 --> 00:09:08,060
+♪ Comfort and joy,
+O tidings of comfort ♪
+
+172
+00:09:08,062 --> 00:09:09,795
+♪ And joy... ♪
+
+173
+00:09:16,837 --> 00:09:19,638
+Aah! Aah! Aah!
+
+174
+00:09:21,375 --> 00:09:23,075
+Aah...!
+
+175
+00:09:29,816 --> 00:09:32,784
+♪ God rest ye merry, gentlemen ♪
+
+176
+00:09:32,786 --> 00:09:34,752
+♪ Let nothing you dismay ♪
+
+177
+00:09:34,754 --> 00:09:36,621
+- Aah...!
+- ♪ Remember ♪
+
+178
+00:09:36,623 --> 00:09:38,689
+♪ Christ our Savior ♪
+
+179
+00:09:38,691 --> 00:09:40,292
+♪ Was born on Christmas Day ♪
+
+180
+00:09:40,294 --> 00:09:43,094
+♪ O tidings of comfort and joy,
+comfort and joy ♪
+
+181
+00:09:43,096 --> 00:09:45,096
+♪ O tidings
+of comfort and joy... ♪
+
+182
+00:09:50,170 --> 00:09:52,170
+Oh, hello.
+Happy holi...
+
+183
+00:09:52,172 --> 00:09:53,838
+Uh-uh.
+
+184
+00:10:09,922 --> 00:10:11,357
+Blech!
+
+185
+00:10:18,864 --> 00:10:21,031
+Ah. What's this?
+
+186
+00:10:21,033 --> 00:10:22,365
+Excuse me.
+
+187
+00:10:22,367 --> 00:10:23,900
+Are you getting that?
+
+188
+00:10:23,902 --> 00:10:26,169
+I need it
+for my Christmas stuffing.
+
+189
+00:10:26,171 --> 00:10:28,773
+Mmm... no.
+
+190
+00:10:29,908 --> 00:10:32,177
+Well, that's not very nice.
+
+191
+00:10:35,080 --> 00:10:37,113
+Oh, sugarplum!
+
+192
+00:10:42,820 --> 00:10:45,688
+<i>Oh, no, I can't today.
+I have a list of errands</i>
+
+193
+00:10:45,690 --> 00:10:48,691
+a mile long, and the babysitter
+left the sink backed up.
+
+194
+00:10:48,693 --> 00:10:50,860
+No, I-I'm not complaining.
+I'm venting.
+
+195
+00:10:50,862 --> 00:10:52,194
+There's a difference.
+
+196
+00:10:52,196 --> 00:10:53,729
+Okay. Uh, talk to you later.
+
+197
+00:10:53,731 --> 00:10:55,764
+I-I have to get breakfast
+on the table.
+
+198
+00:10:55,766 --> 00:10:59,767
+Right after I unclog
+this drain again.
+
+199
+00:10:59,769 --> 00:11:01,903
+Ugh! It's like concrete!
+
+200
+00:11:01,905 --> 00:11:04,906
+- Cindy-Lou, sweetheart, come eat.
+- Coming!
+
+201
+00:11:04,908 --> 00:11:07,178
+Oh.
+
+202
+00:11:10,981 --> 00:11:12,481
+Buster,
+we've talked about this.
+
+203
+00:11:12,483 --> 00:11:15,016
+- Huh?
+- Your brother's head is not breakfast.
+
+204
+00:11:17,988 --> 00:11:19,287
+Uh?
+
+205
+00:11:19,289 --> 00:11:20,722
+Blah!
+
+206
+00:11:24,494 --> 00:11:26,027
+Ah!
+
+207
+00:11:33,869 --> 00:11:35,002
+Okay.
+
+208
+00:11:35,004 --> 00:11:36,870
+You all right, Mom?
+
+209
+00:11:36,872 --> 00:11:39,006
+Me? Oh. Yes. Never better.
+
+210
+00:11:39,008 --> 00:11:42,042
+Ah. What'd you put down here
+anyway, a roller skate?
+
+211
+00:11:42,044 --> 00:11:44,512
+No. Just batter.
+Me and Ms. Wilbur made cookies.
+
+212
+00:11:44,514 --> 00:11:46,514
+Oh. That explains it.
+
+213
+00:11:46,516 --> 00:11:48,348
+- Come have some eggs.
+- I can't.
+
+214
+00:11:48,350 --> 00:11:50,517
+I gotta go mail something.
+But I made the beds
+
+215
+00:11:50,519 --> 00:11:52,286
+and put away the twins' toys.
+
+216
+00:11:52,288 --> 00:11:54,922
+Thanks, sweetheart.
+You didn't have to do that.
+
+217
+00:11:54,924 --> 00:11:56,356
+I don't mind.
+
+218
+00:11:56,358 --> 00:11:58,959
+- Something's burning.
+- Just a second, sweetie.
+
+219
+00:11:58,961 --> 00:12:01,861
+Bean, don't feed your brother
+with your feet.
+
+220
+00:12:01,863 --> 00:12:03,530
+- Mom! The toast!
+- I got it!
+
+221
+00:12:12,106 --> 00:12:14,508
+Wait. Where are you
+going again?
+
+222
+00:12:14,510 --> 00:12:16,776
+- I told you. To mail a letter.
+- Okay,
+
+223
+00:12:16,778 --> 00:12:18,411
+but just come here first.
+
+224
+00:12:18,413 --> 00:12:20,315
+Mom. I gotta go.
+
+225
+00:12:22,116 --> 00:12:25,218
+All right.
+
+226
+00:12:25,220 --> 00:12:26,818
+Mwa!
+
+227
+00:12:26,820 --> 00:12:29,121
+Okay. Now you can go.
+
+228
+00:12:29,123 --> 00:12:30,822
+Thanks, Mom.
+Bye, Buster. Bye, Bean.
+
+229
+00:12:30,824 --> 00:12:32,458
+Don't do anything
+I wouldn't do.
+
+230
+00:12:32,460 --> 00:12:34,527
+Roger that, Mom.
+
+231
+00:12:34,529 --> 00:12:37,330
+Whoo!
+
+232
+00:12:37,332 --> 00:12:40,333
+Here goes Cindy-Lou Who
+as she dashes through the snow
+
+233
+00:12:40,335 --> 00:12:42,867
+with a very important letter!
+
+234
+00:12:42,869 --> 00:12:45,237
+Oh, no!
+I'm gonna miss the mailman!
+
+235
+00:12:45,239 --> 00:12:47,105
+Shortcut!
+
+236
+00:12:47,107 --> 00:12:49,507
+Go, go, go, go, go, go, go!
+
+237
+00:12:49,509 --> 00:12:51,243
+Whoo! Whoa! Whoa!
+
+238
+00:12:51,245 --> 00:12:52,844
+Whoa!
+
+239
+00:12:52,846 --> 00:12:55,380
+Whoa! Whoa, whoa, whoa, whoa!
+
+240
+00:12:55,382 --> 00:12:56,814
+Bon appétit!
+
+241
+00:12:56,816 --> 00:12:57,949
+Whoo-hoo!
+
+242
+00:12:59,885 --> 00:13:01,819
+Oh, no!
+
+243
+00:13:01,821 --> 00:13:03,020
+Whoo!
+
+244
+00:13:03,022 --> 00:13:04,224
+Aah...
+
+245
+00:13:05,259 --> 00:13:06,924
+Watch out!
+
+246
+00:13:06,926 --> 00:13:08,892
+Aah! Oh!
+
+247
+00:13:08,894 --> 00:13:10,294
+No! My letter!
+
+248
+00:13:10,296 --> 00:13:12,162
+What is wrong with you?
+
+249
+00:13:12,164 --> 00:13:13,931
+Didn't you see me?
+I mean, if that...
+
+250
+00:13:13,933 --> 00:13:16,233
+if that was a sled, I-I...
+well, I'd be dead.
+
+251
+00:13:16,235 --> 00:13:18,902
+I'm sorry for bumping into you,
+but this is really important.
+
+252
+00:13:18,904 --> 00:13:21,005
+Have you seen my letter?
+
+253
+00:13:21,007 --> 00:13:23,173
+And that right there, Max,
+is the true nature
+
+254
+00:13:23,175 --> 00:13:25,609
+of the Who child:
+just right to "me, me, me.
+
+255
+00:13:25,611 --> 00:13:28,178
+- My letter. Me, me, me."
+- No, you don't understand.
+
+256
+00:13:28,180 --> 00:13:31,048
+This isn't just a letter.
+This is the letter.
+
+257
+00:13:31,050 --> 00:13:33,049
+Oh... really?
+
+258
+00:13:33,051 --> 00:13:35,586
+Let me guess.
+Small child, December 20,
+
+259
+00:13:35,588 --> 00:13:38,589
+rabidly searching for a
+"really important" lost letter?
+
+260
+00:13:38,591 --> 00:13:42,058
+Might it be your list
+of demands to Santa?
+
+261
+00:13:42,060 --> 00:13:45,128
+They're not demands.
+It's more like a wish.
+
+262
+00:13:45,130 --> 00:13:48,531
+And what I'm wishing for
+is really, really important.
+
+263
+00:13:48,533 --> 00:13:50,967
+Well, then why send a letter?
+I mean, if it's really
+
+264
+00:13:50,969 --> 00:13:53,169
+that important, you should
+just ask him face-to-face.
+
+265
+00:13:53,171 --> 00:13:57,006
+Oh, but that's right:
+no one's ever seen him.
+
+266
+00:13:57,008 --> 00:13:59,242
+Mmm, my bad.
+
+267
+00:13:59,244 --> 00:14:02,010
+Come on, Max,
+let's get out of here.
+
+268
+00:14:02,012 --> 00:14:04,182
+Bye, doggy.
+
+269
+00:14:15,259 --> 00:14:17,426
+♪ Have a holly jolly
+Christmas ♪
+
+270
+00:14:17,428 --> 00:14:19,127
+♪ It's the best time ♪
+
+271
+00:14:19,129 --> 00:14:21,029
+- ♪ Of the year ♪
+- There he is, Max.
+
+272
+00:14:21,031 --> 00:14:22,964
+♪ I don't know
+if there'll be snow... ♪
+
+273
+00:14:22,966 --> 00:14:24,633
+The happiest Who alive.
+
+274
+00:14:24,635 --> 00:14:26,201
+The unbearable...
+
+275
+00:14:26,203 --> 00:14:28,036
+Bricklebaum.
+
+276
+00:14:28,038 --> 00:14:31,139
+He thinks we're friends.
+
+277
+00:14:32,476 --> 00:14:34,309
+Quick. Let's make a run for it.
+
+278
+00:14:34,311 --> 00:14:36,311
+- ♪ I don't know if there'll be snow ♪
+- Go, go!
+
+279
+00:14:36,313 --> 00:14:38,079
+Wha...? Wh-What was that?
+
+280
+00:14:38,081 --> 00:14:39,246
+No.
+
+281
+00:14:39,248 --> 00:14:41,483
+♪ But have a cup of cheer ♪
+
+282
+00:14:46,590 --> 00:14:48,255
+♪ Say hello ♪
+
+283
+00:14:48,257 --> 00:14:49,657
+♪ To friends you know ♪
+
+284
+00:14:49,659 --> 00:14:52,362
+♪ And everyone you meet! ♪
+
+285
+00:14:56,666 --> 00:14:59,200
+♪ Deck the
+halls with boughs of holly... ♪
+
+286
+00:14:59,202 --> 00:15:01,000
+Oh, my goodness,
+
+287
+00:15:01,002 --> 00:15:04,572
+Mr. Grinch! I-I-I'm coming!
+Leave Mr. Grinch alone.
+
+288
+00:15:04,574 --> 00:15:06,574
+That's one tough balloon
+that you're fighting there.
+
+289
+00:15:06,576 --> 00:15:08,442
+You old feisty frosty.
+
+290
+00:15:08,444 --> 00:15:10,009
+Here, come on,
+let me help you up.
+
+291
+00:15:10,011 --> 00:15:12,445
+I-I-I do not want or need
+your help.
+
+292
+00:15:12,447 --> 00:15:13,980
+Oh. "Hair dye.
+
+293
+00:15:13,982 --> 00:15:16,149
+Gorgeous Green Goddess."
+
+294
+00:15:16,151 --> 00:15:18,318
+Oh. How did that get in there?
+
+295
+00:15:18,320 --> 00:15:20,487
+Hey, I'm sorry
+if I made you uncomfy.
+
+296
+00:15:20,489 --> 00:15:23,156
+We all got to keep
+the gray away.
+
+297
+00:15:23,158 --> 00:15:26,159
+I myself use
+Chocolate Explosion.
+
+298
+00:15:26,161 --> 00:15:28,628
+You know what? If you want
+to apologize for something,
+
+299
+00:15:28,630 --> 00:15:30,663
+apologize for that.
+
+300
+00:15:32,234 --> 00:15:34,434
+My eyes are burning.
+
+301
+00:15:34,436 --> 00:15:36,669
+Well, don't-don't blame me.
+Haven't you heard?
+
+302
+00:15:36,671 --> 00:15:40,072
+The mayor wants Christmas to be
+three times bigger this year.
+
+303
+00:15:40,074 --> 00:15:41,974
+That means
+three times the lights,
+
+304
+00:15:41,976 --> 00:15:44,243
+three times the eggnog,
+three times the...
+
+305
+00:15:44,245 --> 00:15:47,012
+Information needed.
+
+306
+00:15:47,014 --> 00:15:48,514
+That's a good one.
+
+307
+00:15:48,516 --> 00:15:49,749
+Oh, I get it.
+
+308
+00:15:49,751 --> 00:15:52,184
+This is one of
+your kidding things.
+
+309
+00:15:52,186 --> 00:15:54,086
+Finally, something
+you said is...
+
+310
+00:15:54,088 --> 00:15:56,221
+actually funny.
+
+311
+00:15:56,223 --> 00:15:58,557
+Yeah, I do kid a lot,
+but no, this is actually...
+
+312
+00:15:58,559 --> 00:16:01,260
+- Christmas three times bigger!
+- Well, you're just gonna have
+
+313
+00:16:01,262 --> 00:16:03,228
+- a good time with this, aren't you?
+- Oh-ho, dear.
+
+314
+00:16:03,230 --> 00:16:05,464
+- Oh, no, no, no, I-I-I-I...
+- I gotta say, it's really nice
+
+315
+00:16:05,466 --> 00:16:07,599
+- to see you laughing.
+- Sorry, I-I can't hear you.
+
+316
+00:16:07,601 --> 00:16:09,267
+I don't speak ridiculous.
+
+317
+00:16:09,269 --> 00:16:11,269
+Oh, you're a scream.
+
+318
+00:16:11,271 --> 00:16:13,371
+- Have a nice life. Good-bye.
+- I'll see you later.
+
+319
+00:16:13,373 --> 00:16:15,540
+Whew! Oh, man.
+
+320
+00:16:15,542 --> 00:16:17,577
+Mr. Grinch.
+
+321
+00:16:44,604 --> 00:16:47,673
+I'm gonna stay awake
+to see Santa!
+
+322
+00:16:56,648 --> 00:16:58,748
+<i>From the edge of his ledge,</i>
+
+323
+00:16:58,750 --> 00:17:00,717
+<i>way up in the sky,</i>
+
+324
+00:17:00,719 --> 00:17:02,719
+<i>the Grinch felt upset,</i>
+
+325
+00:17:02,721 --> 00:17:05,254
+<i>though he wasn't sure why.</i>
+
+326
+00:17:05,256 --> 00:17:07,289
+<i>It could've been Christmas,</i>
+
+327
+00:17:07,291 --> 00:17:09,559
+<i>all that joy and the such,</i>
+
+328
+00:17:09,561 --> 00:17:12,061
+<i>or some thoughts from his past</i>
+
+329
+00:17:12,063 --> 00:17:14,497
+<i>that he just
+couldn't quite touch.</i>
+
+330
+00:17:14,499 --> 00:17:16,632
+<i>But whatever it was,</i>
+
+331
+00:17:16,634 --> 00:17:18,501
+<i>it made his heart moan.</i>
+
+332
+00:17:20,071 --> 00:17:22,304
+<i>Though he was used to it now,</i>
+
+333
+00:17:22,306 --> 00:17:24,807
+<i>this being alone.</i>
+
+334
+00:17:24,809 --> 00:17:27,443
+<i>And now safe in his cave,</i>
+
+335
+00:17:27,445 --> 00:17:29,645
+<i>and apart from the fray,</i>
+
+336
+00:17:29,647 --> 00:17:32,348
+<i>he reminded himself...</i>
+
+337
+00:17:32,350 --> 00:17:35,584
+It is better this way.
+
+338
+00:17:47,330 --> 00:17:49,397
+That's right, yeah.
+
+339
+00:17:49,399 --> 00:17:52,634
+Just right there.
+No. No, not on your brother.
+
+340
+00:17:52,636 --> 00:17:54,302
+Let Mommy do it.
+
+341
+00:17:57,274 --> 00:17:58,473
+Whoa! Whoa...
+
+342
+00:17:58,475 --> 00:18:00,341
+Cindy-Lou!
+
+343
+00:18:00,343 --> 00:18:01,543
+Don't worry, Mom.
+
+344
+00:18:06,816 --> 00:18:08,348
+Aah.
+
+345
+00:18:10,352 --> 00:18:12,787
+I'm wearing four ski jackets.
+
+346
+00:18:12,789 --> 00:18:15,155
+Four jackets?
+Aren't you a little hot?
+
+347
+00:18:15,157 --> 00:18:17,491
+Yep. Sweatin' a little bit.
+
+348
+00:18:17,493 --> 00:18:19,493
+Are you going somewhere?
+
+349
+00:18:19,495 --> 00:18:21,495
+- North Pole.
+- Oh. Wow.
+
+350
+00:18:21,497 --> 00:18:23,497
+Any, uh, particular reason?
+
+351
+00:18:23,499 --> 00:18:25,699
+- I got to talk to Santa.
+- Santa, huh?
+
+352
+00:18:25,701 --> 00:18:27,901
+Yeah. It's really important.
+
+353
+00:18:27,903 --> 00:18:31,438
+Well, it must be if you need
+to go see him in person.
+
+354
+00:18:31,440 --> 00:18:34,140
+- It sure is.
+- Okay, then. Well, good luck,
+
+355
+00:18:34,142 --> 00:18:37,276
+and I guess I'll see you
+in about a month.
+
+356
+00:18:37,278 --> 00:18:41,915
+Wait. It takes a whole month
+to get to the North Pole?
+
+357
+00:18:41,917 --> 00:18:43,650
+Oh, yeah. At least.
+
+358
+00:18:43,652 --> 00:18:45,919
+Christmas will be over
+by the time I got there.
+
+359
+00:18:45,921 --> 00:18:49,655
+Ah, that's true. Now, we
+would miss you at Christmas.
+
+360
+00:18:49,657 --> 00:18:54,160
+Wow. I guess I'm gonna have
+to come up with another plan.
+
+361
+00:18:54,162 --> 00:18:55,828
+Hey, maybe while
+you're thinking,
+
+362
+00:18:55,830 --> 00:18:58,230
+you could put the halo
+on the angel.
+
+363
+00:18:58,232 --> 00:19:00,199
+Okay.
+
+364
+00:19:00,201 --> 00:19:02,301
+You want to take
+your jackets off?
+
+365
+00:19:02,303 --> 00:19:04,269
+Yeah, at least
+one or two of them.
+
+366
+00:19:05,773 --> 00:19:08,340
+No, boys, don't pull
+the angel's wings off.
+
+367
+00:19:08,342 --> 00:19:10,377
+She needs those.
+
+368
+00:19:15,783 --> 00:19:19,484
+♪ Five gold rings... ♪
+
+369
+00:19:26,760 --> 00:19:28,426
+So, uh...
+
+370
+00:19:28,428 --> 00:19:30,729
+what do you want to do today?
+
+371
+00:19:33,634 --> 00:19:35,934
+♪ A little bit of Monica
+in my life ♪
+
+372
+00:19:35,936 --> 00:19:39,203
+♪ A little bit of Erica by my side... ♪
+
+373
+00:19:39,205 --> 00:19:41,640
+No idea, huh?
+
+374
+00:19:41,642 --> 00:19:44,575
+Ooh. I got one.
+
+375
+00:20:50,541 --> 00:20:53,008
+All right, all right,
+I'm sorry.
+
+376
+00:20:53,010 --> 00:20:54,676
+You're a good dog.
+
+377
+00:20:54,678 --> 00:20:56,978
+But a bad drummer.
+
+378
+00:20:58,449 --> 00:21:00,617
+What would you like to do?
+
+379
+00:21:02,853 --> 00:21:06,456
+More than embarrassing
+to be beaten by a dog.
+
+380
+00:21:07,691 --> 00:21:09,691
+Oh. What's that?
+
+381
+00:21:13,629 --> 00:21:15,763
+And checkmate. Again.
+
+382
+00:21:18,735 --> 00:21:21,971
+What in the world is happening?
+
+383
+00:21:40,857 --> 00:21:43,023
+What is that?!
+
+384
+00:21:43,025 --> 00:21:45,358
+It's the most
+beautiful Christmas tree
+
+385
+00:21:45,360 --> 00:21:47,360
+you've ever seen!
+
+386
+00:21:47,362 --> 00:21:48,895
+Three times bigger?
+
+387
+00:21:48,897 --> 00:21:51,664
+Th-Th-That's
+a hundred times bigger!
+
+388
+00:21:51,666 --> 00:21:54,000
+Oh, you just wait
+till we light it tonight.
+
+389
+00:21:54,002 --> 00:21:56,970
+It'll sparkle so bright,
+you'll be celebrating Christmas
+
+390
+00:21:56,972 --> 00:21:59,072
+with the rest of us! Ho-ho!
+
+391
+00:22:00,509 --> 00:22:02,408
+Oh, man, I can't wait!
+
+392
+00:22:02,410 --> 00:22:04,409
+I'm gonna keep at it.
+
+393
+00:22:04,411 --> 00:22:06,579
+- I'll see you later, Grinchy.
+- No.
+
+394
+00:22:06,581 --> 00:22:08,580
+You will not see me later!
+
+395
+00:22:08,582 --> 00:22:10,582
+And I will not be celebrating!
+
+396
+00:22:10,584 --> 00:22:11,885
+And that tree...
+
+397
+00:22:11,887 --> 00:22:14,921
+that... tree...
+
+398
+00:22:14,923 --> 00:22:18,592
+has got to go.
+
+399
+00:22:35,609 --> 00:22:38,442
+- Come on, Mom!
+- Cindy-Lou, look over there.
+
+400
+00:22:38,444 --> 00:22:41,113
+- Wow! That's amazing!
+- Thank you.
+
+401
+00:22:42,850 --> 00:22:44,917
+Ooh, a three-eyed sock monster!
+
+402
+00:22:44,919 --> 00:22:47,052
+Awesome robot.
+
+403
+00:22:47,054 --> 00:22:51,455
+Oh, how
+marvelous this time of year is.
+
+404
+00:22:51,457 --> 00:22:56,127
+Welcome, Who-ville, to the
+annual tree-lighting ceremony.
+
+405
+00:22:56,129 --> 00:22:59,997
+How spectacular
+are these ornaments?
+
+406
+00:22:59,999 --> 00:23:02,033
+Look what I made, everybody.
+
+407
+00:23:02,035 --> 00:23:04,035
+It's a Christmas dragon.
+
+408
+00:23:04,037 --> 00:23:06,037
+It came to me in a dream.
+
+409
+00:23:06,039 --> 00:23:07,506
+Oh, man.
+
+410
+00:23:09,943 --> 00:23:12,509
+- Hey, Bartholomew.
+- Hey there, Ms. Who.
+
+411
+00:23:12,511 --> 00:23:14,411
+- Here you go.
+- Got it.
+
+412
+00:23:14,413 --> 00:23:17,048
+Find a good spot for it.
+
+413
+00:23:17,050 --> 00:23:18,582
+There it goes.
+
+414
+00:23:30,062 --> 00:23:33,429
+Now, let's get ready
+to flip that switch
+
+415
+00:23:33,431 --> 00:23:35,531
+and light up the sky!
+
+416
+00:23:35,533 --> 00:23:37,133
+Oh-ho, no.
+
+417
+00:23:37,135 --> 00:23:39,736
+Not on my watch, you don't.
+
+418
+00:23:39,738 --> 00:23:41,737
+See you guys soon.
+Gonna go find Groopert.
+
+419
+00:23:41,739 --> 00:23:44,506
+Okay. Have fun. Bye. Say "bye."
+
+420
+00:23:44,508 --> 00:23:48,044
+Here you go. I hope your big
+brother gets what he deserves.
+
+421
+00:23:48,046 --> 00:23:49,778
+Hey, Groopert.
+How's business?
+
+422
+00:23:49,780 --> 00:23:51,780
+Good. What I can't sell...
+
+423
+00:23:51,782 --> 00:23:53,517
+I can always eat.
+
+424
+00:23:55,119 --> 00:23:58,053
+I need to talk to you about
+something really important.
+
+425
+00:23:58,055 --> 00:24:00,491
+- Okay.
+- Come on, let's go.
+
+426
+00:24:04,195 --> 00:24:07,229
+All right,
+check this out, Groopert.
+
+427
+00:24:07,231 --> 00:24:09,564
+I'm gonna stay up
+on Christmas Eve this year
+
+428
+00:24:09,566 --> 00:24:11,233
+and meet Santa Claus.
+
+429
+00:24:11,235 --> 00:24:13,735
+Whoa, that is crazy!
+
+430
+00:24:13,737 --> 00:24:16,171
+Yeah, I really got
+to talk to him.
+
+431
+00:24:16,173 --> 00:24:17,739
+About what?
+
+432
+00:24:17,741 --> 00:24:19,974
+Well, it's really personal.
+
+433
+00:24:19,976 --> 00:24:24,246
+But I'm going to tell you,
+because you're my best friend.
+
+434
+00:24:24,248 --> 00:24:26,180
+It's about my mom.
+
+435
+00:24:26,182 --> 00:24:30,084
+She works all night
+and takes care of us all day.
+
+436
+00:24:30,086 --> 00:24:32,120
+And it just isn't fair.
+
+437
+00:24:32,122 --> 00:24:35,590
+She acts like she's fine...
+
+438
+00:24:35,592 --> 00:24:39,227
+but I know,
+it's really hard for her.
+
+439
+00:24:39,229 --> 00:24:43,865
+So I figured, if anyone
+could fix that, it'd be Santa.
+
+440
+00:24:43,867 --> 00:24:46,800
+Wow. And I just asked him
+for a turtle.
+
+441
+00:24:46,802 --> 00:24:48,802
+Here we go!
+
+442
+00:24:48,804 --> 00:24:52,206
+- Oh. It's starting!
+- Okay, Who-ville, it is time
+
+443
+00:24:52,208 --> 00:24:55,542
+to light this beautiful tree.
+
+444
+00:24:55,544 --> 00:24:58,946
+...17, 18, 19 and 20.
+
+445
+00:25:00,883 --> 00:25:04,219
+Okay. Lock and load.
+
+446
+00:25:06,655 --> 00:25:08,789
+All right,
+just attach this here,
+
+447
+00:25:08,791 --> 00:25:10,791
+and we'll be ready to launch.
+
+448
+00:25:14,629 --> 00:25:17,097
+I know.
+I wish I could see
+
+449
+00:25:17,099 --> 00:25:18,965
+the look on their faces...
+
+450
+00:25:18,967 --> 00:25:21,534
+Whoa!
+
+451
+00:25:21,536 --> 00:25:24,136
+Oh, boy! Oh, boy! Oh, boy!
+Oh, boy! Oh, boy!
+
+452
+00:25:24,138 --> 00:25:26,772
+Oh, boy! Oh, boy! Hold on, hold on! Aah!
+
+453
+00:25:26,774 --> 00:25:28,209
+Whew! Oh, boy.
+
+454
+00:25:29,744 --> 00:25:31,879
+Whoa... okay, oh, boy.
+
+455
+00:25:36,550 --> 00:25:38,985
+That could've been
+so much worse.
+
+456
+00:25:38,987 --> 00:25:41,153
+Aah...!
+
+457
+00:25:42,656 --> 00:25:44,290
+Let's begin the countdown.
+
+458
+00:25:45,692 --> 00:25:48,593
+Ten! Nine!
+
+459
+00:25:48,595 --> 00:25:51,163
+Eight! Seven!
+
+460
+00:25:51,165 --> 00:25:52,697
+Six!
+
+461
+00:25:52,699 --> 00:25:55,000
+Five! Four!
+
+462
+00:25:55,002 --> 00:25:57,068
+- Three! Two!
+- Hey!
+
+463
+00:25:57,070 --> 00:25:58,770
+My dragon can fly!
+
+464
+00:25:58,772 --> 00:26:00,805
+- One!
+- Oh, no, no, no, no.
+
+465
+00:26:03,143 --> 00:26:04,609
+Oh, my.
+
+466
+00:26:04,611 --> 00:26:06,077
+No, no, no, no. No!
+
+467
+00:26:06,079 --> 00:26:08,179
+No! No! Aah!
+
+468
+00:26:18,058 --> 00:26:20,791
+- Whoa!
+- Wow!
+
+469
+00:26:20,793 --> 00:26:23,294
+Oh, it's beautiful.
+
+470
+00:26:23,296 --> 00:26:24,828
+There it is.
+
+471
+00:26:24,830 --> 00:26:29,600
+The most beautiful tree
+Who-ville has ever seen.
+
+472
+00:26:29,602 --> 00:26:31,702
+Oh, oh! No! No!
+
+473
+00:26:31,704 --> 00:26:33,137
+Everyone,
+
+474
+00:26:33,139 --> 00:26:35,305
+have a wonderful season.
+
+475
+00:26:40,812 --> 00:26:43,213
+No.
+
+476
+00:26:43,215 --> 00:26:45,215
+No.
+
+477
+00:26:45,217 --> 00:26:47,251
+<i>He walked through the crowd,</i>
+
+478
+00:26:47,253 --> 00:26:48,485
+<i>and the sound and the lights...</i>
+
+479
+00:26:48,487 --> 00:26:51,120
+♪ Ring-a-round the rosies,
+a pocket full of posies... ♪
+
+480
+00:26:51,122 --> 00:26:54,223
+<i>...and his ears heard the thump
+of their joy and delights.</i>
+
+481
+00:26:54,225 --> 00:26:58,628
+<i>And it took him right back
+to his earliest years,</i>
+
+482
+00:26:58,630 --> 00:27:03,833
+<i>to that lost, lonely boy
+who cried all of those tears.</i>
+
+483
+00:27:03,835 --> 00:27:06,269
+<i>That lost, lonely boy,</i>
+
+484
+00:27:06,271 --> 00:27:08,805
+<i>isolated and sad,</i>
+
+485
+00:27:08,807 --> 00:27:11,140
+<i>with no home of his own,</i>
+
+486
+00:27:11,142 --> 00:27:13,844
+<i>no mom and no dad.</i>
+
+487
+00:27:19,083 --> 00:27:21,217
+<i>And as the Grinch
+looked around,</i>
+
+488
+00:27:21,219 --> 00:27:23,921
+<i>he felt downright scared...</i>
+
+489
+00:27:25,255 --> 00:27:27,789
+<i>...as he remembered
+that Christmas</i>
+
+490
+00:27:27,791 --> 00:27:30,425
+<i>where nobody cared.</i>
+
+491
+00:27:30,427 --> 00:27:32,894
+<i>Where nobody showed,</i>
+
+492
+00:27:32,896 --> 00:27:35,063
+<i>not even a flea.</i>
+
+493
+00:27:35,065 --> 00:27:37,065
+<i>And there were no cards,</i>
+
+494
+00:27:37,067 --> 00:27:39,767
+<i>no gifts and no tree.</i>
+
+495
+00:27:43,240 --> 00:27:46,674
+<i>And as he watched other kids...</i>
+
+496
+00:27:46,676 --> 00:27:51,313
+- Woop!
+- <i>...one thing became clear:</i>
+
+497
+00:27:51,315 --> 00:27:55,983
+<i>that this was the single
+worst day of the year.</i>
+
+498
+00:27:58,821 --> 00:28:01,856
+<i>And now here it was,
+that day once again,</i>
+
+499
+00:28:01,858 --> 00:28:05,059
+<i>and he felt all those feelings
+he felt way back when,</i>
+
+500
+00:28:05,061 --> 00:28:07,194
+<i>when he'd watch
+Whos young and old</i>
+
+501
+00:28:07,196 --> 00:28:09,930
+<i>all sit down to feast,
+and they'd feast,</i>
+
+502
+00:28:09,932 --> 00:28:11,365
+<i>and they'd feast,</i>
+
+503
+00:28:11,367 --> 00:28:13,766
+<i>and they'd feast,
+feast, feast, feast.</i>
+
+504
+00:28:15,037 --> 00:28:17,204
+<i>They'd feast on Who-pudding</i>
+
+505
+00:28:17,206 --> 00:28:19,973
+<i>and rare Who roast beast.</i>
+
+506
+00:28:19,975 --> 00:28:24,244
+<i>Which is something the Grinch
+could not stand in the least.</i>
+
+507
+00:28:24,246 --> 00:28:26,980
+<i>And then they'd do something</i>
+
+508
+00:28:26,982 --> 00:28:29,382
+<i>he liked least of all.</i>
+
+509
+00:28:29,384 --> 00:28:32,418
+<i>Every Who down in Who-ville,
+the tall and the small,</i>
+
+510
+00:28:32,420 --> 00:28:36,022
+<i>would stand close together
+with Christmas bells ringing.</i>
+
+511
+00:28:36,024 --> 00:28:37,723
+<i>They'd stand hand in hand,</i>
+
+512
+00:28:37,725 --> 00:28:40,393
+<i>and the Whos
+would start singing.</i>
+
+513
+00:28:40,395 --> 00:28:42,061
+♪ Fah who foraze ♪
+
+514
+00:28:42,063 --> 00:28:43,896
+♪ Dah who doraze ♪
+
+515
+00:28:43,898 --> 00:28:48,133
+♪ Welcome Christmas,
+come this way ♪
+
+516
+00:28:48,135 --> 00:28:50,202
+♪ Fah who foraze ♪
+
+517
+00:28:50,204 --> 00:28:52,204
+♪ Dah who doraze ♪
+
+518
+00:28:52,206 --> 00:28:56,275
+♪ Welcome Christmas,
+Christmas Day ♪
+
+519
+00:28:56,277 --> 00:28:57,876
+♪ Welcome, welcome ♪
+
+520
+00:28:57,878 --> 00:29:00,078
+♪ Fah who rahmus ♪
+
+521
+00:29:00,080 --> 00:29:01,480
+♪ Welcome, welcome... ♪
+
+522
+00:29:01,482 --> 00:29:04,416
+They'll sing, and they'll sing,
+
+523
+00:29:04,418 --> 00:29:07,986
+and they'll sing,
+sing, sing, sing!
+
+524
+00:29:07,988 --> 00:29:09,955
+<i>Yes, he couldn't recall</i>
+
+525
+00:29:09,957 --> 00:29:12,424
+<i>without feeling the sting.</i>
+
+526
+00:29:12,426 --> 00:29:15,260
+<i>So the Grinch
+finally declared...</i>
+
+527
+00:29:15,262 --> 00:29:19,132
+I must stop this whole thing.
+
+528
+00:29:29,876 --> 00:29:31,209
+Why?
+
+529
+00:29:31,211 --> 00:29:34,512
+For 53 years,
+I've put up with it.
+
+530
+00:29:34,514 --> 00:29:36,780
+Now...
+
+531
+00:29:36,782 --> 00:29:41,085
+I must stop this Christmas
+from coming.
+
+532
+00:29:41,087 --> 00:29:42,353
+But how?
+
+533
+00:29:50,363 --> 00:29:53,330
+<i>Then he got an idea.</i>
+
+534
+00:29:53,332 --> 00:29:55,899
+<i>An awful idea.</i>
+
+535
+00:29:55,901 --> 00:30:00,036
+<i>The Grinch got
+a wonderful, awful idea.</i>
+
+536
+00:30:00,038 --> 00:30:03,442
+<i>I know just what to do.</i>
+
+537
+00:30:05,077 --> 00:30:09,045
+<i>I'm going to steal
+their Christmas.</i>
+
+538
+00:30:17,154 --> 00:30:19,221
+All the trimmings,
+
+539
+00:30:19,223 --> 00:30:21,223
+all the trappings,
+
+540
+00:30:21,225 --> 00:30:24,260
+all their gifts and garlands!
+
+541
+00:30:24,262 --> 00:30:27,029
+When they wake
+and see it's gone,
+
+542
+00:30:27,031 --> 00:30:31,100
+then all their joy and
+happiness will be gone as well.
+
+543
+00:30:33,271 --> 00:30:35,371
+So prepare yourself, Max.
+
+544
+00:30:35,373 --> 00:30:37,239
+For tomorrow...
+
+545
+00:30:37,241 --> 00:30:40,944
+We begin!
+
+546
+00:31:21,618 --> 00:31:24,318
+Genius starts
+with the abs, Max.
+
+547
+00:31:26,221 --> 00:31:28,522
+It's go time.
+
+548
+00:31:28,524 --> 00:31:30,324
+♪ What are the rules
+for breakfast today? ♪
+
+549
+00:31:30,326 --> 00:31:32,225
+♪ What are the words
+I'm forbidden to say? ♪
+
+550
+00:31:32,227 --> 00:31:33,927
+♪ I need to let my hair down ♪
+
+551
+00:31:33,929 --> 00:31:36,596
+♪ And grow it like
+a real ah, ah, ah. ♪
+
+552
+00:31:36,598 --> 00:31:38,565
+And now...
+
+553
+00:31:38,567 --> 00:31:41,934
+the question we
+have all been waiting for:
+
+554
+00:31:41,936 --> 00:31:44,504
+How will I steal Christmas?
+
+555
+00:31:44,506 --> 00:31:49,141
+Well, prepare to have
+your little doggy mind blown.
+
+556
+00:31:49,143 --> 00:31:50,278
+Poof.
+
+557
+00:32:00,054 --> 00:32:01,520
+Ta-da!
+
+558
+00:32:01,522 --> 00:32:03,522
+That's right,
+
+559
+00:32:03,524 --> 00:32:05,624
+I become...
+
+560
+00:32:05,626 --> 00:32:08,227
+Santa Claus.
+
+561
+00:32:08,229 --> 00:32:10,396
+But instead of giving
+
+562
+00:32:10,398 --> 00:32:13,332
+all the joy and happiness,
+I'll take it away.
+
+563
+00:32:13,334 --> 00:32:16,602
+If he can deliver Christmas to
+the whole world in one night,
+
+564
+00:32:16,604 --> 00:32:21,039
+then I can certainly steal it
+from little old Who-ville.
+
+565
+00:32:21,041 --> 00:32:23,174
+I mean, come on.
+
+566
+00:32:23,176 --> 00:32:25,944
+What's Santa have that I don't?
+
+567
+00:32:27,280 --> 00:32:29,280
+That's hurtful.
+
+568
+00:32:29,282 --> 00:32:32,050
+Um, what are you doing
+
+569
+00:32:32,052 --> 00:32:33,718
+with my bowling ball?
+
+570
+00:32:33,720 --> 00:32:36,187
+Chasing it.
+
+571
+00:32:36,189 --> 00:32:37,522
+And you're taking it where?
+
+572
+00:32:37,524 --> 00:32:39,457
+- It's a secret.
+- All right.
+
+573
+00:32:39,459 --> 00:32:41,393
+But not without
+breakfast. Catch!
+
+574
+00:32:41,395 --> 00:32:44,262
+Whoa! Waffles! My favorite!
+
+575
+00:32:44,264 --> 00:32:46,063
+Thanks! See you guys later!
+
+576
+00:32:46,065 --> 00:32:48,600
+Here we go.
+
+577
+00:32:48,602 --> 00:32:51,469
+- Hey, Cindy-Lou.
+- Oh, hey there, Mr. Cubbins.
+
+578
+00:32:55,141 --> 00:32:57,309
+Ca-caw! Ca-caw!
+
+579
+00:32:58,645 --> 00:32:59,979
+Woot, woot.
+
+580
+00:33:03,449 --> 00:33:05,551
+- Ready.
+- All right. Let's go.
+
+581
+00:33:08,120 --> 00:33:11,055
+Whoa!
+
+582
+00:33:17,630 --> 00:33:19,328
+Hold on!
+
+583
+00:33:19,330 --> 00:33:21,330
+Whoo!
+
+584
+00:33:21,332 --> 00:33:22,668
+Yeah!
+
+585
+00:33:29,507 --> 00:33:32,010
+Let's go, let's go.
+Let's move.
+
+586
+00:33:35,713 --> 00:33:37,613
+Hang on.
+
+587
+00:33:37,615 --> 00:33:40,485
+- Whoo!
+- And... dismount.
+
+588
+00:33:46,724 --> 00:33:49,792
+So, what do we know?
+
+589
+00:33:49,794 --> 00:33:52,127
+Waffles are delicious.
+
+590
+00:33:52,129 --> 00:33:54,564
+Super delicious. But I meant
+about meeting Santa.
+
+591
+00:33:54,566 --> 00:33:57,265
+We know no one's ever done it.
+
+592
+00:33:57,267 --> 00:33:58,366
+Hmm...
+
+593
+00:33:58,368 --> 00:34:00,368
+Okay. How about this?
+
+594
+00:34:00,370 --> 00:34:02,370
+I'm going to sit
+in the living room
+
+595
+00:34:02,372 --> 00:34:05,140
+with my eyes wide open
+like this,
+
+596
+00:34:05,142 --> 00:34:09,144
+and if I start to drift off,
+I'll just open them wider!
+
+597
+00:34:09,146 --> 00:34:12,112
+Um, I'm pretty sure
+you're gonna fall asleep.
+
+598
+00:34:12,114 --> 00:34:14,549
+- And by the time you wake up...
+- He'll be gone.
+
+599
+00:34:14,551 --> 00:34:17,151
+Nothing but cookie crumbs.
+
+600
+00:34:17,153 --> 00:34:19,153
+Yeah, you're right.
+
+601
+00:34:19,155 --> 00:34:21,155
+- I got it!
+- Tell me!
+
+602
+00:34:21,157 --> 00:34:22,657
+Maple syrup.
+
+603
+00:34:22,659 --> 00:34:24,559
+All right, maple syrup.
+
+604
+00:34:24,561 --> 00:34:26,795
+We pour it on the roof,
+the reindeer get stuck,
+
+605
+00:34:26,797 --> 00:34:28,629
+and then they can't fly away.
+
+606
+00:34:28,631 --> 00:34:29,798
+Science!
+
+607
+00:34:29,800 --> 00:34:31,665
+Won't the syrup just freeze?
+
+608
+00:34:31,667 --> 00:34:33,434
+- Good point.
+- Also, how do we get
+
+609
+00:34:33,436 --> 00:34:35,302
+all that syrup on the roof?
+
+610
+00:34:35,304 --> 00:34:36,770
+Yeah, I got nothing.
+
+611
+00:34:39,575 --> 00:34:41,275
+Wait a minute.
+
+612
+00:34:41,277 --> 00:34:44,177
+- I think I got it.
+- What?
+
+613
+00:34:44,179 --> 00:34:47,681
+We're gonna need
+the whole gang for this one.
+
+614
+00:34:47,683 --> 00:34:49,115
+Okay.
+
+615
+00:34:49,117 --> 00:34:50,518
+If I'm going to become Santa,
+
+616
+00:34:50,520 --> 00:34:53,654
+then I need to get
+into character.
+
+617
+00:34:55,357 --> 00:34:57,357
+All right, let's see.
+
+618
+00:34:57,359 --> 00:34:58,358
+"Christmas Tree."
+
+619
+00:34:58,360 --> 00:34:59,492
+"Christmas Traditions."
+
+620
+00:34:59,494 --> 00:35:00,861
+"Christmas Pudding."
+
+621
+00:35:00,863 --> 00:35:03,096
+How does pudding work its way
+into everything?
+
+622
+00:35:03,098 --> 00:35:05,098
+Where is the Santa stuff?
+
+623
+00:35:05,100 --> 00:35:07,700
+Look at this.
+Little girls and boys giggling
+
+624
+00:35:07,702 --> 00:35:09,469
+over sugarplums.
+
+625
+00:35:09,471 --> 00:35:10,603
+Oh.
+
+626
+00:35:10,605 --> 00:35:12,305
+Look how they did the roof
+
+627
+00:35:12,307 --> 00:35:15,375
+of the gingerbread house
+with vanilla icing.
+
+628
+00:35:15,377 --> 00:35:18,245
+Little... family of gumdrops.
+
+629
+00:35:21,415 --> 00:35:22,749
+So dumb.
+
+630
+00:35:22,751 --> 00:35:24,485
+So, so stupidly dumb.
+
+631
+00:35:25,519 --> 00:35:26,786
+Ah, here we are.
+
+632
+00:35:26,788 --> 00:35:28,554
+"The Legend of Santa Claus."
+
+633
+00:35:28,556 --> 00:35:30,522
+Red suit, white beard,
+
+634
+00:35:30,524 --> 00:35:32,858
+always in a jolly mood.
+
+635
+00:35:32,860 --> 00:35:35,427
+Oh. That's not gonna happen.
+
+636
+00:35:35,429 --> 00:35:37,229
+Oh, well.
+Let's just start
+
+637
+00:35:37,231 --> 00:35:39,733
+by finding ourselves
+some reindeer.
+
+638
+00:35:47,875 --> 00:35:50,274
+Beautiful.
+Isn't it, Max?
+
+639
+00:35:50,276 --> 00:35:52,176
+This, my little friend,
+
+640
+00:35:52,178 --> 00:35:54,412
+is the Rein-Horn.
+
+641
+00:35:54,414 --> 00:35:57,682
+It perfectly re-creates the
+mating call of the reindeer.
+
+642
+00:35:57,684 --> 00:35:59,450
+Behold.
+
+643
+00:36:07,760 --> 00:36:09,460
+Oh. Hey there.
+
+644
+00:36:09,462 --> 00:36:11,862
+Sorry, little goat.
+I was calling for a rein...
+
+645
+00:36:14,300 --> 00:36:15,900
+What was that?!
+
+646
+00:36:15,902 --> 00:36:17,802
+Scram! Skedaddle!
+
+647
+00:36:17,804 --> 00:36:19,804
+Strange goat.
+
+648
+00:36:21,239 --> 00:36:23,406
+Now, reindeer migrate,
+
+649
+00:36:23,408 --> 00:36:26,409
+so maybe we'll catch a few
+headed south for the winter.
+
+650
+00:36:26,411 --> 00:36:28,678
+I also read that they tend
+to mate in densely wooded...
+
+651
+00:36:28,680 --> 00:36:31,781
+Will you stop following us?!
+
+652
+00:36:31,783 --> 00:36:34,284
+Shoo! Away! Go back to the goat farm.
+
+653
+00:36:34,286 --> 00:36:35,819
+Go eat a can.
+
+654
+00:36:38,557 --> 00:36:41,558
+All right, now that that's
+over, back to the task at hand.
+
+655
+00:36:41,560 --> 00:36:44,894
+Whew! It's a little crisp.
+
+656
+00:36:44,896 --> 00:36:47,296
+Oh, it's getting...
+
+657
+00:36:47,298 --> 00:36:49,499
+really... c-cold.
+
+658
+00:36:49,501 --> 00:36:52,301
+Oh, goodness!
+
+659
+00:36:52,303 --> 00:36:53,737
+Can't...
+
+660
+00:36:53,739 --> 00:36:55,939
+feel my lips.
+
+661
+00:36:55,941 --> 00:36:57,941
+Can't... blink.
+
+662
+00:36:57,943 --> 00:37:00,476
+Eyes... frozen!
+
+663
+00:37:03,982 --> 00:37:05,547
+Max...
+
+664
+00:37:05,549 --> 00:37:09,318
+we've hit the mother lode.
+
+665
+00:37:10,354 --> 00:37:12,488
+We'll have 100 reindeer
+
+666
+00:37:12,490 --> 00:37:15,791
+to pull our...
+
+667
+00:37:26,703 --> 00:37:28,805
+Huh?
+
+668
+00:37:32,809 --> 00:37:34,742
+Well, Santa had eight.
+
+669
+00:37:34,744 --> 00:37:37,512
+He looks like he ate
+the other seven.
+
+670
+00:37:38,648 --> 00:37:40,950
+Watch and learn, Max.
+
+671
+00:37:42,318 --> 00:37:43,720
+All right.
+
+672
+00:38:07,443 --> 00:38:08,975
+Aah!
+
+673
+00:38:10,546 --> 00:38:11,778
+Uh-oh.
+
+674
+00:38:11,780 --> 00:38:12,815
+Aah!
+
+675
+00:38:13,849 --> 00:38:14,950
+Aah!
+
+676
+00:38:26,895 --> 00:38:28,627
+Aah! Frozen, stinkin'...
+
+677
+00:38:28,629 --> 00:38:30,429
+Stop. Stop.
+
+678
+00:38:31,933 --> 00:38:34,667
+Onward, my furry friends.
+
+679
+00:38:34,669 --> 00:38:38,404
+We're walking toward destiny.
+
+680
+00:38:45,446 --> 00:38:47,949
+- Let's get in there!
+- Whoo-hoo!
+
+681
+00:38:49,516 --> 00:38:51,784
+All right, you called, we came.
+
+682
+00:38:51,786 --> 00:38:54,019
+- So what's up?
+- Yeah, what's the deal?
+
+683
+00:38:54,021 --> 00:38:56,021
+Thanks for getting here
+so fast, guys.
+
+684
+00:38:56,023 --> 00:38:57,892
+Follow me.
+
+685
+00:38:59,593 --> 00:39:01,693
+So, what's the big secret?
+
+686
+00:39:01,695 --> 00:39:04,796
+Yeah, I don't have very long.
+My parents set the timer.
+
+687
+00:39:04,798 --> 00:39:07,632
+- Dude.
+- Don't ask. It's new.
+
+688
+00:39:07,634 --> 00:39:10,468
+All right, everybody,
+brace yourselves.
+
+689
+00:39:10,470 --> 00:39:12,937
+In exactly 48 hours,
+
+690
+00:39:12,939 --> 00:39:17,542
+we are going to do something
+that's never been done before.
+
+691
+00:39:17,544 --> 00:39:19,476
+We're gonna...
+
+692
+00:39:19,478 --> 00:39:21,813
+trap Santa Claus!
+
+693
+00:39:21,815 --> 00:39:23,413
+♪ Santa Claus ♪
+
+694
+00:39:23,415 --> 00:39:25,952
+♪ Is coming... ♪
+
+695
+00:39:27,520 --> 00:39:30,521
+Trap Santa?
+Why would we want to do that?
+
+696
+00:39:30,523 --> 00:39:32,689
+Duh. To steal all his toys.
+I love it.
+
+697
+00:39:32,691 --> 00:39:34,125
+- Oh, yeah!
+- That's a great idea!
+
+698
+00:39:34,127 --> 00:39:36,393
+No, not to steal his toys.
+
+699
+00:39:36,395 --> 00:39:38,629
+To, um, to talk to him.
+
+700
+00:39:38,631 --> 00:39:41,832
+- What? Why do you want to talk to him?
+- It's personal.
+
+701
+00:39:41,834 --> 00:39:44,568
+- Yeah, it's kind of personal.
+- Well, I don't want
+
+702
+00:39:44,570 --> 00:39:46,435
+to do it if you
+won't tell me why.
+
+703
+00:39:46,437 --> 00:39:48,437
+- What are you talking about, "personal"?
+- Axl,
+
+704
+00:39:48,439 --> 00:39:51,108
+when you asked to borrow $16
+and my mom's suitcase,
+
+705
+00:39:51,110 --> 00:39:53,143
+did I ask you why?
+
+706
+00:39:53,145 --> 00:39:55,511
+- No.
+- And what about you, Ozzy?
+
+707
+00:39:55,513 --> 00:39:57,413
+Remember when you
+got stuck in that...
+
+708
+00:39:57,415 --> 00:39:59,016
+All right, all right, okay.
+Geez.
+
+709
+00:39:59,018 --> 00:40:01,151
+I did it
+because you're my friend,
+
+710
+00:40:01,153 --> 00:40:02,952
+and when something
+matters to you,
+
+711
+00:40:02,954 --> 00:40:05,089
+that means it matters to me.
+
+712
+00:40:06,624 --> 00:40:08,891
+- That's beautiful.
+- Okay, okay, okay.
+
+713
+00:40:08,893 --> 00:40:10,493
+You convinced me.
+
+714
+00:40:10,495 --> 00:40:12,628
+- Count me in, too.
+- All right, we're in.
+
+715
+00:40:12,630 --> 00:40:14,797
+- Great! Now, let's do this.
+- Yeah, let's do this!
+
+716
+00:40:14,799 --> 00:40:16,032
+- Oh, yeah! Awesome!
+- Let's make it happen.
+
+717
+00:40:16,034 --> 00:40:17,432
+Whoa, cool.
+That is so cool.
+
+718
+00:40:17,434 --> 00:40:19,869
+- To the bikes!
+- Yeah!
+
+719
+00:40:26,577 --> 00:40:28,710
+- Cindy-Lou! Dinnertime!
+- Let's go, guys! Dinnertime!
+
+720
+00:40:28,712 --> 00:40:30,412
+- Time to eat!
+- Ooh, dinner.
+
+721
+00:40:30,414 --> 00:40:32,148
+All right, we meet
+first thing in the morning.
+
+722
+00:40:32,150 --> 00:40:33,748
+- Okay.
+- All right, see you tomorrow.
+
+723
+00:40:33,750 --> 00:40:36,017
+- See you guys in the morning.
+- Ozzy! Timer!
+
+724
+00:40:36,019 --> 00:40:37,953
+Okay, Mom.
+
+725
+00:40:52,836 --> 00:40:54,970
+This is the loudest snow
+
+726
+00:40:54,972 --> 00:40:57,438
+I've ever heard in my life.
+
+727
+00:40:57,440 --> 00:40:59,473
+You two, go around the back.
+
+728
+00:40:59,475 --> 00:41:02,877
+Wait for me to drop
+the sleigh from the roof. Okay?
+
+729
+00:41:04,480 --> 00:41:06,780
+Go, team.
+
+730
+00:41:20,129 --> 00:41:21,130
+Ah-ah-ah-ah.
+
+731
+00:41:29,671 --> 00:41:30,670
+Shh.
+
+732
+00:41:36,544 --> 00:41:38,912
+Aah!
+
+733
+00:41:38,914 --> 00:41:39,981
+Aah!
+
+734
+00:41:46,988 --> 00:41:48,121
+Whew!
+
+735
+00:41:54,561 --> 00:41:56,162
+Aah!
+
+736
+00:41:56,164 --> 00:41:57,829
+Aah...!
+
+737
+00:42:05,839 --> 00:42:08,106
+What? Wha-What's going on?
+
+738
+00:42:08,108 --> 00:42:10,575
+Hey. Who taught Mabel
+
+739
+00:42:10,577 --> 00:42:12,210
+how to use the doorbell?
+
+740
+00:42:12,212 --> 00:42:13,712
+Man, that's awesome.
+
+741
+00:42:13,714 --> 00:42:15,783
+You smart little dog.
+
+742
+00:42:22,755 --> 00:42:26,091
+♪ Mother and child ♪
+
+743
+00:42:26,093 --> 00:42:29,660
+- ♪ Holy infant ♪
+- Huh? What's this?
+
+744
+00:42:29,662 --> 00:42:33,931
+♪ So tender and mild ♪
+
+745
+00:42:33,933 --> 00:42:38,569
+♪ Sleep in heavenly ♪
+
+746
+00:42:38,571 --> 00:42:42,573
+♪ Peace ♪
+
+747
+00:42:42,575 --> 00:42:44,208
+♪ Sleep ♪
+
+748
+00:42:44,210 --> 00:42:46,243
+♪ In heavenly ♪
+
+749
+00:42:46,245 --> 00:42:48,781
+♪ Peace. ♪
+
+750
+00:42:53,585 --> 00:42:57,056
+All right, here it comes.
+Get ready.
+
+751
+00:43:07,599 --> 00:43:08,832
+Aah!
+
+752
+00:43:11,036 --> 00:43:12,802
+- ♪ Jingle bells, jingle bells ♪
+- You tell...
+
+753
+00:43:12,804 --> 00:43:14,304
+What? Oh!
+
+754
+00:43:14,306 --> 00:43:16,840
+Oh, look at that.
+Mabel is delivering cakes now.
+
+755
+00:43:16,842 --> 00:43:19,342
+I mean, is this
+the best Christmas, or what?
+
+756
+00:43:19,344 --> 00:43:21,845
+Oh... whoa!
+
+757
+00:43:21,847 --> 00:43:24,813
+Whoa...!
+
+758
+00:43:24,815 --> 00:43:27,583
+♪ Oh, what fun it is to ride ♪
+
+759
+00:43:27,585 --> 00:43:30,153
+♪ In a one-horse open sleigh... ♪
+
+760
+00:43:30,155 --> 00:43:33,122
+Oh! Holy moly!
+
+761
+00:43:33,124 --> 00:43:35,090
+♪ Open sleigh... ♪
+
+762
+00:43:35,092 --> 00:43:37,126
+Man, I don't know
+what's in this cake,
+
+763
+00:43:37,128 --> 00:43:39,128
+but I think I just saw
+Santa Claus.
+
+764
+00:43:39,130 --> 00:43:41,632
+Let me get another piece.
+
+765
+00:43:46,070 --> 00:43:48,170
+Today was great.
+
+766
+00:43:48,172 --> 00:43:50,372
+We did mean things,
+
+767
+00:43:50,374 --> 00:43:53,208
+and we did them in style.
+
+768
+00:43:53,210 --> 00:43:57,012
+Max, you know the rules.
+
+769
+00:43:57,014 --> 00:43:58,646
+You sleep in your bed,
+
+770
+00:43:58,648 --> 00:44:01,015
+and I sleep in...
+
+771
+00:44:01,017 --> 00:44:03,918
+Oh, no, no, not you, too.
+I don't believe this.
+
+772
+00:44:03,920 --> 00:44:06,254
+Max, did you teach him
+puppy eyes?
+
+773
+00:44:12,962 --> 00:44:14,228
+Fine.
+
+774
+00:44:14,230 --> 00:44:16,230
+This one time.
+
+775
+00:44:31,080 --> 00:44:32,813
+Ah...
+
+776
+00:44:32,815 --> 00:44:34,714
+Ah.
+
+777
+00:45:37,878 --> 00:45:41,746
+Mmm! Now, that is
+a great cup of coffee.
+
+778
+00:45:45,485 --> 00:45:49,187
+Max, this morning, you and I
+need to do some recon.
+
+779
+00:45:49,189 --> 00:45:51,755
+Fred, you just sit right there.
+
+780
+00:45:51,757 --> 00:45:53,258
+And don't touch anything.
+
+781
+00:45:55,128 --> 00:45:57,162
+Intel, Max,
+that's what we're after.
+
+782
+00:45:57,164 --> 00:45:59,029
+How many houses are
+in Who-ville,
+
+783
+00:45:59,031 --> 00:46:00,431
+and how many Whos?
+
+784
+00:46:00,433 --> 00:46:03,967
+How many wreaths and trees
+and chimney flues?
+
+785
+00:46:03,969 --> 00:46:06,236
+I'll be in your ear
+the whole time,
+
+786
+00:46:06,238 --> 00:46:07,371
+and whatever you're seeing,
+
+787
+00:46:07,373 --> 00:46:09,806
+I'll be seeing on the monitor.
+
+788
+00:46:09,808 --> 00:46:11,408
+Ready? Now, off you go, Max.
+
+789
+00:46:11,410 --> 00:46:13,377
+Fly, boy.
+
+790
+00:46:13,379 --> 00:46:15,078
+Fly!
+
+791
+00:46:23,355 --> 00:46:26,490
+Max, stop socializing.
+
+792
+00:46:26,492 --> 00:46:30,061
+Now, let's go in for a look.
+
+793
+00:46:31,397 --> 00:46:33,963
+Okay, six houses on Oak Street.
+
+794
+00:46:33,965 --> 00:46:35,131
+Oh, watch out!
+
+795
+00:46:35,133 --> 00:46:36,933
+Wha...?
+
+796
+00:46:36,935 --> 00:46:40,203
+- Huh.
+- Okay, go. Go, go, go.
+
+797
+00:46:40,205 --> 00:46:42,471
+Now, cut through Main Street
+and survey the south side.
+
+798
+00:46:42,473 --> 00:46:44,173
+Merry Christmas!
+
+799
+00:46:44,175 --> 00:46:46,309
+Look at those
+greedy little gift monsters,
+
+800
+00:46:46,311 --> 00:46:49,811
+loading themselves up
+with Christmas junk.
+
+801
+00:46:49,813 --> 00:46:52,215
+- Okay, Max, turn right here.
+- Whoa!
+
+802
+00:46:52,217 --> 00:46:54,816
+So I woke up this morning,
+got dressed, had my coffee,
+
+803
+00:46:54,818 --> 00:46:56,252
+went outside,
+looked on the roof.
+
+804
+00:46:56,254 --> 00:46:57,953
+My sleigh was gone.
+
+805
+00:46:57,955 --> 00:46:59,955
+My, my, I wonder who took it.
+
+806
+00:47:01,392 --> 00:47:03,426
+Okay, let's see here.
+If we do...
+
+807
+00:47:03,428 --> 00:47:05,026
+28 houses an hour
+
+808
+00:47:05,028 --> 00:47:07,563
+for six hours,
+that would be sausages.
+
+809
+00:47:07,565 --> 00:47:08,930
+Sausages?!
+
+810
+00:47:08,932 --> 00:47:11,969
+Max! Don't even think about it.
+
+811
+00:47:15,472 --> 00:47:16,473
+Max!
+
+812
+00:47:20,077 --> 00:47:21,276
+Max, are you okay?
+
+813
+00:47:21,278 --> 00:47:22,910
+Max?
+
+814
+00:47:22,912 --> 00:47:24,212
+Oh, hey, look, it's me.
+
+815
+00:47:24,214 --> 00:47:26,248
+Oh, dear. Aah!
+
+816
+00:47:26,250 --> 00:47:28,882
+Bad dog.
+
+817
+00:47:28,884 --> 00:47:31,421
+Fred, we're home!
+
+818
+00:47:32,422 --> 00:47:34,855
+Fred...?
+
+819
+00:47:34,857 --> 00:47:37,224
+What are you... doing?
+
+820
+00:47:41,897 --> 00:47:43,230
+Okay.
+
+821
+00:47:43,232 --> 00:47:45,334
+Come on, we got work to do.
+
+822
+00:47:47,570 --> 00:47:50,106
+Now, let's plan our route.
+
+823
+00:47:52,275 --> 00:47:54,575
+First, now, we go south,
+quick jaunt to the east,
+
+824
+00:47:54,577 --> 00:47:57,478
+and then this house, skip
+the subdivision for the moment,
+
+825
+00:47:57,480 --> 00:48:00,381
+knock off the entire
+southeast quadrant of the town,
+
+826
+00:48:00,383 --> 00:48:02,616
+and then we finish it all up...
+
+827
+00:48:02,618 --> 00:48:05,385
+on Whistling Who Lane.
+
+828
+00:48:05,387 --> 00:48:07,920
+That's 223 houses
+
+829
+00:48:07,922 --> 00:48:10,490
+and only seven hours
+of darkness to work with.
+
+830
+00:48:10,492 --> 00:48:14,327
+That means we have to be
+fast and focused.
+
+831
+00:48:14,329 --> 00:48:18,031
+And believe you me,
+there will be temptation...
+
+832
+00:48:18,033 --> 00:48:20,133
+all around us.
+
+833
+00:48:20,135 --> 00:48:22,468
+♪ Raindrops on roses ♪
+
+834
+00:48:22,470 --> 00:48:24,437
+♪ And whiskers on kittens... ♪
+
+835
+00:48:24,439 --> 00:48:26,306
+Behold! The present.
+
+836
+00:48:26,308 --> 00:48:28,374
+This is our enemy.
+
+837
+00:48:28,376 --> 00:48:30,942
+You will want to unwrap it.
+
+838
+00:48:30,944 --> 00:48:34,379
+And... play with it.
+
+839
+00:48:34,381 --> 00:48:36,081
+♪ These are a few ♪
+
+840
+00:48:36,083 --> 00:48:37,482
+♪ Of my favorite things... ♪
+
+841
+00:48:37,484 --> 00:48:40,185
+But you must not!
+
+842
+00:48:40,187 --> 00:48:42,287
+And if you can get past
+the present,
+
+843
+00:48:42,289 --> 00:48:44,525
+the only obstacle left is...
+
+844
+00:48:46,226 --> 00:48:48,894
+...the cookie.
+
+845
+00:48:48,896 --> 00:48:51,496
+Look at it in all
+its red, sugary splendor.
+
+846
+00:48:52,899 --> 00:48:54,633
+No, no, no.
+Look at yourselves.
+
+847
+00:48:54,635 --> 00:48:56,603
+Discipline. We must...
+
+848
+00:49:00,106 --> 00:49:02,474
+...resist.
+
+849
+00:49:02,476 --> 00:49:05,309
+- Are you ready?
+- Almost.
+
+850
+00:49:05,311 --> 00:49:07,178
+Good. Think jolly.
+
+851
+00:49:07,180 --> 00:49:09,547
+- And fat.
+- Okay, I'm ready.
+
+852
+00:49:09,549 --> 00:49:11,317
+All right, quick.
+Everybody, hide.
+
+853
+00:49:12,352 --> 00:49:14,118
+Three, two, one,
+
+854
+00:49:14,120 --> 00:49:15,386
+cue Santa!
+
+855
+00:49:15,388 --> 00:49:18,089
+That means you, Groopert.
+
+856
+00:49:22,195 --> 00:49:25,463
+Ho, ho, ho, ho.
+Look at this pretty house.
+
+857
+00:49:25,465 --> 00:49:27,631
+I will leave presents
+for the people.
+
+858
+00:49:27,633 --> 00:49:29,567
+Come on, it's not
+the school play, dude.
+
+859
+00:49:29,569 --> 00:49:32,335
+- Then why do I have to wear the outfit?
+- Groopert!
+
+860
+00:49:32,337 --> 00:49:34,170
+Focus. Just get the cookie!
+
+861
+00:49:34,172 --> 00:49:36,540
+But I can see the strings.
+
+862
+00:49:36,542 --> 00:49:38,642
+Stop worrying.
+It'll be dark at night.
+
+863
+00:49:38,644 --> 00:49:40,543
+What if he has a flashlight?
+
+864
+00:49:40,545 --> 00:49:42,712
+Have you ever seen a picture
+of Santa with a flashlight?
+
+865
+00:49:42,714 --> 00:49:44,514
+- No, but I just...
+- Groopert,
+
+866
+00:49:44,516 --> 00:49:46,282
+just pick up the cookie!
+
+867
+00:49:46,284 --> 00:49:49,119
+Hmm. What do we have here?
+
+868
+00:49:49,121 --> 00:49:51,922
+A delicious little cookie.
+
+869
+00:49:54,126 --> 00:49:55,291
+Aah!
+
+870
+00:49:55,293 --> 00:49:57,329
+Groopert!
+
+871
+00:49:58,963 --> 00:50:00,095
+Groopert?
+
+872
+00:50:00,097 --> 00:50:02,131
+Uh, hey, guys.
+
+873
+00:50:02,133 --> 00:50:05,602
+Do I still get to eat
+the cookie?
+
+874
+00:50:08,607 --> 00:50:13,976
+All right, so I tinkered
+with our sleigh a bit.
+
+875
+00:50:13,978 --> 00:50:15,446
+Behold!
+
+876
+00:50:26,122 --> 00:50:27,489
+Look at this, Max.
+
+877
+00:50:27,491 --> 00:50:30,024
+Now you'll be riding in style.
+
+878
+00:50:30,026 --> 00:50:32,293
+A throne for a barking prince.
+
+879
+00:50:32,295 --> 00:50:33,762
+How do you like that?
+
+880
+00:50:35,498 --> 00:50:38,099
+All right, Fred,
+you are the engine
+
+881
+00:50:38,101 --> 00:50:39,567
+of this great machine.
+
+882
+00:50:39,569 --> 00:50:40,769
+Understood?
+
+883
+00:50:40,771 --> 00:50:42,703
+Good.
+
+884
+00:50:42,705 --> 00:50:45,239
+Now, remember,
+this is just a practice run,
+
+885
+00:50:45,241 --> 00:50:47,375
+but on this team
+we practice like we play.
+
+886
+00:50:47,377 --> 00:50:50,146
+So let's leave it all
+out on the snow.
+
+887
+00:50:52,515 --> 00:50:55,416
+Oh! Okay!
+
+888
+00:50:55,418 --> 00:50:59,219
+All right, how about that?
+
+889
+00:50:59,221 --> 00:51:02,222
+Now, let's pick up the pace
+and see how she handles.
+
+890
+00:51:02,224 --> 00:51:03,691
+Oh, ho-ho!
+
+891
+00:51:06,663 --> 00:51:09,196
+Hang on!
+
+892
+00:51:09,198 --> 00:51:11,631
+No, no, no. No problem.
+
+893
+00:51:11,633 --> 00:51:13,569
+It's all... under control.
+
+894
+00:51:17,139 --> 00:51:18,207
+Whoa!
+
+895
+00:51:20,075 --> 00:51:21,374
+Aah!
+
+896
+00:51:26,248 --> 00:51:27,246
+Aah!
+
+897
+00:51:33,454 --> 00:51:35,822
+We're doing it, Max.
+We are doing it!
+
+898
+00:51:35,824 --> 00:51:38,125
+We will not be...
+
+899
+00:51:39,627 --> 00:51:41,560
+...stopped?
+
+900
+00:51:41,562 --> 00:51:43,729
+What happened? Fred?
+
+901
+00:51:43,731 --> 00:51:46,699
+Oh, um...
+
+902
+00:51:46,701 --> 00:51:49,435
+sorry, but we don't need
+any more reindeer.
+
+903
+00:51:49,437 --> 00:51:51,770
+No. Go. Get. Shoo.
+
+904
+00:51:51,772 --> 00:51:53,539
+I have what I need.
+
+905
+00:52:12,526 --> 00:52:14,728
+It's okay, Fred.
+
+906
+00:52:34,179 --> 00:52:36,881
+On our own again, Max.
+
+907
+00:52:42,421 --> 00:52:45,289
+<i>It was the day
+before Christmas,</i>
+
+908
+00:52:45,291 --> 00:52:47,357
+<i>and the Whos were abuzz,</i>
+
+909
+00:52:47,359 --> 00:52:50,561
+<i>all doing the things
+that a Christmas Who does.</i>
+
+910
+00:52:52,431 --> 00:52:56,198
+<i>Some were out buying presents,
+others just milled about.</i>
+
+911
+00:52:56,200 --> 00:52:58,802
+- There you go, sir.
+- <i>But the whole town felt joyous,</i>
+
+912
+00:52:58,804 --> 00:53:00,904
+<i>of that there was no doubt.</i>
+
+913
+00:53:00,906 --> 00:53:05,308
+<i>The weather was perfect,
+and soon snow would fall.</i>
+
+914
+00:53:05,310 --> 00:53:06,877
+- <i>This surely would be...</i>
+- All right, everyone ready?
+
+915
+00:53:06,879 --> 00:53:09,880
+<i>...the best Christmas of all.</i>
+
+916
+00:53:21,359 --> 00:53:23,292
+Max! There you are.
+
+917
+00:53:23,294 --> 00:53:24,694
+Check this out.
+
+918
+00:53:24,696 --> 00:53:26,429
+Whoa! Ah.
+
+919
+00:53:26,431 --> 00:53:28,931
+I've been making
+lots of cool... Whoa!
+
+920
+00:53:28,933 --> 00:53:31,801
+...stuff!
+
+921
+00:53:31,803 --> 00:53:33,535
+Ooh, more coffee.
+
+922
+00:53:35,238 --> 00:53:37,773
+It's gonna be a big night.
+
+923
+00:53:37,775 --> 00:53:39,875
+We got all the gizmos
+and gazmos we need,
+
+924
+00:53:39,877 --> 00:53:42,444
+but we still don't have
+the proper outfit.
+
+925
+00:53:42,446 --> 00:53:45,547
+Come on, let's do
+a little stitching.
+
+926
+00:53:45,549 --> 00:53:47,782
+♪ Uh, gifts I'm preparing ♪
+
+927
+00:53:47,784 --> 00:53:49,651
+♪ For some Christmas sharing ♪
+
+928
+00:53:49,653 --> 00:53:54,221
+♪ But I pause because ♪
+
+929
+00:53:54,223 --> 00:53:55,590
+♪ Hanging my stocking ♪
+
+930
+00:53:55,592 --> 00:53:57,826
+♪ I can hear a knocking ♪
+
+931
+00:53:57,828 --> 00:54:00,629
+♪ Is that you, Santa Claus? ♪
+
+932
+00:54:09,639 --> 00:54:12,306
+There's only one thing
+left to do.
+
+933
+00:54:12,308 --> 00:54:13,975
+♪ That's him, all right. ♪
+
+934
+00:54:15,511 --> 00:54:17,311
+Max?
+
+935
+00:54:17,313 --> 00:54:19,313
+Do you know what you are?
+
+936
+00:54:19,315 --> 00:54:21,915
+You are a sturdy little fella.
+
+937
+00:54:23,419 --> 00:54:25,319
+And loyal.
+
+938
+00:54:25,321 --> 00:54:26,687
+Very loyal.
+
+939
+00:54:26,689 --> 00:54:30,456
+In fact, I think
+you're the best dog
+
+940
+00:54:30,458 --> 00:54:32,826
+a Grinch could hope for.
+
+941
+00:54:32,828 --> 00:54:34,862
+And that is why...
+
+942
+00:54:34,864 --> 00:54:37,397
+I'm promoting you.
+
+943
+00:54:39,300 --> 00:54:40,901
+Max...
+
+944
+00:54:40,903 --> 00:54:44,539
+you will guide
+my sleigh tonight.
+
+945
+00:54:50,412 --> 00:54:51,878
+Ha-ha!
+
+946
+00:54:51,880 --> 00:54:54,582
+I knew you
+wouldn't let me down.
+
+947
+00:54:59,521 --> 00:55:01,654
+<i>It was now Christmas Eve.</i>
+
+948
+00:55:01,656 --> 00:55:03,690
+<i>There was joy in the air.</i>
+
+949
+00:55:03,692 --> 00:55:07,693
+<i>For in just a few hours,
+Santa Claus would be there.</i>
+
+950
+00:55:07,695 --> 00:55:11,630
+<i>And the gifts would be left,
+and the stockings all filled.</i>
+
+951
+00:55:11,632 --> 00:55:13,632
+<i>And the anticipation,</i>
+
+952
+00:55:13,634 --> 00:55:16,902
+<i>well, it started to build.</i>
+
+953
+00:55:16,904 --> 00:55:18,904
+Ozzy, what are you doing?
+
+954
+00:55:18,906 --> 00:55:21,273
+Trying... to get...
+myself tired.
+
+955
+00:55:22,743 --> 00:55:25,043
+All right, eight hours
+till Christmas morning.
+
+956
+00:55:25,045 --> 00:55:27,579
+That's 28,800 seconds.
+
+957
+00:55:27,581 --> 00:55:30,015
+Okay, and... sleep!
+
+958
+00:55:30,017 --> 00:55:32,017
+Waffle One, this is Waffle Two.
+
+959
+00:55:32,019 --> 00:55:33,852
+Are you there? Over.
+
+960
+00:55:33,854 --> 00:55:36,520
+I read
+you loud and clear, Waffle Two.
+
+961
+00:55:36,522 --> 00:55:39,057
+- This is Groopert, by the way.
+- Yeah, I got that.
+
+962
+00:55:39,059 --> 00:55:41,927
+Oh. I just wanted
+to wish you good luck
+
+963
+00:55:41,929 --> 00:55:45,496
+- with Santa Claus.
+- Thanks. Talk tomorrow.
+
+964
+00:55:45,498 --> 00:55:49,433
+So, you got any
+last-minute wishes for Santa?
+
+965
+00:55:49,435 --> 00:55:52,002
+Yep. I have one great big wish.
+
+966
+00:55:52,004 --> 00:55:55,806
+Good. Because you deserve
+everything you want and more.
+
+967
+00:55:55,808 --> 00:55:57,508
+Thanks, Mom.
+
+968
+00:55:57,510 --> 00:55:59,944
+I want the same thing for you.
+
+969
+00:55:59,946 --> 00:56:03,948
+How did I end up
+with such a wonderful daughter?
+
+970
+00:56:03,950 --> 00:56:06,083
+I don't know.
+Sometimes you just get lucky.
+
+971
+00:56:06,085 --> 00:56:07,918
+Well, then I really did.
+
+972
+00:56:07,920 --> 00:56:09,486
+Me, too.
+
+973
+00:56:09,488 --> 00:56:10,888
+I love you, Mom.
+
+974
+00:56:10,890 --> 00:56:12,858
+I love you, sweetheart.
+
+975
+00:56:13,925 --> 00:56:16,261
+- Good night.
+- Good night.
+
+976
+00:56:38,449 --> 00:56:42,584
+<i>The Grinch was now
+ready to start his big trip.</i>
+
+977
+00:56:42,586 --> 00:56:45,654
+<i>He stood like a captain
+aboard a great ship.</i>
+
+978
+00:56:45,656 --> 00:56:49,625
+<i>Yes, the time had now come
+to take off like a shot.</i>
+
+979
+00:56:49,627 --> 00:56:51,059
+Here we go, Max.
+
+980
+00:56:51,061 --> 00:56:53,762
+Let's see what you've got!
+
+981
+00:56:53,764 --> 00:56:56,000
+Hyah!
+
+982
+00:56:59,469 --> 00:57:00,969
+What?
+
+983
+00:57:00,971 --> 00:57:03,471
+Max?
+
+984
+00:57:03,473 --> 00:57:05,009
+Max, are you okay?
+
+985
+00:57:06,043 --> 00:57:07,377
+Huh?
+
+986
+00:57:14,484 --> 00:57:15,983
+Yeah, Max!
+
+987
+00:57:15,985 --> 00:57:17,418
+Attaboy!
+
+988
+00:57:17,420 --> 00:57:18,686
+Go, boy! Go!
+
+989
+00:57:20,423 --> 00:57:22,623
+<i>And down the Grinch came</i>
+
+990
+00:57:22,625 --> 00:57:25,059
+<i>on his great fateful ride,</i>
+
+991
+00:57:25,061 --> 00:57:27,695
+<i>toward the good homes
+of Who-ville</i>
+
+992
+00:57:27,697 --> 00:57:30,430
+<i>and the Christmas inside.</i>
+
+993
+00:57:37,706 --> 00:57:40,540
+<i>He had planned it
+and prepped it,</i>
+
+994
+00:57:40,542 --> 00:57:42,344
+<i>big detail to small.</i>
+
+995
+00:57:44,479 --> 00:57:46,980
+<i>Yes, he'd get rid
+of Christmas now,</i>
+
+996
+00:57:46,982 --> 00:57:49,482
+<i>once and for all.</i>
+
+997
+00:57:49,484 --> 00:57:52,487
+You take the outside,
+I'll take the inside.
+
+998
+00:57:59,928 --> 00:58:02,130
+House number one.
+
+999
+00:58:18,012 --> 00:58:20,012
+<i>He was ready to pounce</i>
+
+1000
+00:58:20,014 --> 00:58:22,147
+<i>and set the score right.</i>
+
+1001
+00:58:22,149 --> 00:58:25,684
+<i>He'd make up for the past,
+and he'd do it tonight.</i>
+
+1002
+00:58:25,686 --> 00:58:26,886
+Okay...
+
+1003
+00:58:26,888 --> 00:58:29,054
+now, let's steal Christmas.
+
+1004
+00:58:30,590 --> 00:58:32,523
+<i>He swept up their presents</i>
+
+1005
+00:58:32,525 --> 00:58:34,093
+<i>with the speed of a wiz.</i>
+
+1006
+00:58:34,095 --> 00:58:36,929
+<i>And he knew he'd cause sadness.</i>
+
+1007
+00:58:36,931 --> 00:58:40,101
+<i>Only theirs now, not his.</i>
+
+1008
+00:59:17,903 --> 00:59:19,937
+<i>All this excess and nonsense,</i>
+
+1009
+00:59:19,939 --> 00:59:21,705
+<i>it was all about greed.</i>
+
+1010
+00:59:21,707 --> 00:59:23,273
+<i>About meaningless stuff</i>
+
+1011
+00:59:23,275 --> 00:59:26,009
+<i>that they didn't even need.</i>
+
+1012
+00:59:26,011 --> 00:59:27,713
+Yeah.
+
+1013
+00:59:34,119 --> 00:59:36,086
+<i>The Grinch went to work.</i>
+
+1014
+00:59:36,088 --> 00:59:37,254
+<i>He scooped up the toys.</i>
+
+1015
+00:59:37,256 --> 00:59:42,827
+<i>He raced against time.
+He raced against joy.</i>
+
+1016
+00:59:46,831 --> 00:59:48,698
+<i>He hit a few snags</i>
+
+1017
+00:59:48,700 --> 00:59:50,700
+<i>as he made his way through.</i>
+
+1018
+00:59:50,702 --> 00:59:54,003
+<i>An angry orange cat...</i>
+
+1019
+00:59:54,005 --> 00:59:55,938
+<i>and a sleepwalking Who.</i>
+
+1020
+00:59:57,275 --> 00:59:58,540
+Huh?
+
+1021
+01:00:03,815 --> 01:00:05,716
+Thank you, Mommy.
+
+1022
+01:00:07,085 --> 01:00:08,850
+<i>He stole pop guns and bicycles,</i>
+
+1023
+01:00:08,852 --> 01:00:10,585
+<i>roller skates, drums,</i>
+
+1024
+01:00:10,587 --> 01:00:13,855
+<i>checker boards, tricycles,
+popcorn and plums.</i>
+
+1025
+01:00:15,726 --> 01:00:19,094
+<i>Gadgets and gizmos,
+and dolls with strange names,</i>
+
+1026
+01:00:19,096 --> 01:00:22,764
+<i>goofballs and shloof-balls
+and video games.</i>
+
+1027
+01:00:50,760 --> 01:00:53,227
+<i>And he swiped and he poached.</i>
+
+1028
+01:00:53,229 --> 01:00:55,829
+<i>Yes, the stealing was on.</i>
+
+1029
+01:00:55,831 --> 01:00:58,065
+<i>And this day that he hated,</i>
+
+1030
+01:00:58,067 --> 01:01:01,636
+<i>well, he made it be gone.</i>
+
+1031
+01:01:06,075 --> 01:01:09,111
+This is it, the last house.
+
+1032
+01:01:16,252 --> 01:01:18,885
+♪ Mmm, mmm,
+dashing through the snow ♪
+
+1033
+01:01:18,887 --> 01:01:21,687
+♪ In a one-dog open sleigh ♪
+
+1034
+01:01:24,092 --> 01:01:27,796
+♪ One more house to go,
+and Christmas goes away. ♪
+
+1035
+01:01:30,999 --> 01:01:32,832
+Ha!
+
+1036
+01:01:39,006 --> 01:01:40,239
+Huh?
+
+1037
+01:01:42,776 --> 01:01:44,144
+Oh, what the heck?
+
+1038
+01:01:45,380 --> 01:01:47,179
+Ah.
+
+1039
+01:01:47,181 --> 01:01:48,280
+Huh?
+
+1040
+01:01:50,350 --> 01:01:52,651
+He's here!
+
+1041
+01:01:52,653 --> 01:01:54,088
+Whoa. What the...?
+
+1042
+01:01:55,756 --> 01:01:58,656
+Aah! Whoa. Whoa! Aah!
+
+1043
+01:02:08,268 --> 01:02:10,170
+How do I get out of this?
+
+1044
+01:02:11,205 --> 01:02:14,272
+Santa Claus.
+
+1045
+01:02:14,274 --> 01:02:16,073
+Oh. Uh, hello.
+
+1046
+01:02:16,075 --> 01:02:18,075
+A little help, please?
+
+1047
+01:02:18,077 --> 01:02:19,777
+I'll let you down.
+Just give me a minute.
+
+1048
+01:02:19,779 --> 01:02:21,846
+Oh, that would be great.
+
+1049
+01:02:21,848 --> 01:02:24,148
+I'm coming.
+Just trying to remember...
+
+1050
+01:02:24,150 --> 01:02:26,150
+which cord it is.
+
+1051
+01:02:26,152 --> 01:02:27,318
+Oh, no!
+
+1052
+01:02:27,320 --> 01:02:28,886
+I'm so sorry.
+
+1053
+01:02:28,888 --> 01:02:30,154
+Are you okay?
+
+1054
+01:02:30,156 --> 01:02:32,389
+Yeah. I-I guess so.
+
+1055
+01:02:32,391 --> 01:02:35,326
+Let me help you.
+
+1056
+01:02:35,328 --> 01:02:38,095
+Sit down here.
+
+1057
+01:02:38,097 --> 01:02:40,264
+- Whew.
+- Drink this.
+
+1058
+01:02:40,266 --> 01:02:43,467
+It'll make you feel better.
+
+1059
+01:02:43,469 --> 01:02:45,704
+Uh... thanks.
+
+1060
+01:02:47,706 --> 01:02:50,874
+Wow. I can't believe
+it's really you.
+
+1061
+01:02:50,876 --> 01:02:52,742
+Uh... yeah.
+
+1062
+01:02:52,744 --> 01:02:55,311
+I'm so sorry about the trap
+and everything,
+
+1063
+01:02:55,313 --> 01:02:57,013
+but I really need...
+
+1064
+01:02:57,015 --> 01:02:59,351
+Hey. Why are you taking
+our Christmas tree?
+
+1065
+01:03:01,286 --> 01:03:02,784
+Well...
+
+1066
+01:03:02,786 --> 01:03:04,853
+uh, one of the lights
+wasn't working,
+
+1067
+01:03:04,855 --> 01:03:07,490
+so I thought I'd
+take it back to the workshop
+
+1068
+01:03:07,492 --> 01:03:10,126
+and see if I could fix it.
+
+1069
+01:03:10,128 --> 01:03:11,994
+I didn't know you did that.
+
+1070
+01:03:11,996 --> 01:03:13,496
+Yeah. Sure.
+
+1071
+01:03:13,498 --> 01:03:16,332
+Now, why don't you
+go back upstairs to bed,
+
+1072
+01:03:16,334 --> 01:03:18,333
+and then when you wake up,
+the tree will be fixed
+
+1073
+01:03:18,335 --> 01:03:20,102
+- and your presents will be waiting under it.
+- Wait.
+
+1074
+01:03:20,104 --> 01:03:22,004
+You don't understand.
+I don't want presents.
+
+1075
+01:03:22,006 --> 01:03:24,840
+Of course you do.
+Everyone wants presents.
+
+1076
+01:03:24,842 --> 01:03:28,377
+No, no, really, I don't.
+I want you to help my mom.
+
+1077
+01:03:28,379 --> 01:03:30,212
+Y-Your mom?
+
+1078
+01:03:30,214 --> 01:03:33,215
+Yeah. She works so hard
+
+1079
+01:03:33,217 --> 01:03:36,185
+and is always doing stuff
+for other people.
+
+1080
+01:03:36,187 --> 01:03:39,288
+And I just want her
+to be happy.
+
+1081
+01:03:39,290 --> 01:03:41,989
+You want me to help...
+your mom?
+
+1082
+01:03:41,991 --> 01:03:43,991
+You're Santa.
+
+1083
+01:03:43,993 --> 01:03:45,993
+You make people happy.
+
+1084
+01:03:45,995 --> 01:03:50,064
+And everyone
+should be happy, right?
+
+1085
+01:03:50,066 --> 01:03:52,333
+Y-Yeah, I...
+
+1086
+01:03:52,335 --> 01:03:55,102
+I guess they should.
+
+1087
+01:03:55,104 --> 01:03:56,437
+Santa,
+
+1088
+01:03:56,439 --> 01:03:59,040
+are... are you okay?
+
+1089
+01:03:59,042 --> 01:04:00,041
+What?
+
+1090
+01:04:00,043 --> 01:04:02,410
+Uh... yeah. I'm fine.
+
+1091
+01:04:04,047 --> 01:04:06,414
+Now, why don't you go
+back up to bed, hmm?
+
+1092
+01:04:06,416 --> 01:04:08,349
+Okay.
+
+1093
+01:04:08,351 --> 01:04:11,117
+I wish you could celebrate
+with us tomorrow.
+
+1094
+01:04:11,119 --> 01:04:13,421
+We all get together and sing.
+
+1095
+01:04:13,423 --> 01:04:16,122
+It's so beautiful that
+
+1096
+01:04:16,124 --> 01:04:19,359
+if you close your eyes
+and listen,
+
+1097
+01:04:19,361 --> 01:04:22,965
+all of your sadness
+just goes away.
+
+1098
+01:04:26,435 --> 01:04:29,135
+That sounds nice.
+
+1099
+01:04:30,239 --> 01:04:31,438
+Huh?
+
+1100
+01:04:35,977 --> 01:04:38,278
+Thank you, Santa.
+
+1101
+01:04:38,280 --> 01:04:40,282
+Good night.
+
+1102
+01:04:43,084 --> 01:04:45,119
+Good-good night.
+
+1103
+01:04:58,266 --> 01:05:01,969
+I just met
+the strangest little Who girl.
+
+1104
+01:05:06,940 --> 01:05:09,508
+All right, Max. Let's go.
+
+1105
+01:05:13,547 --> 01:05:17,315
+<i>He tried to forget it,
+but the words filled his head,</i>
+
+1106
+01:05:17,317 --> 01:05:19,284
+<i>and he found himself thinking</i>
+
+1107
+01:05:19,286 --> 01:05:21,486
+<i>about what the young girl
+had said.</i>
+
+1108
+01:05:21,488 --> 01:05:23,488
+<i>It was hard to imagine.</i>
+
+1109
+01:05:23,490 --> 01:05:25,556
+<i>Could it really be true?</i>
+
+1110
+01:05:25,558 --> 01:05:27,558
+<i>But if they could all be happy,</i>
+
+1111
+01:05:27,560 --> 01:05:30,261
+<i>maybe he could be, too.</i>
+
+1112
+01:05:55,521 --> 01:05:57,022
+What?
+
+1113
+01:06:02,127 --> 01:06:04,328
+<i>Her head felt unsteady,</i>
+
+1114
+01:06:04,330 --> 01:06:06,296
+<i>and her heart was just sick.</i>
+
+1115
+01:06:06,298 --> 01:06:09,266
+- Oh, no.
+- <i>It must be a joke</i>
+
+1116
+01:06:09,268 --> 01:06:11,901
+<i>or a prank or a trick.</i>
+
+1117
+01:06:11,903 --> 01:06:14,604
+<i>Who would do such a thing?</i>
+
+1118
+01:06:14,606 --> 01:06:18,007
+<i>Who would stoop down this low?</i>
+
+1119
+01:06:18,009 --> 01:06:20,943
+<i>And then one little girl
+realized...</i>
+
+1120
+01:06:20,945 --> 01:06:23,181
+<i>she might just know.</i>
+
+1121
+01:06:25,083 --> 01:06:29,352
+<i>3,000 feet up,
+up the side of Mount Crumpit,</i>
+
+1122
+01:06:29,354 --> 01:06:34,156
+<i>the Grinch rode with his load
+to the tip-top to dump it.</i>
+
+1123
+01:06:34,158 --> 01:06:35,624
+Keep going.
+
+1124
+01:06:35,626 --> 01:06:37,560
+We're gonna make it.
+
+1125
+01:06:38,995 --> 01:06:41,262
+Oh, dear.
+Wha... What happened?
+
+1126
+01:06:41,264 --> 01:06:45,166
+- Where's the decorations?
+- All the presents. - Aw, man.
+
+1127
+01:06:45,168 --> 01:06:48,436
+Mom... it's my fault.
+
+1128
+01:06:48,438 --> 01:06:50,538
+What... What is?
+
+1129
+01:06:50,540 --> 01:06:52,107
+All of this.
+
+1130
+01:06:52,109 --> 01:06:54,342
+I-I trapped Santa last night,
+
+1131
+01:06:54,344 --> 01:06:58,380
+'cause I wanted to ask him to
+do something special for you.
+
+1132
+01:06:58,382 --> 01:07:00,715
+But I think I made him mad,
+
+1133
+01:07:00,717 --> 01:07:04,085
+and that's why he stole
+everyone's Christmas.
+
+1134
+01:07:04,087 --> 01:07:06,086
+No. No, no. No, honey,
+
+1135
+01:07:06,088 --> 01:07:07,655
+this isn't your fault.
+
+1136
+01:07:07,657 --> 01:07:10,190
+He didn't steal Christmas.
+
+1137
+01:07:10,192 --> 01:07:12,660
+He just stole stuff.
+
+1138
+01:07:12,662 --> 01:07:15,162
+Christmas is in here.
+
+1139
+01:07:15,164 --> 01:07:19,669
+And besides, I already have the
+greatest gift I could ever get.
+
+1140
+01:07:21,337 --> 01:07:23,205
+You.
+
+1141
+01:07:31,647 --> 01:07:34,314
+Just one more shove.
+
+1142
+01:07:34,316 --> 01:07:38,619
+What's that? Do you hear it?
+
+1143
+01:07:38,621 --> 01:07:40,554
+♪ Dah who doraze ♪
+
+1144
+01:07:40,556 --> 01:07:45,158
+♪ Welcome Christmas,
+Christmas Day ♪
+
+1145
+01:07:45,160 --> 01:07:47,026
+♪ Welcome, welcome... ♪
+
+1146
+01:07:47,028 --> 01:07:49,262
+They're singing?
+
+1147
+01:07:49,264 --> 01:07:52,298
+♪ Welcome, welcome... ♪
+
+1148
+01:07:52,300 --> 01:07:54,033
+I don't understand, Max.
+
+1149
+01:07:54,035 --> 01:07:56,035
+♪ Christmas Day ♪
+
+1150
+01:07:56,037 --> 01:07:58,371
+♪ Is in our grasp ♪
+
+1151
+01:07:58,373 --> 01:08:00,273
+Don't they know what I've done?
+
+1152
+01:08:00,275 --> 01:08:03,109
+♪ So long as we
+have hands to clasp ♪
+
+1153
+01:08:03,111 --> 01:08:04,777
+♪ Fah who foraze ♪
+
+1154
+01:08:04,779 --> 01:08:06,712
+♪ Dah who doraze ♪
+
+1155
+01:08:06,714 --> 01:08:10,716
+♪ Welcome home, welcome home ♪
+
+1156
+01:08:10,718 --> 01:08:13,621
+♪ Welcome home... ♪
+
+1157
+01:08:17,057 --> 01:08:19,391
+<i>As he watched the small girl,</i>
+
+1158
+01:08:19,393 --> 01:08:21,660
+<i>he thought he might melt.</i>
+
+1159
+01:08:21,662 --> 01:08:24,229
+<i>If he did what she did,</i>
+
+1160
+01:08:24,231 --> 01:08:27,232
+<i>would he feel what she felt?</i>
+
+1161
+01:08:42,315 --> 01:08:44,649
+<i>And the luscious sound swelled,</i>
+
+1162
+01:08:44,651 --> 01:08:47,451
+<i>reaching up to the skies.</i>
+
+1163
+01:08:47,453 --> 01:08:50,154
+<i>And the Grinch heard
+with his heart,</i>
+
+1164
+01:08:50,156 --> 01:08:52,590
+<i>and it tripled in size.</i>
+
+1165
+01:09:05,671 --> 01:09:07,271
+What? Oh, no.
+
+1166
+01:09:07,273 --> 01:09:08,506
+Oh! Aah!
+
+1167
+01:09:08,508 --> 01:09:10,273
+No, no, no, no!
+
+1168
+01:09:10,275 --> 01:09:11,307
+Oh, no!
+
+1169
+01:09:11,309 --> 01:09:13,345
+Aah...!
+
+1170
+01:09:22,521 --> 01:09:24,521
+No, don't worry.
+I got it.
+
+1171
+01:09:26,324 --> 01:09:27,357
+Max, it's okay. I'm...
+
+1172
+01:09:27,359 --> 01:09:28,825
+Aah!
+
+1173
+01:09:30,795 --> 01:09:31,861
+Whoa, oh...
+
+1174
+01:09:31,863 --> 01:09:33,431
+Oh, no, no, no, no.
+
+1175
+01:09:36,200 --> 01:09:37,802
+Max...!
+
+1176
+01:09:39,169 --> 01:09:41,806
+Oh!
+
+1177
+01:10:05,362 --> 01:10:07,498
+Fred?
+
+1178
+01:10:11,267 --> 01:10:13,167
+You...
+
+1179
+01:10:13,169 --> 01:10:15,837
+you came back.
+
+1180
+01:10:18,441 --> 01:10:21,442
+Max, the gifts.
+We have to return them.
+
+1181
+01:10:21,444 --> 01:10:23,544
+<i>And having heard</i>
+
+1182
+01:10:23,546 --> 01:10:27,181
+<i>the Whos' goodness,
+having felt the Whos' song,</i>
+
+1183
+01:10:27,183 --> 01:10:31,285
+<i>he tried to make right
+what he had made wrong.</i>
+
+1184
+01:10:31,287 --> 01:10:33,588
+♪ Welcome home ♪
+
+1185
+01:10:33,590 --> 01:10:35,790
+♪ Welcome home... ♪
+
+1186
+01:11:01,617 --> 01:11:02,882
+Uh...
+
+1187
+01:11:02,884 --> 01:11:05,919
+hello, everybody.
+
+1188
+01:11:05,921 --> 01:11:08,357
+Uh...
+
+1189
+01:11:12,894 --> 01:11:14,894
+Uh...
+
+1190
+01:11:14,896 --> 01:11:16,930
+it was me.
+
+1191
+01:11:16,932 --> 01:11:19,431
+I stole your Christmas.
+
+1192
+01:11:21,402 --> 01:11:23,903
+I stole it because...
+
+1193
+01:11:23,905 --> 01:11:26,772
+because I thought
+it would fix something
+
+1194
+01:11:26,774 --> 01:11:29,310
+that happened a long time ago.
+
+1195
+01:11:30,745 --> 01:11:33,479
+But it didn't.
+
+1196
+01:11:33,481 --> 01:11:36,280
+And I'm sorry.
+
+1197
+01:11:40,788 --> 01:11:43,822
+I'm so very sorry.
+
+1198
+01:11:43,824 --> 01:11:46,192
+For everything.
+
+1199
+01:12:07,714 --> 01:12:10,748
+Not now, Max.
+
+1200
+01:12:10,750 --> 01:12:13,385
+I need to be alone.
+
+1201
+01:12:36,875 --> 01:12:39,810
+I-I-I kind of thought
+you might like it.
+
+1202
+01:12:39,812 --> 01:12:41,878
+You don't like it?
+Oh, I could take it back.
+
+1203
+01:12:41,880 --> 01:12:43,914
+It's not a big deal.
+I just thought maybe you...
+
+1204
+01:12:45,951 --> 01:12:47,951
+Oh. Hey.
+
+1205
+01:12:47,953 --> 01:12:51,723
+Merry Christmas
+to you, too, Max.
+
+1206
+01:12:53,357 --> 01:12:55,524
+Ha!
+
+1207
+01:12:58,696 --> 01:13:00,763
+Uh, that's gonna get old.
+
+1208
+01:13:00,765 --> 01:13:03,401
+What was that?
+
+1209
+01:13:07,605 --> 01:13:08,940
+Huh?
+
+1210
+01:13:10,742 --> 01:13:12,975
+Uh... hello.
+
+1211
+01:13:12,977 --> 01:13:14,509
+Hi.
+
+1212
+01:13:14,511 --> 01:13:16,411
+Remember me?
+
+1213
+01:13:16,413 --> 01:13:17,813
+Yes. Yes, I do.
+
+1214
+01:13:17,815 --> 01:13:19,481
+I remember you.
+
+1215
+01:13:19,483 --> 01:13:21,382
+My name is Cindy-Lou.
+
+1216
+01:13:21,384 --> 01:13:22,918
+Cindy-Lou Who.
+
+1217
+01:13:22,920 --> 01:13:25,386
+It's nice to meet you,
+Cindy-Lou.
+
+1218
+01:13:25,388 --> 01:13:27,622
+Uh, oh, m-my name is Grinch.
+
+1219
+01:13:27,624 --> 01:13:30,825
+And, uh, th-this is Max.
+
+1220
+01:13:30,827 --> 01:13:34,763
+Whoa! Nice to meet you, Max.
+
+1221
+01:13:34,765 --> 01:13:38,533
+I just came to invite you to
+our house for Christmas dinner.
+
+1222
+01:13:38,535 --> 01:13:40,400
+What? Me?
+
+1223
+01:13:40,402 --> 01:13:43,337
+But I took your gifts.
+
+1224
+01:13:43,339 --> 01:13:45,672
+- Yeah, I know.
+- And your trees.
+
+1225
+01:13:45,674 --> 01:13:46,908
+Yup.
+
+1226
+01:13:46,910 --> 01:13:49,409
+I stole your whole Christmas.
+
+1227
+01:13:49,411 --> 01:13:50,945
+I know you did.
+
+1228
+01:13:50,947 --> 01:13:53,514
+But we're inviting you anyway.
+
+1229
+01:13:53,516 --> 01:13:55,516
+But why?
+
+1230
+01:13:55,518 --> 01:13:58,854
+Because... you've been alone
+long enough.
+
+1231
+01:14:00,689 --> 01:14:02,389
+Dinner's at 6:00.
+
+1232
+01:14:02,391 --> 01:14:04,057
+Don't be late.
+
+1233
+01:14:04,059 --> 01:14:07,427
+And make sure you bring
+your sweet doggy, too.
+
+1234
+01:14:24,013 --> 01:14:26,412
+♪ Chestnuts roasting ♪
+
+1235
+01:14:26,414 --> 01:14:28,414
+- ♪ On an open fire... ♪
+- Right. Okay.
+
+1236
+01:14:28,416 --> 01:14:29,751
+Hmm.
+
+1237
+01:14:30,952 --> 01:14:33,653
+Hmm.
+
+1238
+01:14:33,655 --> 01:14:36,556
+Um, this is a bad idea.
+I-I-I can't...
+
+1239
+01:14:36,558 --> 01:14:38,791
+I can't do this,
+I can't do this.
+
+1240
+01:14:38,793 --> 01:14:41,426
+They're all gonna hate me.
+
+1241
+01:14:42,964 --> 01:14:45,397
+All right.
+
+1242
+01:14:45,399 --> 01:14:46,631
+Mm!
+
+1243
+01:14:46,633 --> 01:14:48,500
+I did it.
+
+1244
+01:14:49,603 --> 01:14:51,436
+Oh! Mr. Grinch!
+
+1245
+01:14:51,438 --> 01:14:53,872
+I'm so happy
+you decided to come.
+
+1246
+01:14:53,874 --> 01:14:55,141
+Welcome.
+
+1247
+01:14:55,143 --> 01:14:57,676
+Th-Thank you for inviting me.
+
+1248
+01:14:57,678 --> 01:15:00,011
+Uh, I-I wore a tie.
+
+1249
+01:15:00,013 --> 01:15:03,882
+And it's a very nice tie.
+Cindy-Lou! Look who came!
+
+1250
+01:15:03,884 --> 01:15:06,117
+Mr. Grinch! You're here!
+
+1251
+01:15:06,119 --> 01:15:07,752
+Hello.
+
+1252
+01:15:07,754 --> 01:15:09,788
+Come on in.
+I'll show you around.
+
+1253
+01:15:09,790 --> 01:15:12,691
+Oh. Okay.
+
+1254
+01:15:12,693 --> 01:15:15,459
+♪ We'll find it hard to sleep ♪
+
+1255
+01:15:15,461 --> 01:15:17,062
+- ♪ Tonight... ♪
+- Hello, Mr. Grinch.
+
+1256
+01:15:17,064 --> 01:15:18,864
+Merry Christmas.
+
+1257
+01:15:18,866 --> 01:15:20,731
+Merry Christmas to you, too.
+
+1258
+01:15:20,733 --> 01:15:22,167
+Aunt Ida,
+
+1259
+01:15:22,169 --> 01:15:24,869
+I'd like you to meet
+my friend, the Grinch.
+
+1260
+01:15:24,871 --> 01:15:27,205
+Oh, it's nice to meet you,
+Mr. Grinch.
+
+1261
+01:15:27,207 --> 01:15:29,207
+Thank you.
+It's nice to be here.
+
+1262
+01:15:32,111 --> 01:15:33,978
+Oh, here,
+let me take that for you.
+
+1263
+01:15:33,980 --> 01:15:35,779
+Oh. Thank you.
+
+1264
+01:15:35,781 --> 01:15:37,815
+Cindy-Lou, could you make a
+little room for this, please...
+
+1265
+01:15:37,817 --> 01:15:39,583
+No, don't worry.
+I-I've got it.
+
+1266
+01:15:39,585 --> 01:15:41,952
+- Huh. Isn't that thoughtful?
+- ♪ To see if reindeer ♪
+
+1267
+01:15:41,954 --> 01:15:44,889
+♪ Really know how to fly... ♪
+
+1268
+01:15:46,959 --> 01:15:49,525
+- Well, is that grouchy, grumpy...
+- Huh?
+
+1269
+01:15:49,527 --> 01:15:52,662
+- ...Grinchy I see standing over there? Ha-ha!
+- Bricklebaum.
+
+1270
+01:15:52,664 --> 01:15:54,464
+- Good to see you.
+- Come on, Grinchy,
+
+1271
+01:15:54,466 --> 01:15:55,999
+- give me a hug!
+- Oh!
+
+1272
+01:15:56,001 --> 01:15:58,034
+It don't count if you
+don't hug back, buddy.
+
+1273
+01:15:58,036 --> 01:16:00,870
+♪ Many times, many ways,
+Merry Christmas... ♪
+
+1274
+01:16:00,872 --> 01:16:03,740
+Okay, come take your seats,
+everyone. Dinner's ready.
+
+1275
+01:16:03,742 --> 01:16:05,675
+Come on.
+You're sitting next to me.
+
+1276
+01:16:05,677 --> 01:16:09,478
+♪ To you. ♪
+
+1277
+01:16:09,480 --> 01:16:10,949
+Here you go.
+
+1278
+01:16:13,985 --> 01:16:16,551
+Oh. Oh.
+
+1279
+01:16:22,093 --> 01:16:24,826
+This is
+my first Christmas dinner.
+
+1280
+01:16:24,828 --> 01:16:27,097
+- What happens?
+- You'll see.
+
+1281
+01:16:29,667 --> 01:16:32,167
+Would you... do the honors,
+Mr. Grinch?
+
+1282
+01:16:32,169 --> 01:16:34,538
+Oh. Uh, okay.
+
+1283
+01:16:36,874 --> 01:16:39,675
+Do you mind
+if I say something first?
+
+1284
+01:16:39,677 --> 01:16:41,575
+Not at all.
+
+1285
+01:16:41,577 --> 01:16:43,544
+Um, well, everybody,
+
+1286
+01:16:43,546 --> 01:16:46,114
+I-I just want to say...
+
+1287
+01:16:46,116 --> 01:16:48,984
+I've spent my entire life
+
+1288
+01:16:48,986 --> 01:16:52,488
+hating Christmas
+and everything about it.
+
+1289
+01:16:54,023 --> 01:16:58,260
+But now I see that it
+wasn't Christmas I hated.
+
+1290
+01:16:58,262 --> 01:17:01,464
+It was being alone.
+
+1291
+01:17:06,169 --> 01:17:08,736
+But I'm not alone anymore.
+
+1292
+01:17:08,738 --> 01:17:12,141
+And I have all of you
+to thank for it.
+
+1293
+01:17:13,176 --> 01:17:15,608
+But especially...
+
+1294
+01:17:15,610 --> 01:17:18,245
+this little girl right here.
+
+1295
+01:17:18,247 --> 01:17:21,815
+Ma'am, your daughter's kindness
+
+1296
+01:17:21,817 --> 01:17:23,984
+changed my life.
+
+1297
+01:17:23,986 --> 01:17:25,952
+That's my girl.
+
+1298
+01:17:25,954 --> 01:17:27,153
+Oh...
+
+1299
+01:17:27,155 --> 01:17:28,922
+that was beautiful.
+
+1300
+01:17:28,924 --> 01:17:30,892
+That's my best friend.
+
+1301
+01:17:31,960 --> 01:17:34,162
+Merry Christmas, Mr. Grinch.
+
+1302
+01:17:35,197 --> 01:17:37,564
+Merry Christmas, Cindy-Lou.
+
+1303
+01:17:37,566 --> 01:17:40,166
+<i>And the Grinch raised his glass</i>
+
+1304
+01:17:40,168 --> 01:17:42,668
+<i>and led the Whos in a toast.</i>
+
+1305
+01:17:42,670 --> 01:17:44,804
+To kindness and love,
+
+1306
+01:17:44,806 --> 01:17:47,207
+the things we need most.
+
+1307
+01:18:17,104 --> 01:18:19,138
+♪ I am the Grinch,
+Cindy-Lou Who? ♪
+
+1308
+01:18:19,140 --> 01:18:21,306
+♪ I live in Who-ville,
+who are you? ♪
+
+1309
+01:18:21,308 --> 01:18:23,275
+♪ I've got a dog,
+his name is Max ♪
+
+1310
+01:18:23,277 --> 01:18:25,377
+♪ He coffee my cup,
+that is a fact ♪
+
+1311
+01:18:25,379 --> 01:18:27,346
+♪ I was in snow,
+ain't need no coat ♪
+
+1312
+01:18:27,348 --> 01:18:29,814
+♪ Max pull that sled,
+off with they head ♪
+
+1313
+01:18:29,816 --> 01:18:31,783
+♪ I don't like love,
+I don't like fun ♪
+
+1314
+01:18:31,785 --> 01:18:33,751
+♪ When I'm around,
+Christmas is done ♪
+
+1315
+01:18:33,753 --> 01:18:35,787
+- ♪ Scoop, I am the Grinch ♪
+- <i>♪ Show me some love... ♪</i>
+
+1316
+01:18:35,789 --> 01:18:38,322
+♪ Hey, how you doing, you scum?
+It's a pleasure to meet ♪
+
+1317
+01:18:38,324 --> 01:18:41,059
+- ♪ Ah, I am the Grinch ♪
+- ♪ I'm here to ruin your day ♪
+
+1318
+01:18:41,061 --> 01:18:43,161
+- ♪ This will end in defeat ♪
+- <i>♪ Show me some love... ♪</i>
+
+1319
+01:18:43,163 --> 01:18:45,762
+- ♪ I am the Grinch ♪
+- ♪ I get to riding and riding ♪
+
+1320
+01:18:45,764 --> 01:18:48,032
+- ♪ And riding around ♪
+- ♪ Ah, I am the Grinch ♪
+
+1321
+01:18:48,034 --> 01:18:50,301
+♪ That's what they call me
+when they talk about me ♪
+
+1322
+01:18:50,303 --> 01:18:52,336
+- ♪ Around the town ♪
+- <i>♪ You're the Grinch ♪</i>
+
+1323
+01:18:52,338 --> 01:18:53,570
+- <i>♪ You're the Grinch ♪</i>
+- ♪ That's me ♪
+
+1324
+01:18:53,572 --> 01:18:55,339
+<i>♪ You're so problematic,
+you're the Grinch ♪</i>
+
+1325
+01:18:55,341 --> 01:18:56,474
+- ♪ Hello ♪
+- <i>♪ You're the Grinch ♪</i>
+
+1326
+01:18:56,476 --> 01:18:57,707
+- <i>♪ You're the Grinch ♪</i>
+- ♪ I'm guilty ♪
+
+1327
+01:18:57,709 --> 01:18:58,842
+<i>♪ You're so problematic,
+you're the Grinch ♪</i>
+
+1328
+01:18:58,844 --> 01:19:01,311
+- ♪ Yeah, yeah ♪
+- <i>♪ You're the Grinch ♪</i>
+
+1329
+01:19:01,313 --> 01:19:02,547
+- <i>♪ You're the Grinch ♪</i>
+- ♪ At your service ♪
+
+1330
+01:19:02,549 --> 01:19:03,814
+<i>♪ You're so problematic,
+you're the Grinch ♪</i>
+
+1331
+01:19:03,816 --> 01:19:04,881
+- ♪ Nice to meet you ♪
+- <i>♪ You're the Grinch ♪</i>
+
+1332
+01:19:04,883 --> 01:19:06,683
+- <i>♪ You're the Grinch ♪</i>
+- ♪ Okay ♪
+
+1333
+01:19:06,685 --> 01:19:08,619
+<i>♪ You're so problematic ♪</i>
+
+1334
+01:19:11,890 --> 01:19:13,356
+♪ That's ice on 'em ♪
+
+1335
+01:19:13,358 --> 01:19:17,693
+♪ Ah, that's ice on 'em,
+ah, that's ice on 'em ♪
+
+1336
+01:19:17,695 --> 01:19:19,829
+♪ Ah, that's ice on 'em ♪
+
+1337
+01:19:19,831 --> 01:19:21,997
+- ♪ Ah, that's ice on 'em ♪
+- ♪ 'Ey, yo ♪
+
+1338
+01:19:21,999 --> 01:19:24,133
+- ♪ That's... ♪
+- ♪ 25, 25, 25, 25 ♪
+
+1339
+01:19:24,135 --> 01:19:27,103
+♪ 25 days in the month,
+25 days ain't enough ♪
+
+1340
+01:19:27,105 --> 01:19:28,771
+♪ Where I don't give a...
+wait a minute ♪
+
+1341
+01:19:28,773 --> 01:19:29,772
+♪ 25 days, got the lock ♪
+
+1342
+01:19:29,774 --> 01:19:31,907
+♪ With the chain at the door,
+don't knock ♪
+
+1343
+01:19:31,909 --> 01:19:34,276
+♪ No gifts over here, I don't
+smell nothing in the air ♪
+
+1344
+01:19:34,278 --> 01:19:36,812
+♪ You can take that over there
+and I don't really care ♪
+
+1345
+01:19:36,814 --> 01:19:38,414
+♪ Tell your homeboy
+in the red suit to chill ♪
+
+1346
+01:19:38,416 --> 01:19:40,149
+♪ Before I ban him
+from Who-ville ♪
+
+1347
+01:19:40,151 --> 01:19:41,683
+♪ I ain't playin' with you ♪
+
+1348
+01:19:41,685 --> 01:19:44,188
+♪ Ice on 'em ♪
+
+1349
+01:19:45,356 --> 01:19:48,392
+♪ Ice on 'em ♪
+
+1350
+01:19:49,826 --> 01:19:53,695
+- ♪ Ice on 'em ♪
+- ♪ Yeah ♪
+
+1351
+01:19:53,697 --> 01:19:55,364
+♪ Ice... ♪
+
+1352
+01:19:55,366 --> 01:19:57,866
+♪ 25, 25, 25, 25 ♪
+
+1353
+01:19:57,868 --> 01:20:00,368
+♪ 25 days in the month,
+25 days ain't enough ♪
+
+1354
+01:20:00,370 --> 01:20:02,203
+♪ Where I don't give a...
+wait a minute ♪
+
+1355
+01:20:02,205 --> 01:20:03,705
+♪ 25 days, got the lock ♪
+
+1356
+01:20:03,707 --> 01:20:05,273
+♪ With the chain at the door,
+don't knock ♪
+
+1357
+01:20:05,275 --> 01:20:07,275
+♪ No gifts over here ♪
+
+1358
+01:20:14,117 --> 01:20:16,151
+♪ I am the Grinch ♪
+
+1359
+01:20:16,153 --> 01:20:18,319
+♪ Hey, how you doing, you scum?
+It's a pleasure to meet ♪
+
+1360
+01:20:18,321 --> 01:20:20,421
+- <i>♪ Show me some love... ♪</i>
+- ♪ Ah, I am the Grinch ♪
+
+1361
+01:20:20,423 --> 01:20:22,423
+♪ I'm here to ruin your day,
+this will end in defeat ♪
+
+1362
+01:20:22,425 --> 01:20:24,725
+- <i>♪ Show me some love... ♪</i>
+- ♪ I am the Grinch ♪
+
+1363
+01:20:24,727 --> 01:20:26,827
+♪ I get to riding and riding
+and riding around ♪
+
+1364
+01:20:26,829 --> 01:20:28,729
+- <i>♪ Show me some love... ♪</i>
+- ♪ I am the Grinch ♪
+
+1365
+01:20:28,731 --> 01:20:30,130
+♪ That's what they call me ♪
+
+1366
+01:20:30,132 --> 01:20:33,233
+♪ When they talk about me
+around the town ♪
+
+1367
+01:20:33,235 --> 01:20:35,135
+♪ That's me ♪
+
+1368
+01:20:35,137 --> 01:20:37,171
+♪ Hello ♪
+
+1369
+01:20:37,173 --> 01:20:39,208
+♪ Nice to meet you. ♪
+
+1370
+01:20:39,210 --> 01:20:42,442
+Subtitles by explosiveskull
+
+1370
+01:20:43,305 --> 01:21:43,410
+Please rate this subtitle at www.osdb.link/6xgdu
+Help other users to choose the best subtitles

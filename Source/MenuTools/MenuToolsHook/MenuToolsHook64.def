@@ -1,0 +1,4 @@
+LIBRARY MenuToolsHook64
+EXPORTS
+	CallWndProc
+	GetMsgProc

@@ -1,0 +1,2788 @@
+1
+00:00:06,000 --> 00:00:12,074
+-== [ www.OpenSubtitles.com ] ==-
+
+2
+00:00:54,700 --> 00:00:55,893
+<i>In ages past,</i>
+
+3
+00:00:55,967 --> 00:00:58,094
+<i>the dragons and their crystals of power</i>
+
+4
+00:00:58,169 --> 00:01:00,262
+<i>came to this barbaric land</i>
+
+5
+00:01:00,338 --> 00:01:02,363
+<i>through the portal from Dragon World.</i>
+
+6
+00:01:04,875 --> 00:01:07,673
+<i>The crystals brought strength and wisdom,</i>
+
+7
+00:01:07,744 --> 00:01:09,905
+<i>especially the great Aurathon,</i>
+
+8
+00:01:09,980 --> 00:01:11,173
+<i>the mighty crystal</i>
+
+9
+00:01:11,247 --> 00:01:13,613
+<i>with powers so vast it could only be wielded</i>
+
+10
+00:01:13,682 --> 00:01:16,150
+<i>by the Dragon King himself.</i>
+
+11
+00:01:17,753 --> 00:01:21,313
+<i>But though the dragons wanted only peace,</i>
+
+12
+00:01:21,389 --> 00:01:24,722
+<i>their human allies wanted war.</i>
+
+13
+00:01:24,793 --> 00:01:27,090
+<i>The kingdoms of Norvagen and Draigar</i>
+
+14
+00:01:27,161 --> 00:01:29,721
+<i>misused the knowledge</i>
+<i>brought by the dragons,</i>
+
+15
+00:01:29,797 --> 00:01:31,992
+<i>and battles erupted.</i>
+
+16
+00:01:34,734 --> 00:01:36,395
+<i>Seeking to end the wars,</i>
+
+17
+00:01:36,469 --> 00:01:39,131
+<i>the Dragon King</i>
+<i>made the wizard, Xenoz,</i>
+
+18
+00:01:39,205 --> 00:01:42,264
+<i>ambassador between the dragons</i>
+<i>and the two kingdoms.</i>
+
+19
+00:01:42,340 --> 00:01:46,003
+<i>He was given dragon-gifts</i>
+<i>and immortality.</i>
+
+20
+00:01:46,077 --> 00:01:49,308
+<i>And for a time, Xenoz</i>
+<i>and the Dragon King</i>
+
+21
+00:01:49,381 --> 00:01:51,871
+<i>forced peace upon the land.</i>
+
+22
+00:01:51,949 --> 00:01:55,043
+<i>But peace imposed by</i>
+<i>others cannot last.</i>
+
+23
+00:01:59,022 --> 00:02:03,015
+<i>Then came the great betrayal.</i>
+
+24
+00:02:03,092 --> 00:02:05,686
+<i>Evil forces arose,</i>
+
+25
+00:02:05,762 --> 00:02:07,695
+<i>and the Dragon Queen was slain.</i>
+
+26
+00:02:09,798 --> 00:02:12,028
+<i>In his anguish,</i>
+
+27
+00:02:12,100 --> 00:02:13,862
+<i>the Dragon King and many of his followers</i>
+
+28
+00:02:13,935 --> 00:02:15,960
+<i>returned to Dragon World,</i>
+
+29
+00:02:16,037 --> 00:02:18,062
+<i>closing the portal.</i>
+
+30
+00:02:18,139 --> 00:02:20,039
+<i>The great Aurathon,</i>
+
+31
+00:02:20,107 --> 00:02:22,734
+<i>the receptacle of all dragon knowledge</i>
+
+32
+00:02:22,809 --> 00:02:24,367
+<i>and the only crystal whose powers</i>
+
+33
+00:02:24,444 --> 00:02:26,435
+<i>could open the portal itself,</i>
+
+34
+00:02:26,513 --> 00:02:27,707
+<i>went with them.</i>
+
+35
+00:02:30,182 --> 00:02:32,150
+That's what it looked like.
+
+36
+00:02:32,218 --> 00:02:35,278
+'Course, no one's seen it for a thousand years.
+
+37
+00:02:35,354 --> 00:02:39,050
+But... but we still have dragons, Dad.
+
+38
+00:02:39,123 --> 00:02:43,184
+Eh? Oh, yes, Targon is
+an old friend of the family,
+
+39
+00:02:43,261 --> 00:02:45,455
+so he stayed behind.
+
+40
+00:02:45,529 --> 00:02:46,826
+You ready?
+
+41
+00:02:51,134 --> 00:02:53,499
+You always tell me never to let myself
+
+42
+00:02:53,569 --> 00:02:56,094
+get distracted by an opponent!
+
+43
+00:02:56,172 --> 00:02:58,936
+Right you are, lad.
+
+44
+00:02:59,008 --> 00:03:00,134
+Help me up.
+
+45
+00:03:03,712 --> 00:03:05,612
+What else do I always say?
+
+46
+00:03:07,616 --> 00:03:09,674
+Never trust a soul...
+
+47
+00:03:09,750 --> 00:03:12,548
+- except a dragon's.
+
+48
+00:03:12,620 --> 00:03:14,679
+So how many dragons are left?
+
+49
+00:03:14,755 --> 00:03:18,952
+Targon there is all
+we Norvagen have these days.
+
+50
+00:03:19,025 --> 00:03:21,550
+Although the legend says
+they may return
+
+51
+00:03:21,628 --> 00:03:23,960
+when the war is over,
+
+52
+00:03:24,030 --> 00:03:25,553
+I doubt it.
+
+53
+00:03:25,631 --> 00:03:29,032
+Not if the Draigar keep hunting them.
+
+54
+00:03:32,170 --> 00:03:33,295
+Those rotten Draigar!
+
+55
+00:03:37,241 --> 00:03:39,266
+I like the attitude, son,
+
+56
+00:03:39,343 --> 00:03:41,776
+but you swung
+before you were ready.
+
+57
+00:03:41,845 --> 00:03:45,281
+Think, lad. Plan.
+
+58
+00:03:45,348 --> 00:03:47,612
+You're too impulsive.
+
+59
+00:03:47,684 --> 00:03:51,881
+But other than that,
+an excellent practice.
+
+60
+00:03:51,954 --> 00:03:54,218
+I do believe you're ready.
+
+61
+00:03:54,290 --> 00:03:55,621
+For what?
+
+62
+00:03:57,625 --> 00:03:59,092
+Ah, Xenoz!
+
+63
+00:04:04,831 --> 00:04:06,355
+Thank you for coming.
+
+64
+00:04:07,434 --> 00:04:10,562
+I have a surprise for you, my boy.
+
+65
+00:04:23,615 --> 00:04:26,516
+We are in harmony.
+
+66
+00:04:26,584 --> 00:04:29,381
+Let your senses seek
+the wisdom of the ancients.
+
+67
+00:04:29,453 --> 00:04:31,216
+I feel you, Father.
+
+68
+00:04:31,288 --> 00:04:32,812
+When you are ready...
+
+69
+00:04:32,890 --> 00:04:34,619
+you may... strike!
+
+70
+00:04:47,769 --> 00:04:50,329
+Your skills have grown impressive.
+
+71
+00:04:52,373 --> 00:04:53,738
+I have a good teacher.
+
+72
+00:04:53,808 --> 00:04:54,797
+Aurora!
+
+73
+00:04:59,879 --> 00:05:01,278
+Hey, no fair!
+
+74
+00:05:01,348 --> 00:05:03,213
+That's cheating!
+
+75
+00:05:04,484 --> 00:05:06,008
+That is battle, Kyra.
+
+76
+00:05:06,086 --> 00:05:08,781
+Norvagen do not fight by the rules.
+
+77
+00:05:08,854 --> 00:05:11,687
+You assumed we were
+finished and we were not.
+
+78
+00:05:11,757 --> 00:05:15,090
+You think too much.
+
+79
+00:05:15,160 --> 00:05:18,026
+Sometimes a soldier
+must simply act.
+
+80
+00:05:22,266 --> 00:05:24,665
+Don't think I'm going
+to forgive you, Aurora.
+
+81
+00:05:24,735 --> 00:05:27,568
+Even if you are
+the last dragon we have.
+
+82
+00:05:28,238 --> 00:05:30,263
+Oh, I think you shall.
+
+83
+00:05:30,340 --> 00:05:32,170
+After all, someone must stand against
+
+84
+00:05:32,241 --> 00:05:34,675
+those dragon-hunting Norvagen.
+
+85
+00:05:34,744 --> 00:05:36,769
+Is that not right, Xenoz?
+
+86
+00:05:36,846 --> 00:05:38,404
+Oh, absolutely.
+
+87
+00:05:39,081 --> 00:05:41,844
+I have come as you requested, King Siddari.
+
+88
+00:05:41,916 --> 00:05:44,077
+Although sometimes I wonder.
+
+89
+00:05:44,152 --> 00:05:46,245
+As the dragons vanish, the need for
+
+90
+00:05:46,321 --> 00:05:49,050
+a dragon ambassador
+grows questionable.
+
+91
+00:05:49,123 --> 00:05:50,147
+I could retire...
+
+92
+00:05:52,126 --> 00:05:55,185
+Looks like Aurora doesn't
+like that idea, Xenoz!
+
+93
+00:05:55,261 --> 00:05:57,195
+How complimentary.
+
+94
+00:05:59,766 --> 00:06:01,461
+I understand you have
+a special surprise
+
+95
+00:06:01,534 --> 00:06:02,626
+for your daughter?
+
+96
+00:06:02,702 --> 00:06:05,431
+Indeed I do.
+
+97
+00:06:05,504 --> 00:06:06,732
+Father!
+
+98
+00:06:06,805 --> 00:06:09,603
+You mean my first dragon flight?
+
+99
+00:06:09,674 --> 00:06:11,800
+Well, perhaps not?
+
+100
+00:06:11,876 --> 00:06:16,245
+As I recall, you are upset with Aurora
+at the moment...
+
+101
+00:06:16,313 --> 00:06:17,712
+With Aurora?
+
+102
+00:06:17,782 --> 00:06:18,907
+No way!
+
+103
+00:06:20,150 --> 00:06:23,085
+We're best friends!
+Tell him, Aurora!
+
+104
+00:06:24,354 --> 00:06:26,254
+Well, what do you think, Xenoz...
+
+105
+00:06:26,322 --> 00:06:27,754
+Great dragons, sir!
+
+106
+00:06:27,823 --> 00:06:29,085
+Are you sweating again?
+
+107
+00:06:30,292 --> 00:06:33,853
+As always, Your Highness, I find it
+
+108
+00:06:33,929 --> 00:06:36,954
+too warm here after
+the chill of my ice palace.
+
+109
+00:06:37,031 --> 00:06:40,000
+But as for your daughter,
+I think she is ready.
+
+110
+00:06:40,068 --> 00:06:42,263
+Then will you
+give her your blessing?
+
+111
+00:06:44,171 --> 00:06:47,265
+By the powers bestowed
+upon me by the dragons,
+
+112
+00:06:47,340 --> 00:06:49,672
+may these two fly together as one.
+
+113
+00:06:49,743 --> 00:06:51,232
+Can I go? Can I?
+
+114
+00:06:51,310 --> 00:06:54,245
+She's all yours, but be careful.
+
+115
+00:06:55,881 --> 00:06:56,973
+Then come on, Aurora!
+
+116
+00:06:57,049 --> 00:06:58,572
+Let's fly!
+
+117
+00:07:03,521 --> 00:07:07,718
+Have you ever seen Aurora accept
+a rider so completely, Xenoz?
+
+118
+00:07:07,791 --> 00:07:09,019
+Xenoz?
+
+119
+00:07:21,537 --> 00:07:23,766
+Aye, the boy was
+born for that dragon!
+
+120
+00:07:41,688 --> 00:07:42,677
+What?
+
+121
+00:07:53,965 --> 00:07:54,954
+What?
+
+122
+00:07:55,032 --> 00:07:55,964
+Aurora!
+
+123
+00:07:56,033 --> 00:07:57,432
+Where are you going?
+
+124
+00:07:57,502 --> 00:07:58,730
+Stop!
+
+125
+00:07:58,803 --> 00:08:00,737
+Something's wrong! Soldiers!
+
+126
+00:08:00,805 --> 00:08:02,635
+To me!
+
+127
+00:08:04,841 --> 00:08:06,365
+No! Turn!
+
+128
+00:08:06,443 --> 00:08:07,910
+I said turn!
+
+129
+00:08:35,568 --> 00:08:38,935
+If this is the doing
+of that Draigar, Siddari...
+
+130
+00:10:43,213 --> 00:10:44,202
+You!
+
+131
+00:10:45,649 --> 00:10:47,173
+Stay back!
+
+132
+00:10:47,250 --> 00:10:48,307
+Norvagen!
+
+133
+00:10:50,085 --> 00:10:53,054
+Over here! This way!
+
+134
+00:11:01,062 --> 00:11:02,654
+Norvagen!
+
+135
+00:11:02,730 --> 00:11:04,253
+Draigar!
+
+136
+00:11:04,331 --> 00:11:06,231
+I knew they were behind this!
+
+137
+00:11:06,300 --> 00:11:08,097
+Attack!
+
+138
+00:11:08,168 --> 00:11:09,567
+Warriors!
+
+139
+00:11:29,119 --> 00:11:31,952
+So... it begins again.
+
+140
+00:12:17,261 --> 00:12:18,455
+You are troubled, son.
+
+141
+00:12:18,529 --> 00:12:20,690
+Yeah, you could tell?
+
+142
+00:12:20,765 --> 00:12:22,629
+The wind speaks your mood.
+
+143
+00:12:22,699 --> 00:12:24,257
+It always has.
+
+144
+00:12:24,334 --> 00:12:27,201
+I sometimes wonder
+if it is affecting you
+
+145
+00:12:27,270 --> 00:12:28,635
+or whether you affect it.
+
+146
+00:12:28,705 --> 00:12:30,035
+That's absurd!
+
+147
+00:12:30,106 --> 00:12:31,198
+Sure it is.
+
+148
+00:12:31,273 --> 00:12:34,606
+And yet the wind is angry,
+and so are you.
+
+149
+00:12:34,677 --> 00:12:36,406
+Why shouldn't I be!
+
+150
+00:12:37,880 --> 00:12:40,609
+I mean, this latest
+skirmish with the Draigar
+
+151
+00:12:40,682 --> 00:12:42,377
+has lasted eight years!
+
+152
+00:12:42,450 --> 00:12:43,474
+That's half my life!
+
+153
+00:12:43,551 --> 00:12:45,178
+What's eight years
+
+154
+00:12:45,253 --> 00:12:47,584
+when the war itself
+has lasted a thousand?
+
+155
+00:12:47,654 --> 00:12:49,087
+When you reach my age...
+
+156
+00:12:49,156 --> 00:12:50,487
+When I reach your age,
+
+157
+00:12:50,557 --> 00:12:52,115
+I want peace!
+
+158
+00:12:52,192 --> 00:12:53,386
+And the sky...
+
+159
+00:12:53,460 --> 00:12:56,189
+I want to see the sky
+filled with dragons again!
+
+160
+00:12:56,262 --> 00:12:58,127
+You know the legend says they'll return
+
+161
+00:12:58,197 --> 00:12:59,596
+when the war is over!
+
+162
+00:13:00,833 --> 00:13:03,027
+Wishful thinking.
+
+163
+00:13:03,101 --> 00:13:06,559
+This war has sapped our land,
+our people, our energy.
+
+164
+00:13:06,638 --> 00:13:07,605
+But tomorrow's battle...
+
+165
+00:13:07,672 --> 00:13:10,196
+Will be the same! Again!
+
+166
+00:13:10,274 --> 00:13:12,538
+Let me end this... tonight!
+
+167
+00:13:12,610 --> 00:13:13,542
+What!
+
+168
+00:13:13,611 --> 00:13:15,010
+Let me take Targon.
+
+169
+00:13:15,079 --> 00:13:16,603
+I'll come in fast and hard,
+
+170
+00:13:16,680 --> 00:13:18,510
+right into the Draigar castle itself.
+
+171
+00:13:18,581 --> 00:13:19,946
+I can capture the princess
+
+172
+00:13:20,016 --> 00:13:22,541
+and be gone before those
+Draigar can even respond!
+
+173
+00:13:22,619 --> 00:13:24,416
+And with her as our captive,
+
+174
+00:13:24,487 --> 00:13:28,047
+they'll be forced to surrender on our terms!
+
+175
+00:13:29,124 --> 00:13:30,352
+What?
+
+176
+00:13:30,426 --> 00:13:33,223
+The princess is a respected fighter, son.
+
+177
+00:13:33,294 --> 00:13:36,752
+- She's a girl! I can do this!
+- No!
+
+178
+00:13:36,831 --> 00:13:41,426
+Wars are won by armies,
+not individuals.
+
+179
+00:13:41,501 --> 00:13:45,198
+Besides, we need you
+for tomorrow's battle.
+
+180
+00:13:47,974 --> 00:13:49,201
+No.
+
+181
+00:13:50,009 --> 00:13:52,569
+This has to end.
+
+182
+00:13:52,645 --> 00:13:54,613
+Tonight.
+
+183
+00:14:09,393 --> 00:14:11,088
+I'm serious, Father!
+
+184
+00:14:11,161 --> 00:14:13,151
+Too many Draigar
+soldiers have fallen
+
+185
+00:14:13,229 --> 00:14:14,253
+in this battle.
+
+186
+00:14:14,330 --> 00:14:16,298
+It's time to end it!
+
+187
+00:14:16,365 --> 00:14:19,528
+By sacrificing you?
+No. Out of the question.
+
+188
+00:14:19,602 --> 00:14:21,296
+It's not a sacrifice!
+
+189
+00:14:22,571 --> 00:14:24,266
+How do you do that?
+
+190
+00:14:24,339 --> 00:14:28,298
+Sorry, you know I can't control it.
+
+191
+00:14:28,376 --> 00:14:30,400
+But this I can!
+
+192
+00:14:30,478 --> 00:14:31,604
+Issue a challenge!
+
+193
+00:14:31,679 --> 00:14:33,738
+The Norvagen prince against me!
+
+194
+00:14:33,814 --> 00:14:34,781
+One-on-one!
+
+195
+00:14:34,849 --> 00:14:37,544
+To end the war once and for all!
+
+196
+00:14:37,617 --> 00:14:40,211
+The risk is too high.
+
+197
+00:14:40,286 --> 00:14:42,948
+I can take him, Father!
+
+198
+00:14:43,022 --> 00:14:46,047
+He's a clumsy brawler. A Norvagen.
+
+199
+00:14:46,124 --> 00:14:49,150
+I'm the best fighter you have,
+you've said so yourself.
+
+200
+00:14:49,228 --> 00:14:51,696
+And you can prove that
+tomorrow, in battle,
+
+201
+00:14:51,763 --> 00:14:53,855
+with soldiers beside you.
+
+202
+00:14:53,931 --> 00:14:55,796
+As it should be.
+
+203
+00:14:59,837 --> 00:15:00,962
+What are you saying?
+
+204
+00:15:01,037 --> 00:15:03,767
+That you want another
+thousand years of war?
+
+205
+00:15:10,646 --> 00:15:12,045
+I tried, Aurora.
+
+206
+00:15:12,114 --> 00:15:14,207
+I didn't even mention the legend.
+
+207
+00:15:14,283 --> 00:15:17,581
+But I know you want your kind
+to return as much as I do.
+
+208
+00:15:19,787 --> 00:15:21,687
+This has to happen.
+
+209
+00:15:21,756 --> 00:15:24,383
+The Norvagen and I have
+to face each other,
+
+210
+00:15:24,458 --> 00:15:26,323
+I can feel it.
+
+211
+00:15:26,393 --> 00:15:29,260
+So if my father won't
+issue the challenge...
+
+212
+00:15:30,931 --> 00:15:33,262
+Then I'll challenge the prince myself!
+
+213
+00:15:33,332 --> 00:15:34,299
+Let's go, Aurora!
+
+214
+00:15:34,367 --> 00:15:36,198
+Fly!
+
+215
+00:15:46,978 --> 00:15:48,808
+Remember, Targon!
+
+216
+00:15:48,879 --> 00:15:50,471
+Fast and hard!
+
+217
+00:16:16,904 --> 00:16:19,134
+Something is happening.
+
+218
+00:16:19,205 --> 00:16:22,402
+Something... momentous.
+
+219
+00:16:22,475 --> 00:16:24,466
+My crystal of scrying!
+
+220
+00:16:43,460 --> 00:16:47,624
+Well, this is interesting.
+
+221
+00:16:48,932 --> 00:16:50,092
+The two royals.
+
+222
+00:17:08,248 --> 00:17:09,943
+You! Draigar!
+
+223
+00:17:17,991 --> 00:17:19,424
+What are you doing here?
+
+224
+00:17:19,492 --> 00:17:22,927
+I was coming to offer
+you a challenge! One on one!
+
+225
+00:17:22,995 --> 00:17:26,556
+I had plans of my own,
+but this'll do.
+
+226
+00:17:33,971 --> 00:17:35,268
+Go, Targon!
+
+227
+00:17:35,339 --> 00:17:36,966
+Aurora! Attack!
+
+228
+00:17:58,893 --> 00:18:01,361
+Apparently we're in this alone.
+
+229
+00:18:01,429 --> 00:18:02,793
+See you on the ground?
+
+230
+00:18:02,863 --> 00:18:04,626
+After you.
+
+231
+00:18:27,985 --> 00:18:29,509
+Winner takes all?
+
+232
+00:18:29,586 --> 00:18:33,919
+Can't speak for my father,
+but that's fine by me!
+
+233
+00:19:18,062 --> 00:19:21,861
+Good move. But you should have
+finished me while I was down.
+
+234
+00:19:21,932 --> 00:19:24,025
+Wouldn't have been fair.
+
+235
+00:19:25,469 --> 00:19:26,959
+Whatever.
+
+236
+00:19:53,292 --> 00:19:55,385
+Fair's fair. As you said.
+
+237
+00:20:09,573 --> 00:20:11,939
+Let me know when
+you're ready to start again.
+
+238
+00:20:21,885 --> 00:20:23,375
+Where is Prince Dev?
+
+239
+00:20:23,453 --> 00:20:28,082
+Sire, the lookout reported him flying
+out on Targon before dawn.
+
+240
+00:20:28,157 --> 00:20:32,820
+Well, then. He shall miss
+our triumph, hey men?
+
+241
+00:20:45,172 --> 00:20:48,470
+Let the wisdom of the ancients
+guide our weapons!
+
+242
+00:20:48,541 --> 00:20:51,510
+And may the Norvagen
+fall beneath them!
+
+243
+00:20:59,818 --> 00:21:01,615
+Forward, men!
+
+244
+00:21:01,686 --> 00:21:04,745
+For the riches of victory!
+
+245
+00:22:02,505 --> 00:22:06,635
+Something familiar... about this place.
+
+246
+00:22:06,710 --> 00:22:08,939
+There... there should be.
+
+247
+00:22:10,246 --> 00:22:13,613
+It's where... you and I first met...
+
+248
+00:22:13,682 --> 00:22:15,740
+eight years ago.
+
+249
+00:22:15,817 --> 00:22:20,948
+I remember... the ball
+of flame... from the sky.
+
+250
+00:22:21,022 --> 00:22:22,353
+Yeah.
+
+251
+00:22:22,423 --> 00:22:23,650
+I always...
+
+252
+00:22:23,724 --> 00:22:26,352
+sort of wondered where that went.
+
+253
+00:22:26,426 --> 00:22:28,826
+I see... it scarred your face as well.
+
+254
+00:22:32,098 --> 00:22:34,464
+Have you noticed... anything else?
+
+255
+00:22:34,533 --> 00:22:36,057
+Like what?
+
+256
+00:22:36,135 --> 00:22:37,397
+Unusual things.
+
+257
+00:22:37,470 --> 00:22:40,438
+Things nobody can seem to explain.
+
+258
+00:22:47,878 --> 00:22:49,209
+You mean...
+
+259
+00:22:50,848 --> 00:22:51,906
+like that?
+
+260
+00:22:59,222 --> 00:23:00,746
+Or like that.
+
+261
+00:23:20,140 --> 00:23:22,404
+How do you like that, men?
+
+262
+00:23:22,475 --> 00:23:25,171
+My son was so eager for battle
+
+263
+00:23:25,245 --> 00:23:26,802
+he started without us!
+
+264
+00:23:33,385 --> 00:23:36,046
+Princess Kyra has joined
+us for our victory!
+
+265
+00:23:36,120 --> 00:23:38,588
+Let us not disappoint her!
+
+266
+00:24:15,388 --> 00:24:17,185
+Attack all sides!
+
+267
+00:24:18,658 --> 00:24:20,421
+Target kings!
+
+268
+00:24:40,377 --> 00:24:41,605
+What is this?
+
+269
+00:24:41,678 --> 00:24:44,545
+The Draigar hire mercenaries
+to do their fighting now?
+
+270
+00:24:44,614 --> 00:24:47,377
+They're not ours,
+I assure you! Look!
+
+271
+00:26:40,248 --> 00:26:41,442
+Father!
+
+272
+00:27:23,118 --> 00:27:24,881
+Kyra!
+
+273
+00:27:26,421 --> 00:27:28,150
+Father!
+
+274
+00:27:29,825 --> 00:27:32,691
+Well, I'm sold.
+These guys are not your buddies!
+
+275
+00:27:45,539 --> 00:27:48,200
+Quickly! Come with me
+if you want to save your fathers!
+
+276
+00:28:02,553 --> 00:28:03,747
+Targon!
+
+277
+00:28:03,820 --> 00:28:05,082
+Aurora!
+
+278
+00:28:09,493 --> 00:28:11,426
+We have to go back! Now!
+
+279
+00:28:11,494 --> 00:28:12,927
+My dragon, my father,
+
+280
+00:28:12,995 --> 00:28:15,156
+Have no chance
+if you don't come with me.
+
+281
+00:28:15,965 --> 00:28:17,592
+What were those creatures?
+
+282
+00:28:17,667 --> 00:28:18,860
+Vorgons.
+
+283
+00:28:18,934 --> 00:28:21,027
+The servants of a rogue dragon.
+
+284
+00:28:21,102 --> 00:28:23,570
+They ride Nogards, swamp dragons.
+
+285
+00:28:23,638 --> 00:28:24,866
+Well, they've got my father!
+
+286
+00:28:24,940 --> 00:28:26,372
+You have to go after them!
+
+287
+00:28:26,440 --> 00:28:28,806
+You have a more important
+task ahead of you.
+
+288
+00:28:28,876 --> 00:28:31,811
+What's more important
+than rescuing my father?
+
+289
+00:28:32,913 --> 00:28:33,902
+Hang on!
+
+290
+00:28:50,695 --> 00:28:54,756
+This is my home,
+here on Dragon Mountain.
+
+291
+00:28:54,832 --> 00:28:56,595
+You made this?
+
+292
+00:28:56,667 --> 00:28:59,191
+Yeah, he's a wizard. Duh!
+
+293
+00:29:04,774 --> 00:29:07,037
+Ice is one of my
+greatest powers.
+
+294
+00:29:07,109 --> 00:29:09,100
+A gift from the Queen Dragon.
+
+295
+00:29:09,178 --> 00:29:11,669
+All dragons have powers,
+contained in those crystals
+
+296
+00:29:11,747 --> 00:29:14,340
+they wear around their necks.
+
+297
+00:29:18,419 --> 00:29:20,319
+The site where I just found you
+
+298
+00:29:20,388 --> 00:29:22,651
+was once the congress
+for dragons and humans.
+
+299
+00:29:23,924 --> 00:29:27,826
+It was there they decided
+how best to use these powers.
+
+300
+00:29:27,894 --> 00:29:30,657
+Each crystal has its own power.
+
+301
+00:29:30,730 --> 00:29:32,721
+This dragon's crystal, for instance,
+
+302
+00:29:32,798 --> 00:29:35,460
+allows me to see
+into another's mind.
+
+303
+00:29:35,534 --> 00:29:37,797
+Looking into his
+mind won't take long.
+
+304
+00:29:39,170 --> 00:29:42,071
+If it's a dragon's crystal,
+how come you have it?
+
+305
+00:29:42,140 --> 00:29:45,631
+Many dragons entrusted me
+with their crystals when they...
+
+306
+00:29:45,709 --> 00:29:47,836
+left this world.
+
+307
+00:29:47,911 --> 00:29:51,369
+As dragon ambassador,
+I can use them as well.
+
+308
+00:29:56,519 --> 00:29:58,544
+Interesting.
+
+309
+00:29:58,621 --> 00:30:01,987
+I see that you are concerned
+about your father and Targon.
+
+310
+00:30:02,057 --> 00:30:03,285
+Yeah, obviously. So can we...
+
+311
+00:30:03,358 --> 00:30:05,121
+That you intended
+to kidnap princess Kyra
+
+312
+00:30:05,193 --> 00:30:06,785
+to force an end to the war.
+
+313
+00:30:06,862 --> 00:30:09,557
+Why, you cowardly creep!
+
+314
+00:30:09,630 --> 00:30:13,896
+Because you secretly long
+for the war to be over,
+
+315
+00:30:13,968 --> 00:30:15,629
+so that the dragons will return.
+
+316
+00:30:16,671 --> 00:30:18,433
+Oh...
+
+317
+00:30:18,505 --> 00:30:19,904
+We're wasting time.
+
+318
+00:30:19,973 --> 00:30:23,340
+What I need is a crystal that will
+help me rescue my father.
+
+319
+00:30:23,410 --> 00:30:25,775
+There is one.
+
+320
+00:30:25,844 --> 00:30:27,243
+The Aurathon.
+
+321
+00:30:27,313 --> 00:30:28,837
+The Aurathon?
+
+322
+00:30:28,914 --> 00:30:29,881
+Of legend?
+
+323
+00:30:29,948 --> 00:30:32,382
+It's powers are immense.
+
+324
+00:30:32,451 --> 00:30:35,180
+But right now the rogue has it.
+
+325
+00:30:35,253 --> 00:30:36,447
+This rogue.
+
+326
+00:30:36,521 --> 00:30:39,547
+You say he was the giant
+fireball that knocked us
+
+327
+00:30:39,624 --> 00:30:41,614
+from the sky when we were kids?
+
+328
+00:30:41,692 --> 00:30:46,686
+By the time I arrived
+on the scene he had vanished.
+
+329
+00:30:46,763 --> 00:30:49,925
+I've been looking
+for him ever since.
+
+330
+00:30:49,999 --> 00:30:52,399
+And you think he was behind the attack?
+
+331
+00:30:52,468 --> 00:30:53,696
+Not think.
+
+332
+00:30:53,769 --> 00:30:55,031
+Know.
+
+333
+00:30:55,104 --> 00:30:57,071
+I recognize his tactics.
+
+334
+00:30:57,138 --> 00:30:59,698
+But where did he come from? And why?
+
+335
+00:30:59,774 --> 00:31:02,834
+He must have stolen the Aurathon
+and used it to open the portal
+
+336
+00:31:02,911 --> 00:31:04,605
+from Dragon World.
+
+337
+00:31:04,678 --> 00:31:07,203
+But he was badly
+injured in the process.
+
+338
+00:31:07,281 --> 00:31:09,112
+He's been in hiding ever since,
+
+339
+00:31:09,183 --> 00:31:11,413
+trying to heal before I find him.
+
+340
+00:31:12,118 --> 00:31:14,279
+Sounds like you two have issues.
+
+341
+00:31:15,955 --> 00:31:17,149
+We do.
+
+342
+00:31:32,536 --> 00:31:34,367
+Targon is injured!
+
+343
+00:31:34,438 --> 00:31:36,428
+Those ugly brutes
+captured both the kings!
+
+344
+00:31:48,384 --> 00:31:49,976
+That a girl, Aurora.
+
+345
+00:31:50,052 --> 00:31:52,986
+The warm oil will speed the healing.
+
+346
+00:31:55,490 --> 00:31:58,084
+I still don't see why
+you can't come with us.
+
+347
+00:31:58,159 --> 00:32:01,025
+The rogue knows that
+my strength is ice.
+
+348
+00:32:01,094 --> 00:32:03,927
+He has taken refuge
+in a cavern of fire.
+
+349
+00:32:03,997 --> 00:32:06,465
+With this and the Aurathon,
+
+350
+00:32:06,533 --> 00:32:08,090
+I cannot stand against him.
+
+351
+00:32:08,167 --> 00:32:09,794
+And we can?
+
+352
+00:32:09,869 --> 00:32:12,201
+You two are the best
+warriors in your kingdoms.
+
+353
+00:32:13,472 --> 00:32:15,871
+Apparently that's not
+what my father thinks.
+
+354
+00:32:15,940 --> 00:32:17,168
+Mine either.
+
+355
+00:32:17,242 --> 00:32:18,800
+Then do this!
+
+356
+00:32:18,877 --> 00:32:19,901
+Prove yourselves!
+
+357
+00:32:19,978 --> 00:32:21,343
+I don't know.
+
+358
+00:32:21,413 --> 00:32:23,437
+I've fought against plenty of Draigar.
+
+359
+00:32:23,514 --> 00:32:25,948
+But I've never fought
+alongside one before.
+
+360
+00:32:26,016 --> 00:32:27,142
+I'd rather do this alone.
+
+361
+00:32:28,218 --> 00:32:29,947
+Afraid I'll show you up?
+
+362
+00:32:30,020 --> 00:32:31,247
+Now listen, stork...
+
+363
+00:32:31,320 --> 00:32:33,845
+Save it for the dragon, please.
+
+364
+00:32:40,595 --> 00:32:41,789
+And take these.
+
+365
+00:32:43,331 --> 00:32:44,298
+What are they?
+
+366
+00:32:44,366 --> 00:32:46,095
+Have you ever seen what happens
+
+367
+00:32:46,168 --> 00:32:48,863
+to a container full
+of water in the snow?
+
+368
+00:32:49,470 --> 00:32:50,664
+Yeah.
+
+369
+00:32:52,339 --> 00:32:54,500
+It freezes... and explodes.
+
+370
+00:32:54,575 --> 00:32:56,474
+Exactly.
+
+371
+00:32:56,543 --> 00:32:59,706
+I have extracted that
+explosive quality of ice
+
+372
+00:32:59,779 --> 00:33:01,644
+and filled these harpoons with it.
+
+373
+00:33:02,382 --> 00:33:03,609
+Really?
+
+374
+00:33:03,682 --> 00:33:05,013
+Cool!
+
+375
+00:33:05,083 --> 00:33:06,311
+Guys.
+
+376
+00:33:06,385 --> 00:33:08,512
+My scrying crystal
+indicates that crevice
+
+377
+00:33:08,587 --> 00:33:10,816
+is your way in.
+
+378
+00:33:10,888 --> 00:33:13,413
+You'll have to get
+past the Vorgan guards.
+
+379
+00:33:13,491 --> 00:33:14,822
+No problem.
+
+380
+00:33:14,892 --> 00:33:16,757
+Huh, lets go!
+
+381
+00:33:16,828 --> 00:33:17,920
+Remember!
+
+382
+00:33:17,995 --> 00:33:20,485
+Don't try to defeat the dragon!
+
+383
+00:33:20,564 --> 00:33:23,431
+Just get the Aurathon and get out!
+
+384
+00:36:05,674 --> 00:36:08,006
+Something about this feels bad.
+
+385
+00:36:10,145 --> 00:36:11,635
+These are starting to drip.
+
+386
+00:36:11,714 --> 00:36:14,739
+And I suspect we don't want
+to be around when they melt.
+
+387
+00:36:15,383 --> 00:36:17,248
+Here, you get his attention.
+
+388
+00:36:17,318 --> 00:36:18,945
+I'll grab the Aurathon.
+
+389
+00:36:19,020 --> 00:36:21,317
+Hey, who said you're
+giving the orders?
+
+390
+00:36:23,090 --> 00:36:24,079
+All right!
+
+391
+00:36:25,025 --> 00:36:26,287
+Where is he, anyway?
+
+392
+00:36:37,636 --> 00:36:39,661
+Consider his attention gotten!
+
+393
+00:36:57,687 --> 00:36:59,154
+Think fast!
+
+394
+00:37:03,091 --> 00:37:04,683
+One more!
+
+395
+00:37:04,760 --> 00:37:06,523
+I'm almost there!
+
+396
+00:37:52,234 --> 00:37:53,166
+The Aurathon!
+
+397
+00:37:53,235 --> 00:37:54,862
+It's not here!
+
+398
+00:37:58,006 --> 00:37:58,938
+No.
+
+399
+00:37:59,007 --> 00:38:01,339
+But you are!
+
+400
+00:38:13,252 --> 00:38:14,549
+Where are we?
+
+401
+00:38:14,620 --> 00:38:17,180
+I am not certain, but judging from
+
+402
+00:38:17,256 --> 00:38:19,052
+the temperature, I can guess.
+
+403
+00:38:23,729 --> 00:38:25,390
+Ah, yes?
+
+404
+00:38:25,464 --> 00:38:29,524
+And what does your
+so-called Draigar wisdom tell you?
+
+405
+00:38:29,600 --> 00:38:32,865
+That I have been an even
+bigger fool than you have!
+
+406
+00:39:13,205 --> 00:39:15,866
+We... we can hear you?
+
+407
+00:39:15,940 --> 00:39:17,407
+Of course.
+
+408
+00:39:17,475 --> 00:39:20,444
+Humans are not the only
+ones who can communicate.
+
+409
+00:39:20,512 --> 00:39:22,308
+But Xenoz never
+said anything about...
+
+410
+00:39:22,379 --> 00:39:23,607
+Xenoz!
+
+411
+00:39:23,680 --> 00:39:26,649
+That treacherous wizard's
+words are nothing
+
+412
+00:39:26,717 --> 00:39:28,776
+but betrayal and deceit.
+
+413
+00:39:28,852 --> 00:39:31,877
+Is that why he sent you two
+rather than his Vorgans?
+
+414
+00:39:32,755 --> 00:39:34,017
+His Vorgans?
+
+415
+00:39:34,090 --> 00:39:35,921
+He said they were yours!
+
+416
+00:39:37,460 --> 00:39:40,986
+You shall see soon enough
+where their true allegiance lies.
+
+417
+00:39:41,062 --> 00:39:42,427
+But they have my father!
+
+418
+00:39:42,497 --> 00:39:43,486
+And mine!
+
+419
+00:39:43,565 --> 00:39:45,465
+That's why we were
+after the Aurathon.
+
+420
+00:39:45,534 --> 00:39:46,795
+Xenoz told us...
+
+421
+00:39:47,868 --> 00:39:50,666
+Xenoz knew I had hidden it.
+
+422
+00:39:50,738 --> 00:39:53,501
+That's why he sent you
+on this fool's errand.
+
+423
+00:39:53,573 --> 00:39:55,803
+He knew you would be captured...
+
+424
+00:39:55,875 --> 00:39:57,843
+he hoped that I would reveal
+
+425
+00:39:57,911 --> 00:40:00,175
+its hiding place to you.
+
+426
+00:40:00,246 --> 00:40:01,542
+Of course!
+
+427
+00:40:01,613 --> 00:40:03,706
+The scrying crystal!
+
+428
+00:40:03,782 --> 00:40:05,010
+Blast!
+
+429
+00:40:05,083 --> 00:40:07,347
+Gortaz! Attack!
+
+430
+00:40:13,558 --> 00:40:15,958
+So what... what are you
+going to do with us?
+
+431
+00:40:16,027 --> 00:40:18,586
+Nothing... here.
+
+432
+00:40:21,598 --> 00:40:24,032
+We're about to have company.
+
+433
+00:41:02,901 --> 00:41:04,925
+These guys are definitely
+not your buddies.
+
+434
+00:41:08,739 --> 00:41:11,299
+Release us! We can help you!
+
+435
+00:41:38,131 --> 00:41:39,063
+Nice work.
+
+436
+00:41:40,166 --> 00:41:41,656
+You mean, "for a Norvagen?"
+
+437
+00:41:41,735 --> 00:41:43,259
+What else would I mean?
+
+438
+00:41:43,336 --> 00:41:44,267
+Listen, lanky...
+
+439
+00:41:44,336 --> 00:41:46,065
+Stop it, both of you.
+
+440
+00:41:46,138 --> 00:41:48,402
+We are approaching
+a sacred place.
+
+441
+00:42:09,725 --> 00:42:11,215
+Here?
+
+442
+00:42:11,294 --> 00:42:12,659
+Doesn't look like much.
+
+443
+00:42:12,728 --> 00:42:15,253
+It is the Ring of Oroborus.
+
+444
+00:42:15,331 --> 00:42:18,128
+Most sacred of all
+the dragon temples.
+
+445
+00:42:18,199 --> 00:42:19,598
+Impossible!
+
+446
+00:42:19,668 --> 00:42:23,331
+The ring of Oroborus has been
+abandoned for a thousand years!
+
+447
+00:42:23,405 --> 00:42:25,531
+The legends say it was magical,
+
+448
+00:42:25,606 --> 00:42:27,801
+that only the Dragon King
+could open it.
+
+449
+00:42:27,875 --> 00:42:30,673
+Indeed?
+
+450
+00:43:32,698 --> 00:43:36,963
+I am the Dragon King.
+
+451
+00:43:40,505 --> 00:43:44,099
+And it is time you
+faced your destiny!
+
+452
+00:43:49,646 --> 00:43:52,614
+You traitorous wizard!
+
+453
+00:43:52,682 --> 00:43:55,276
+These are dragon bones!
+
+454
+00:43:55,351 --> 00:43:58,911
+You are the one who has been
+killing the remaining dragons!
+
+455
+00:43:58,987 --> 00:44:01,512
+Their crystals add to my power,
+
+456
+00:44:01,590 --> 00:44:04,787
+and besides, Vorgans need to eat.
+
+457
+00:44:04,860 --> 00:44:06,349
+That is inhuman!
+
+458
+00:44:08,062 --> 00:44:10,360
+I've done worse.
+
+459
+00:44:10,431 --> 00:44:14,867
+Of course, the Aurathon would be
+the mightiest crystal of all.
+
+460
+00:44:14,934 --> 00:44:18,028
+Only Thoron knows where it is.
+
+461
+00:44:18,104 --> 00:44:20,197
+But since your blasted children
+
+462
+00:44:20,273 --> 00:44:22,104
+fought off my Vorgans,
+
+463
+00:44:22,174 --> 00:44:25,803
+I'm having a little
+trouble locating him.
+
+464
+00:44:25,878 --> 00:44:29,780
+Well, good for them!
+Both of them!
+
+465
+00:44:29,848 --> 00:44:32,645
+May our children bring you
+a well-deserved defeat!
+
+466
+00:44:32,717 --> 00:44:34,912
+Oh, shut up.
+
+467
+00:44:42,159 --> 00:44:46,060
+When we gave Xenoz the power
+to utilize the dragon crystals,
+
+468
+00:44:46,128 --> 00:44:47,925
+it was only because we felt
+
+469
+00:44:47,997 --> 00:44:50,522
+it would help bring
+peace, shared wisdom
+
+470
+00:44:50,599 --> 00:44:52,863
+and knowledge between our worlds.
+
+471
+00:44:52,935 --> 00:44:56,233
+Little did we know how
+such power would corrupt him.
+
+472
+00:44:59,074 --> 00:45:01,735
+<i>Xenoz conspired with Stendahl,</i>
+
+473
+00:45:01,809 --> 00:45:05,267
+<i>an evil dragon whose</i>
+<i>power was strength,</i>
+
+474
+00:45:05,345 --> 00:45:11,442
+<i>to slay my queen and</i>
+<i>take her ice crystal.</i>
+
+475
+00:45:11,517 --> 00:45:14,884
+<i>This was the horrific</i>
+<i>sight that greeted my eyes</i>
+
+476
+00:45:14,954 --> 00:45:18,150
+<i>when I arrived.</i>
+
+477
+00:45:21,827 --> 00:45:24,990
+<i>In my fury, I flamed them,</i>
+
+478
+00:45:25,063 --> 00:45:28,122
+<i>but it was not enough.</i>
+
+479
+00:45:28,199 --> 00:45:30,827
+No wonder you went
+back to the Dragon World.
+
+480
+00:45:30,901 --> 00:45:34,165
+Stendahl was imprisoned
+for a thousand years.
+
+481
+00:45:34,237 --> 00:45:37,934
+But the vengeance in his
+evil heart only grew.
+
+482
+00:45:38,007 --> 00:45:39,907
+When he was
+finally released,
+
+483
+00:45:39,976 --> 00:45:43,240
+his first act was
+to attack me again.
+
+484
+00:45:43,312 --> 00:45:45,906
+<i>He and I almost</i>
+<i>destroyed each other.</i>
+
+485
+00:45:45,981 --> 00:45:48,609
+<i>But in the battle,</i>
+<i>the Aurathon was activated,</i>
+
+486
+00:45:48,684 --> 00:45:50,275
+<i>opening the portal</i>
+<i>to this world.</i>
+
+487
+00:45:50,351 --> 00:45:54,151
+<i>I stopped him, but I was</i>
+<i>hurled through myself.</i>
+
+488
+00:45:58,959 --> 00:46:01,018
+And then you
+bumped into us.
+
+489
+00:46:01,094 --> 00:46:02,584
+Literally.
+
+490
+00:46:04,064 --> 00:46:06,088
+<i>And it was well that I did.</i>
+
+491
+00:46:09,101 --> 00:46:11,797
+<i>For I learned that</i>
+<i>the traitor Xenoz still lived,</i>
+
+492
+00:46:11,871 --> 00:46:13,804
+<i>protected by the gift of immortality</i>
+
+493
+00:46:13,872 --> 00:46:16,204
+<i>we dragons bestowed upon him.</i>
+
+494
+00:46:16,274 --> 00:46:19,368
+<i>It was known he would</i>
+<i>seek the Aurathon,</i>
+
+495
+00:46:19,444 --> 00:46:22,810
+<i>and I was too injured to fight him.</i>
+
+496
+00:46:22,880 --> 00:46:26,475
+<i>Into myself I absorbed the crystal,</i>
+
+497
+00:46:30,653 --> 00:46:32,848
+<i>and there divided it.</i>
+
+498
+00:46:32,922 --> 00:46:35,948
+<i>And thus, the great gem was hidden...</i>
+
+499
+00:46:36,025 --> 00:46:38,185
+<i>in two vessels,</i>
+
+500
+00:46:38,260 --> 00:46:41,752
+<i>which would soon be miles apart.</i>
+
+501
+00:46:42,931 --> 00:46:46,331
+You mean the Aurathon's in us?
+
+502
+00:46:46,400 --> 00:46:49,301
+But how could you do such a thing?
+
+503
+00:46:49,370 --> 00:46:51,930
+I had little choice.
+
+504
+00:46:52,006 --> 00:46:54,599
+If Xenoz obtains the Aurathon,
+
+505
+00:46:54,674 --> 00:46:56,938
+he can open the portal.
+
+506
+00:46:57,010 --> 00:46:59,877
+Combined with his other
+crystals of power,
+
+507
+00:46:59,946 --> 00:47:03,972
+no dragon or human will be
+able to stand against him.
+
+508
+00:47:04,049 --> 00:47:08,109
+It would mean doom
+for both our worlds.
+
+509
+00:47:08,186 --> 00:47:12,714
+So that explains these strange abilities of ours!
+
+510
+00:47:12,790 --> 00:47:15,281
+The Aurathon's powers are elemental.
+
+511
+00:47:15,359 --> 00:47:18,759
+Earth, wind, fire, water.
+
+512
+00:47:18,828 --> 00:47:21,922
+I gave you each the ability for one,
+
+513
+00:47:21,998 --> 00:47:24,397
+in the hopes it might help you survive.
+
+514
+00:47:24,466 --> 00:47:27,765
+It has, but we can't
+really control them.
+
+515
+00:47:27,836 --> 00:47:30,771
+That is the role of Oroborus!
+
+516
+00:47:30,839 --> 00:47:33,602
+To unlock and
+focus these powers!
+
+517
+00:47:33,675 --> 00:47:34,835
+Behold!
+
+518
+00:47:53,159 --> 00:47:54,217
+Yes!
+
+519
+00:47:54,293 --> 00:47:56,157
+Now this has potential...
+
+520
+00:48:22,317 --> 00:48:24,410
+You need to concentrate.
+
+521
+00:48:25,988 --> 00:48:27,614
+And as for you...
+
+522
+00:48:27,688 --> 00:48:29,451
+- relax.
+
+523
+00:48:29,523 --> 00:48:31,354
+The power is part of you.
+
+524
+00:48:31,425 --> 00:48:34,258
+Feel it, don't try to command it.
+
+525
+00:48:47,706 --> 00:48:50,231
+So... what made you choose us?
+
+526
+00:48:50,309 --> 00:48:51,900
+Targon and Aurora.
+
+527
+00:48:53,478 --> 00:48:56,311
+They saw in you
+a unity of purpose...
+
+528
+00:48:56,381 --> 00:48:57,439
+a desire for peace,
+
+529
+00:48:57,515 --> 00:49:00,915
+even at the cost of yourselves.
+
+530
+00:49:08,057 --> 00:49:10,890
+This is greatness...
+
+531
+00:49:10,960 --> 00:49:13,827
+a greatness that may yet
+save your kingdoms.
+
+532
+00:49:25,072 --> 00:49:27,472
+Or may not.
+
+533
+00:49:29,109 --> 00:49:30,336
+Oops.
+
+534
+00:49:42,921 --> 00:49:44,718
+The Ring of Oroborus!
+
+535
+00:49:44,790 --> 00:49:47,417
+They must be within! Gortaz!
+
+536
+00:49:49,327 --> 00:49:52,455
+Launch your squadron.
+And take these.
+
+537
+00:50:22,522 --> 00:50:25,150
+Aurora? What is it, girl?
+
+538
+00:50:29,428 --> 00:50:31,157
+Aurora? Hey!
+
+539
+00:50:40,638 --> 00:50:42,730
+Ahh, that should do it, boy.
+
+540
+00:50:42,806 --> 00:50:45,570
+In a few weeks,
+you'll be good as new.
+
+541
+00:50:51,080 --> 00:50:52,604
+No! Hold still!
+
+542
+00:50:52,682 --> 00:50:54,206
+You're not well yet
+
+543
+00:51:02,023 --> 00:51:03,183
+No!
+
+544
+00:51:21,507 --> 00:51:24,067
+I still don't see
+what you're worried about.
+
+545
+00:51:24,143 --> 00:51:26,008
+You've got your strength back,
+
+546
+00:51:26,078 --> 00:51:28,012
+we can control our powers,
+
+547
+00:51:28,080 --> 00:51:30,707
+and Xenoz may not even
+know we're here!
+
+548
+00:51:41,491 --> 00:51:43,425
+Well, two out of three, ain't bad!
+
+549
+00:52:18,590 --> 00:52:20,683
+Quickly! On my back!
+
+550
+00:52:36,272 --> 00:52:37,398
+I've got this!
+
+551
+00:52:41,477 --> 00:52:43,809
+We have to get
+out of here, now!
+
+552
+00:52:49,750 --> 00:52:51,843
+Look! It's Targon!
+
+553
+00:52:51,919 --> 00:52:53,477
+And Aurora!
+
+554
+00:52:57,090 --> 00:52:58,717
+Kill the dragons!
+
+555
+00:53:15,206 --> 00:53:16,230
+Thank you!
+
+556
+00:53:16,307 --> 00:53:18,639
+Thank you, both of you!
+
+557
+00:53:19,610 --> 00:53:21,510
+We'll take it from here!
+
+558
+00:53:21,578 --> 00:53:24,138
+Temper your confidence.
+
+559
+00:53:24,214 --> 00:53:27,206
+Xenoz is certain to have
+prepared for our arrival.
+
+560
+00:53:57,777 --> 00:54:02,213
+What? Your foolhardy children
+think to challenge me?
+
+561
+00:54:02,281 --> 00:54:04,749
+Our children?
+
+562
+00:54:04,816 --> 00:54:06,181
+Both of them?
+
+563
+00:54:06,251 --> 00:54:07,581
+- Together!
+- Together!
+
+564
+00:54:07,652 --> 00:54:10,086
+What a team they'll make!
+
+565
+00:54:11,088 --> 00:54:14,546
+A short-lived one, I promise you.
+
+566
+00:54:20,630 --> 00:54:22,427
+To your posts!
+
+567
+00:54:47,153 --> 00:54:49,018
+Ice!
+
+568
+00:54:49,088 --> 00:54:50,555
+Hear me!
+
+569
+00:54:51,290 --> 00:54:54,417
+Rise and do my bidding!
+
+570
+00:56:10,960 --> 00:56:12,587
+Ice dragons.
+
+571
+00:56:12,662 --> 00:56:13,719
+Can you take them?
+
+572
+00:56:13,795 --> 00:56:15,626
+Not with you two on my back.
+
+573
+00:56:15,697 --> 00:56:17,631
+Then just get us over the castle!
+
+574
+00:56:17,699 --> 00:56:19,530
+We'll take it from there!
+
+575
+00:57:03,405 --> 00:57:06,101
+What do ya say, Draigar,
+are you ready?
+
+576
+00:57:06,175 --> 00:57:08,075
+After you, Norvagen!
+
+577
+00:57:55,118 --> 00:57:59,679
+Feel the icy rage of
+my wrath, Dragon King!
+
+578
+00:57:59,755 --> 00:58:01,154
+I shall...
+
+579
+00:58:18,838 --> 00:58:20,805
+Destroy them!
+
+580
+00:59:00,474 --> 00:59:01,907
+What?
+
+581
+00:59:01,975 --> 00:59:03,806
+How do you have such powers?
+
+582
+00:59:03,877 --> 00:59:05,742
+That's for us to know...
+
+583
+00:59:05,813 --> 00:59:07,780
+And you to find out!
+
+584
+00:59:12,819 --> 00:59:14,979
+And find out I shall!
+
+585
+00:59:25,129 --> 00:59:28,826
+Now, let us see what
+is in your minds...
+
+586
+00:59:44,079 --> 00:59:45,603
+Of course!
+
+587
+00:59:46,647 --> 00:59:48,774
+The Aurathon!
+
+588
+00:59:48,850 --> 00:59:50,283
+Divided in two,
+
+589
+00:59:50,351 --> 00:59:53,149
+and under my nose this whole time!
+
+590
+00:59:53,221 --> 00:59:56,121
+Very clever, Thoron...
+
+591
+00:59:56,189 --> 00:59:58,714
+but not clever enough!
+
+592
+01:00:08,133 --> 01:00:09,794
+You monster!
+
+593
+01:00:19,910 --> 01:00:21,605
+The Aurathon.
+
+594
+01:00:21,678 --> 01:00:24,078
+Greatest of all the dragon crystals!
+
+595
+01:00:24,147 --> 01:00:25,978
+And it is mine!
+
+596
+01:01:54,592 --> 01:01:55,581
+Xenoz?
+
+597
+01:02:26,787 --> 01:02:29,187
+My queen...
+
+598
+01:02:38,264 --> 01:02:39,754
+Gortaz,
+
+599
+01:02:41,767 --> 01:02:42,699
+thanks...
+
+600
+01:02:42,768 --> 01:02:44,565
+for the hand...
+
+601
+01:03:05,521 --> 01:03:06,613
+What the?
+
+602
+01:03:06,689 --> 01:03:10,420
+That's right, this is
+the work of Thoron!
+
+603
+01:03:11,594 --> 01:03:14,391
+The dragons gave me immortality,
+
+604
+01:03:14,462 --> 01:03:16,327
+but I could not heal,
+
+605
+01:03:16,398 --> 01:03:17,387
+and for this,
+
+606
+01:03:19,834 --> 01:03:22,597
+I shall have my revenge!
+
+607
+01:03:25,539 --> 01:03:28,507
+Let the portal to the
+Dragon World be opened!
+
+608
+01:03:54,297 --> 01:03:55,491
+No!
+
+609
+01:03:55,565 --> 01:03:56,725
+Too late, Thoron!
+
+610
+01:04:01,537 --> 01:04:05,906
+You were a fool to let these children
+retain the Aurathon!
+
+611
+01:04:05,974 --> 01:04:10,307
+Now you cannot defeat me
+and they are helpless!
+
+612
+01:04:10,378 --> 01:04:11,709
+Are they?
+
+613
+01:04:11,779 --> 01:04:13,906
+You question me?
+
+614
+01:04:13,981 --> 01:04:16,642
+I, who for a thousand years
+
+615
+01:04:16,716 --> 01:04:20,152
+have manipulated their
+ancestors like puppets?
+
+616
+01:04:20,220 --> 01:04:21,687
+I took their dragons
+
+617
+01:04:21,755 --> 01:04:24,882
+and they blamed each
+other, as I intended.
+
+618
+01:04:24,957 --> 01:04:26,083
+I know how they think,
+
+619
+01:04:26,158 --> 01:04:28,183
+I know how they feel,
+
+620
+01:04:28,260 --> 01:04:30,023
+I know what they can do.
+
+621
+01:04:30,096 --> 01:04:31,995
+They are but weak humans
+
+622
+01:04:32,063 --> 01:04:34,395
+and they can do nothing!
+
+623
+01:04:34,466 --> 01:04:36,229
+I beg to differ, traitor.
+
+624
+01:04:36,301 --> 01:04:39,428
+They are Prince Dev
+and Princess Kyra
+
+625
+01:04:39,503 --> 01:04:43,030
+and they have been chosen
+by the dragons themselves!
+
+626
+01:04:43,974 --> 01:04:45,305
+Behold!
+
+627
+01:04:59,554 --> 01:05:00,486
+What?
+
+628
+01:05:04,391 --> 01:05:06,086
+No! Give it to me!
+
+629
+01:05:07,928 --> 01:05:09,418
+You got it!
+
+630
+01:06:13,952 --> 01:06:15,010
+The ice castle!
+
+631
+01:06:15,086 --> 01:06:16,451
+It's coming down!
+
+632
+01:06:16,521 --> 01:06:18,148
+Then lets get off of here.
+
+633
+01:06:18,223 --> 01:06:19,349
+Now!
+
+634
+01:06:45,479 --> 01:06:48,573
+May the peace and
+trust they brought us
+
+635
+01:06:48,649 --> 01:06:51,846
+last a thousand years and more!
+
+636
+01:06:51,919 --> 01:06:55,615
+To Prince Dev and princess Kyra!
+
+637
+01:07:03,562 --> 01:07:05,655
+Hail Princess Kyra!
+
+638
+01:07:14,539 --> 01:07:16,336
+Well, what are we gonna do now?
+
+639
+01:07:17,407 --> 01:07:20,103
+My whole life has been
+fighting the Draigar.
+
+640
+01:07:20,177 --> 01:07:21,769
+Is there anything else?
+
+641
+01:07:21,845 --> 01:07:24,279
+I guess that's what
+we're going to find out.
+
+642
+01:07:24,348 --> 01:07:27,783
+Still, Xenoz told the
+truth about one thing...
+
+643
+01:07:27,850 --> 01:07:29,647
+Your wish
+about the legend?
+
+644
+01:07:29,719 --> 01:07:31,619
+Laugh if you want,
+
+645
+01:07:31,687 --> 01:07:33,278
+but I always dreamed that someday,
+
+646
+01:07:33,355 --> 01:07:35,448
+if the dragons came back,
+
+647
+01:07:35,523 --> 01:07:38,822
+this is the place
+where I'd see it.
+
+648
+01:07:38,893 --> 01:07:41,190
+You mean like that?
+
+649
+01:08:04,915 --> 01:08:08,476
+The dragons are
+returning! The legend!
+
+650
+01:08:08,552 --> 01:08:10,179
+It's true!
+
+651
+01:08:10,254 --> 01:08:11,653
+To peace!
+
+652
+01:08:11,722 --> 01:08:12,915
+To us!
+
+653
+01:08:26,235 --> 01:08:27,896
+To dragons forever!
+
+654
+01:08:43,850 --> 01:08:48,343
+This is not over!
+
+655
+01:08:49,305 --> 01:09:49,152
+Please rate this subtitle at www.osdb.link/ck75
+Help other users to choose the best subtitles

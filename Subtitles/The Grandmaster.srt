@@ -1,0 +1,3341 @@
+﻿1
+00:00:35,550 --> 00:00:37,510
+PRESENTED by
+
+2
+00:00:37,680 --> 00:00:39,800
+The Weinstein Company,
+Annapurna Pictures
+
+3
+00:00:39,970 --> 00:00:42,100
+Block 2 Pictures,
+Sil-Metropole Organization Ltd
+
+4
+00:00:42,270 --> 00:00:44,110
+A production of
+
+5
+00:00:44,270 --> 00:00:52,070
+Jet Tone Films Ltd,
+Sil-Metropole Organization Ltd
+
+6
+00:00:52,240 --> 00:00:54,080
+Executive Producers
+
+7
+00:00:54,240 --> 00:00:59,210
+Song Dai, Chan Ye Cheng, Megan Ellison
+
+8
+00:01:01,250 --> 00:01:03,090
+Producers
+
+9
+00:01:03,250 --> 00:01:07,670
+Wong Kar Wai,
+Jacky Pang Yee Wah
+
+10
+00:01:07,840 --> 00:01:09,680
+Action Choreographer
+
+11
+00:01:09,840 --> 00:01:13,470
+Woo Ping Yuen
+
+12
+00:01:13,630 --> 00:01:16,970
+Starring
+
+13
+00:01:17,140 --> 00:01:21,480
+Tony Leung
+
+14
+00:01:21,640 --> 00:01:25,970
+Ziyi Zhang
+
+15
+00:01:26,150 --> 00:01:30,450
+Chang Chen
+
+16
+00:01:30,610 --> 00:01:34,990
+Zhao Benshan
+
+17
+00:01:35,150 --> 00:01:39,490
+Xiao Shenyang
+
+18
+00:01:39,660 --> 00:01:44,000
+and Song Hye Kyo
+
+19
+00:01:44,160 --> 00:01:46,580
+Directed by
+
+20
+00:01:46,750 --> 00:01:50,550
+Wong Kar Wai
+
+21
+00:02:49,310 --> 00:02:51,430
+Don't tell me how well you fight,
+
+22
+00:02:51,610 --> 00:02:53,660
+or how great your teacher is,
+
+23
+00:02:53,820 --> 00:02:56,030
+or brag about your style.
+
+24
+00:02:56,190 --> 00:02:59,730
+Kung fu: two words.
+
+25
+00:03:00,530 --> 00:03:02,240
+Horizontal. Vertical.
+
+26
+00:03:02,410 --> 00:03:05,000
+Make a mistake, horizontal.
+
+27
+00:03:05,700 --> 00:03:07,780
+Stay standing and you win.
+
+28
+00:03:09,250 --> 00:03:10,250
+Isn't that right?
+
+29
+00:06:36,750 --> 00:06:37,750
+Not bad.
+
+30
+00:06:39,540 --> 00:06:41,000
+A master of Wing Chun.
+
+31
+00:06:41,170 --> 00:06:43,380
+The new hope of the South.
+
+32
+00:06:46,920 --> 00:06:48,210
+What's his name?
+
+33
+00:06:49,510 --> 00:06:50,840
+Ip Man.
+
+34
+00:07:09,990 --> 00:07:11,750
+We're from Foshan.
+
+35
+00:07:11,910 --> 00:07:13,330
+My father ran the family business.
+
+36
+00:07:13,490 --> 00:07:16,910
+He exported goods to Hong Kong.
+
+37
+00:07:17,080 --> 00:07:19,340
+The Ips are an old Foshan family.
+
+38
+00:07:19,500 --> 00:07:22,670
+They named a street after us,
+that's how wealthy we were.
+
+39
+00:07:24,880 --> 00:07:27,800
+Before I turned 40, life was easy.
+
+40
+00:07:27,970 --> 00:07:30,430
+I lived on family money,
+
+41
+00:07:30,590 --> 00:07:31,880
+and had one passion:
+
+42
+00:07:34,350 --> 00:07:36,190
+Wing Chun.
+
+43
+00:07:39,270 --> 00:07:41,190
+My wife, Zhang Yongcheng,
+
+44
+00:07:41,350 --> 00:07:44,560
+was the descendant
+of an Imperial Minister.
+
+45
+00:07:44,730 --> 00:07:48,190
+She was a woman of few words
+because she knew their power.
+
+46
+00:07:48,900 --> 00:07:51,570
+We understood each other well.
+
+47
+00:07:56,040 --> 00:07:59,090
+When I went out, she lit a lamp
+
+48
+00:07:59,250 --> 00:08:01,630
+and left it lit until I came home.
+
+49
+00:09:28,880 --> 00:09:31,260
+If life has seasons,
+
+50
+00:09:31,420 --> 00:09:34,380
+my first 40 years were spring.
+
+51
+00:09:42,560 --> 00:09:45,610
+In 1936, Foshan was a prosperous city.
+
+52
+00:09:45,770 --> 00:09:47,480
+Life was peaceful and good.
+
+53
+00:09:47,650 --> 00:09:50,950
+Men socialized in brothels.
+
+54
+00:09:52,490 --> 00:09:55,870
+Foshan's finest was Republic House.
+
+55
+00:09:57,160 --> 00:09:58,830
+Its walls were covered in gold,
+
+56
+00:09:59,030 --> 00:10:00,950
+so we called it the Gold Pavilion.
+
+57
+00:10:02,200 --> 00:10:04,910
+It was the first to have an elevator.
+
+58
+00:10:05,080 --> 00:10:07,040
+Enter a prince, exit a pauper.
+
+59
+00:10:07,210 --> 00:10:09,590
+You'd spend money like water.
+
+60
+00:10:09,960 --> 00:10:12,750
+It was like a social club
+for martial artists.
+
+61
+00:10:12,920 --> 00:10:15,500
+Good men can be found among rogues...
+
+62
+00:10:18,340 --> 00:10:21,680
+...and hidden masters, too.
+
+63
+00:10:26,350 --> 00:10:28,680
+People saw it as a pleasure palace.
+
+64
+00:10:28,900 --> 00:10:31,900
+But to us, it was a battleground.
+
+65
+00:10:46,330 --> 00:10:49,410
+I claim three accomplishments in life.
+
+66
+00:10:49,580 --> 00:10:53,330
+I united Xingyi and Bagua styles.
+
+67
+00:10:54,510 --> 00:10:59,270
+Second, I became the director
+of the Northern Martial Arts Union,
+
+68
+00:10:59,430 --> 00:11:03,770
+bringing together Tongbei, Cannon Fist,
+
+69
+00:11:03,930 --> 00:11:06,220
+Tai Chi, Yan Qing, and other schools.
+
+70
+00:11:07,730 --> 00:11:12,280
+Third, I took
+the Northern masters South.
+
+71
+00:11:12,440 --> 00:11:14,730
+In 1929,
+
+72
+00:11:14,900 --> 00:11:18,980
+I supervised the founding
+of the Southern Martial Arts Academy
+
+73
+00:11:19,160 --> 00:11:24,420
+after talks here in the Gold Pavilion.
+
+74
+00:11:24,580 --> 00:11:26,330
+I'm getting old.
+
+75
+00:11:26,500 --> 00:11:28,710
+It's time for new blood.
+
+76
+00:11:28,960 --> 00:11:33,340
+I held a retirement ceremony up North.
+
+77
+00:11:33,500 --> 00:11:38,670
+You invited me
+to hold a second one here...
+
+78
+00:11:40,970 --> 00:11:46,980
+...to bid farewell
+to my Southern comrades.
+
+79
+00:11:47,600 --> 00:11:50,470
+Up North, the one who took part
+
+80
+00:11:50,640 --> 00:11:53,350
+was my top disciple, Ma San.
+
+81
+00:11:54,520 --> 00:11:56,600
+He'll be my successor.
+
+82
+00:11:59,030 --> 00:12:01,240
+I hope you'll give him your support.
+
+83
+00:12:03,280 --> 00:12:07,700
+I'd always wanted
+
+84
+00:12:07,870 --> 00:12:10,620
+to take the Southern styles North.
+
+85
+00:12:12,080 --> 00:12:14,120
+Sadly, my time is up.
+
+86
+00:12:15,250 --> 00:12:21,210
+I want to hold a demonstration match
+
+87
+00:12:21,380 --> 00:12:24,300
+with a Southern martial artist.
+
+88
+00:12:26,600 --> 00:12:29,100
+Someone you all support.
+
+89
+00:12:32,440 --> 00:12:34,150
+Pick one.
+
+90
+00:12:38,360 --> 00:12:40,070
+How could I represent the South?
+
+91
+00:12:40,240 --> 00:12:42,410
+Among the great Southern schools,
+
+92
+00:12:42,570 --> 00:12:45,070
+there are many besides Wing Chun.
+
+93
+00:12:45,240 --> 00:12:48,660
+In rank, you're all senior to me.
+
+94
+00:12:48,830 --> 00:12:50,920
+You're the leaders and masters.
+
+95
+00:12:51,080 --> 00:12:52,080
+I have no standing.
+
+96
+00:12:52,250 --> 00:12:56,720
+The reputation of the South is at stake.
+
+97
+00:12:56,880 --> 00:13:00,090
+We Southerners may be petty,
+
+98
+00:13:00,420 --> 00:13:02,170
+but we don't run away from a fight.
+
+99
+00:13:02,340 --> 00:13:04,260
+We're not afraid of these Northerners!
+
+100
+00:13:04,430 --> 00:13:06,020
+This is a challenge.
+
+101
+00:13:06,180 --> 00:13:08,560
+We will rise to it.
+Isn't that right?
+
+102
+00:13:08,720 --> 00:13:09,930
+Absolutely!
+
+103
+00:13:10,100 --> 00:13:11,110
+It must be you.
+
+104
+00:13:30,660 --> 00:13:35,410
+Think you're good enough
+to challenge the Grandmaster?
+
+105
+00:13:40,340 --> 00:13:41,760
+Let's keep it simple.
+
+106
+00:13:42,970 --> 00:13:45,060
+- I'll take you all on.
+- Get him!
+
+107
+00:14:14,080 --> 00:14:18,460
+Go tell lp
+that at the ceremony up North,
+
+108
+00:14:18,630 --> 00:14:20,670
+I had the honor.
+
+109
+00:14:20,840 --> 00:14:23,590
+To worship at the feet of the Buddha,
+
+110
+00:14:25,590 --> 00:14:28,170
+first pass the Guardian of the Gate.
+
+111
+00:14:28,640 --> 00:14:29,980
+That's me.
+
+112
+00:14:36,020 --> 00:14:40,690
+Do you know
+why a knife must have a sheath?
+
+113
+00:14:40,860 --> 00:14:45,700
+Its real power lies not in sharpness,
+
+114
+00:14:45,860 --> 00:14:47,270
+but in concealment.
+
+115
+00:14:47,450 --> 00:14:48,990
+You're too sharp a blade.
+
+116
+00:14:49,160 --> 00:14:51,500
+You have to stay put.
+
+117
+00:14:51,660 --> 00:14:55,500
+My sheath... is you, Master.
+
+118
+00:14:55,660 --> 00:14:58,790
+With you around, I'm under control.
+
+119
+00:14:58,960 --> 00:15:00,380
+I can no longer control you.
+
+120
+00:15:01,540 --> 00:15:03,620
+You're too anxious to make your mark.
+
+121
+00:15:04,250 --> 00:15:05,830
+For now, leave Foshan.
+
+122
+00:15:06,010 --> 00:15:08,140
+Miss that train,
+
+123
+00:15:08,300 --> 00:15:10,340
+and I'll break your legs.
+
+124
+00:15:16,810 --> 00:15:18,020
+Central News Broadcast."
+
+125
+00:15:18,190 --> 00:15:22,030
+Mounting anti-Northern sentiment
+in the region
+
+126
+00:15:22,190 --> 00:15:25,820
+has turned the match by the
+Northern visitors into a challenge.
+
+127
+00:15:25,980 --> 00:15:28,440
+The Southern clans have begun
+blocking off entrances to Foshan
+
+128
+00:15:28,610 --> 00:15:29,940
+to prevent hostilities.
+
+129
+00:15:44,710 --> 00:15:45,710
+Halt!
+
+130
+00:15:47,420 --> 00:15:48,540
+Let us pass.
+
+131
+00:15:48,720 --> 00:15:51,720
+Sorry. This street is closed off.
+
+132
+00:15:51,890 --> 00:15:54,440
+No one bearing arms can enter.
+
+133
+00:15:55,470 --> 00:15:57,300
+Do you know who's in that rickshaw?
+
+134
+00:15:57,470 --> 00:16:00,260
+It's Master Gong's daughter!
+
+135
+00:16:05,110 --> 00:16:06,530
+Miss Gong, it's good you're here.
+
+136
+00:16:06,690 --> 00:16:09,650
+He must call this off.
+Win or lose, it's a disgrace.
+
+137
+00:16:10,070 --> 00:16:14,650
+In all his years of fighting,
+he's never lost.
+
+138
+00:16:14,830 --> 00:16:16,290
+How dare you?
+
+139
+00:16:17,120 --> 00:16:18,380
+She's impossible.
+
+140
+00:16:19,620 --> 00:16:23,450
+Your Northern colleagues
+disapprove of this match.
+
+141
+00:16:24,960 --> 00:16:29,290
+It's a huge honor
+that this lp doesn't deserve.
+
+142
+00:16:29,550 --> 00:16:30,800
+It's not how things are done.
+
+143
+00:16:31,010 --> 00:16:32,810
+Don't follow the herd.
+
+144
+00:16:34,140 --> 00:16:39,480
+If the old never let go,
+when will the young ever get a chance?
+
+145
+00:16:41,230 --> 00:16:42,940
+Ip Man has talent.
+
+146
+00:16:43,900 --> 00:16:45,940
+Let's see if he can prove himself.
+
+147
+00:16:47,230 --> 00:16:49,350
+The Gong Family has never lost before.
+
+148
+00:16:49,530 --> 00:16:51,910
+With you here,
+
+149
+00:16:52,070 --> 00:16:53,940
+what can he prove?
+
+150
+00:16:56,950 --> 00:17:00,490
+I once had a temper like yours.
+
+151
+00:17:01,540 --> 00:17:03,250
+Winning was everything.
+
+152
+00:17:04,540 --> 00:17:06,160
+But life's bigger than that.
+
+153
+00:17:07,290 --> 00:17:08,960
+Take a longer view.
+
+154
+00:17:10,380 --> 00:17:14,760
+Past the mountains, the world opens up.
+
+155
+00:17:16,600 --> 00:17:20,350
+Not to see the good in others,
+
+156
+00:17:20,520 --> 00:17:22,900
+not to admit their talent,
+
+157
+00:17:23,060 --> 00:17:24,970
+is to lack generosity.
+
+158
+00:17:26,020 --> 00:17:28,730
+Our high standards in Martial Arts
+
+159
+00:17:28,900 --> 00:17:30,740
+apply to character as well.
+
+160
+00:17:59,050 --> 00:18:00,380
+Father.
+
+161
+00:18:02,600 --> 00:18:06,650
+Why did you bring me to a brothel?
+
+162
+00:18:06,810 --> 00:18:09,520
+If you don't see something...
+
+163
+00:18:11,020 --> 00:18:12,980
+...does it not exist?
+
+164
+00:18:14,570 --> 00:18:15,610
+No harm in seeing.
+
+165
+00:18:17,700 --> 00:18:21,120
+The first time I came here
+
+166
+00:18:21,290 --> 00:18:23,500
+was before you were born.
+
+167
+00:18:25,500 --> 00:18:28,460
+Twenty years have passed in a flash.
+
+168
+00:18:28,630 --> 00:18:32,380
+In life, ability isn't everything.
+
+169
+00:18:34,010 --> 00:18:35,800
+Some thrive in light,
+
+170
+00:18:35,970 --> 00:18:37,810
+others in shadows.
+
+171
+00:18:39,510 --> 00:18:41,630
+The times make us what we are.
+
+172
+00:18:42,640 --> 00:18:44,690
+I asked you to come South
+
+173
+00:18:44,850 --> 00:18:47,510
+to bring things full circle
+
+174
+00:18:47,690 --> 00:18:49,990
+and to let you see
+
+175
+00:18:50,150 --> 00:18:52,490
+how I step down.
+
+176
+00:18:52,650 --> 00:18:55,240
+Since you were little,
+
+177
+00:18:55,400 --> 00:18:57,860
+you've watched me fight.
+
+178
+00:18:58,950 --> 00:19:01,790
+This is the last time.
+
+179
+00:19:01,950 --> 00:19:04,360
+I wish you could've been my successor.
+
+180
+00:19:04,540 --> 00:19:06,790
+But in the world of Martial Arts,
+
+181
+00:19:06,960 --> 00:19:08,840
+there's no place for you.
+
+182
+00:19:09,000 --> 00:19:10,550
+Become a good doctor.
+
+183
+00:19:10,710 --> 00:19:12,550
+Live a peaceful life.
+
+184
+00:19:12,710 --> 00:19:14,750
+This is my greatest wish.
+
+185
+00:19:32,770 --> 00:19:34,190
+Master lp.
+
+186
+00:19:34,360 --> 00:19:37,200
+You'll be challenging their Grandmaster.
+
+187
+00:19:37,360 --> 00:19:40,030
+Your big day is coming.
+
+188
+00:19:40,200 --> 00:19:44,210
+We're here to show our support.
+
+189
+00:19:44,370 --> 00:19:46,380
+I'm humbled, Uncle Deng.
+
+190
+00:19:46,540 --> 00:19:50,590
+It's a pleasure.
+You're very welcome.
+
+191
+00:19:50,750 --> 00:19:52,010
+Please.
+
+192
+00:20:01,890 --> 00:20:06,900
+The ladies and staff congratulate you.
+
+193
+00:20:07,600 --> 00:20:09,270
+That's quite a battle formation.
+
+194
+00:20:19,780 --> 00:20:22,540
+Sister San heads
+our Peking Opera troupe.
+
+195
+00:20:22,700 --> 00:20:24,290
+She dabbles in Bagua.
+
+196
+00:20:24,450 --> 00:20:26,870
+She'd like to offer a few pointers.
+
+197
+00:20:30,160 --> 00:20:31,830
+Please.
+
+198
+00:20:32,830 --> 00:20:35,870
+- After you.
+- Bagua is based on swordplay.
+
+199
+00:20:36,040 --> 00:20:38,460
+Single reverse palm is a single blade.
+
+200
+00:20:38,630 --> 00:20:41,210
+Double reverse palm is a double blade.
+
+201
+00:20:41,380 --> 00:20:43,710
+The feet arc out and in.
+
+202
+00:20:46,010 --> 00:20:47,800
+There are 64 transformations.
+
+203
+00:20:47,970 --> 00:20:50,680
+Attack comes out of nowhere.
+
+204
+00:21:15,250 --> 00:21:18,120
+Sister San, it's just practice.
+
+205
+00:21:18,300 --> 00:21:20,470
+No need to smash the ancestral tablets.
+
+206
+00:21:22,510 --> 00:21:25,430
+I've done that many times before.
+No big deal.
+
+207
+00:21:25,590 --> 00:21:29,050
+Mr. lp, Bagua is underhanded.
+
+208
+00:21:29,220 --> 00:21:31,090
+Beware.
+
+209
+00:21:32,350 --> 00:21:33,350
+Thank you.
+
+210
+00:21:41,400 --> 00:21:44,860
+Ah, Mr lp.
+
+211
+00:21:45,030 --> 00:21:46,740
+Today is a happy day.
+
+212
+00:21:46,910 --> 00:21:50,750
+We in Accounts wish you well.
+
+213
+00:21:55,000 --> 00:21:58,260
+Xingyi began with General Yue Fei.
+
+214
+00:22:00,750 --> 00:22:03,420
+It uses the fist as a spear.
+
+215
+00:22:03,590 --> 00:22:04,630
+Drill!
+
+216
+00:22:05,220 --> 00:22:06,430
+Chop!
+
+217
+00:22:06,590 --> 00:22:07,710
+Cross!
+
+218
+00:22:08,890 --> 00:22:09,890
+Blast!
+
+219
+00:22:11,720 --> 00:22:12,840
+Crush!
+
+220
+00:22:53,600 --> 00:22:57,150
+Such sensitivity. Impressive!
+
+221
+00:22:57,310 --> 00:22:59,930
+That Crushing Fist is quite something.
+
+222
+00:23:01,360 --> 00:23:02,650
+Mr. lP=
+
+223
+00:23:02,820 --> 00:23:07,080
+each challenge leads to a higher peak.
+
+224
+00:23:07,240 --> 00:23:10,040
+Xingyi is brutal.
+
+225
+00:23:10,200 --> 00:23:11,620
+Don't underestimate it.
+
+226
+00:23:11,780 --> 00:23:13,990
+Let's see how high the peaks get.
+
+227
+00:23:15,790 --> 00:23:17,290
+This will be fun.
+
+228
+00:23:28,550 --> 00:23:31,420
+My turn now, Master lp.
+
+229
+00:23:32,640 --> 00:23:35,150
+And what have you got for me, Yong?
+
+230
+00:23:36,350 --> 00:23:38,190
+A string of firecrackers.
+
+231
+00:24:02,830 --> 00:24:06,120
+That move, isn't that Hung Gar?
+
+232
+00:24:07,380 --> 00:24:08,840
+I'm a jack of all trades.
+
+233
+00:24:20,190 --> 00:24:22,730
+- You do mix it up.
+- What's wrong with that?
+
+234
+00:24:22,900 --> 00:24:25,360
+So long as it works.
+
+235
+00:24:25,520 --> 00:24:28,900
+Their 64 Hands have endless
+combinations.
+
+236
+00:24:29,070 --> 00:24:31,450
+Your Wing Chun is a three-trick pony.
+
+237
+00:24:31,610 --> 00:24:34,110
+Spade, Pin, Sheath.
+
+238
+00:24:34,280 --> 00:24:37,700
+- How can it compete?
+- Three's enough to take care of you.
+
+239
+00:24:41,920 --> 00:24:42,920
+Spade.
+
+240
+00:24:45,290 --> 00:24:46,290
+Pin.
+
+241
+00:24:50,970 --> 00:24:52,220
+Sheath.
+
+242
+00:25:29,840 --> 00:25:33,050
+Yong, your fireworks have fizzled.
+
+243
+00:25:35,430 --> 00:25:37,520
+What of it? I'm an old man.
+
+244
+00:25:39,350 --> 00:25:40,730
+Youth trumps skill.
+
+245
+00:25:41,470 --> 00:25:44,760
+He might be a Grandmaster,
+but don't hold back.
+
+246
+00:25:45,480 --> 00:25:47,030
+You'd better win.
+
+247
+00:25:48,110 --> 00:25:49,610
+This has been a real privilege.
+
+248
+00:25:49,770 --> 00:25:51,600
+To victory!
+
+249
+00:25:51,780 --> 00:25:52,950
+Good luck.
+
+250
+00:26:24,390 --> 00:26:27,180
+Every generation produces new talent.
+
+251
+00:26:27,350 --> 00:26:30,890
+Mr. lp, we were fated to meet.
+
+252
+00:26:31,070 --> 00:26:33,570
+For my final contest,
+
+253
+00:26:33,740 --> 00:26:37,990
+I suggest we match wits, not skill.
+
+254
+00:26:38,160 --> 00:26:39,200
+Do you accept?
+
+255
+00:26:40,530 --> 00:26:43,570
+As our guest, it's up to you.
+
+256
+00:26:52,130 --> 00:26:57,220
+When our union was
+founded 25 years ago...
+
+257
+00:26:59,930 --> 00:27:01,850
+...a man came from the South
+
+258
+00:27:02,010 --> 00:27:04,800
+and offered a challenge.
+
+259
+00:27:04,970 --> 00:27:09,890
+He held out a flat cake
+and asked our Master to break it.
+
+260
+00:27:12,900 --> 00:27:15,160
+Our Master wasn't offended.
+
+261
+00:27:17,700 --> 00:27:21,040
+He even named the man
+our first chairman.
+
+262
+00:27:21,200 --> 00:27:23,540
+It wasn't because of his kung fu,
+
+263
+00:27:23,700 --> 00:27:25,070
+but what he said:
+
+264
+00:27:27,000 --> 00:27:29,170
+Kung fu divides North and South.
+
+265
+00:27:29,330 --> 00:27:31,120
+Must the country divide as well?
+
+266
+00:27:33,670 --> 00:27:36,290
+Mr. lP=
+
+267
+00:27:36,460 --> 00:27:41,170
+can you break this cake in my hand?
+
+268
+00:28:26,100 --> 00:28:30,110
+A Tai Chi master stopped
+a bird from flying
+
+269
+00:28:30,270 --> 00:28:34,400
+by giving it no perch from which to fly.
+
+270
+00:28:35,980 --> 00:28:38,480
+The Old Master's skill is too great.
+
+271
+00:28:38,650 --> 00:28:42,730
+Mr. lp is a sparrow in his palm.
+
+272
+00:28:43,870 --> 00:28:45,540
+I don't think he can do it.
+
+273
+00:29:38,550 --> 00:29:40,390
+The world is a big place.
+
+274
+00:29:40,550 --> 00:29:42,970
+Why limit it to North and South?
+
+275
+00:29:43,130 --> 00:29:45,380
+It holds you back.
+
+276
+00:29:46,340 --> 00:29:50,010
+To you, this cake is the country.
+
+277
+00:29:51,180 --> 00:29:53,010
+To me, it's much more.
+
+278
+00:29:54,060 --> 00:29:57,640
+Break from what you know
+and you will know more.
+
+279
+00:29:58,860 --> 00:30:03,530
+The Southern arts are bigger
+than just North and South.
+
+280
+00:30:04,650 --> 00:30:07,490
+- Would you agree?
+- Well said.
+
+281
+00:30:08,910 --> 00:30:10,370
+All my life, I've been the victor.
+
+282
+00:30:11,620 --> 00:30:13,750
+My technique has never failed me.
+
+283
+00:30:14,910 --> 00:30:19,370
+I never thought I'd see
+the limits of my own vision.
+
+284
+00:30:29,010 --> 00:30:31,260
+Mr. lP=
+
+285
+00:30:31,430 --> 00:30:33,550
+today I've made you famous.
+
+286
+00:30:35,520 --> 00:30:39,690
+In the future,
+you'll face challenges at every step.
+
+287
+00:30:41,020 --> 00:30:43,310
+I hope you'll be like me.
+
+288
+00:30:43,480 --> 00:30:46,730
+Pass on the torch.
+
+289
+00:30:46,900 --> 00:30:50,360
+Never give up the faith.
+
+290
+00:30:51,200 --> 00:30:54,280
+Keep the light burning.
+
+291
+00:31:50,800 --> 00:31:53,380
+Tonight, following Northern custom,
+
+292
+00:31:53,550 --> 00:31:55,130
+the winner will host a banquet.
+
+293
+00:31:55,310 --> 00:31:56,940
+You'll represent me.
+
+294
+00:31:57,100 --> 00:32:01,640
+Don't worry,
+I'll do the right thing.
+
+295
+00:32:02,690 --> 00:32:04,320
+Let's go!
+
+296
+00:32:17,450 --> 00:32:19,370
+Miss Gong, you mustn't do this.
+
+297
+00:32:19,540 --> 00:32:21,380
+The Gongs have never been defeated.
+
+298
+00:32:21,540 --> 00:32:24,790
+To me, this contest isn't over yet.
+
+299
+00:32:26,880 --> 00:32:29,550
+Give this to Mr. lp. He'll understand.
+
+300
+00:32:31,470 --> 00:32:36,100
+I have no chance
+to be as great as my father.
+
+301
+00:32:37,060 --> 00:32:38,770
+It wasn't my choice.
+
+302
+00:32:39,640 --> 00:32:40,850
+But I'll make my mark.
+
+303
+00:32:42,690 --> 00:32:44,490
+Go.
+
+304
+00:32:47,480 --> 00:32:49,900
+Of Master Gong's Martial Arts,
+
+305
+00:32:50,070 --> 00:32:52,950
+Ma San inherited the steel
+
+306
+00:32:53,110 --> 00:32:56,030
+and his daughter the silk.
+
+307
+00:32:56,200 --> 00:32:59,370
+She's the sole heir to the 64 Hands.
+
+308
+00:32:59,540 --> 00:33:03,500
+Her moves are deadly.
+
+309
+00:33:03,670 --> 00:33:07,720
+This isn't just a banquet.
+
+310
+00:33:08,300 --> 00:33:11,050
+She's here to redeem the family honor.
+
+311
+00:33:11,840 --> 00:33:13,670
+Don't underrate Gong Er.
+
+312
+00:33:14,510 --> 00:33:16,970
+The Martial Arts world has four taboos.
+
+313
+00:33:17,140 --> 00:33:20,190
+Monks, Taoist priests,
+women, and children.
+
+314
+00:33:20,350 --> 00:33:21,560
+Grappling with them is a bad idea.
+
+315
+00:33:21,730 --> 00:33:25,860
+If their 64 Hands are that good,
+how could I not accept?
+
+316
+00:33:34,030 --> 00:33:37,450
+It's said that all encounters
+in this world
+
+317
+00:33:37,620 --> 00:33:38,870
+are a kind of reunion.
+
+318
+00:33:40,160 --> 00:33:41,990
+And that was how we first met.
+
+319
+00:33:43,620 --> 00:33:45,950
+She was nothing
+I could've ever expected.
+
+320
+00:35:06,910 --> 00:35:08,740
+Three days ago,
+
+321
+00:35:08,920 --> 00:35:10,720
+my father sat here.
+
+322
+00:35:12,250 --> 00:35:14,750
+Tonight,
+
+323
+00:35:14,920 --> 00:35:16,710
+it's between us.
+
+324
+00:35:18,630 --> 00:35:22,340
+- Please.
+- Pity about the lovely decor.
+
+325
+00:35:23,720 --> 00:35:25,510
+Kung fu is about precision.
+
+326
+00:35:25,680 --> 00:35:29,020
+If anything gets broken,
+the win is yours.
+
+327
+00:38:24,700 --> 00:38:26,120
+In those days,
+
+328
+00:38:26,280 --> 00:38:28,530
+there were many rituals in our world.
+
+329
+00:38:28,700 --> 00:38:32,250
+A challenger was an honored guest,
+
+330
+00:38:32,410 --> 00:38:36,790
+welcomed with a banquet
+and sent off with gifts.
+
+331
+00:38:37,960 --> 00:38:42,300
+The night Gong Er left Foshan,
+I suggested a rematch.
+
+332
+00:38:42,460 --> 00:38:44,380
+It went your way this time.
+
+333
+00:38:44,550 --> 00:38:47,890
+Who knows what next time will bring.
+
+334
+00:38:48,510 --> 00:38:50,170
+Come to the North.
+
+335
+00:38:50,350 --> 00:38:51,770
+I'll be waiting.
+
+336
+00:38:53,270 --> 00:38:54,560
+Take care.
+
+337
+00:40:34,330 --> 00:40:38,630
+I dream of seeing the 64 Hands
+again in the snow.
+
+338
+00:40:59,060 --> 00:41:03,030
+I'm waiting. What's keeping you?
+
+339
+00:41:22,040 --> 00:41:24,960
+Ip.
+
+340
+00:41:30,590 --> 00:41:31,850
+Does it fit?
+
+341
+00:41:34,300 --> 00:41:35,760
+Foshan's never this cold.
+
+342
+00:41:36,760 --> 00:41:38,430
+Better to be ready.
+
+343
+00:41:38,600 --> 00:41:40,520
+You'll go sooner or later.
+
+344
+00:41:52,320 --> 00:41:54,580
+Pick a day.
+
+345
+00:41:56,160 --> 00:41:58,290
+We'll take a family portrait.
+
+346
+00:43:05,600 --> 00:43:08,770
+In October 1938,
+the Japanese invaded Foshan.
+
+347
+00:43:08,940 --> 00:43:12,150
+Their army took over our home.
+
+348
+00:43:12,320 --> 00:43:14,320
+If life has four seasons,
+
+349
+00:43:14,490 --> 00:43:17,990
+we went from spring straight to winter.
+
+350
+00:43:58,700 --> 00:44:01,160
+I'll be back with dinner.
+
+351
+00:44:09,120 --> 00:44:10,540
+Help me prosper?
+
+352
+00:44:11,580 --> 00:44:13,210
+Rescue me from poverty?
+
+353
+00:44:15,250 --> 00:44:16,670
+I've never been poor in my life.
+
+354
+00:44:18,010 --> 00:44:21,560
+The country is in crisis
+and everyone is suffering.
+
+355
+00:44:22,550 --> 00:44:23,840
+To be poor is no big deal.
+
+356
+00:44:26,270 --> 00:44:30,520
+I'd rather starve
+than eat Japanese rice.
+
+357
+00:44:31,400 --> 00:44:34,610
+I won't collaborate.
+Enjoy your dinner.
+
+358
+00:44:53,330 --> 00:44:54,960
+They're brand-new.
+
+359
+00:44:55,130 --> 00:44:58,640
+I was going to the Northeast.
+But that's impossible now.
+
+360
+00:45:00,050 --> 00:45:02,810
+Sell them and I can feed my family.
+
+361
+00:45:02,970 --> 00:45:04,640
+Why's there a button missing?
+
+362
+00:45:08,350 --> 00:45:10,230
+Is there?
+
+363
+00:45:10,390 --> 00:45:11,390
+Must've dropped off.
+
+364
+00:45:17,650 --> 00:45:19,530
+I began studying kung fu at age seven.
+
+365
+00:45:19,690 --> 00:45:22,730
+Before I turned 40,
+I was never beaten.
+
+366
+00:45:22,910 --> 00:45:25,000
+When that happened,
+
+367
+00:45:25,160 --> 00:45:27,790
+it was life that dealt the blows.
+
+368
+00:45:27,950 --> 00:45:30,910
+In eight years of war,
+I lost everything.
+
+369
+00:45:31,080 --> 00:45:33,630
+Money, friends...
+
+370
+00:45:33,790 --> 00:45:36,580
+China will never die!
+
+371
+00:45:41,130 --> 00:45:43,590
+Finally, I lost my family.
+
+372
+00:47:05,970 --> 00:47:07,760
+Ever taught before, Master lp?
+
+373
+00:47:07,930 --> 00:47:10,100
+To teach for a living
+is a new experience.
+
+374
+00:47:10,260 --> 00:47:13,470
+- So why now?
+- I'm starting a new life.
+
+375
+00:47:13,640 --> 00:47:17,180
+You've got your things.
+You must be confident.
+
+376
+00:47:17,350 --> 00:47:20,680
+- Saves running back and forth.
+- We've never heard of Wing Chun.
+
+377
+00:47:20,860 --> 00:47:24,030
+- Any special moves?
+- Not really.
+
+378
+00:47:24,190 --> 00:47:27,690
+Three basic hands: Spade, Pin, Sheath.
+
+379
+00:47:27,860 --> 00:47:29,990
+How many forms?
+
+380
+00:47:30,160 --> 00:47:32,790
+The Concept, The Bridge,
+
+381
+00:47:32,950 --> 00:47:34,660
+and Darting Fingers.
+
+382
+00:47:34,830 --> 00:47:36,540
+VVeapons?
+
+383
+00:47:36,710 --> 00:47:39,760
+Double Knives,
+and the Six-and-a-half Point Pole.
+
+384
+00:47:39,920 --> 00:47:42,590
+- Anything else?
+- That's it.
+
+385
+00:47:44,130 --> 00:47:46,430
+Bone-setting, internal energy,
+
+386
+00:47:46,590 --> 00:47:48,420
+I don't do any of that.
+
+387
+00:47:48,590 --> 00:47:51,210
+Street performance, lion dancing,
+
+388
+00:47:51,390 --> 00:47:53,480
+I won't work like that.
+
+389
+00:47:53,640 --> 00:47:54,770
+Why not?
+
+390
+00:47:56,730 --> 00:47:58,940
+Kung fu's not a circus act,
+
+391
+00:47:59,100 --> 00:48:01,480
+so I won't teach
+without a proper school.
+
+392
+00:48:01,650 --> 00:48:03,200
+Lion dancers jump at firecrackers.
+
+393
+00:48:03,360 --> 00:48:07,450
+They're always brawling
+and showing off,
+
+394
+00:48:07,610 --> 00:48:09,820
+all for a bit of cash.
+
+395
+00:48:09,990 --> 00:48:11,200
+It's crude.
+
+396
+00:48:11,370 --> 00:48:13,500
+I'll ask you straight.
+
+397
+00:48:13,660 --> 00:48:15,620
+Ever been in a real fight?
+
+398
+00:48:16,870 --> 00:48:18,830
+It's wall-to-wall kung fu schools here.
+
+399
+00:48:19,000 --> 00:48:20,500
+Fights start over nothing.
+
+400
+00:48:20,670 --> 00:48:24,130
+Master lp, have you got what it takes?
+
+401
+00:48:24,290 --> 00:48:27,170
+Try me and find out.
+
+402
+00:48:28,970 --> 00:48:30,510
+Fight! Fight!
+
+403
+00:48:31,510 --> 00:48:33,420
+I've had a few years of training.
+
+404
+00:48:34,930 --> 00:48:36,340
+Show me your stuff, Master lp.
+
+405
+00:48:36,520 --> 00:48:39,230
+- Have you had lunch?
+- Barbecued pork and rice.
+
+406
+00:48:39,390 --> 00:48:41,680
+I suggest you wait a bit.
+It'd be a shame to waste it.
+
+407
+00:48:41,850 --> 00:48:42,850
+Waste it?
+
+408
+00:48:57,200 --> 00:49:00,030
+Brother Hung, are you OK?
+
+409
+00:49:02,080 --> 00:49:04,540
+- Where's the tea?
+- Tea?
+
+410
+00:49:04,710 --> 00:49:05,910
+To give to your new master!
+
+411
+00:49:14,430 --> 00:49:15,890
+Is there a hammer?
+
+412
+00:49:29,440 --> 00:49:34,030
+Master lp,
+the boys and I want some lessons.
+
+413
+00:49:34,200 --> 00:49:36,200
+Eighty cents a head.
+Cheap enough.
+
+414
+00:49:36,370 --> 00:49:38,870
+But call yourself a master,
+you'd better deliver the goods.
+
+415
+00:49:39,040 --> 00:49:43,420
+No snake oil.
+How good is your kung fu, anyway?
+
+416
+00:49:58,140 --> 00:49:59,140
+Lock the gate.
+
+417
+00:50:02,060 --> 00:50:03,690
+Hey! Little fucker.
+
+418
+00:50:03,850 --> 00:50:05,640
+Shut the door and it's on for real.
+
+419
+00:50:05,810 --> 00:50:08,270
+You've got two hands and two feet.
+How you gonna beat us all?
+
+420
+00:50:08,440 --> 00:50:10,150
+You're mistaken.
+
+421
+00:50:11,070 --> 00:50:14,280
+I have two hands, but...
+Wing Chun has eight kicks.
+
+422
+00:50:14,450 --> 00:50:16,660
+Never mind your boys.
+
+423
+00:50:16,820 --> 00:50:19,240
+There's more than enough for you.
+
+424
+00:50:19,410 --> 00:50:21,170
+More than enough for me?
+
+425
+00:50:35,680 --> 00:50:37,060
+That one's free.
+
+426
+00:50:51,020 --> 00:50:52,020
+First kick.
+
+427
+00:51:12,710 --> 00:51:13,710
+Fourth kick.
+
+428
+00:51:26,690 --> 00:51:28,190
+One more left.
+
+429
+00:51:47,750 --> 00:51:49,750
+The life of an exile is rarely easy.
+
+430
+00:51:49,920 --> 00:51:52,130
+It's full of ups and downs.
+
+431
+00:51:52,290 --> 00:51:54,330
+Some look ahead.
+
+432
+00:51:54,500 --> 00:51:57,250
+Others live in the past.
+
+433
+00:51:58,590 --> 00:52:01,840
+In hard times, even a kung fu master
+might serve tea.
+
+434
+00:52:03,220 --> 00:52:06,180
+Back then, the streets were competitive,
+
+435
+00:52:06,350 --> 00:52:08,650
+kung fu masters all around.
+
+436
+00:52:08,810 --> 00:52:11,640
+Just accepting a stranger's cigarette
+could be dangerous.
+
+437
+00:52:18,570 --> 00:52:23,030
+People, they change with the times.
+
+438
+00:52:23,200 --> 00:52:28,170
+Wear shoes that suit the crossing,
+and pants that fit your ass.
+
+439
+00:52:29,250 --> 00:52:33,300
+In Hong Kong,
+I can only afford these cigarettes.
+
+440
+00:52:35,130 --> 00:52:39,470
+Back home,
+I smoked real Manchurian tobacco.
+
+441
+00:52:39,630 --> 00:52:41,050
+Now that was smoking.
+
+442
+00:52:43,510 --> 00:52:46,720
+"Be good, respectful, deferential."
+
+443
+00:52:46,890 --> 00:52:48,680
+"Deferential" is the key.
+
+444
+00:52:50,560 --> 00:52:52,430
+Let's say I'm smoking.
+
+445
+00:52:53,230 --> 00:52:55,700
+A stranger sits down.
+
+446
+00:52:55,860 --> 00:52:58,530
+I defer to him: "Have a smoke."
+
+447
+00:52:58,690 --> 00:53:02,610
+Even if he doesn't smoke, he must accept
+
+448
+00:53:02,780 --> 00:53:04,320
+or he'll make me lose face.
+
+449
+00:53:05,620 --> 00:53:07,170
+Mr. lP---
+
+450
+00:53:09,620 --> 00:53:10,700
+...have a smoke.
+
+451
+00:53:16,670 --> 00:53:18,670
+- Thank you.
+- You're welcome.
+
+452
+00:54:00,670 --> 00:54:01,920
+You've got the gift.
+
+453
+00:54:04,050 --> 00:54:07,840
+Twenty years ago,
+we could've sparred.
+
+454
+00:54:09,220 --> 00:54:11,050
+What a shame.
+
+455
+00:54:17,480 --> 00:54:20,900
+That year,
+refugees flooded into Hong Kong.
+
+456
+00:54:21,690 --> 00:54:24,400
+Among them were many Northern masters.
+
+457
+00:54:24,570 --> 00:54:27,320
+They brought their Martial Arts skills
+with them.
+
+458
+00:54:30,870 --> 00:54:34,000
+One was the fabled Baji master, "Razor."
+
+459
+00:54:50,930 --> 00:54:53,260
+He called himself a barber.
+
+460
+00:54:55,020 --> 00:54:58,360
+Some said he was once an assassin,
+
+461
+00:54:58,520 --> 00:55:00,730
+even the Last Emperor's bodyguard.
+
+462
+00:55:03,530 --> 00:55:05,950
+His blade was swift and untouchable.
+
+463
+00:55:06,110 --> 00:55:07,940
+But a blade not blocked never sings.
+
+464
+00:55:09,070 --> 00:55:11,950
+And he sought the Music of Steel.
+
+465
+00:55:14,660 --> 00:55:15,910
+How about a game of chess?
+
+466
+00:55:17,040 --> 00:55:18,290
+It won't cost you much.
+
+467
+00:55:19,920 --> 00:55:21,420
+I don't throw money away.
+
+468
+00:55:21,590 --> 00:55:24,220
+They say Wing Chun uses knives,
+
+469
+00:55:24,380 --> 00:55:27,500
+and you never strike twice.
+
+470
+00:55:27,680 --> 00:55:29,430
+Scary.
+
+471
+00:55:31,600 --> 00:55:33,810
+- Want to see?
+- I want to hear it,
+
+472
+00:55:33,970 --> 00:55:35,800
+this priceless sound.
+
+473
+00:55:37,230 --> 00:55:40,570
+This razor hasn't seen an equal
+for a long time.
+
+474
+00:55:43,650 --> 00:55:44,650
+Let me try.
+
+475
+00:55:47,280 --> 00:55:48,580
+What will you use?
+
+476
+00:57:16,580 --> 00:57:18,120
+Wing Chun has a saying:
+
+477
+00:57:19,660 --> 00:57:21,620
+You need both master and opponent.
+
+478
+00:57:23,080 --> 00:57:25,620
+A great master is like a scale,
+
+479
+00:57:25,790 --> 00:57:28,750
+a genuine opponent, a mirror.
+
+480
+00:57:28,920 --> 00:57:32,130
+A well-matched opponent
+is as rare as a good friend.
+
+481
+00:57:32,930 --> 00:57:35,770
+Razor put away his blade.
+
+482
+00:57:36,640 --> 00:57:40,360
+But he never forgot that music
+
+483
+00:57:40,520 --> 00:57:43,690
+and he gave Baji to Hong Kong.
+
+484
+00:57:48,480 --> 00:57:52,440
+China closed the border with
+Hong Kong later that year.
+
+485
+00:57:53,740 --> 00:57:55,250
+I was separated from my family.
+
+486
+00:57:56,320 --> 00:57:58,070
+For the identification photo,
+
+487
+00:57:58,240 --> 00:58:02,120
+a student lent me a suit
+so I'd fit in.
+
+488
+00:58:08,130 --> 00:58:09,720
+I never wore one again.
+
+489
+00:58:12,050 --> 00:58:14,970
+If I couldn't go home,
+
+490
+00:58:15,130 --> 00:58:17,970
+I'd never fit in, no matter what I wore.
+
+491
+00:58:23,980 --> 00:58:26,360
+The day I left Foshan...
+
+492
+00:58:27,190 --> 00:58:28,950
+...I was sure I would be able to return.
+
+493
+00:58:34,570 --> 00:58:37,940
+Never thought it'd be
+the last time I saw her.
+
+494
+00:58:44,040 --> 00:58:45,920
+After that I only had the path ahead.
+
+495
+00:58:46,080 --> 00:58:48,080
+There was no turning back...
+
+496
+00:58:49,750 --> 00:58:51,000
+...and no road home.
+
+497
+00:59:01,560 --> 00:59:05,610
+Having lost track of her for many years,
+I finally found Gong Er in Hong Kong.
+
+498
+00:59:06,810 --> 00:59:08,770
+She was no longer involved
+in the Martial Arts world.
+
+499
+00:59:08,940 --> 00:59:12,910
+She had become a doctor,
+as her father once wished.
+
+500
+00:59:19,870 --> 00:59:23,620
+Well, sir, what might you want
+on this New Year's Eve?
+
+501
+00:59:23,790 --> 00:59:27,340
+Haven't seen you here before.
+Where are you from?
+
+502
+00:59:27,500 --> 00:59:30,010
+You wouldn't know.
+
+503
+00:59:30,170 --> 00:59:31,760
+I'm here to see the doctor.
+
+504
+00:59:32,630 --> 00:59:34,340
+The doctor?
+
+505
+00:59:38,050 --> 00:59:39,460
+Must be serious.
+
+506
+01:00:00,870 --> 01:00:03,790
+You don't look too sick.
+
+507
+01:00:03,950 --> 01:00:07,330
+I'd like to see the 64 Hands again.
+
+508
+01:00:07,500 --> 01:00:09,460
+If you don't mind my saying...
+
+509
+01:00:09,620 --> 01:00:12,330
+You lost. I won.
+
+510
+01:00:13,250 --> 01:00:14,790
+Have a seat.
+
+511
+01:00:21,090 --> 01:00:23,760
+If you'd said that at the door,
+
+512
+01:00:23,930 --> 01:00:28,350
+I wouldn't have made it so easy
+
+513
+01:00:28,520 --> 01:00:30,860
+for you to get in here to see me.
+
+514
+01:00:33,020 --> 01:00:34,060
+Thank you.
+
+515
+01:00:38,820 --> 01:00:40,690
+You know,
+
+516
+01:00:40,860 --> 01:00:44,400
+I'd hoped to visit
+the Northeast in 1937.
+
+517
+01:00:46,410 --> 01:00:48,160
+There was a challenge waiting for me.
+
+518
+01:00:50,540 --> 01:00:52,700
+I had a warm coat made.
+
+519
+01:00:52,880 --> 01:00:56,220
+But the war stopped me from going.
+
+520
+01:00:58,010 --> 01:00:59,470
+I didn't keep the coat...
+
+521
+01:01:01,050 --> 01:01:02,920
+...just one of its buttons.
+
+522
+01:01:04,550 --> 01:01:05,550
+Call it a memento.
+
+523
+01:01:09,930 --> 01:01:11,890
+The 64 Hands is too important a legacy.
+
+524
+01:01:14,610 --> 01:01:16,490
+Why let it disappear?
+
+525
+01:01:19,690 --> 01:01:21,480
+In centuries of Martial Arts history,
+
+526
+01:01:21,650 --> 01:01:25,150
+so many things have vanished.
+
+527
+01:01:26,280 --> 01:01:28,990
+Why should the Gong Family arts survive?
+
+528
+01:01:32,580 --> 01:01:34,620
+Mr. lP=
+
+529
+01:01:34,790 --> 01:01:36,870
+no art is higher than Heaven,
+
+530
+01:01:37,040 --> 01:01:38,620
+no gift more solid than Earth.
+
+531
+01:01:40,010 --> 01:01:43,350
+Nothing lasts forever, and that's fine.
+
+532
+01:01:44,840 --> 01:01:47,340
+I'll keep this button, but...
+
+533
+01:01:47,510 --> 01:01:52,010
+...as for what may and may not be seen,
+
+534
+01:01:52,190 --> 01:01:54,530
+let's not talk about it now.
+
+535
+01:02:24,550 --> 01:02:26,840
+How could it be?
+
+536
+01:02:28,430 --> 01:02:30,770
+I never expected to see him again...
+
+537
+01:02:32,560 --> 01:02:34,570
+...especially under such circumstances.
+
+538
+01:02:37,690 --> 01:02:40,110
+Perhaps it's fate.
+
+539
+01:02:40,270 --> 01:02:42,520
+He still cares for you.
+
+540
+01:02:43,440 --> 01:02:45,570
+Why hesitate?
+
+541
+01:02:47,410 --> 01:02:49,910
+Your father would approve of him.
+
+542
+01:02:53,250 --> 01:02:57,800
+Miss Gong, the old rules
+don't apply here in Hong Kong.
+
+543
+01:02:59,920 --> 01:03:02,220
+The vow you took,
+
+544
+01:03:02,380 --> 01:03:06,250
+no one has to know.
+
+545
+01:03:09,600 --> 01:03:11,480
+Heaven would know.
+
+546
+01:03:11,640 --> 01:03:12,900
+Earth would know.
+
+547
+01:03:13,060 --> 01:03:14,940
+Father would know.
+
+548
+01:03:16,640 --> 01:03:19,230
+No arrow can return to its bow.
+
+549
+01:03:20,730 --> 01:03:23,020
+Others may live without rules.
+
+550
+01:03:24,030 --> 01:03:25,280
+Not me.
+
+551
+01:04:57,870 --> 01:04:59,450
+Mr. L01
+
+552
+01:04:59,620 --> 01:05:03,250
+do you know what happened
+ten years ago?
+
+553
+01:06:05,480 --> 01:06:07,820
+Do you remember what I taught you?
+
+554
+01:06:07,980 --> 01:06:08,980
+Yes.
+
+555
+01:06:09,900 --> 01:06:14,530
+Never put yourself first, show respect.
+
+556
+01:06:16,490 --> 01:06:19,530
+There's always someone better.
+
+557
+01:06:19,700 --> 01:06:21,160
+To yield is not to lose.
+
+558
+01:06:22,250 --> 01:06:25,170
+Master, you've taught me
+
+559
+01:06:25,330 --> 01:06:28,750
+to be modest
+
+560
+01:06:28,920 --> 01:06:29,970
+and know my place.
+
+561
+01:06:30,130 --> 01:06:31,890
+I took you in as an orphan.
+
+562
+01:06:34,010 --> 01:06:38,770
+You brought credit to our school.
+
+563
+01:06:39,680 --> 01:06:44,510
+Let's go over my supreme move.
+
+564
+01:06:47,520 --> 01:06:49,310
+The Old Monkey Hangs Up His Badge.
+
+565
+01:06:52,070 --> 01:06:55,280
+- Have you practiced it?
+- Yes.
+
+566
+01:06:55,450 --> 01:06:58,370
+You know the key to it?
+
+567
+01:06:58,530 --> 01:07:01,030
+I was never told.
+
+568
+01:07:01,200 --> 01:07:03,740
+It's looking back in reflection.
+
+569
+01:07:03,910 --> 01:07:07,410
+It's not the upward move,
+but the turning back.
+
+570
+01:07:12,090 --> 01:07:14,050
+Understand what I'm saying?
+
+571
+01:07:15,340 --> 01:07:18,050
+A warrior molds himself to the times.
+
+572
+01:07:21,260 --> 01:07:24,800
+What if... I can't turn back?
+
+573
+01:07:28,810 --> 01:07:31,350
+Then the Gong Family legacy
+
+574
+01:07:31,520 --> 01:07:33,560
+cannot live on in you.
+
+575
+01:07:52,420 --> 01:07:53,430
+Stay back.
+
+576
+01:07:56,260 --> 01:07:57,510
+Let him go.
+
+577
+01:07:58,840 --> 01:08:01,090
+Never darken my door again.
+
+578
+01:08:07,480 --> 01:08:08,480
+Get lost.
+
+579
+01:08:16,280 --> 01:08:17,580
+Master!
+
+580
+01:08:36,670 --> 01:08:41,010
+Oh ye gods and spirits,
+
+581
+01:08:41,180 --> 01:08:44,600
+guide this soul to Paradise!
+
+582
+01:09:28,270 --> 01:09:29,560
+Halt!
+
+583
+01:09:32,140 --> 01:09:35,520
+We have orders from Master Ma San
+to escort the Grandmaster's body.
+
+584
+01:09:37,980 --> 01:09:39,150
+Jiang!
+
+585
+01:09:55,000 --> 01:09:57,920
+Tell Ma San he's a dead man.
+
+586
+01:10:00,130 --> 01:10:02,710
+- Let's go!
+- Let's go!
+
+587
+01:10:09,310 --> 01:10:12,110
+...guide this soul to Paradise!
+
+588
+01:10:22,400 --> 01:10:23,480
+They're here!
+
+589
+01:10:23,650 --> 01:10:25,570
+Stop her!
+
+590
+01:10:25,740 --> 01:10:26,750
+Keep her back!
+
+591
+01:10:26,910 --> 01:10:28,080
+Let me at her!
+
+592
+01:10:28,240 --> 01:10:29,240
+Stop her!
+
+593
+01:10:31,160 --> 01:10:33,870
+Stay back. We're here for Ma San!
+
+594
+01:10:40,250 --> 01:10:43,840
+Since you're my senior,
+I won't force my way in.
+
+595
+01:10:44,010 --> 01:10:46,430
+But know this.
+
+596
+01:10:46,590 --> 01:10:48,800
+You can't hide from me forever.
+
+597
+01:10:49,680 --> 01:10:52,220
+I'll take back my family's legacy.
+
+598
+01:10:52,390 --> 01:10:53,970
+Come out!
+
+599
+01:10:56,230 --> 01:11:00,280
+"Better to advance than to stop."
+
+600
+01:11:00,900 --> 01:11:03,490
+The Old Master taught me this.
+
+601
+01:11:03,650 --> 01:11:05,570
+It became my philosophy of life.
+
+602
+01:11:05,740 --> 01:11:09,250
+It's a shame
+he couldn't follow his own advice.
+
+603
+01:11:09,410 --> 01:11:12,290
+His precious teachings are mine now.
+
+604
+01:11:13,910 --> 01:11:15,450
+You want them,
+
+605
+01:11:15,620 --> 01:11:17,790
+send someone who's entitled.
+
+606
+01:11:18,880 --> 01:11:20,920
+You're just a woman.
+
+607
+01:11:24,760 --> 01:11:26,140
+You don't count.
+
+608
+01:11:42,190 --> 01:11:46,770
+Miss, it's too much of a sacrifice.
+
+609
+01:11:46,950 --> 01:11:48,290
+Is it really worth it?
+
+610
+01:11:49,820 --> 01:11:51,400
+Think it over.
+
+611
+01:11:52,240 --> 01:11:56,280
+Once you take the vow,
+there's no turning back.
+
+612
+01:11:59,500 --> 01:12:03,920
+"Better to advance... than to stop."
+
+613
+01:12:06,970 --> 01:12:09,470
+It's the only way to honor my father.
+
+614
+01:12:10,930 --> 01:12:13,060
+I can only advance.
+
+615
+01:12:13,760 --> 01:12:14,890
+I can't stop.
+
+616
+01:13:34,890 --> 01:13:36,270
+Is it hard to kill a man?
+
+617
+01:13:38,020 --> 01:13:42,070
+Miss Gong,
+it's not like in the old days.
+
+618
+01:13:43,190 --> 01:13:45,610
+Murder is punishable by death.
+
+619
+01:13:45,770 --> 01:13:49,270
+Is Ma San worth it?
+
+620
+01:13:52,950 --> 01:13:56,160
+Miss, we make our own path in life.
+
+621
+01:13:56,950 --> 01:14:00,700
+Should we go home,
+or keep waiting?
+
+622
+01:14:02,160 --> 01:14:03,790
+It's New Year's Eve.
+
+623
+01:14:05,170 --> 01:14:07,630
+He'll be here soon.
+
+624
+01:14:07,790 --> 01:14:11,130
+- We have to wait.
+- All right.
+
+625
+01:14:17,050 --> 01:14:18,050
+We'll wait.
+
+626
+01:16:12,590 --> 01:16:15,760
+This is between Miss Gong and Ma San.
+
+627
+01:16:16,300 --> 01:16:18,430
+Everyone else stay out of it.
+
+628
+01:16:19,840 --> 01:16:22,630
+There you are,
+
+629
+01:16:22,800 --> 01:16:24,720
+still playing with your monkey.
+
+630
+01:16:26,640 --> 01:16:28,060
+- Deal with him!
+- Get him!
+
+631
+01:17:09,270 --> 01:17:12,070
+You're worse than a debt collector,
+
+632
+01:17:12,230 --> 01:17:15,030
+trying to ruin my New Year's Eve.
+
+633
+01:17:15,190 --> 01:17:18,150
+Your dinner may be waiting at home,
+
+634
+01:17:18,320 --> 01:17:19,950
+but it won't be yours to eat.
+
+635
+01:17:21,530 --> 01:17:24,070
+I let you off before
+
+636
+01:17:24,240 --> 01:17:27,490
+to avoid destroying the Gong clan.
+
+637
+01:17:28,910 --> 01:17:31,280
+You should know when to give up.
+
+638
+01:17:32,000 --> 01:17:34,590
+Those needing salvation burn joss.
+
+639
+01:17:34,750 --> 01:17:36,330
+Those who are hungry, eat.
+
+640
+01:17:37,460 --> 01:17:38,960
+What I must do,
+
+641
+01:17:39,130 --> 01:17:41,590
+I will do and nothing can stop me.
+
+642
+01:17:42,260 --> 01:17:45,060
+The Gong Family legacy
+
+643
+01:17:45,220 --> 01:17:46,930
+must return to me tonight.
+
+644
+01:17:47,100 --> 01:17:49,150
+Fine.
+
+645
+01:17:50,390 --> 01:17:53,390
+It's a part of me.
+
+646
+01:17:55,060 --> 01:17:57,310
+You want it...
+
+647
+01:17:58,820 --> 01:18:00,160
+...come and get it.
+
+648
+01:21:50,010 --> 01:21:51,180
+Master!
+
+649
+01:21:51,340 --> 01:21:52,550
+Keep away.
+
+650
+01:21:56,300 --> 01:21:58,840
+Ma San, speak!
+
+651
+01:22:12,320 --> 01:22:13,980
+That day...
+
+652
+01:22:15,820 --> 01:22:19,110
+...the Old Master spoke to me...
+
+653
+01:22:20,830 --> 01:22:22,920
+...about his supreme move:
+
+654
+01:22:23,080 --> 01:22:25,330
+"Old Monkey Hangs Up His Badge."
+
+655
+01:22:27,540 --> 01:22:29,290
+He said the key to the move...
+
+656
+01:22:30,800 --> 01:22:32,510
+...was turning back.
+
+657
+01:22:39,720 --> 01:22:41,430
+At the time...
+
+658
+01:22:43,850 --> 01:22:45,720
+...I didn't get it.
+
+659
+01:22:49,690 --> 01:22:53,980
+I thought he couldn't
+keep up with the times.
+
+660
+01:23:04,410 --> 01:23:05,910
+The Gong Family legacy...
+
+661
+01:23:08,460 --> 01:23:10,120
+...I return to you.
+
+662
+01:23:11,380 --> 01:23:13,140
+Let's be clear.
+
+663
+01:23:14,260 --> 01:23:15,640
+You didn't return it.
+
+664
+01:23:17,640 --> 01:23:19,480
+I took it back myself.
+
+665
+01:24:21,240 --> 01:24:22,950
+Miss Gong!
+
+666
+01:25:03,660 --> 01:25:05,710
+In the winter of that year,
+
+667
+01:25:06,620 --> 01:25:09,040
+Gong Er stopped seeing patients.
+
+668
+01:25:20,260 --> 01:25:22,770
+Her old injuries
+from the fight with Ma San
+
+669
+01:25:22,930 --> 01:25:25,390
+had driven her to opium.
+
+670
+01:25:44,320 --> 01:25:47,570
+I last saw her at a teahouse.
+
+671
+01:26:28,030 --> 01:26:29,240
+Do you know this opera?
+
+672
+01:26:31,040 --> 01:26:33,090
+I think I heard it before in Foshan.
+
+673
+01:26:34,370 --> 01:26:37,330
+- Something about a dream.
+- "A Dream of Love".
+
+674
+01:26:40,130 --> 01:26:41,930
+Love is just that, a dream.
+
+675
+01:26:43,220 --> 01:26:48,430
+It's said no instrument
+is as lovely as a voice.
+
+676
+01:26:49,390 --> 01:26:52,900
+Words always sound better sung.
+
+677
+01:26:53,060 --> 01:26:56,150
+- Has Miss Gong studied opera?
+- Just the basics.
+
+678
+01:27:03,190 --> 01:27:08,740
+Back then, if I'd put my mind to it,
+
+679
+01:27:10,080 --> 01:27:12,000
+I'd be an opera star.
+
+680
+01:27:12,160 --> 01:27:16,700
+All those tales, happy and sad...
+
+681
+01:27:17,580 --> 01:27:20,460
+If I tired
+of Yang Family Women Generals,
+
+682
+01:27:20,630 --> 01:27:22,760
+I'd sing "Waking From a Dream."
+
+683
+01:27:24,010 --> 01:27:26,720
+Think of it,
+
+684
+01:27:26,880 --> 01:27:30,970
+me on stage, you in the audience...
+
+685
+01:27:33,390 --> 01:27:35,510
+...meeting that way.
+
+686
+01:27:36,640 --> 01:27:37,930
+Wouldn't that be something?
+
+687
+01:27:38,860 --> 01:27:40,650
+But what if it was sold out?
+
+688
+01:27:41,900 --> 01:27:43,200
+You flatter me.
+
+689
+01:27:44,280 --> 01:27:47,330
+If you came, I'd save you a seat.
+
+690
+01:27:48,820 --> 01:27:52,320
+You've performed well
+in the opera of life.
+
+691
+01:27:52,490 --> 01:27:55,580
+You have both timing and skill.
+
+692
+01:27:55,750 --> 01:28:00,170
+Unfortunately,
+you never saw beyond your role.
+
+693
+01:28:03,050 --> 01:28:05,430
+I'd no idea you watched me
+like an opera.
+
+694
+01:28:08,300 --> 01:28:12,720
+This opera of mine,
+applauded or not,
+
+695
+01:28:12,890 --> 01:28:14,810
+will play on to the end.
+
+696
+01:28:18,270 --> 01:28:22,650
+I asked you here
+to bring things to a close
+
+697
+01:28:22,860 --> 01:28:24,740
+and say what needs to be said.
+
+698
+01:28:24,900 --> 01:28:26,690
+Are you going somewhere?
+
+699
+01:28:31,660 --> 01:28:34,420
+We have a saying in the North:
+
+700
+01:28:34,580 --> 01:28:37,790
+A tiger never quits the mountain.
+
+701
+01:28:39,170 --> 01:28:43,420
+We've both been living on foreign soil.
+
+702
+01:28:45,960 --> 01:28:47,630
+I'm so very tired.
+
+703
+01:28:48,840 --> 01:28:50,460
+I want to go home.
+
+704
+01:28:53,430 --> 01:28:56,850
+But I wanted to return this
+to you first.
+
+705
+01:29:14,280 --> 01:29:16,240
+As for the 64 Hands...
+
+706
+01:29:18,830 --> 01:29:20,450
+...I've already forgotten them.
+
+707
+01:29:27,170 --> 01:29:32,210
+I was lucky to meet you in my prime.
+
+708
+01:29:36,970 --> 01:29:38,850
+Sadly, my time is running out.
+
+709
+01:29:41,270 --> 01:29:45,860
+To say there are no regrets in life,
+
+710
+01:29:46,020 --> 01:29:48,150
+is just to fool yourself.
+
+711
+01:29:49,690 --> 01:29:54,240
+How boring it would be without regrets.
+
+712
+01:30:01,960 --> 01:30:05,130
+Mr. lp, to tell you the truth...
+
+713
+01:30:08,880 --> 01:30:10,790
+...I cared about you.
+
+714
+01:30:19,770 --> 01:30:22,190
+I don't mind telling you that.
+
+715
+01:30:23,390 --> 01:30:25,060
+It's not a crime to love.
+
+716
+01:30:29,860 --> 01:30:32,200
+But that's all it can ever be.
+
+717
+01:30:36,820 --> 01:30:39,280
+I never said that to anyone before.
+
+718
+01:30:41,370 --> 01:30:43,780
+Seeing you tonight,
+
+719
+01:30:43,960 --> 01:30:45,800
+I don't know why, but it just came out.
+
+720
+01:30:53,840 --> 01:30:59,050
+Let's say we suspend
+this game of chess between us.
+
+721
+01:31:06,230 --> 01:31:07,690
+Take care.
+
+722
+01:31:19,160 --> 01:31:22,290
+In life, as in chess,
+
+723
+01:31:22,450 --> 01:31:24,780
+a move, once made, stays on the board.
+
+724
+01:31:27,580 --> 01:31:31,920
+What we have... is simply fate.
+
+725
+01:31:38,890 --> 01:31:41,560
+Your father once said,
+
+726
+01:31:41,720 --> 01:31:45,050
+never give up the faith.
+
+727
+01:31:45,230 --> 01:31:47,400
+Keep the light burning.
+
+728
+01:31:49,940 --> 01:31:54,570
+I hope that one day
+I'll see the 64 Hands once more.
+
+729
+01:32:49,420 --> 01:32:54,300
+My father said,
+"Mastery has three stages:
+
+730
+01:32:56,050 --> 01:32:58,220
+Being,
+
+731
+01:32:58,380 --> 01:33:01,170
+knowing,
+
+732
+01:33:01,340 --> 01:33:03,010
+doing."
+
+733
+01:33:06,100 --> 01:33:07,770
+I know myself.
+
+734
+01:33:09,480 --> 01:33:11,610
+I've seen the world.
+
+735
+01:33:16,480 --> 01:33:18,150
+Sadly, I can't pass on what I know.
+
+736
+01:33:25,160 --> 01:33:30,090
+This is a road
+I won't see to the end.
+
+737
+01:33:32,920 --> 01:33:35,090
+I hope you will.
+
+738
+01:34:56,000 --> 01:34:59,000
+I grew up watching my father fight.
+
+739
+01:35:01,300 --> 01:35:04,970
+The sound most familiar to me
+was that of bones breaking.
+
+740
+01:35:27,410 --> 01:35:32,290
+My father was the first
+to merge Xingyi and Bagua.
+
+741
+01:35:34,960 --> 01:35:39,970
+When Father practiced Bagua,
+he allowed no one to watch.
+
+742
+01:35:40,500 --> 01:35:43,880
+He only taught his disciples Xingyi,
+
+743
+01:35:44,050 --> 01:35:46,850
+for Bagua was lethal.
+
+744
+01:36:15,250 --> 01:36:19,000
+Father always said that if I was
+a singer I'd rule the stage,
+
+745
+01:36:19,170 --> 01:36:22,510
+if a nun I'd run the temple,
+
+746
+01:36:22,670 --> 01:36:25,540
+for I lose myself in my passions.
+
+747
+01:36:30,390 --> 01:36:32,480
+It's a pity I wasn't a boy.
+
+748
+01:37:45,380 --> 01:37:49,720
+What I learned
+from my father wasn't skill
+
+749
+01:37:49,880 --> 01:37:51,840
+so much as a code of honor.
+
+750
+01:37:53,180 --> 01:37:55,890
+Those were my happiest days.
+
+751
+01:38:13,780 --> 01:38:18,360
+Like her father,
+Gong Er never lost a fight.
+
+752
+01:38:20,660 --> 01:38:24,620
+She only ever lost to herself.
+
+753
+01:39:30,230 --> 01:39:31,810
+At seven, I started learning kung fu.
+
+754
+01:39:31,980 --> 01:39:34,190
+My master was Chan Wah-shun.
+
+755
+01:39:34,360 --> 01:39:38,360
+Wing Chun was still a secret art,
+and disciples were rarely commoners.
+
+756
+01:39:39,200 --> 01:39:42,290
+Pledging loyalty
+cost 20 silver dollars,
+
+757
+01:39:42,450 --> 01:39:44,620
+enough money to pay a handsome dowry.
+
+758
+01:39:45,710 --> 01:39:49,170
+Back then, it was only for the rich.
+
+759
+01:39:50,290 --> 01:39:54,170
+The day I became a disciple,
+my master tied my sash himself.
+
+760
+01:39:55,260 --> 01:39:58,390
+This sash stands for school and teacher.
+
+761
+01:39:58,550 --> 01:40:04,140
+It stands for commitment
+to honor and respect our legacy.
+
+762
+01:40:04,310 --> 01:40:07,070
+You are now a martial artist.
+
+763
+01:40:08,060 --> 01:40:11,980
+I lived through dynastic times,
+the early Republic, warlords,
+
+764
+01:40:12,150 --> 01:40:13,700
+Japanese invasion and civil war.
+
+765
+01:40:14,570 --> 01:40:16,700
+Finally, I came to Hong Kong.
+
+766
+01:40:16,860 --> 01:40:21,110
+What kept me going
+was the spirit of Wing Chun.
+
+767
+01:40:42,930 --> 01:40:44,680
+OK, begin.
+
+768
+01:40:56,190 --> 01:41:00,530
+They say I popularized Wing Chun.
+
+769
+01:41:02,410 --> 01:41:04,250
+I hope they're right.
+
+770
+01:41:06,540 --> 01:41:08,710
+I never did it for fame.
+
+771
+01:41:08,870 --> 01:41:11,410
+The Martial Arts belong to all.
+
+772
+01:41:12,500 --> 01:41:15,870
+Martial Arts is about kung fu,
+not schools.
+
+773
+01:41:19,170 --> 01:41:21,300
+We're all on the same quest.
+
+774
+01:41:21,470 --> 01:41:24,560
+It all comes down to those two words:
+
+775
+01:41:28,180 --> 01:41:30,850
+Horizontal. Vertical.
+
+776
+01:42:01,510 --> 01:42:05,680
+THE GRANDMASTER
+
+777
+01:42:05,850 --> 01:42:10,230
+A Wong Kar Wai Film
+
+778
+01:42:10,390 --> 01:42:14,770
+Co-starring
+Wang Qingxiang, Zhang Jin, Shang Tielong
+
+779
+01:42:14,940 --> 01:42:18,990
+Special Appearances by
+Woo Ping Yuen, Lo Hoi Pang, Lau Ka Yung
+
+780
+01:42:19,150 --> 01:42:21,570
+Lau Shun, Wang Mancheng, and Cung Le
+
+781
+01:42:21,740 --> 01:42:26,120
+Screenplay by
+Zou Jingzhi, Xu Haofeng, Wong Kar Wai
+
+782
+01:42:26,280 --> 01:42:30,740
+Story by
+Wong Kar Wai
+
+783
+01:42:36,630 --> 01:42:38,090
+You can call me Ip Man.
+
+784
+01:42:38,380 --> 01:42:40,260
+Or even Old Ip.
+
+785
+01:42:40,420 --> 01:42:44,090
+We can learn from one another.
+I really believe that.
+
+786
+01:42:44,260 --> 01:42:45,890
+But fists and feet do what they do.
+
+787
+01:42:46,050 --> 01:42:47,760
+Our fate is up to the gods.
+
+788
+01:42:51,930 --> 01:42:53,390
+Would you agree?
+
+789
+01:43:24,010 --> 01:43:25,010
+What's your style?
+
+790
+01:43:26,840 --> 01:43:31,430
+Director of Photography
+Philippe Le Sourd
+
+791
+01:43:31,600 --> 01:43:35,940
+Additional Cinematography
+Song Xiaofei
+
+792
+01:43:36,100 --> 01:43:39,100
+Production Design by
+William Chang Suk Ping,
+
+793
+01:43:39,270 --> 01:43:40,560
+Alfred Yau Wai Ming
+
+794
+01:43:40,730 --> 01:43:45,110
+Costume Design by
+William Chang Suk Ping
+
+795
+01:43:45,360 --> 01:43:49,780
+Edited by William Chang Suk Ping,
+Benjamin Courtines, Poon Hung Yiu
+
+796
+01:43:49,950 --> 01:43:54,200
+Original Score by
+Shigeru Umebayashi, Nathaniel Mechaly
+
+797
+01:43:54,540 --> 01:43:58,670
+Sound Design by
+Robert Mackenzie

@@ -1,0 +1,3304 @@
+﻿1
+00:04:04,661 --> 00:04:08,372
+Help here! Lend a hand here! Anyone!
+
+2
+00:04:10,459 --> 00:04:11,792
+Constable Crane?
+
+3
+00:04:11,835 --> 00:04:13,711
+Ichabod Crane, is that you?
+
+4
+00:04:13,795 --> 00:04:15,129
+None other.
+
+5
+00:04:15,839 --> 00:04:17,131
+Not only me.
+
+6
+00:04:17,174 --> 00:04:21,135
+I have found something,
+which was lately a man.
+
+7
+00:04:25,182 --> 00:04:27,350
+- Burn it.
+- Yes, sir.
+
+8
+00:04:28,810 --> 00:04:31,437
+Just a moment, if I may.
+We do not yet know the cause of death.
+
+9
+00:04:31,521 --> 00:04:35,024
+When you find them in the river,
+cause of death is drowning.
+
+10
+00:04:35,108 --> 00:04:36,734
+Possibly so,
+if there is water in the lungs,
+
+11
+00:04:36,818 --> 00:04:39,946
+but by pathology we might be able to
+determine whether or not he was dead
+
+12
+00:04:40,030 --> 00:04:41,238
+before he went into the river.
+
+13
+00:04:41,323 --> 00:04:43,366
+I will need to examine the body.
+
+14
+00:04:43,450 --> 00:04:46,369
+Cut him up. Are we heathens?
+
+15
+00:04:48,205 --> 00:04:49,288
+What happened to him?
+
+16
+00:04:49,373 --> 00:04:51,624
+Nothing, sir. Arrested for burglary.
+
+17
+00:04:59,633 --> 00:05:00,758
+Good work.
+
+18
+00:05:01,927 --> 00:05:04,095
+The millennium is almost upon us.
+
+19
+00:05:04,554 --> 00:05:08,015
+In a few months,
+we will be living in the 19th century,
+
+20
+00:05:08,058 --> 00:05:11,560
+yet our courts continue
+to rely on medieval devices of torture.
+
+21
+00:05:11,603 --> 00:05:12,728
+Stand down!
+
+22
+00:05:12,813 --> 00:05:15,898
+I stand up for sense and justice.
+
+23
+00:05:15,983 --> 00:05:18,192
+Our jails overflow with men and women
+
+24
+00:05:18,235 --> 00:05:20,361
+convicted on confessions
+worth no more than this one.
+
+25
+00:05:20,404 --> 00:05:21,779
+Constable Crane!
+
+26
+00:05:22,948 --> 00:05:26,742
+This is a song that we have heard
+from you more than once.
+
+27
+00:05:26,827 --> 00:05:30,579
+Now, there are two courses open to me.
+
+28
+00:05:30,622 --> 00:05:34,583
+First, I can let you cool your heels
+in the cells
+
+29
+00:05:34,668 --> 00:05:37,753
+until you learn respect
+for the dignity of my office.
+
+30
+00:05:37,796 --> 00:05:39,380
+I beg pardon.
+
+31
+00:05:39,423 --> 00:05:43,050
+But why am I the only one
+who sees that, to solve crimes,
+
+32
+00:05:43,093 --> 00:05:46,429
+to detect the guilty,
+we must use our brains
+
+33
+00:05:46,513 --> 00:05:51,100
+to recognize vital clues,
+using up-to-date scientific techniques?
+
+34
+00:05:51,184 --> 00:05:54,311
+Which brings me to the second course.
+
+35
+00:05:55,105 --> 00:05:59,025
+There is a town upstate,
+two days' journey to the north
+
+36
+00:05:59,109 --> 00:06:01,027
+in the Hudson Highlands.
+
+37
+00:06:01,111 --> 00:06:04,864
+It is a place called Sleepy Hollow.
+
+38
+00:06:05,741 --> 00:06:07,283
+Have you heard of it?
+
+39
+00:06:07,701 --> 00:06:08,784
+I have not.
+
+40
+00:06:08,827 --> 00:06:12,538
+An isolated farming community,
+mainly Dutch.
+
+41
+00:06:12,622 --> 00:06:17,084
+Three persons have been
+murdered there, all within a fortnight.
+
+42
+00:06:17,586 --> 00:06:21,964
+Each one found
+with the head lopped off.
+
+43
+00:06:22,049 --> 00:06:23,466
+Lopped off?
+
+44
+00:06:23,508 --> 00:06:26,510
+Clean as dandelion heads, apparently.
+
+45
+00:06:27,637 --> 00:06:30,765
+You will take
+these experimentations of yours
+
+46
+00:06:30,807 --> 00:06:32,641
+to Sleepy Hollow
+
+47
+00:06:32,726 --> 00:06:36,437
+and there you will detect the murderer.
+
+48
+00:06:36,480 --> 00:06:40,316
+Bring him here to face our good justice.
+
+49
+00:06:41,693 --> 00:06:43,069
+Will you do this?
+
+50
+00:06:44,488 --> 00:06:45,613
+I shall.
+
+51
+00:06:46,531 --> 00:06:49,658
+Remember, it is you,
+
+52
+00:06:49,701 --> 00:06:52,244
+Ichabod Crane,
+
+53
+00:06:52,329 --> 00:06:55,581
+who is now put to the test.
+
+54
+00:11:59,761 --> 00:12:02,763
+"The Pickety Witch, the Pickety Witch
+
+55
+00:12:02,806 --> 00:12:04,848
+"Who's got a kiss for the Pickety Witch?
+
+56
+00:12:04,933 --> 00:12:07,267
+"The Pickety Witch, the Pickety Witch
+
+57
+00:12:07,310 --> 00:12:10,145
+"Who's got a kiss
+for the Pickety Witch?"
+
+58
+00:12:12,190 --> 00:12:13,649
+Is it Theodore?
+
+59
+00:12:13,691 --> 00:12:15,818
+No, pardon, miss. I am only a stranger.
+
+60
+00:12:15,860 --> 00:12:17,694
+Then have a kiss on account.
+
+61
+00:12:25,328 --> 00:12:28,497
+I'm looking for Baltus Van Tassel.
+
+62
+00:12:28,540 --> 00:12:31,250
+I'm his daughter, Katrina Van Tassel.
+
+63
+00:12:31,334 --> 00:12:33,919
+And who are you, friend?
+We have not heard your name yet.
+
+64
+00:12:34,003 --> 00:12:36,422
+I've not said it. Excuse me.
+
+65
+00:12:37,507 --> 00:12:39,174
+- You need some manners.
+- Brom.
+
+66
+00:12:39,259 --> 00:12:41,468
+Come, come.
+We'll have no raised voices.
+
+67
+00:12:41,511 --> 00:12:44,346
+It is only to raise spirits
+during this dark time
+
+68
+00:12:44,431 --> 00:12:48,517
+that I and my dear wife
+are giving this little party.
+
+69
+00:12:48,601 --> 00:12:52,521
+Young sir, you are most welcome,
+even if you are selling something.
+
+70
+00:12:52,564 --> 00:12:54,189
+Thank you, sir.
+
+71
+00:12:54,232 --> 00:12:57,609
+I am Constable Ichabod Crane,
+sent to you from New York
+
+72
+00:12:57,694 --> 00:12:59,570
+to investigate murder in Sleepy Hollow.
+
+73
+00:12:59,654 --> 00:13:03,198
+Then Sleepy Hollow
+is grateful to you, Constable Crane.
+
+74
+00:13:03,283 --> 00:13:06,326
+And we hope you will honor us
+by remaining in this house.
+
+75
+00:13:06,369 --> 00:13:07,911
+Well spoke, dear.
+
+76
+00:13:07,996 --> 00:13:11,123
+Come, sir, we'll get you settled. Play on!
+
+77
+00:13:18,006 --> 00:13:19,548
+Excuse me, please.
+
+78
+00:13:24,888 --> 00:13:26,221
+Thank you.
+
+79
+00:13:26,306 --> 00:13:29,183
+Please tell Mr. Van Tassel
+I will be down in a moment.
+
+80
+00:13:29,225 --> 00:13:30,476
+I will, sir.
+
+81
+00:13:34,063 --> 00:13:35,898
+Thank God you're here.
+
+82
+00:13:47,994 --> 00:13:50,996
+Excellent. Come in. Leave us, my dear.
+
+83
+00:13:55,126 --> 00:13:58,253
+We are joined by
+Dr. Thomas Lancaster,
+
+84
+00:13:58,338 --> 00:13:59,922
+Reverend Steenwyck,
+
+85
+00:14:00,006 --> 00:14:02,716
+our able Magistrate Samuel Philipse,
+
+86
+00:14:02,759 --> 00:14:03,884
+and lastly,
+
+87
+00:14:03,927 --> 00:14:08,222
+this fine fellow is James Hardenbrook,
+our notary.
+
+88
+00:14:08,264 --> 00:14:10,098
+And you, sir?
+
+89
+00:14:10,183 --> 00:14:13,310
+A simple farmer who has prospered.
+
+90
+00:14:13,394 --> 00:14:16,772
+The town looks to me
+as friend and counsel.
+
+91
+00:14:16,814 --> 00:14:19,775
+And landlord and banker.
+Can we proceed?
+
+92
+00:14:19,859 --> 00:14:20,943
+Thank you.
+
+93
+00:14:23,279 --> 00:14:24,363
+So...
+
+94
+00:14:26,282 --> 00:14:28,825
+Three persons murdered.
+
+95
+00:14:30,495 --> 00:14:33,330
+First, Peter Van Garrett
+
+96
+00:14:34,165 --> 00:14:36,959
+and his son, Dirk Van Garrett.
+
+97
+00:14:38,044 --> 00:14:42,256
+Both of them strong, capable men,
+
+98
+00:14:43,299 --> 00:14:44,633
+found together
+
+99
+00:14:45,969 --> 00:14:47,177
+decapitated.
+
+100
+00:14:50,181 --> 00:14:52,391
+One week later, the Widow Winship.
+
+101
+00:14:53,893 --> 00:14:56,853
+Also decapitated.
+
+102
+00:14:59,190 --> 00:15:03,485
+Now, I will need to ask you
+many questions.
+
+103
+00:15:03,570 --> 00:15:07,990
+But first, let me ask,
+is anyone suspected?
+
+104
+00:15:11,995 --> 00:15:15,622
+How much have your superiors
+explained to you, Constable?
+
+105
+00:15:16,541 --> 00:15:21,044
+Only that the three
+were slain in open ground,
+
+106
+00:15:21,796 --> 00:15:25,173
+their heads found severed
+from their bodies.
+
+107
+00:15:25,633 --> 00:15:28,010
+Their heads were not found severed.
+
+108
+00:15:28,094 --> 00:15:30,220
+Their heads were not found at all.
+
+109
+00:15:33,224 --> 00:15:36,310
+The heads are gone?
+
+110
+00:15:36,352 --> 00:15:37,561
+Taken.
+
+111
+00:15:37,645 --> 00:15:40,564
+Taken by the Headless Horseman.
+
+112
+00:15:40,648 --> 00:15:42,524
+Taken back to hell.
+
+113
+00:15:44,068 --> 00:15:45,527
+Pardon, I don't...
+
+114
+00:15:45,612 --> 00:15:48,196
+Perhaps you had better sit down.
+
+115
+00:15:50,700 --> 00:15:51,867
+Yes.
+
+116
+00:15:56,247 --> 00:15:58,999
+The horseman was
+a Hessian mercenary
+
+117
+00:15:59,042 --> 00:16:01,793
+sent to these shores by German princes
+
+118
+00:16:01,878 --> 00:16:04,796
+to keep Americans
+under the yoke of England.
+
+119
+00:16:04,881 --> 00:16:08,925
+But unlike his compatriots,
+who came for money,
+
+120
+00:16:09,010 --> 00:16:12,679
+the horseman came for love of carnage.
+
+121
+00:16:12,722 --> 00:16:16,516
+When battle was joined,
+there you'd find him.
+
+122
+00:16:19,354 --> 00:16:22,814
+He rode a giant black steed
+named Daredevil.
+
+123
+00:16:25,485 --> 00:16:28,904
+He was infamous
+for riding his horse hard into battle,
+
+124
+00:16:28,988 --> 00:16:31,531
+chopping off heads at full gallop.
+
+125
+00:16:31,574 --> 00:16:35,202
+He had filed his teeth
+down to sharp points
+
+126
+00:16:35,244 --> 00:16:37,913
+to add to the ferocity of his appearance.
+
+127
+00:16:46,756 --> 00:16:49,966
+This butcher didn't finally reach his end
+
+128
+00:16:50,385 --> 00:16:52,594
+until the winter of '79
+
+129
+00:16:54,472 --> 00:16:57,766
+not far from here in our Western Woods.
+
+130
+00:17:52,113 --> 00:17:54,573
+They chopped off his head
+with his own sword.
+
+131
+00:17:54,657 --> 00:17:57,701
+Even today,
+the Western Woods is a haunted place
+
+132
+00:17:57,785 --> 00:17:59,995
+where brave men will not venture.
+
+133
+00:18:02,415 --> 00:18:04,916
+For what was planted
+in the ground that day
+
+134
+00:18:06,335 --> 00:18:07,961
+was a seed of evil.
+
+135
+00:18:11,174 --> 00:18:13,508
+And so it has been for 20 years.
+
+136
+00:18:14,343 --> 00:18:16,094
+But now the Hessian wakes.
+
+137
+00:18:16,512 --> 00:18:20,140
+He's on the rampage,
+cutting off heads where he finds them.
+
+138
+00:18:25,438 --> 00:18:27,314
+Are you saying...
+
+139
+00:18:28,399 --> 00:18:30,150
+Is that what you believe?
+
+140
+00:18:31,527 --> 00:18:33,945
+Seeing is believing.
+
+141
+00:18:35,698 --> 00:18:40,368
+They tell me that you've brought books
+and trappings of scientific investigation.
+
+142
+00:18:40,745 --> 00:18:44,956
+This is the only book
+I recommend you read.
+
+143
+00:18:52,924 --> 00:18:54,216
+I see.
+
+144
+00:18:55,718 --> 00:18:57,886
+Reverend Steenwyck.
+
+145
+00:18:58,638 --> 00:18:59,721
+Gentlemen.
+
+146
+00:19:01,349 --> 00:19:04,643
+Murder needs no ghosts
+to come from the grave.
+
+147
+00:19:04,727 --> 00:19:09,022
+We have murders in New York
+without benefit of ghouls and goblins.
+
+148
+00:19:09,065 --> 00:19:11,566
+You're a long way
+from New York, Constable.
+
+149
+00:19:12,026 --> 00:19:15,362
+The assassin is
+a man of flesh and blood
+
+150
+00:19:15,404 --> 00:19:17,239
+and I will discover him.
+
+151
+00:19:58,030 --> 00:19:59,656
+Come out, devil.
+
+152
+00:20:52,168 --> 00:20:53,668
+His name's Gunpowder.
+
+153
+00:20:54,587 --> 00:20:56,838
+He should do just fine, Mr. Killian.
+
+154
+00:20:57,506 --> 00:20:58,632
+Thank you.
+
+155
+00:20:59,175 --> 00:21:01,134
+Good luck, sir.
+If you need help, you call my name.
+
+156
+00:21:01,177 --> 00:21:02,636
+Much appreciated.
+
+157
+00:21:03,179 --> 00:21:05,597
+Now, don't you worry about a thing.
+
+158
+00:21:05,681 --> 00:21:07,807
+Everything's going to be just fine.
+
+159
+00:21:09,769 --> 00:21:12,437
+Thomas! Inside!
+
+160
+00:21:14,523 --> 00:21:16,024
+Run along for your breakfast.
+
+161
+00:21:16,067 --> 00:21:18,318
+Kiss your mother
+once for you and twice for me.
+
+162
+00:21:18,361 --> 00:21:21,363
+Murder! The horseman's killed again!
+
+163
+00:21:23,157 --> 00:21:25,909
+All right, Gunpowder, we're off.
+Come on.
+
+164
+00:21:26,535 --> 00:21:27,953
+No, no. Come on, the other way.
+
+165
+00:21:28,037 --> 00:21:29,537
+No, no. Turn around.
+
+166
+00:21:35,294 --> 00:21:36,503
+Good horsy.
+
+167
+00:21:48,391 --> 00:21:52,018
+- Mr. Miller, ride back for the coffin cart.
+- Yes, sir.
+
+168
+00:21:52,103 --> 00:21:54,396
+The rest of you keep a sharp lookout.
+
+169
+00:21:56,440 --> 00:21:58,358
+It's all right. I'm here now.
+
+170
+00:22:23,426 --> 00:22:25,927
+The fourth victim, Jonathan Masbath.
+
+171
+00:22:29,306 --> 00:22:30,598
+I see.
+
+172
+00:22:31,517 --> 00:22:33,643
+And the head?
+
+173
+00:22:35,438 --> 00:22:38,523
+Taken.
+
+174
+00:22:40,109 --> 00:22:42,527
+Interesting. Very interesting.
+
+175
+00:22:42,611 --> 00:22:43,653
+What is?
+
+176
+00:22:44,280 --> 00:22:47,532
+In headless-corpse cases of this sort,
+the head is removed
+
+177
+00:22:47,616 --> 00:22:49,409
+to prevent identification of the body.
+
+178
+00:22:49,452 --> 00:22:52,495
+But we know
+this was Jonathan Masbath.
+
+179
+00:22:52,580 --> 00:22:54,956
+Precisely. So why was
+the head removed?
+
+180
+00:22:55,041 --> 00:22:56,207
+- Why?
+- Right.
+
+181
+00:22:59,295 --> 00:23:01,546
+- You have moved the body?
+- I did.
+
+182
+00:23:01,630 --> 00:23:04,424
+- You must never move the body!
+- Why not?
+
+183
+00:23:04,759 --> 00:23:05,842
+Because.
+
+184
+00:23:20,691 --> 00:23:22,817
+The stride is gigantic.
+
+185
+00:23:25,613 --> 00:23:27,572
+The attacker rode Masbath down,
+
+186
+00:23:28,908 --> 00:23:30,283
+turned his horse,
+
+187
+00:23:31,619 --> 00:23:33,411
+came back.
+
+188
+00:23:33,496 --> 00:23:35,413
+Came back to claim the head.
+
+189
+00:23:53,349 --> 00:23:54,432
+Yes.
+
+190
+00:23:55,518 --> 00:23:57,477
+There's a chemical reaction.
+
+191
+00:23:57,520 --> 00:24:00,897
+It shows there was a powerful,
+singular thrust to the neck.
+
+192
+00:24:28,217 --> 00:24:30,510
+- Interesting.
+- What is it?
+
+193
+00:24:32,054 --> 00:24:34,597
+The wound was cauterized
+in the very instant,
+
+194
+00:24:36,392 --> 00:24:38,560
+as though the blade itself were red hot.
+
+195
+00:24:38,644 --> 00:24:42,063
+And yet, no blistering,
+no scorched flesh.
+
+196
+00:24:44,150 --> 00:24:45,775
+The Devil's fire.
+
+197
+00:24:52,992 --> 00:24:56,119
+"Be vigilant,"
+as it sayeth in the Book of Peter,
+
+198
+00:24:56,203 --> 00:24:58,454
+chapter five, verse eight.
+
+199
+00:24:59,248 --> 00:25:01,082
+"Because your adversary the devil,
+
+200
+00:25:01,125 --> 00:25:04,377
+"as a roaring lion, walketh about,
+
+201
+00:25:05,296 --> 00:25:07,505
+"seeking whom he may devour."
+
+202
+00:25:09,258 --> 00:25:11,634
+God rest Jonathan Masbath.
+
+203
+00:25:13,262 --> 00:25:14,637
+Amen.
+
+204
+00:25:38,621 --> 00:25:40,121
+Mr. Constable, sir.
+
+205
+00:25:42,625 --> 00:25:44,042
+You're young Masbath.
+
+206
+00:25:44,126 --> 00:25:47,795
+I was young Masbath,
+but now the only one.
+
+207
+00:25:47,838 --> 00:25:49,881
+Masbath, at your service.
+
+208
+00:25:49,965 --> 00:25:52,300
+In honor bound to avenge my father.
+
+209
+00:25:53,135 --> 00:25:56,596
+Well, one and only Masbath,
+I thank you very much,
+
+210
+00:25:56,639 --> 00:25:59,515
+but your mother will need you
+more than I.
+
+211
+00:26:00,309 --> 00:26:02,143
+My mother is in heaven, sir.
+
+212
+00:26:02,811 --> 00:26:05,438
+She has my father now to care for her.
+
+213
+00:26:05,481 --> 00:26:09,901
+But you have no one to serve you.
+I am your man, sir.
+
+214
+00:26:09,985 --> 00:26:13,655
+Yes, and a brave one, too. But I cannot
+be the one to look after you.
+
+215
+00:26:16,033 --> 00:26:18,534
+I'm sorry for your loss,
+young Mr. Masbath.
+
+216
+00:26:31,507 --> 00:26:33,424
+- Constable Crane.
+- Mr. Philipse?
+
+217
+00:26:33,509 --> 00:26:35,218
+Something you should know.
+
+218
+00:26:35,844 --> 00:26:38,554
+Jonathan Masbath
+was not the fourth victim,
+
+219
+00:26:40,099 --> 00:26:41,933
+- but the fifth.
+- The fifth?
+
+220
+00:26:42,017 --> 00:26:43,142
+Aye.
+
+221
+00:26:43,560 --> 00:26:47,563
+Five victims in four graves.
+
+222
+00:26:59,201 --> 00:27:00,535
+Young Masbath.
+
+223
+00:27:01,287 --> 00:27:03,288
+Find a place
+in the Van Tassel's servants' quarters.
+
+224
+00:27:03,372 --> 00:27:04,872
+Wake me before dawn.
+
+225
+00:27:05,165 --> 00:27:07,250
+I hope you have a strong stomach.
+
+226
+00:27:09,837 --> 00:27:11,254
+Peter Van Garrett.
+
+227
+00:27:12,339 --> 00:27:13,798
+Dirk Van Garrett.
+
+228
+00:27:14,591 --> 00:27:16,092
+Jonathan Masbath.
+
+229
+00:27:17,219 --> 00:27:20,680
+There are five victims, four graves.
+
+230
+00:27:34,778 --> 00:27:37,238
+The Widow Winship.
+
+231
+00:28:01,889 --> 00:28:03,348
+Bring the Widow in.
+
+232
+00:28:05,642 --> 00:28:07,935
+This is most irregular, Constable.
+
+233
+00:28:07,978 --> 00:28:10,813
+I should hope so, Doctor,
+but in this case, necessary.
+
+234
+00:28:10,898 --> 00:28:12,482
+We need to operate immediately.
+
+235
+00:28:12,566 --> 00:28:15,401
+Operate? She's dead.
+
+236
+00:28:16,236 --> 00:28:17,445
+When we say "operate,"
+
+237
+00:28:17,488 --> 00:28:20,406
+we mean, of course,
+I will need the operating table.
+
+238
+00:28:23,911 --> 00:28:27,372
+Once more, the neck wound cauterized.
+
+239
+00:28:29,875 --> 00:28:33,169
+The sword thrust to the stomach,
+the same.
+
+240
+00:28:33,253 --> 00:28:34,962
+But to what purpose?
+
+241
+00:28:35,005 --> 00:28:37,423
+To what is your purpose
+is the question.
+
+242
+00:28:37,925 --> 00:28:41,135
+What manner of instruments are these?
+
+243
+00:28:41,220 --> 00:28:42,804
+Some of my own design.
+
+244
+00:28:44,640 --> 00:28:47,100
+All right, then.
+Step outside, young Masbath.
+
+245
+00:28:47,142 --> 00:28:49,185
+Thank you very, very much
+for your help, Mr. Killian.
+
+246
+00:28:49,269 --> 00:28:51,562
+And if you don't mind, Doctor,
+
+247
+00:28:51,647 --> 00:28:54,941
+my concentration suffers greatly
+when I'm observed.
+
+248
+00:29:34,982 --> 00:29:36,232
+I am finished.
+
+249
+00:29:36,442 --> 00:29:39,193
+What in the name of God
+have you done to her?
+
+250
+00:29:39,278 --> 00:29:41,737
+We are dealing with a madman.
+
+251
+00:29:42,197 --> 00:29:44,198
+What did you find out, Constable?
+
+252
+00:29:44,241 --> 00:29:46,659
+The Widow Winship was with child.
+
+253
+00:30:09,391 --> 00:30:10,558
+Ichabod.
+
+254
+00:30:11,852 --> 00:30:15,104
+Ichabod. Ichabod.
+
+255
+00:30:16,398 --> 00:30:17,565
+Ichabod.
+
+256
+00:30:32,748 --> 00:30:33,915
+Who's there?
+
+257
+00:31:37,896 --> 00:31:47,488
+Ichabod.
+
+258
+00:33:08,820 --> 00:33:11,489
+Oh, pardon my intrusion. I saw a light.
+
+259
+00:33:11,573 --> 00:33:14,992
+It is no intrusion.
+I come here to read when I am wakeful.
+
+260
+00:33:19,915 --> 00:33:23,084
+To read books which you must hide?
+
+261
+00:33:23,168 --> 00:33:25,920
+They were my mother's books.
+My father believes
+
+262
+00:33:26,004 --> 00:33:28,756
+tales of romance caused the brain fever
+that killed my mother.
+
+263
+00:33:28,840 --> 00:33:31,092
+She died two years ago
+come midwinter.
+
+264
+00:33:32,219 --> 00:33:33,969
+The nurse who cared for her
+during her sickness
+
+265
+00:33:34,054 --> 00:33:35,680
+is now Lady Van Tassel.
+
+266
+00:33:37,015 --> 00:33:38,933
+There was something else, too.
+
+267
+00:33:39,351 --> 00:33:41,143
+Why did no one think to mention that
+
+268
+00:33:41,228 --> 00:33:44,230
+the Van Garretts are kith and kin
+to the Van Tassels?
+
+269
+00:33:44,272 --> 00:33:46,816
+Why, because there is hardly
+a household in Sleepy Hollow
+
+270
+00:33:46,900 --> 00:33:50,111
+that is not connected
+to every other by blood or marriage.
+
+271
+00:33:50,320 --> 00:33:51,445
+I see.
+
+272
+00:33:56,618 --> 00:33:59,161
+This land we're looking at
+was Van Garrett land,
+
+273
+00:33:59,246 --> 00:34:01,997
+given to my father
+when I was in swaddling clothes.
+
+274
+00:34:02,082 --> 00:34:04,583
+The Van Garretts were
+the richest family around these parts.
+
+275
+00:34:04,626 --> 00:34:06,752
+When my father brought us
+to Sleepy Hollow,
+
+276
+00:34:06,795 --> 00:34:09,714
+Van Garrett set him up with an acre
+and a broken-down cottage.
+
+277
+00:34:09,798 --> 00:34:13,884
+My father worked hard for his family,
+and prospered and built this house.
+
+278
+00:34:13,969 --> 00:34:15,970
+And I owe my happiness to him.
+
+279
+00:34:17,139 --> 00:34:19,432
+I remember living poor in the cottage.
+
+280
+00:34:20,767 --> 00:34:22,143
+Should I show you?
+
+281
+00:34:22,853 --> 00:34:23,978
+Yes.
+
+282
+00:34:27,065 --> 00:34:30,151
+Take this. It is my gift for you.
+
+283
+00:34:31,153 --> 00:34:32,695
+No, I have no use for it.
+
+284
+00:34:32,779 --> 00:34:34,864
+Are you so certain of everything?
+
+285
+00:34:47,544 --> 00:34:48,669
+It was your mother's.
+
+286
+00:34:48,754 --> 00:34:52,298
+Keep it close to your heart.
+It is sure protection against harm.
+
+287
+00:34:57,220 --> 00:34:59,513
+Are you so certain of everything?
+
+288
+00:35:15,280 --> 00:35:18,407
+These are strange.
+These markings, what are they?
+
+289
+00:35:18,492 --> 00:35:20,659
+I've had them since I can remember.
+
+290
+00:35:31,546 --> 00:35:34,006
+I used to play by this hearth as a child.
+
+291
+00:35:37,969 --> 00:35:40,095
+It was my first drawing school,
+
+292
+00:35:40,180 --> 00:35:42,056
+and my mother was my teacher.
+
+293
+00:35:44,726 --> 00:35:46,727
+Oh, look. See?
+
+294
+00:35:46,812 --> 00:35:49,522
+Carved into the fire back? The archer.
+
+295
+00:35:50,649 --> 00:35:52,024
+I'd forgotten it.
+
+296
+00:35:53,860 --> 00:35:56,237
+This was from long before
+we lived here.
+
+297
+00:35:59,282 --> 00:36:02,034
+- Are you all right?
+- Yes, thank you.
+
+298
+00:36:04,663 --> 00:36:06,914
+A cardinal. My favorite.
+
+299
+00:36:07,415 --> 00:36:11,293
+I'd love to have a tame one, but
+I wouldn't have the heart to cage him.
+
+300
+00:36:11,586 --> 00:36:15,297
+Well, then I have something for you.
+
+301
+00:36:17,926 --> 00:36:21,387
+Cardinal on one side. An empty cage.
+
+302
+00:36:22,264 --> 00:36:23,639
+And now...
+
+303
+00:36:26,935 --> 00:36:29,353
+You can do magic. Teach me.
+
+304
+00:36:29,437 --> 00:36:33,941
+It is no magic. It is what we call optics.
+
+305
+00:36:33,984 --> 00:36:37,319
+Separate pictures
+which become one in the spinning.
+
+306
+00:36:37,404 --> 00:36:41,031
+It is truth,
+but truth is not always appearance.
+
+307
+00:37:31,499 --> 00:37:33,334
+What are you running from,
+Magistrate Philipse?
+
+308
+00:37:33,418 --> 00:37:34,501
+Damn you, Crane.
+
+309
+00:37:34,586 --> 00:37:36,670
+- You had a mind to help me?
+- Yes,
+
+310
+00:37:36,755 --> 00:37:39,506
+- and it's put me in mortal dread of...
+- Of what?
+
+311
+00:37:39,549 --> 00:37:42,301
+Of powers against which
+there is no defense. Come.
+
+312
+00:37:42,344 --> 00:37:44,511
+How did you know the Widow Winship
+was expecting a child?
+
+313
+00:37:44,596 --> 00:37:45,804
+She told me.
+
+314
+00:37:46,306 --> 00:37:49,308
+- Then I deduce you are the father.
+- I'm not the father.
+
+315
+00:37:49,351 --> 00:37:51,518
+Did she tell you
+the name of the child's father?
+
+316
+00:37:51,561 --> 00:37:53,604
+Yes, she did.
+
+317
+00:37:53,688 --> 00:37:56,273
+She came to me for advice
+as town magistrate
+
+318
+00:37:56,358 --> 00:37:58,484
+to protect the rights of her child.
+
+319
+00:37:58,526 --> 00:38:01,362
+I was bound by my oath of office
+to keep the secret, but...
+
+320
+00:38:01,446 --> 00:38:02,905
+Do you believe the father killed her?
+
+321
+00:38:02,989 --> 00:38:05,491
+The Horseman killed her.
+
+322
+00:38:05,533 --> 00:38:07,743
+How often do I have to tell you?
+There is no Horseman.
+
+323
+00:38:07,827 --> 00:38:10,871
+Never was a Horseman,
+and never will be a Horseman.
+
+324
+00:38:10,956 --> 00:38:12,706
+What is that thing?
+
+325
+00:38:12,749 --> 00:38:15,292
+My talisman.
+It protects me from the Horseman.
+
+326
+00:38:15,377 --> 00:38:18,504
+You, a magistrate,
+and your head full of such nonsense.
+
+327
+00:38:18,546 --> 00:38:20,381
+Now, tell me the name of...
+
+328
+00:38:41,069 --> 00:38:42,194
+Oh, my God.
+
+329
+00:39:28,074 --> 00:39:31,118
+Constable Crane? Constable Crane?
+
+330
+00:39:31,745 --> 00:39:33,537
+Has he not come out at all?
+
+331
+00:39:39,419 --> 00:39:41,879
+- It was a headless horseman.
+- You must not excite yourself.
+
+332
+00:39:41,963 --> 00:39:43,088
+But it was a headless horseman!
+
+333
+00:39:43,131 --> 00:39:45,049
+Of course it was.
+That's why you're here.
+
+334
+00:39:45,133 --> 00:39:48,761
+No, you must believe me. It was
+a horseman, a dead one. Headless.
+
+335
+00:39:48,803 --> 00:39:49,928
+I know. I know.
+
+336
+00:39:49,971 --> 00:39:53,599
+You don't know because
+you were not there! It's all true.
+
+337
+00:39:53,641 --> 00:39:56,602
+Of course it is. I told you.
+Everyone told you.
+
+338
+00:39:57,937 --> 00:40:00,147
+I saw him.
+
+339
+00:40:05,653 --> 00:40:07,988
+I suppose it's back to the city, then.
+
+340
+00:41:31,489 --> 00:41:34,741
+All right, this time
+I'll go to New York myself.
+
+341
+00:41:34,784 --> 00:41:37,494
+I won't be fobbed off
+with an amateur deductor.
+
+342
+00:41:49,591 --> 00:41:51,884
+This time, it's a magistrate
+that's dead and...
+
+343
+00:41:51,926 --> 00:41:53,177
+Gentlemen.
+
+344
+00:41:53,761 --> 00:41:56,930
+I need able men to go with me
+into the Western Woods.
+
+345
+00:41:57,015 --> 00:42:00,309
+You? We thought you'd shot your bolt.
+
+346
+00:42:00,393 --> 00:42:02,477
+I have faced my fears,
+and come out determined
+
+347
+00:42:02,562 --> 00:42:04,146
+to locate the Horseman's grave.
+
+348
+00:42:04,230 --> 00:42:07,816
+In short, to pit myself
+against a murdering ghost.
+
+349
+00:42:10,111 --> 00:42:11,403
+Who's with me?
+
+350
+00:42:14,532 --> 00:42:15,616
+Me.
+
+351
+00:42:17,285 --> 00:42:19,995
+The Van Garretts, Widow Winship,
+
+352
+00:42:20,079 --> 00:42:23,790
+your father, Jonathan Masbath,
+and now Philipse.
+
+353
+00:42:24,334 --> 00:42:26,168
+Something must connect them.
+
+354
+00:42:26,669 --> 00:42:29,338
+Did your father
+have dealings with the Van Garretts?
+
+355
+00:42:29,422 --> 00:42:32,132
+He worked for them.
+We lived in the coach house.
+
+356
+00:42:33,801 --> 00:42:35,010
+It's nothing.
+
+357
+00:42:36,930 --> 00:42:40,057
+But there was something that happened
+one night, a week before the murder.
+
+358
+00:42:40,141 --> 00:42:43,268
+An argument upstairs
+between father and son.
+
+359
+00:42:43,311 --> 00:42:46,271
+And my father was later sent for
+by Mr. Van Garrett.
+
+360
+00:42:48,024 --> 00:42:50,817
+An argument between father and son.
+
+361
+00:42:51,653 --> 00:42:55,155
+After which the elder Van Garrett sent
+for his servant Masbath.
+
+362
+00:42:55,782 --> 00:42:56,949
+Listen.
+
+363
+00:42:58,701 --> 00:43:00,327
+- I hear nothing.
+- Nor I.
+
+364
+00:43:01,412 --> 00:43:05,832
+No birds. No crickets.
+It's all gone so quiet.
+
+365
+00:43:14,676 --> 00:43:15,926
+Quicken pace.
+
+366
+00:44:05,560 --> 00:44:07,060
+Pardon our intrusion,
+
+367
+00:44:07,103 --> 00:44:11,231
+- but perhaps you could help us?
+- You're from the Hollow.
+
+368
+00:44:11,691 --> 00:44:14,484
+Yes. In a way, yes.
+
+369
+00:44:17,739 --> 00:44:22,075
+I should like to say that I make
+no assumptions about your occupation.
+
+370
+00:44:22,118 --> 00:44:25,829
+Nor your ways, which, which, which are
+
+371
+00:44:25,913 --> 00:44:27,914
+nothing to me, whatever you are.
+
+372
+00:44:28,833 --> 00:44:30,250
+Each to his own.
+
+373
+00:44:33,963 --> 00:44:35,088
+Oh.
+
+374
+00:44:40,762 --> 00:44:45,057
+Do you know of the Horseman, ma'am?
+The Hessian?
+
+375
+00:44:48,269 --> 00:44:49,853
+That'll be him, ma'am.
+
+376
+00:44:51,105 --> 00:44:53,023
+You, come with me.
+
+377
+00:44:53,941 --> 00:44:56,610
+Go out, child. Keep away.
+
+378
+00:44:56,652 --> 00:44:58,945
+Whatever you hear, keep away.
+
+379
+00:45:05,661 --> 00:45:08,372
+What might he hear
+that he must keep away from?
+
+380
+00:45:14,629 --> 00:45:18,090
+He rides. To the Hollow and back.
+
+381
+00:45:18,132 --> 00:45:22,719
+- I hear him. I smell the blood on him.
+- Do you?
+
+382
+00:45:24,472 --> 00:45:29,184
+Well, I'm here to find him
+and make him stop.
+
+383
+00:45:36,317 --> 00:45:38,151
+You seek knowledge
+of the netherworld?
+
+384
+00:45:38,194 --> 00:45:39,444
+I can show you.
+
+385
+00:45:48,538 --> 00:45:52,165
+- What are you doing?
+- Do not move or speak.
+
+386
+00:45:52,208 --> 00:45:54,751
+When the other comes, I will hold him.
+
+387
+00:45:54,836 --> 00:45:58,004
+- The other?
+- Silence. He comes now.
+
+388
+00:46:08,141 --> 00:46:09,224
+Madam?
+
+389
+00:46:12,103 --> 00:46:13,687
+Madam, do you hear me?
+
+390
+00:46:26,242 --> 00:46:30,203
+You seek the warrior bathed in blood,
+the Headless Horseman.
+
+391
+00:46:30,288 --> 00:46:34,040
+Follow the Indian trail
+to where the sun dies.
+
+392
+00:46:34,125 --> 00:46:36,126
+Follow it to the Tree of the Dead.
+
+393
+00:46:36,210 --> 00:46:39,880
+Climb down
+to the Horseman's resting place.
+
+394
+00:46:47,221 --> 00:46:48,388
+We're leaving.
+
+395
+00:46:48,431 --> 00:46:50,557
+- What happened?
+- We're leaving now.
+
+396
+00:46:52,810 --> 00:46:55,145
+We take the Indian trail
+to the Tree of the Dead.
+
+397
+00:46:55,229 --> 00:46:58,398
+- How will we recognize it?
+- Without difficulty, I rather fear.
+
+398
+00:46:58,483 --> 00:47:00,859
+We climb down
+to the Horseman's resting place.
+
+399
+00:47:00,902 --> 00:47:02,903
+- His camp?
+- His grave.
+
+400
+00:47:14,165 --> 00:47:15,749
+Stay here.
+
+401
+00:47:53,287 --> 00:47:55,539
+Halt and turn, I have a pistol aimed.
+
+402
+00:47:57,708 --> 00:47:59,084
+Katrina?
+
+403
+00:47:59,460 --> 00:48:01,670
+I might have killed you.
+Why have you come?
+
+404
+00:48:01,754 --> 00:48:04,005
+Because no one else would go with you.
+
+405
+00:48:05,091 --> 00:48:07,217
+Well, then I am now twice the man.
+
+406
+00:48:08,719 --> 00:48:10,345
+It is your white magic.
+
+407
+00:48:14,433 --> 00:48:15,934
+Pardon my intrusion.
+
+408
+00:48:15,977 --> 00:48:18,728
+I think you'd better come
+and look at this.
+
+409
+00:49:01,272 --> 00:49:03,523
+The Tree of the Dead.
+
+410
+00:49:20,249 --> 00:49:21,958
+Blood.
+
+411
+00:49:24,837 --> 00:49:27,839
+Stay where you are.
+
+412
+00:50:07,254 --> 00:50:11,841
+- What is it?
+- Just stay where you are. Don't move.
+
+413
+00:50:27,149 --> 00:50:31,611
+This tree is a gateway.
+A gateway between two worlds.
+
+414
+00:50:44,291 --> 00:50:48,294
+This ground has been disturbed.
+The soil is loose.
+
+415
+00:50:48,379 --> 00:50:50,296
+Bring the shovel.
+
+416
+00:51:07,898 --> 00:51:12,402
+The skull is gone. Taken.
+
+417
+00:51:12,945 --> 00:51:15,655
+That is why
+the Horseman returns from the grave.
+
+418
+00:51:15,823 --> 00:51:19,993
+To take heads
+till his own is restored to him.
+
+419
+00:51:37,845 --> 00:51:39,846
+Ichabod?
+
+420
+00:52:28,395 --> 00:52:31,564
+Split up. Glenn. Theodore.
+
+421
+00:52:50,835 --> 00:52:54,087
+Don't pick your teeth,
+you'll teach Thomas bad habits.
+
+422
+00:52:54,171 --> 00:52:58,508
+- I am a bad habit. There's nothing for it.
+- Oh, isn't there?
+
+423
+00:53:18,237 --> 00:53:21,614
+- Come on, let's get ready for bed.
+- Yes.
+
+424
+00:53:43,387 --> 00:53:45,722
+Beth, run!
+
+425
+00:54:06,285 --> 00:54:08,286
+Stay quiet.
+
+426
+00:56:53,118 --> 00:56:56,788
+- Wait! He's not after you.
+- I'll get him.
+
+427
+00:57:16,809 --> 00:57:18,684
+We cannot win this.
+
+428
+00:58:17,119 --> 00:58:19,745
+Remarkable.
+A wound like this should've killed him.
+
+429
+00:58:19,830 --> 00:58:23,082
+But it needs no stitch,
+and there's hardly a loss of blood.
+
+430
+00:58:24,751 --> 00:58:28,212
+You must be still. The fever is on you.
+
+431
+00:58:29,923 --> 00:58:31,299
+Katrina.
+
+432
+00:58:31,717 --> 00:58:35,219
+Nostradamus mediamus, milk of mercy,
+
+433
+00:58:35,596 --> 00:58:38,598
+in media nos laudamas.
+
+434
+00:58:55,324 --> 00:58:59,160
+Katrina, I tried to stop Brom, but...
+
+435
+00:59:00,162 --> 00:59:02,788
+Drink this down. It'll make you sleep.
+
+436
+00:59:03,790 --> 00:59:08,419
+The Horseman was not set to kill Brom
+or me. Had Brom not attacked him...
+
+437
+00:59:08,462 --> 00:59:10,129
+Later. Rest now.
+
+438
+00:59:10,214 --> 00:59:14,008
+I've discovered something.
+The Horseman does not kill at random.
+
+439
+00:59:14,343 --> 00:59:17,220
+His victims are chosen
+by someone who controls him.
+
+440
+00:59:17,679 --> 00:59:20,139
+By that very person who took his skull.
+
+441
+00:59:20,974 --> 00:59:22,725
+Someone who knew where to dig.
+
+442
+00:59:22,809 --> 00:59:26,103
+Someone of flesh and blood,
+as I've always said.
+
+443
+00:59:26,396 --> 00:59:29,732
+- These are ravings.
+- Drink.
+
+444
+01:00:03,433 --> 01:00:20,741
+Ichabod.
+
+445
+01:00:41,638 --> 01:00:43,431
+- You were dreaming.
+- Yes.
+
+446
+01:00:44,891 --> 01:00:47,018
+Things I had forgotten.
+
+447
+01:00:50,355 --> 01:00:54,317
+- And would not like to remember.
+- Tell me what you dreamt.
+
+448
+01:00:55,068 --> 01:00:58,362
+My mother was an innocent.
+A child of nature.
+
+449
+01:01:00,532 --> 01:01:02,575
+Condemned.
+
+450
+01:01:03,577 --> 01:01:06,078
+Murdered. By my father.
+
+451
+01:01:06,913 --> 01:01:09,749
+- Murdered by...
+- Murdered to save her soul
+
+452
+01:01:10,917 --> 01:01:15,087
+by a Bible-black tyrant
+behind a mask of righteousness.
+
+453
+01:01:16,548 --> 01:01:19,800
+I was seven when I lost my faith.
+
+454
+01:01:22,137 --> 01:01:23,888
+What do you believe in?
+
+455
+01:01:24,431 --> 01:01:27,933
+Sense and reason.
+Cause and consequence.
+
+456
+01:01:30,812 --> 01:01:33,105
+I should not have come to this place,
+
+457
+01:01:33,398 --> 01:01:36,942
+where my rational mind has been
+so controverted by the spirit world.
+
+458
+01:01:36,985 --> 01:01:38,611
+Will you take nothing
+from Sleepy Hollow
+
+459
+01:01:38,695 --> 01:01:40,654
+that was worth the coming here?
+
+460
+01:01:42,991 --> 01:01:45,951
+No. No, not nothing.
+
+461
+01:01:48,580 --> 01:01:51,123
+A kiss from a lovely young woman,
+
+462
+01:01:52,125 --> 01:01:54,418
+before she saw my face
+or knew my name.
+
+463
+01:01:54,711 --> 01:01:57,922
+Yes, without sense or reason.
+
+464
+01:02:01,718 --> 01:02:05,221
+Forgive me, I speak of kisses
+
+465
+01:02:06,306 --> 01:02:08,641
+and you've lost your brave man, Brom.
+
+466
+01:02:09,935 --> 01:02:14,480
+I have shed my tears for Brom,
+and yet my heart is not broken.
+
+467
+01:02:17,150 --> 01:02:20,444
+- Do you think me wicked?
+- No.
+
+468
+01:02:22,197 --> 01:02:25,241
+But perhaps there is a bit
+of a witch in you, Katrina.
+
+469
+01:02:26,118 --> 01:02:30,204
+- Why do you say that?
+- Because you have bewitched me.
+
+470
+01:02:43,677 --> 01:02:44,677
+Oh.
+
+471
+01:02:45,345 --> 01:02:49,014
+- You slept like the dead.
+- You're too kind to me.
+
+472
+01:02:49,558 --> 01:02:51,892
+I do not look to be served
+by the lady of the house.
+
+473
+01:02:51,977 --> 01:02:56,480
+Nor would you be,
+but that the servant girl has vanished.
+
+474
+01:02:56,523 --> 01:03:00,484
+- Sarah?
+- Run away like so many others.
+
+475
+01:03:01,069 --> 01:03:03,028
+They're all leaving in fear.
+
+476
+01:03:04,698 --> 01:03:06,490
+Where is Katrina?
+
+477
+01:03:07,200 --> 01:03:11,287
+She watched over you till dawn.
+Now it is her turn to sleep.
+
+478
+01:03:17,252 --> 01:03:20,212
+Well, I'm fit for another day, I think.
+
+479
+01:03:22,257 --> 01:03:25,092
+Fit enough to face a mortal adversary.
+
+480
+01:03:27,095 --> 01:03:30,473
+Doctor Lancaster, Reverend Steenwyck,
+
+481
+01:03:34,060 --> 01:03:38,522
+Notary Hardenbrook,
+and Magistrate Philipse.
+
+482
+01:03:40,400 --> 01:03:43,027
+Who tried to cut and run,
+and lost his head.
+
+483
+01:03:43,945 --> 01:03:46,906
+All frightened men,
+arguing together on the very night
+
+484
+01:03:46,990 --> 01:03:49,325
+Magistrate Philipse was killed.
+
+485
+01:03:51,369 --> 01:03:53,579
+There is conspiracy here.
+
+486
+01:03:57,834 --> 01:04:01,212
+The doctor, the reverend, the notary
+
+487
+01:04:01,755 --> 01:04:03,547
+and the magistrate.
+
+488
+01:04:05,425 --> 01:04:08,052
+What is this secret that unites them?
+
+489
+01:04:11,389 --> 01:04:14,642
+Magistrate Philipse knew
+there were five bodies to four graves.
+
+490
+01:04:16,102 --> 01:04:18,479
+He knew the Widow was pregnant.
+
+491
+01:04:19,439 --> 01:04:21,982
+He would not tell me
+the name of the father.
+
+492
+01:04:22,859 --> 01:04:25,152
+What does this point to?
+
+493
+01:04:32,536 --> 01:04:35,371
+We must proceed
+by a process of elimination.
+
+494
+01:04:35,830 --> 01:04:38,832
+I shall make a list of
+every man and woman in Sleepy Hollow,
+
+495
+01:04:38,917 --> 01:04:42,378
+starting with its chief citizen,
+Baltus Van Tassel.
+
+496
+01:04:45,340 --> 01:04:47,383
+I feel we're getting very close.
+
+497
+01:04:47,467 --> 01:04:51,095
+Yes, I suppose
+Baltus is the chief citizen,
+
+498
+01:04:51,137 --> 01:04:53,222
+now that old Van Garrett is dead.
+
+499
+01:04:53,390 --> 01:04:58,227
+Yes, the Van Garretts.
+I'd almost forgotten them.
+
+500
+01:05:10,282 --> 01:05:11,657
+Come with me.
+
+501
+01:05:11,783 --> 01:05:14,076
+- Where?
+- To Notary Hardenbrook's.
+
+502
+01:05:14,160 --> 01:05:18,998
+- Have you thought of something?
+- Yes. I have.
+
+503
+01:05:34,306 --> 01:05:35,848
+Hopeless.
+
+504
+01:05:44,733 --> 01:05:49,028
+My father's satchel. Why is it here?
+
+505
+01:05:53,533 --> 01:05:55,367
+- Leave me alone.
+- Notary Hardenbrook.
+
+506
+01:05:55,410 --> 01:05:57,369
+Leave me alone!
+
+507
+01:05:57,454 --> 01:05:59,788
+Just as soon as you show me
+the last will and testament
+
+508
+01:05:59,873 --> 01:06:01,540
+of old man Van Garrett.
+
+509
+01:06:01,708 --> 01:06:04,543
+The will leaves everything to his son.
+
+510
+01:06:04,586 --> 01:06:08,881
+Who died with him.
+So the estate passes to the next of kin.
+
+511
+01:06:08,965 --> 01:06:13,093
+- Naturally. All legal and above board.
+- Sir.
+
+512
+01:06:15,472 --> 01:06:18,265
+I'm a dead man. No.
+
+513
+01:06:19,768 --> 01:06:22,728
+Van Garrett's seal. Broken.
+
+514
+01:06:25,398 --> 01:06:28,317
+Seems Van Garrett
+made a new will just before he died.
+
+515
+01:06:28,401 --> 01:06:32,738
+Naming Widow Winship?
+
+516
+01:06:32,864 --> 01:06:36,241
+And here, look. A marriage certificate.
+
+517
+01:06:38,870 --> 01:06:41,246
+Old Van Garrett
+secretly married the Widow.
+
+518
+01:06:41,289 --> 01:06:44,291
+Left everything to her
+and her unborn child.
+
+519
+01:06:45,293 --> 01:06:48,462
+So the new will
+stood between the Van Garrett fortune
+
+520
+01:06:48,546 --> 01:06:51,590
+and the person who would have
+otherwise inherited everything.
+
+521
+01:06:51,633 --> 01:06:56,428
+It's true. But we four were drawn in
+against our will.
+
+522
+01:06:56,846 --> 01:06:59,181
+- Your will?
+- He means...
+
+523
+01:06:59,599 --> 01:07:03,060
+Of course. The four town elders.
+
+524
+01:07:03,770 --> 01:07:06,438
+Now I see what parts you had to play.
+
+525
+01:07:07,691 --> 01:07:11,110
+Reverend Steenwyck knew the secret
+because he performed the marriage.
+
+526
+01:07:11,152 --> 01:07:13,946
+Dr. Lancaster attended
+the pregnant woman.
+
+527
+01:07:14,364 --> 01:07:17,199
+Magistrate Philipse
+gave protection of the law.
+
+528
+01:07:17,450 --> 01:07:20,119
+And Notary Hardenbrook
+concealed the documents,
+
+529
+01:07:20,495 --> 01:07:23,872
+which had been entrusted
+by Van Garrett to his faithful servant.
+
+530
+01:07:23,957 --> 01:07:26,792
+The four conspirators
+drawn into the plot.
+
+531
+01:07:27,210 --> 01:07:30,295
+We did not know
+it was a murdering plot.
+
+532
+01:07:30,338 --> 01:07:32,381
+But I have not finished, sir.
+
+533
+01:07:32,632 --> 01:07:35,968
+First, the Van Garretts, father and son,
+slain by a horseman
+
+534
+01:07:36,052 --> 01:07:38,011
+raised from the grave to chop heads.
+
+535
+01:07:38,096 --> 01:07:41,974
+Now, up pops a widow with a claim
+on a fortune. Off with her head!
+
+536
+01:07:42,642 --> 01:07:44,810
+But murder begets murder.
+
+537
+01:07:45,437 --> 01:07:48,647
+It was the servant, Jonathan Masbath.
+
+538
+01:07:49,315 --> 01:07:52,317
+The night father and son
+quarreled over the new will,
+
+539
+01:07:52,485 --> 01:07:55,571
+Jonathan Masbath was summoned
+upstairs to bear witness.
+
+540
+01:07:56,406 --> 01:07:58,157
+Here is his signature.
+
+541
+01:07:58,199 --> 01:08:00,993
+I'm afraid it was his death warrant,
+young Masbath.
+
+542
+01:08:01,077 --> 01:08:03,412
+The Horseman came for him.
+
+543
+01:08:04,664 --> 01:08:08,542
+Came for him at the bidding of
+someone who had power over him.
+
+544
+01:08:08,918 --> 01:08:12,129
+Someone who dug in the earth in
+the Western Woods and stole the skull.
+
+545
+01:08:12,172 --> 01:08:14,757
+The missing head, which must
+be restored to the Horseman
+
+546
+01:08:14,841 --> 01:08:16,759
+before he will return to Hell.
+
+547
+01:08:16,968 --> 01:08:19,803
+Someone who stood to gain
+or lose a fortune.
+
+548
+01:08:20,305 --> 01:08:25,267
+None other than Van Garrett's
+next of kin, Baltus Van Tassel!
+
+549
+01:08:31,483 --> 01:08:36,361
+- Katrina? Why are you in my room?
+- Because it is yours.
+
+550
+01:08:40,074 --> 01:08:44,036
+- Was it wicked of me?
+- No. No, not at all.
+
+551
+01:08:45,914 --> 01:08:48,081
+I missed you. Where did you go?
+
+552
+01:08:48,166 --> 01:08:51,168
+To the notary.
+I had questions to ask Hardenbrook.
+
+553
+01:08:51,544 --> 01:08:53,921
+And did you learn anything of interest?
+
+554
+01:08:56,174 --> 01:08:57,549
+Perhaps.
+
+555
+01:08:58,343 --> 01:09:00,385
+- My father...
+- Your father?
+
+556
+01:09:00,637 --> 01:09:04,556
+Yes. My father thinks
+you should return to New York.
+
+557
+01:09:04,682 --> 01:09:07,893
+Really? Why is that?
+
+558
+01:09:08,520 --> 01:09:10,229
+I don't know.
+
+559
+01:09:10,563 --> 01:09:13,982
+Perhaps he looked in your ledger
+and did not like what he saw.
+
+560
+01:09:19,531 --> 01:09:23,575
+- What have you there?
+- Evidence. I'm sorry, I must ask you...
+
+561
+01:09:23,660 --> 01:09:25,911
+Then I'll leave you to your thoughts.
+
+562
+01:09:40,426 --> 01:09:44,888
+- It's just a spider.
+- Kill it! Kill it! No, no, stomp it!
+
+563
+01:09:47,183 --> 01:09:49,768
+- There's something under here.
+- What is it?
+
+564
+01:09:51,729 --> 01:09:54,731
+- Help me move the bed.
+- No, no, I mustn't. You do it.
+
+565
+01:10:01,531 --> 01:10:06,368
+The evil eye. It is someone
+casting spells against you.
+
+566
+01:10:08,162 --> 01:10:09,955
+The evil eye?
+
+567
+01:11:01,090 --> 01:11:02,633
+Wait here.
+
+568
+01:12:18,084 --> 01:12:22,421
+Katrina, you took the evidence
+
+569
+01:12:22,505 --> 01:12:23,547
+and burned it.
+
+570
+01:12:23,589 --> 01:12:26,091
+So you would not have it
+to accuse my father.
+
+571
+01:12:26,175 --> 01:12:27,926
+I accuse no one.
+
+572
+01:12:28,011 --> 01:12:29,886
+But if there is guilt, I cannot alter it,
+
+573
+01:12:29,929 --> 01:12:31,471
+no matter how much it grieves me.
+
+574
+01:12:31,556 --> 01:12:34,099
+And no spells of yours
+can alter it, either.
+
+575
+01:12:34,142 --> 01:12:35,642
+Your father has the motive.
+
+576
+01:12:35,727 --> 01:12:37,936
+It is he who stands to profit
+from these murders.
+
+577
+01:12:37,979 --> 01:12:41,606
+If you knew him, you would not have
+such harsh thoughts about him.
+
+578
+01:12:41,858 --> 01:12:43,900
+No, nor if you felt anything for me.
+
+579
+01:12:43,943 --> 01:12:45,736
+I am pinioned by a chain of reasoning.
+
+580
+01:12:45,778 --> 01:12:48,030
+Why else did his four friends
+conspire to conceal...
+
+581
+01:12:48,114 --> 01:12:49,948
+You are the constable, not I.
+
+582
+01:12:49,991 --> 01:12:52,617
+So find another chain of reasoning
+and let me be.
+
+583
+01:12:52,660 --> 01:12:57,581
+I cannot, not the one or the other.
+And I am heartsick with it.
+
+584
+01:12:57,915 --> 01:13:02,627
+I think you have no heart.
+And I had a mind once to give you mine.
+
+585
+01:13:03,588 --> 01:13:07,257
+Yes, I think you loved me that day
+when you followed me
+
+586
+01:13:07,300 --> 01:13:10,302
+into the Western Woods
+to have braved such peril.
+
+587
+01:13:10,386 --> 01:13:11,678
+What peril was there for me,
+
+588
+01:13:11,763 --> 01:13:15,140
+if it was my own father who controlled
+the Headless Horseman?
+
+589
+01:13:20,063 --> 01:13:21,521
+Goodbye, Ichabod Crane.
+
+590
+01:13:21,606 --> 01:13:24,274
+I curse the day
+you came to Sleepy Hollow.
+
+591
+01:13:29,197 --> 01:13:33,784
+- She will not see you.
+- Did she say anything?
+
+592
+01:13:36,204 --> 01:13:38,538
+Only that she will not come down.
+
+593
+01:13:39,665 --> 01:13:41,750
+I see. Thank you.
+
+594
+01:13:42,001 --> 01:13:43,835
+Constable?
+
+595
+01:13:45,254 --> 01:13:49,007
+You have not asked me how
+I have hurt my hand since yesterday,
+
+596
+01:13:49,967 --> 01:13:51,843
+which would have been polite.
+
+597
+01:13:53,513 --> 01:13:55,847
+In fact, you have been as careful
+
+598
+01:13:56,224 --> 01:14:00,102
+not to look at it as not to mention it.
+
+599
+01:14:01,646 --> 01:14:04,231
+Yes, I'm sorry. How did you...
+
+600
+01:14:04,315 --> 01:14:07,692
+- I know you saw me.
+- What?
+
+601
+01:14:08,444 --> 01:14:11,154
+I know you followed last night.
+
+602
+01:14:11,572 --> 01:14:14,741
+And you must promise
+not to tell my husband what you saw.
+
+603
+01:14:15,118 --> 01:14:16,535
+Promise me!
+
+604
+01:14:17,370 --> 01:14:19,371
+The town is in ferment.
+
+605
+01:14:19,580 --> 01:14:22,666
+Horror piled on tragedy.
+Hardenbrook is dead.
+
+606
+01:14:22,708 --> 01:14:26,503
+- Oh, no! That harmless old man?
+- Hanged himself in the night.
+
+607
+01:14:26,546 --> 01:14:27,712
+Hanged himself?
+
+608
+01:14:27,797 --> 01:14:30,507
+Reverend Steenwyck's
+called a meeting in the church tonight.
+
+609
+01:14:30,550 --> 01:14:34,136
+Every man, woman, and child
+is going to speak out against you.
+
+610
+01:14:34,220 --> 01:14:37,055
+If you are wise, you will leave this place.
+
+611
+01:14:38,641 --> 01:14:42,561
+- What is that?
+- I was careless with the kitchen knife.
+
+612
+01:14:42,603 --> 01:14:44,354
+The wound looks angry.
+
+613
+01:14:44,397 --> 01:14:47,899
+I will bind it later
+with wild arrowroot flowers.
+
+614
+01:14:47,984 --> 01:14:49,776
+I know where some grow.
+
+615
+01:14:59,996 --> 01:15:03,290
+Come on, hurry up.
+The meeting bell started tolling.
+
+616
+01:15:27,690 --> 01:15:29,107
+The Horseman!
+
+617
+01:15:30,693 --> 01:15:32,027
+- Katrina!
+- Father?
+
+618
+01:15:32,111 --> 01:15:34,446
+The Horseman! Save me!
+
+619
+01:15:36,240 --> 01:15:39,618
+He killed her.
+The Horseman killed your stepmother.
+
+620
+01:15:48,628 --> 01:15:50,295
+Oh, God!
+
+621
+01:16:01,849 --> 01:16:03,808
+Fire!
+
+622
+01:16:20,326 --> 01:16:24,287
+You'll kill us all!
+You're the one the Horseman wants.
+
+623
+01:16:44,850 --> 01:16:46,643
+He cannot enter.
+
+624
+01:16:46,686 --> 01:16:48,311
+Over here!
+
+625
+01:16:56,529 --> 01:16:57,529
+The Horseman cannot enter.
+
+626
+01:16:57,613 --> 01:16:58,989
+Why should we die for you?
+
+627
+01:16:59,031 --> 01:17:01,366
+The Horseman cannot enter.
+He cannot cross the gate.
+
+628
+01:17:01,450 --> 01:17:03,702
+We have to save ourselves.
+
+629
+01:17:04,912 --> 01:17:08,081
+The next person that lays a hand on me
+will get a bullet!
+
+630
+01:17:10,418 --> 01:17:12,043
+He's coming back!
+
+631
+01:17:19,218 --> 01:17:22,304
+Enough have died already.
+It's time to confess our sins.
+
+632
+01:17:22,388 --> 01:17:25,765
+- What is it that you know?
+- Your four friends played you false.
+
+633
+01:17:25,850 --> 01:17:28,310
+We were devilishly possessed
+by one who...
+
+634
+01:17:36,944 --> 01:17:40,905
+Get out of my way!
+Stand back! Stay back!
+
+635
+01:17:51,208 --> 01:17:54,169
+Back! Stand back!
+
+636
+01:17:58,674 --> 01:18:02,469
+There is a conspiracy here,
+and I will shake it out.
+
+637
+01:19:18,337 --> 01:19:20,547
+It was an evil spirit possessed you.
+
+638
+01:19:21,590 --> 01:19:24,717
+I pray God it is satisfied now,
+and that you find peace.
+
+639
+01:19:24,802 --> 01:19:26,678
+The evil eye's done its work.
+
+640
+01:19:27,096 --> 01:19:31,808
+My life is over, spared for
+a lifetime of horrors in my sleep,
+
+641
+01:19:32,852 --> 01:19:34,853
+waking each day to grief.
+
+642
+01:19:41,360 --> 01:19:42,861
+Goodbye, Katrina.
+
+643
+01:20:21,066 --> 01:20:25,236
+- You think it was Katrina, don't you?
+- That can never be uttered.
+
+644
+01:20:25,321 --> 01:20:28,740
+A strange sort of witch,
+with a kind and loving heart.
+
+645
+01:20:28,824 --> 01:20:31,326
+- How can you think so?
+- I have good reason.
+
+646
+01:20:31,410 --> 01:20:34,704
+- Then you are bewitched by reason.
+- I am beaten down by it!
+
+647
+01:20:40,252 --> 01:20:41,753
+It is a hard lesson for a hard world,
+
+648
+01:20:41,795 --> 01:20:43,963
+and you had better learn it,
+young Masbath.
+
+649
+01:20:44,048 --> 01:20:45,924
+Villainy wears many masks.
+
+650
+01:20:46,091 --> 01:20:49,052
+None so dangerous
+as the mask of virtue.
+
+651
+01:20:57,144 --> 01:20:58,603
+Farewell.
+
+652
+01:22:28,611 --> 01:22:30,153
+- Van Ripper, turn the coach.
+- What?
+
+653
+01:22:30,195 --> 01:22:31,738
+Turn around now!
+
+654
+01:22:45,377 --> 01:22:46,878
+Pardon my intrusion.
+
+655
+01:22:57,598 --> 01:23:01,392
+No blood flow, no clotting, no healing.
+
+656
+01:23:04,313 --> 01:23:08,066
+When this cut was made,
+this woman was already dead.
+
+657
+01:23:18,661 --> 01:23:20,328
+Dear stepdaughter,
+
+658
+01:23:22,623 --> 01:23:24,791
+you look as if you'd seen a ghost.
+
+659
+01:23:56,407 --> 01:24:00,118
+Rise up once more, my dark avenger.
+
+660
+01:24:00,369 --> 01:24:05,289
+One more night of beheading.
+Rise up with your sword.
+
+661
+01:24:05,708 --> 01:24:09,293
+A head for a head.
+
+662
+01:24:09,461 --> 01:24:12,380
+My unholy horseman, rise!
+
+663
+01:24:13,215 --> 01:24:17,385
+Come now for Katrina!
+
+664
+01:24:30,733 --> 01:24:32,650
+Awake at last.
+
+665
+01:24:33,652 --> 01:24:36,571
+Did you think it was all a nasty dream?
+
+666
+01:24:36,655 --> 01:24:38,740
+Father saw the Horseman kill you.
+
+667
+01:24:39,158 --> 01:24:42,994
+He saw the Horseman come
+towards me with his sword unsheathed,
+
+668
+01:24:43,412 --> 01:24:46,831
+but it is I who govern the Horseman,
+my dear.
+
+669
+01:24:47,166 --> 01:24:49,667
+And Baltus did not stay to watch.
+
+670
+01:24:54,173 --> 01:24:57,675
+- But there was a body.
+- The servant girl, Sarah.
+
+671
+01:24:57,718 --> 01:25:00,094
+And I always thought she was useless.
+
+672
+01:25:03,557 --> 01:25:06,392
+But it seems
+she had a purpose after all.
+
+673
+01:25:11,648 --> 01:25:13,399
+Who are you?
+
+674
+01:25:14,026 --> 01:25:18,905
+- My family name was Archer.
+- The archer.
+
+675
+01:25:25,746 --> 01:25:30,041
+I lived with my father and mother
+and sister in a cottage not far from here.
+
+676
+01:25:30,083 --> 01:25:31,959
+Until one day my father died,
+
+677
+01:25:32,044 --> 01:25:35,213
+and the landlord, who had received
+many years of loyal service
+
+678
+01:25:35,297 --> 01:25:37,340
+from my parents, evicted us.
+
+679
+01:25:37,883 --> 01:25:40,551
+No one in this God-fearing town
+would take us in
+
+680
+01:25:40,636 --> 01:25:43,471
+because my mother
+was suspected of witchcraft.
+
+681
+01:25:44,223 --> 01:25:46,098
+But she schooled her daughters well,
+
+682
+01:25:46,183 --> 01:25:49,352
+while we lived as outcasts
+in the Western Woods.
+
+683
+01:25:50,103 --> 01:25:52,688
+She died within a year.
+
+684
+01:25:57,611 --> 01:26:02,448
+My sister and I remained in our refuge,
+seeing not a soul.
+
+685
+01:26:03,116 --> 01:26:07,119
+Until one day, whilst gathering firewood,
+
+686
+01:26:07,204 --> 01:26:09,789
+we crossed the path of the Hessian.
+
+687
+01:26:15,546 --> 01:26:17,380
+I saw his death.
+
+688
+01:26:17,923 --> 01:26:21,843
+At that moment,
+I offered my soul to Satan,
+
+689
+01:26:21,927 --> 01:26:26,430
+if he would raise the Hessian
+from the grave to avenge me.
+
+690
+01:26:30,936 --> 01:26:33,771
+- Avenge you?
+- Against Van Garrett.
+
+691
+01:26:33,981 --> 01:26:37,191
+The landlord who showed us no mercy
+and left us to starve,
+
+692
+01:26:37,276 --> 01:26:41,112
+whilst Baltus Van Tassel
+and his simpering wife and girl child
+
+693
+01:26:41,154 --> 01:26:42,613
+stole our home.
+
+694
+01:26:42,781 --> 01:26:45,908
+I swore I would make myself
+mistress of all he had.
+
+695
+01:26:45,951 --> 01:26:48,244
+The easiest part was the first.
+
+696
+01:26:48,328 --> 01:26:50,997
+To enter your house
+as your mother's sick nurse,
+
+697
+01:26:51,081 --> 01:26:55,293
+and put her body into the grave
+and my own into the marriage bed.
+
+698
+01:26:55,711 --> 01:26:58,963
+Not quite so easy
+was to secure my legacy.
+
+699
+01:26:59,590 --> 01:27:02,133
+The Widow had to go, of course.
+
+700
+01:27:02,843 --> 01:27:04,677
+And the servant, Masbath.
+
+701
+01:27:04,970 --> 01:27:08,306
+And then, just the other day,
+that silly midwife Killian
+
+702
+01:27:08,390 --> 01:27:11,767
+told me the Widow had told her
+a big secret.
+
+703
+01:27:11,810 --> 01:27:14,979
+And she told me this
+right in front of her husband.
+
+704
+01:27:15,230 --> 01:27:16,480
+What a goose!
+
+705
+01:27:17,941 --> 01:27:20,234
+So, another little job for the Horseman.
+
+706
+01:27:23,447 --> 01:27:28,367
+But lust delivered
+the Reverend Steenwyck into my power.
+
+707
+01:27:30,120 --> 01:27:32,705
+Fear did the same
+for the notary, Hardenbrook,
+
+708
+01:27:32,789 --> 01:27:34,498
+and the drunkard Philipse.
+
+709
+01:27:34,958 --> 01:27:37,627
+And the doctor's silence I exchanged
+
+710
+01:27:37,669 --> 01:27:42,673
+for my complicity in his fornications
+with the servant girl, Sarah.
+
+711
+01:27:43,342 --> 01:27:46,928
+- Yes, you have everything now.
+- No.
+
+712
+01:27:47,346 --> 01:27:50,973
+You have, my dear, by your father's will.
+
+713
+01:27:51,600 --> 01:27:54,644
+I get everything
+in the event of your death.
+
+714
+01:27:56,438 --> 01:28:00,608
+My sister, by the way,
+sadly passed away.
+
+715
+01:28:03,403 --> 01:28:05,029
+Quite recently.
+
+716
+01:28:07,366 --> 01:28:09,408
+You killed your own sister?
+
+717
+01:28:09,534 --> 01:28:14,038
+She brought it on herself
+by helping you and your master.
+
+718
+01:28:16,375 --> 01:28:19,210
+You're just in time
+to have your head cut off.
+
+719
+01:28:19,544 --> 01:28:23,881
+The Horseman comes!
+And tonight, he comes for you!
+
+720
+01:28:29,972 --> 01:28:31,347
+Katrina!
+
+721
+01:28:37,604 --> 01:28:39,021
+Thank God.
+
+722
+01:28:47,948 --> 01:28:49,907
+Watch your head.
+
+723
+01:29:05,590 --> 01:29:07,425
+To the roof! I have an idea.
+
+724
+01:30:07,694 --> 01:30:09,320
+Jump for the sails.
+
+725
+01:30:24,669 --> 01:30:25,920
+Jump!
+
+726
+01:30:31,635 --> 01:30:32,718
+Hurry!
+
+727
+01:30:53,031 --> 01:30:55,449
+- Is he dead?
+- That's the problem.
+
+728
+01:30:55,534 --> 01:30:57,243
+He was dead to begin with.
+
+729
+01:31:20,600 --> 01:31:22,393
+- Where are we going?
+- Anywhere but here.
+
+730
+01:31:36,199 --> 01:31:37,741
+Here, take the reins.
+
+731
+01:31:58,096 --> 01:31:59,722
+Ichabod!
+
+732
+01:32:55,487 --> 01:32:56,820
+My bag!
+
+733
+01:33:14,422 --> 01:33:15,589
+Jump!
+
+734
+01:34:18,820 --> 01:34:20,946
+- Still alive?
+- Run, Katrina.
+
+735
+01:34:22,240 --> 01:34:26,076
+Yes, do run, and jump, and skip.
+
+736
+01:34:28,580 --> 01:34:29,747
+No!
+
+737
+01:34:38,465 --> 01:34:41,425
+Here! Take her!
+
+738
+01:34:41,926 --> 01:34:44,261
+She's yours!
+
+739
+01:34:46,973 --> 01:34:49,683
+Sir, you're not dead.
+
+740
+01:35:31,226 --> 01:35:32,559
+Horseman!
+
+741
+01:39:05,231 --> 01:39:07,524
+Just in time for a new century.
+
+742
+01:39:20,496 --> 01:39:22,539
+You'll soon get your bearings,
+young Masbath.
+
+743
+01:39:22,582 --> 01:39:24,958
+The Bronx is up, the Battery's down,
+
+744
+01:39:25,043 --> 01:39:28,043
+and home is this way.
+

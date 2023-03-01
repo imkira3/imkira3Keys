@@ -1,0 +1,160 @@
+DAUM LIVE STREET
+Extention/api.txt,01d491de,f683a299,00002424
+Extention/Subtitle/Search/SubtitleSearch - Napisy24.as,01d491df,1be5f762,00000f7b
+Extention/Subtitle/Search/SubtitleSearch - Napisy24.ico,01d491de,f6886705,0000bd3e
+Extention/Subtitle/Search/SubtitleSearch - OpenSubtitle.as,01d491df,1c006a2b,00004106
+Extention/Subtitle/Search/SubtitleSearch - OpenSubtitle.ico,01d491de,f68bc752,0000037e
+Extention/Subtitle/Search/SubtitleSearch - podnapisi.as,01d491df,1b7b8c52,00002b17
+Extention/Subtitle/Search/SubtitleSearch - podnapisi.ico,01d491de,f6886705,000087f6
+Extention/Subtitle/Search/SubtitleSearch - SubDB.as,01d491df,1be35910,00001165
+Extention/Subtitle/Search/SubtitleSearch - SubDB.ico,01d491de,f68e29a5,00001636
+Extention/Subtitle/Search/SubtitleSearch - titlovi.as,01d491de,f68e29a5,00001657
+Extention/Subtitle/Search/SubtitleSearch - titlovi.ico,01d491de,f68ac93b,0000057e
+Extention/Subtitle/Search/SubtitleSearch - ysubs.as,01d491de,f68e29a5,00001518
+Extention/Subtitle/Search/SubtitleSearch - ysubs.ico,01d491de,f6886705,0000047e
+Extention/Subtitle/Translate/SubtitleTranslate - google.as,01d491df,1b792a2d,000012dd
+Extention/Subtitle/Translate/SubtitleTranslate - google.ico,01d491de,f68604ce,00001536
+Extention/Media/PlayParse/MediaPlayParse - YouTube.as,01d491df,1b7b8c52,0000c7c6
+Extention/Media/PlayParse/MediaPlayParse - YouTube.ico,01d491de,f697b27c,0000047e
+Extention/Media/UrlList/MediaUrlList - YouTube.as,01d491de,f6908be5,00001c19
+Extention/Media/UrlList/MediaUrlList - YouTube.ico,01d491de,f692ee14,0000423e
+Skins/Default.dsf,01d491df,05b46235,000676ea
+Skins/WindowFrame.dsf,01d491de,f6f1150a,000667bc
+UrlList/Radio.asx,01d491de,cb9ff107,00016a8f
+UrlList/TV.asx,01d491de,cb9f5531,00001641
+Language/Armenian.ini,01d491de,f7fae2b2,0003ecd1
+Language/Azerbaijan.ini,01d491de,f7f7827b,00029e5a
+Language/Belarusian.ini,01d491de,f7f9e49c,00038ce8
+Language/Bulgarian.ini,01d491df,176b2838,00044bdd
+Language/Chinese(Simplified).ini,01d491df,1769a07a,000248d5
+Language/Chinese(Traditional).ini,01d491df,176b2838,000265d4
+Language/Czech.ini,01d491de,f7f52043,0002caf0
+Language/English.ini,01d491df,17d423ff,00027a73
+Language/French.ini,01d491df,17d423ff,0002bb30
+Language/German.ini,01d491de,f7e8370b,00025af5
+Language/Greek.ini,01d491de,f7f52043,0003d523
+Language/Hebrew.ini,01d491de,f7f7827b,0002c772
+Language/Hongkonglocale.ini,01d491de,f7f52043,000224a6
+Language/Hungarian.ini,01d491df,176cb0e0,0002f500
+Language/Indonesian.ini,01d491de,f7f2bf2b,0002897c
+Language/Italian.ini,01d491de,f7f7827b,0002b432
+Language/Japanese.ini,01d491de,f7f9e49c,0002e5df
+Language/Korean.ini,01d491df,176f71f0,0002ac38
+Language/Persian.ini,01d491de,f7e37295,0003aa6e
+Language/Polish.ini,01d491df,176cb0e0,0002fb33
+Language/Portuguese.ini,01d491df,176e3838,0002b77b
+Language/Russian.ini,01d491de,f7edf992,0003efcd
+Language/Serbian.ini,01d491de,f7eb9742,00037599
+Language/Spanish.ini,01d492b9,69fc8b32,00029cbb
+Language/Swedish.ini,01d491de,f7f7827b,000245eb
+Language/Thai.ini,01d491de,f7edf992,00040dc1
+Language/Turkish.ini,01d491de,f7f2bf2b,00027ab5
+Language/Ukrainian.ini,01d491de,f7eb9742,0003b5f5
+Language/Uzbek(Latin).ini,01d491de,f7fae2b2,000266cf
+Language/Tajik(Cyrillic).ini,01d491de,f7f7827b,00024740
+History/Chinese(Simplified).txt,01d491df,1be3cf3c,0001b500
+History/Chinese(Traditional).txt,01d491df,1c1f015b,0001bdce
+History/English.txt,01d491df,1c1f015b,0001e8e6
+History/Hungarian.txt,01d491df,1be7335d,0000e44f
+History/Japanese.txt,01d491df,1be1cdfd,000203da
+History/Korean.txt,01d491df,1c1f015b,000202ea
+History/Polish.txt,01d491df,1be21cd0,000220d8
+History/Russian.txt,01d491df,1be26b93,0002c8e3
+History/Serbian.txt,01d491df,1be7821b,0000ed8f
+History/Ukrainian.txt,01d491df,1c23c6ec,0001c775
+License.txt,01d491df,17d423ff,0000a558
+CmdLine.txt,01d491df,1c23c6ec,00007439
+IconPack/OldIconPack.dll,01d491de,c6f2ecac,00178bb8
+IconPack/PotIconsNew.dll,01d491de,c6f4c02b,0027a3b8
+Logos/PotPlayer.png,01d491de,c9e8ce74,00002108
+PotIcons.dll,01d491de,cd363e44,002683b8
+DaumCrashHandler.dll,01d491de,cba23966,0001ac00
+ATextOut.dll,01d491de,cc849f07,000b6400
+GameCaptureHook64.dll,01d491de,f655c027,00052c00
+GameCaptureHook.dll,01d491de,d7dc14c4,00042800
+ffcodec.dll,01d491df,05075f8c,01747200
+DesktopHook64.dll,01d491de,c9e80ba9,00015dc0
+DesktopHook.dll,01d491de,cc80d114,00012dc0
+DesktopHook.exe,01d491de,f6d840a7,000141c0
+DesktopHook64.exe,01d491de,f64674ab,00017bc0
+PotPlayer.dll,01d492b9,a95ecf1a,01442800
+PotPlayer.exe,01d491de,d7faace2,0003a7c0
+LGPL.TXT,01d491de,f7c015cf,00006931
+DTDrop.exe,01d491de,c9e796ca,000215c0
+MediaDB.dll,01d491de,f64d9b50,000ffe00
+PotScreenSaver.scr,01d491de,c6e16c78,000397c0
+Alarm.wav,01d491de,cba9ae58,0003a462
+LogManager.exe,01d491de,cd138bc9,0003b1c0
+PotNotify.exe,01d491de,d8e0cfba,000690a0
+PotPlayerMini.exe,01d491de,d7edc28e,0003a1c0
+d3dx9_43.dll,01d491de,cceb37de,001e7d58
+d3dcompiler_47.dll,01d491de,f6791b87,0034e668
+PxShader/Adaptive sharpen.txt,01d491de,cc505d88,000026ae
+PxShader/BT601BT709.txt,01d491de,cc44fc94,000002b4
+PxShader/Contour.txt,01d491de,cc46a9ca,00000256
+PxShader/Deinterlace (blend).txt,01d491de,cc581f3e,00000178
+PxShader/Denoise.txt,01d491de,cc4598f8,000003a7
+PxShader/DisplayLessThan16 v1_1.txt,01d491de,cc4cb570,000002c5
+PxShader/EdgeSharpen v1_1(jim ro).txt,01d491de,cc48cd4c,000006a0
+PxShader/EdgeSharpen v1_1.txt,01d491de,cc59ccef,000007d7
+PxShader/Emboss.txt,01d491de,cc52a4d2,00000289
+PxShader/GrayScale.txt,01d491de,cc4e88e9,00000173
+PxShader/HorzFlip.txt,01d491de,cc487f39,000001b4
+PxShader/Invert.txt,01d491de,cc4d2a4a,000000b8
+PxShader/LCD angle correction.txt,01d491de,cc4af3c4,0000064d
+PxShader/Letterbox.txt,01d491de,cc4d7832,0000016f
+PxShader/Levels.txt,01d491de,cc538e87,0000010d
+PxShader/Levels2.txt,01d491de,cc4f99a2,000001a6
+PxShader/NightVision.txt,01d491de,cc553b0f,000000d2
+PxShader/Procamp.txt,01d491de,cc558907,000007bc
+PxShader/Remap_16_235.txt,01d491de,cc575d9a,0000021f
+PxShader/Sharpen.txt,01d491de,cc4a7ed1,000003a8
+PxShader/Sharpen_3x3.txt,01d491de,cc54ed28,00000425
+PxShader/Sharpen_5x5.txt,01d491de,cc55d6de,000008b2
+PxShader/SharpenComplex (jim ro).txt,01d491de,cc4efdc4,00000765
+PxShader/SharpenComplex2.txt,01d491de,cc4f4bac,00000a85
+PxShader/SharpenFlou (jim ro).txt,01d491de,cc586d3c,00000696
+PxShader/Sphere.txt,01d491de,cc45e6e5,00000594
+PxShader/Spotlight.txt,01d491de,cc5a67aa,000001d7
+PxShader/Undot.txt,01d491de,cc46f7e3,000006fe
+PxShader/Unsharp mask.txt,01d491de,cc483124,000006bf
+PxShader/VertFlip.txt,01d491de,cc47e381,000001b4
+PxShader/Wave.txt,01d491de,cc569acd,00000184
+PxShader/YV12 Chroma Upsampling.txt,01d491de,cc542a5c,00000866
+AviSynth/ColorBars.avs,01d491de,f7215b61,00000021
+AviSynth/FasterTrueMotion.avs,01d491de,f724bb0b,000002f7
+AviSynth/FastestTrueMotion.avs,01d491de,f7215b61,00000220
+AviSynth/FastTrueMotion.avs,01d491de,f724bb0b,000000d1
+AviSynth/FastTrueMotionNoGPU.avs,01d491de,f7271e59,000000d2
+AviSynth/OverlayText.avs,01d491de,f724bb0b,000004ca
+AviSynth/TrueMotion.avs,01d491de,f7297f99,000000c0
+AviSynth/TrueMotionNoGPU.avs,01d491de,f71ef834,000000c1
+AviSynth/TrueMotion2.avs,01d491de,f7271e59,000001c4
+AviSynth/TrueMotion2NoGPU.avs,01d491de,f7271e59,000001c5
+VapourSynth/Histogram.vpy,01d491de,f702c37d,00000057
+VapourSynth/motioninterpolation.vpy,01d491de,f70525b1,0000093e
+Module/Bass/bass.dll,01d491de,cd3da2e5,0001b49c
+Module/Bass/bass_ape.dll,01d491de,cd3e8cab,0000717c
+Module/Bass/bass_flac.dll,01d491de,cd3f0185,00005d0c
+Module/Bass/bass_mpc.dll,01d491de,cd3d2e05,00005309
+Module/Bass/bass_tta.dll,01d491de,cd3feb44,00001ee6
+Module/Bass/bass_wv.dll,01d491de,cd3c4445,00008b04
+Module/Bass/bass_ofr.dll,01d491de,cd3f7661,00001748
+Module/Bass/OptimFROG.dll,01d491de,cd3ce01d,00034400
+Module/qscl.dll,01d491de,d100aa33,0004a000
+Module/tak_deco_lib.dll,01d491de,d0ce98fe,0001c000
+Module/RealCodec/atrc.dll,01d491de,d15e1a9c,00016000
+Module/RealCodec/cook.dll,01d491de,d158edfc,00010000
+Module/RealCodec/drv2.dll,01d491de,d15a25a6,0002c000
+Module/RealCodec/drvc.dll,01d491de,d15bd230,00046000
+Module/RealCodec/sipr.dll,01d491de,d15ac191,00022000
+Module/RealCodec/pncrt.dll,01d491de,d15d7ebf,00044000
+Module/RealCodec/msvcr71.dll,01d491de,d15cbbf1,00054000
+Module/AcmVorbis.dll,01d491de,cd5fb65d,000aba00
+Module/MediaInfo.dll,01d491de,cedfb4ce,004a6a78
+Module/QuickSync.dll,01d491de,d1614cc2,00059600
+Html/Init.htm,01d491df,00d877da,00000e64
+Html/InitMini.htm,01d491de,f6116822,00000b96
+Html/ErrorList.htm,01d491de,f6116822,00001100
+Html/ErrorListMini.htm,01d491de,f6116822,00000c11
+Html/loading.gif,01d491de,f613ca7a,000053c8

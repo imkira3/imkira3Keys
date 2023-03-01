@@ -1,0 +1,3525 @@
+﻿1
+00:00:06,130 --> 00:00:07,360
+<b>Narrator: Pokemon!</b>
+
+2
+00:00:07,470 --> 00:00:09,370
+<b>The creatures that give</b>
+<b>the Pokemon world</b>
+
+3
+00:00:09,470 --> 00:00:10,770
+<b>its mystery and wonder!</b>
+
+4
+00:00:11,740 --> 00:00:14,710
+<b>Thriving in abundant numbers</b>
+<b>that are hard to imagine:</b>
+
+5
+00:00:14,840 --> 00:00:16,810
+<b>In the sky, in the sea,</b>
+
+6
+00:00:17,680 --> 00:00:19,310
+<b>on mountains and in forests,</b>
+
+7
+00:00:20,150 --> 00:00:21,410
+<b>in fields of green</b>
+
+8
+00:00:21,520 --> 00:00:23,490
+<b>and in towns and cities</b>
+<b>everywhere!</b>
+
+9
+00:00:24,690 --> 00:00:26,310
+<b>Some Pokemon live with people,</b>
+
+10
+00:00:26,490 --> 00:00:29,120
+<b>and some choose to live alone</b>
+<b>in the wild...</b>
+
+11
+00:00:29,220 --> 00:00:31,660
+<b>while some unite in</b>
+<b>groups large and small,</b>
+
+12
+00:00:31,760 --> 00:00:34,090
+<b>living with their</b>
+<b>Pokemon friends!</b>
+
+13
+00:00:47,880 --> 00:00:50,710
+<b>This young man is Ash,</b>
+<b>who hails from Pallet Town.</b>
+
+14
+00:00:50,810 --> 00:00:52,970
+<b>He and his partner Pikachu</b>
+<b>work together</b>
+
+15
+00:00:53,080 --> 00:00:54,910
+<b>to find and catch other Pokemon</b>
+
+16
+00:00:55,020 --> 00:00:57,650
+<b>and perfect the art</b>
+<b>of the Pokemon battle!</b>
+
+17
+00:00:57,850 --> 00:00:59,250
+<b>Together with good friends,</b>
+
+18
+00:00:59,390 --> 00:01:01,880
+<b>they're traveling on</b>
+<b>an amazing journey.</b>
+
+19
+00:01:03,760 --> 00:01:05,390
+<b>Meeting an abundance of people,</b>
+
+20
+00:01:06,160 --> 00:01:07,790
+<b>dreaming an abundance of dreams,</b>
+
+21
+00:01:08,860 --> 00:01:10,700
+<b>and looking forward</b>
+<b>to an abundance</b>
+
+22
+00:01:10,770 --> 00:01:13,200
+<b>of new and exciting adventures!</b>
+
+23
+00:01:24,380 --> 00:01:25,680
+<b>Ha!</b>
+
+24
+00:01:37,260 --> 00:01:38,260
+<b>Ha!</b>
+
+25
+00:01:38,261 --> 00:01:39,320
+<b>Got you!</b>
+
+26
+00:01:47,040 --> 00:01:49,330
+<b>Keldeo, you did well</b>
+<b>detecting my presence.</b>
+
+27
+00:01:50,640 --> 00:01:52,870
+<b>I listened to the voice</b>
+<b>of the grass!</b>
+
+28
+00:01:53,010 --> 00:01:54,010
+<b>Excellent!</b>
+
+29
+00:01:54,610 --> 00:01:57,140
+<b>The grass and I are</b>
+<b>friends now, Virizion!</b>
+
+30
+00:01:57,280 --> 00:01:58,280
+<b>Here I come!</b>
+
+31
+00:01:59,750 --> 00:02:01,220
+<b>Catch me if you can...</b>
+
+32
+00:02:05,790 --> 00:02:06,950
+<b>Ha!</b>
+
+33
+00:02:38,790 --> 00:02:40,690
+<b>Sword versus sword!</b>
+
+34
+00:02:51,370 --> 00:02:52,370
+<b>Something wrong?</b>
+
+35
+00:02:53,540 --> 00:02:56,300
+<b>My sword...</b> <b>is my horn!</b>
+
+36
+00:03:11,090 --> 00:03:12,110
+<b>Terrakion!</b>
+
+37
+00:03:12,220 --> 00:03:13,810
+<b>Battle with me!</b>
+
+38
+00:03:16,890 --> 00:03:18,480
+<b>Ready to go again?</b>
+
+39
+00:03:21,000 --> 00:03:22,290
+<b>l'll battle you anytime!</b>
+
+40
+00:03:22,760 --> 00:03:24,160
+<b>Then let's start with this!</b>
+
+41
+00:03:24,300 --> 00:03:25,700
+<b>Ha!</b>
+
+42
+00:03:30,970 --> 00:03:31,970
+<b>No problem!</b>
+
+43
+00:03:33,140 --> 00:03:35,440
+<b>We'll see about that!</b>
+
+44
+00:04:13,350 --> 00:04:14,650
+<b>Want to keep going?</b>
+
+45
+00:04:15,220 --> 00:04:16,580
+<b>You bet!</b>
+
+46
+00:04:31,230 --> 00:04:32,230
+<b>Cobalion, let's battle!</b>
+
+47
+00:04:33,140 --> 00:04:34,930
+<b>The storm is going to get worse!</b>
+
+48
+00:04:35,040 --> 00:04:36,370
+<b>I don't care!</b>
+
+49
+00:05:00,160 --> 00:05:01,160
+<b>You're reckless!</b>
+
+50
+00:05:02,660 --> 00:05:03,660
+<b>No, I'm not!</b>
+
+51
+00:05:05,400 --> 00:05:07,890
+<b>I won't let anything defeat me!</b>
+
+52
+00:05:33,090 --> 00:05:35,460
+<b>When will you</b>
+<b>let me battle Kyurem?</b>
+
+53
+00:05:38,530 --> 00:05:40,760
+<b>I want to be a Sword of Justice!</b>
+
+54
+00:05:40,870 --> 00:05:42,840
+<b>Let me battle Kyurem!</b>
+
+55
+00:05:59,550 --> 00:06:00,890
+<b>Tym, Tym.</b>
+
+56
+00:06:01,020 --> 00:06:02,150
+<b>Tympole!</b>
+
+57
+00:06:05,690 --> 00:06:07,320
+<b>So what do you think?</b>
+
+58
+00:06:08,130 --> 00:06:09,430
+<b>Keldeo's gotten fairly strong...</b>
+
+59
+00:06:10,830 --> 00:06:13,320
+<b>Do you think we should allow</b>
+<b>a battle with Kyurem?</b>
+
+60
+00:06:13,440 --> 00:06:14,870
+<b>No!</b>
+
+61
+00:06:14,970 --> 00:06:17,600
+<b>Keldeo is still</b>
+<b>unable to use its sword.</b>
+
+62
+00:06:18,710 --> 00:06:19,710
+<b>That's true...</b>
+
+63
+00:06:21,310 --> 00:06:23,400
+<b>Once the true weight of</b>
+<b>the sword is learned</b>
+
+64
+00:06:23,510 --> 00:06:24,910
+<b>and able to be used...</b>
+
+65
+00:06:25,010 --> 00:06:28,510
+<b>...then Keldeo will be able to</b>
+<b>become a sword of justice!</b>
+
+66
+00:06:28,620 --> 00:06:30,920
+<b>Always the cautious one,</b>
+<b>aren't you, Cobalion?</b>
+
+67
+00:06:31,520 --> 00:06:33,150
+<b>I heard everything you said!</b>
+
+68
+00:06:33,590 --> 00:06:35,850
+<b>What do you mean,</b>
+<b>"weight of my sword"?</b>
+
+69
+00:06:35,990 --> 00:06:36,990
+<b>- You see...</b>
+<b>- Terrakion!</b>
+
+70
+00:06:38,660 --> 00:06:40,650
+<b>You must think for yourself!</b>
+
+71
+00:06:42,630 --> 00:06:45,260
+<b>The truth is I don't</b>
+<b>really know either!</b>
+
+72
+00:06:46,840 --> 00:06:48,460
+<b>l'm going to battle Kyurem!</b>
+
+73
+00:06:49,000 --> 00:06:50,100
+<b>No!</b>
+
+74
+00:06:50,210 --> 00:06:52,570
+<b>lt's why I've been working</b>
+<b>all this time!</b>
+
+75
+00:06:52,670 --> 00:06:55,300
+<b>l'm ready to battle</b>
+<b>even the strongest Pokemon!</b>
+
+76
+00:06:56,340 --> 00:06:57,640
+<b>You're not ready yet.</b>
+
+77
+00:06:58,010 --> 00:06:59,010
+<b>I agree.</b>
+
+78
+00:06:59,880 --> 00:07:01,870
+<b>Let's train a little more,</b>
+<b>all right?</b>
+
+79
+00:07:30,510 --> 00:07:31,510
+<b>Keldeo's not here!</b>
+
+80
+00:07:32,150 --> 00:07:34,340
+<b>You don't think it's gone</b>
+<b>to Kyurem...</b>
+
+81
+00:07:38,850 --> 00:07:40,150
+<b>l'm ready to battle!</b>
+
+82
+00:07:40,820 --> 00:07:43,260
+<b>Then I'll be a Sword of Justice!</b>
+
+83
+00:07:45,660 --> 00:07:46,990
+<b>That's the reason...</b>
+
+84
+00:07:47,100 --> 00:07:49,000
+<b>the whole reason</b>
+<b>l've trained so hard!</b>
+
+85
+00:08:12,020 --> 00:08:13,250
+<b>There it is!</b>
+
+86
+00:08:46,490 --> 00:08:49,890
+<b>- Cryogonal!</b>
+<b>- Cryogonal, Cryo!</b>
+
+87
+00:09:04,670 --> 00:09:07,510
+<b>- Cryogonal, Cryo!</b>
+<b>- Cryogonal!</b>
+
+88
+00:09:14,280 --> 00:09:15,580
+<b>Come on out, Kyurem!</b>
+
+89
+00:09:16,380 --> 00:09:19,620
+<b>My name is Keldeo and I'm here</b>
+<b>to challenge you to a battle!</b>
+
+90
+00:09:26,900 --> 00:09:29,090
+<b>Raa!</b>
+
+91
+00:09:30,870 --> 00:09:32,230
+<b>Terrakion...</b>
+
+92
+00:09:40,810 --> 00:09:43,440
+<b>Do you think you're worthy</b>
+<b>of battling me?</b>
+
+93
+00:09:45,980 --> 00:09:47,350
+<b>Worthy?</b>
+
+94
+00:09:47,450 --> 00:09:49,280
+<b>Well, do you?</b>
+
+95
+00:09:52,290 --> 00:09:53,290
+<b>l...</b>
+
+96
+00:09:54,260 --> 00:09:56,220
+<b>I am a Sword of Justice!</b>
+
+97
+00:09:57,190 --> 00:09:59,160
+<b>Sword of Justice...</b>
+
+98
+00:10:00,800 --> 00:10:02,260
+<b>Very well then...</b>
+
+99
+00:10:29,220 --> 00:10:31,690
+<b>Pass through the gate!</b>
+
+100
+00:11:08,230 --> 00:11:09,660
+<b>Cryogonal!</b>
+
+101
+00:11:09,760 --> 00:11:10,920
+<b>Cryog!</b>
+
+102
+00:11:11,030 --> 00:11:12,030
+<b>Cryogonal!</b>
+
+103
+00:11:12,031 --> 00:11:13,660
+<b>Here I come, Kyurem!</b>
+
+104
+00:12:09,690 --> 00:12:10,990
+<b>The battle's already begun!</b>
+
+105
+00:12:11,590 --> 00:12:13,790
+<b>Keldeo has already passed</b>
+<b>through the gate!</b>
+
+106
+00:12:18,870 --> 00:12:21,490
+<b>ls that all you've got,</b>
+<b>Sword of Justice?</b>
+
+107
+00:12:22,770 --> 00:12:24,200
+<b>Sword of Justice?</b>
+
+108
+00:12:37,920 --> 00:12:39,220
+<b>Give it up already!</b>
+
+109
+00:12:40,990 --> 00:12:41,990
+<b>Never!</b>
+
+110
+00:12:42,790 --> 00:12:44,760
+<b>I am a Sword of Justice!</b>
+
+111
+00:12:45,560 --> 00:12:46,589
+<b>Fool!</b>
+
+112
+00:12:46,590 --> 00:12:47,930
+<b>That's not true!</b>
+
+113
+00:12:48,030 --> 00:12:49,790
+<b>What is Keldeo thinking?</b>
+
+114
+00:12:54,300 --> 00:12:56,070
+<b>l'm not through...</b>
+
+115
+00:13:19,430 --> 00:13:20,590
+<b>Too strong!</b>
+
+116
+00:13:30,240 --> 00:13:32,210
+<b>Keldeo has given in to fear!</b>
+
+117
+00:13:32,470 --> 00:13:33,770
+<b>We've got to help!</b>
+
+118
+00:13:34,340 --> 00:13:35,830
+<b>This is not our battle.</b>
+
+119
+00:13:35,940 --> 00:13:36,979
+<b>Stay out of it!</b>
+
+120
+00:13:36,980 --> 00:13:38,950
+<b>I can't stand and do nothing!</b>
+
+121
+00:13:39,610 --> 00:13:40,980
+<b>Kyurem!</b>
+
+122
+00:13:41,080 --> 00:13:42,410
+<b>That's enough!</b>
+
+123
+00:13:45,320 --> 00:13:46,950
+<b>Do not interfere!</b>
+
+124
+00:13:53,230 --> 00:13:54,230
+<b>You heard Cobalion!</b>
+
+125
+00:13:55,330 --> 00:13:56,420
+<b>Stop!</b>
+
+126
+00:14:07,510 --> 00:14:08,740
+<b>Kyurem changed!</b>
+
+127
+00:14:08,840 --> 00:14:10,140
+<b>As I told you...</b>
+
+128
+00:14:11,310 --> 00:14:13,280
+<b>None shall interfere!</b>
+
+129
+00:14:36,400 --> 00:14:41,670
+<b>- Cryo, Cryo!</b>
+<b>- Cryogonal, Cryo!</b>
+
+130
+00:15:21,420 --> 00:15:22,420
+<b>This battle...</b>
+
+131
+00:15:23,020 --> 00:15:25,190
+<b>is not yet over!</b>
+
+132
+00:16:10,670 --> 00:16:12,290
+<b>♪ A new adventure ♪</b>
+
+133
+00:16:12,500 --> 00:16:13,870
+<b>♪ Another day ♪</b>
+
+134
+00:16:13,970 --> 00:16:16,940
+<b>♪ One more challenge</b>
+<b>that comes our way ♪</b>
+
+135
+00:16:17,570 --> 00:16:20,410
+<b>♪ lt's up to me and you ♪</b>
+
+136
+00:16:21,510 --> 00:16:24,170
+<b>♪ We know what we've</b> <b>got to do ♪</b>
+
+137
+00:16:25,710 --> 00:16:28,680
+<b>♪ lt's so simple</b>
+<b>it feels so right ♪</b>
+
+138
+00:16:29,020 --> 00:16:30,140
+<b>♪ It all makes</b> <b>sense ♪</b>
+
+139
+00:16:30,250 --> 00:16:32,240
+<b>♪ When we're</b> <b>side by side ♪</b>
+
+140
+00:16:32,650 --> 00:16:34,950
+<b>♪ We lean on one another ♪</b>
+
+141
+00:16:36,290 --> 00:16:38,590
+<b>♪ We make each other</b> <b>stronger ♪</b>
+
+142
+00:16:39,530 --> 00:16:41,020
+<b>♪ We are together now ♪</b>
+
+143
+00:16:41,130 --> 00:16:42,760
+<b>♪ Friends forever now ♪</b>
+
+144
+00:16:43,260 --> 00:16:44,730
+<b>♪ Whatever</b> <b>comes our way ♪</b>
+
+145
+00:16:44,830 --> 00:16:46,600
+<b>♪ We won't run away ♪</b>
+
+146
+00:16:46,770 --> 00:16:48,060
+<b>♪ Standing tall ♪</b>
+
+147
+00:16:48,440 --> 00:16:50,340
+<b>♪ We're one for all ♪</b>
+
+148
+00:16:50,470 --> 00:16:52,100
+<b>♪ lt's our destiny ♪</b>
+
+149
+00:17:02,280 --> 00:17:03,480
+<b>♪ There's no question ♪</b>
+
+150
+00:17:03,580 --> 00:17:04,880
+<b>♪ No mystery ♪</b>
+
+151
+00:17:05,590 --> 00:17:08,560
+<b>♪ I'm much better</b>
+<b>when you're with me ♪</b>
+
+152
+00:17:09,190 --> 00:17:11,490
+<b>♪ No mountain we can't climb ♪</b>
+
+153
+00:17:12,760 --> 00:17:15,060
+<b>♪ The power's yours and mine ♪</b>
+
+154
+00:17:16,130 --> 00:17:17,650
+<b>♪ We are together now ♪</b>
+
+155
+00:17:17,770 --> 00:17:19,390
+<b>♪ Friends forever now ♪</b>
+
+156
+00:17:19,770 --> 00:17:21,360
+<b>♪ Whatever comes our way ♪</b>
+
+157
+00:17:21,470 --> 00:17:23,200
+<b>♪ We won't run away ♪</b>
+
+158
+00:17:23,300 --> 00:17:24,600
+<b>♪ Standing tall ♪</b>
+
+159
+00:17:25,110 --> 00:17:26,940
+<b>♪ We're one for all ♪</b>
+
+160
+00:17:27,040 --> 00:17:28,670
+<b>♪ lt's our</b> <b>destiny ♪</b>
+
+161
+00:17:30,280 --> 00:17:31,280
+<b>♪ Pokemon ♪</b>
+
+162
+00:17:46,060 --> 00:17:47,060
+<b>♪ Ooh-ooh-ooh ♪</b>
+
+163
+00:17:48,060 --> 00:17:49,460
+<b>♪ You're my right hand ♪</b>
+
+164
+00:17:49,560 --> 00:17:50,560
+<b>♪ Ooh-ooh-ooh ♪</b>
+
+165
+00:17:51,830 --> 00:17:53,200
+<b>♪ You're my left ♪</b>
+
+166
+00:17:53,300 --> 00:17:54,300
+<b>♪ Ooh-ooh-ooh ♪</b>
+
+167
+00:17:55,440 --> 00:17:56,990
+<b>♪ You give me courage ♪</b>
+
+168
+00:17:57,100 --> 00:17:59,400
+<b>♪ You I promise</b> <b>to protect ♪</b>
+
+169
+00:18:00,810 --> 00:18:01,810
+<b>♪ Ooh-ooh-ooh ♪</b>
+
+170
+00:18:02,980 --> 00:18:04,440
+<b>♪ Through every challenge ♪</b>
+
+171
+00:18:04,550 --> 00:18:05,550
+<b>♪ Ooh-ooh ♪</b>
+
+172
+00:18:06,710 --> 00:18:08,200
+<b>♪ Through every fight ♪</b>
+
+173
+00:18:08,320 --> 00:18:09,320
+<b>♪ Ooh-ooh-ooh ♪</b>
+
+174
+00:18:10,450 --> 00:18:12,080
+<b>♪ When we're together ♪</b>
+
+175
+00:18:12,990 --> 00:18:15,290
+<b>♪ It always feels</b> <b>so right ♪</b>
+
+176
+00:18:16,120 --> 00:18:17,560
+<b>♪ We are together now ♪</b>
+
+177
+00:18:17,660 --> 00:18:19,290
+<b>♪ Friends forever now ♪</b>
+
+178
+00:18:19,790 --> 00:18:21,350
+<b>♪ Whatever comes our way ♪</b>
+
+179
+00:18:21,460 --> 00:18:23,160
+<b>♪ We won't run away ♪</b>
+
+180
+00:18:23,300 --> 00:18:24,590
+<b>♪ Standing tall ♪</b>
+
+181
+00:18:25,200 --> 00:18:26,960
+<b>♪ We're one for all ♪</b>
+
+182
+00:18:27,070 --> 00:18:30,040
+<b>♪ Always ready when we hear</b>
+<b>the call ♪</b>
+
+183
+00:18:30,810 --> 00:18:32,430
+<b>♪ lt's our destiny ♪</b>
+
+184
+00:18:34,110 --> 00:18:35,110
+<b>♪ Pokemon ♪♪</b>
+
+185
+00:18:41,920 --> 00:18:44,150
+<b>Our heroes have arrived</b>
+<b>at Wind Station,</b>
+
+186
+00:18:44,250 --> 00:18:47,220
+<b>as Ash's journey to become</b>
+<b>a Pokemon master continues!</b>
+
+187
+00:18:50,390 --> 00:18:52,550
+<b>Their destination, Roshan City,</b>
+<b>is a bit further ahead.</b>
+
+188
+00:18:54,960 --> 00:18:56,900
+<b>We're only stopping</b>
+<b>for three minutes.</b>
+
+189
+00:18:57,000 --> 00:18:59,970
+<b>l'm a boxed lunch Connoisseur,</b>
+<b>so follow my instructions.</b>
+
+190
+00:19:00,270 --> 00:19:01,360
+<b>- Right!</b>
+<b>- Right!</b>
+
+191
+00:19:05,840 --> 00:19:06,840
+<b>Go!</b>
+
+192
+00:19:10,950 --> 00:19:12,070
+<b>girl: Daru-Darumaka!</b>
+
+193
+00:19:12,210 --> 00:19:13,370
+<b>Darumaka!</b>
+
+194
+00:19:13,480 --> 00:19:16,110
+<b>Get your Windy Station Darumaka</b>
+<b>boxed lunches here!</b>
+
+195
+00:19:16,820 --> 00:19:19,620
+<b>And the box can be</b>
+<b>displayed as a statue!</b>
+
+196
+00:19:19,720 --> 00:19:23,020
+<b>Or you can make them into</b>
+<b>such glorious wind chimes!</b>
+
+197
+00:19:23,660 --> 00:19:25,420
+<b>Ah, the many joys</b>
+<b>of this boxed lunch!</b>
+
+198
+00:19:25,530 --> 00:19:27,650
+<b>- Scrag, Scrag, Scrag.</b>
+<b>- You know a lot!</b>
+
+199
+00:19:27,800 --> 00:19:29,420
+<b>l'm a boxed lunch Connoisseur...</b>
+
+200
+00:19:29,800 --> 00:19:32,730
+<b>l'd like to get a Darumaka</b>
+<b>boxed lunch too, please!</b>
+
+201
+00:19:32,830 --> 00:19:34,460
+<b>So how many in all?</b>
+
+202
+00:19:34,640 --> 00:19:35,730
+<b>All right...</b>
+
+203
+00:19:35,840 --> 00:19:37,800
+<b>l'll take fifteen</b>
+<b>Darumaka boxed lunches,</b>
+
+204
+00:19:38,240 --> 00:19:40,730
+<b>three bags of Oran Berry</b>
+<b>ices for dessert</b>
+
+205
+00:19:40,840 --> 00:19:44,140
+<b>and three bottles each</b>
+<b>of spring water and ice tea!</b>
+
+206
+00:19:44,350 --> 00:19:45,350
+<b>My greatest pleasure!</b>
+
+207
+00:19:46,210 --> 00:19:48,180
+<b>There's no lunch like</b>
+<b>a Darumaka lunch!</b>
+
+208
+00:19:48,280 --> 00:19:49,280
+<b>Awesome!</b>
+
+209
+00:19:49,380 --> 00:19:50,710
+<b>Okay...</b>
+
+210
+00:19:50,820 --> 00:19:52,010
+<b>Okay!</b>
+
+211
+00:19:52,120 --> 00:19:53,750
+<b>Three Oran Berry ices,</b>
+<b>Vanillite!</b>
+
+212
+00:19:54,920 --> 00:19:55,920
+<b>Vanillite!</b>
+
+213
+00:19:57,560 --> 00:19:58,560
+<b>Nillite!</b>
+
+214
+00:20:00,230 --> 00:20:01,230
+<b>Yummy!</b>
+
+215
+00:20:01,231 --> 00:20:03,030
+<b>Look at the Oran Berry ices!</b>
+
+216
+00:20:03,130 --> 00:20:06,430
+<b>The train bound for Roshan City</b>
+<b>is about to depart!</b>
+
+217
+00:20:06,930 --> 00:20:08,560
+<b>- We've gotta go now!</b>
+<b>- Axew!</b>
+
+218
+00:20:09,270 --> 00:20:10,570
+<b>Pansage!</b>
+
+219
+00:20:13,040 --> 00:20:14,230
+<b>Scrag!</b>
+
+220
+00:20:15,980 --> 00:20:17,030
+<b>Oh no!</b>
+
+221
+00:20:17,140 --> 00:20:18,480
+<b>Snivy!</b>
+
+222
+00:20:18,580 --> 00:20:19,740
+<b>Vy!</b>
+
+223
+00:20:21,520 --> 00:20:22,520
+<b>Osha!</b>
+
+224
+00:20:24,220 --> 00:20:25,910
+<b>Pansage!</b>
+
+225
+00:20:30,690 --> 00:20:32,520
+<b>Scraggy!</b>
+
+226
+00:20:35,200 --> 00:20:36,420
+<b>Got it!</b>
+
+227
+00:20:50,850 --> 00:20:51,879
+<b>- Best wishes!</b>
+<b>- Vanillite!</b>
+
+228
+00:20:51,880 --> 00:20:53,210
+<b>Have a safe trip!</b>
+
+229
+00:20:53,350 --> 00:20:54,680
+<b>Thank you!</b> <b>'Kay, bye!</b>
+
+230
+00:20:54,780 --> 00:20:56,110
+<b>- Thank you!</b>
+<b>- Take care!</b>
+
+231
+00:20:56,280 --> 00:20:57,910
+<b>Scraggy, Scraggy,</b>
+<b>Scrag, Scrag, Scraggy!</b>
+
+232
+00:20:58,920 --> 00:20:59,920
+<b>Scraggy!</b> <b>Let's go!</b>
+
+233
+00:21:00,550 --> 00:21:02,180
+<b>Scraggy, Scraggy, Scrag,</b>
+<b>Scrag, Scraggy!</b>
+
+234
+00:21:04,190 --> 00:21:05,710
+<b>- Scraggy!</b>
+<b>- Scraggy, Scraggy, Scraggy!</b>
+
+235
+00:21:05,990 --> 00:21:07,620
+<b>Scraggy, Scraggy,</b>
+<b>Scrag, Scrag, Scrag!</b>
+
+236
+00:21:08,430 --> 00:21:09,730
+<b>Scraggy, jump, come on!</b>
+
+237
+00:21:10,400 --> 00:21:11,400
+<b>Scraggy, Scrag!</b>
+
+238
+00:21:12,670 --> 00:21:13,960
+<b>Snivy, use Vine Whip!</b>
+
+239
+00:21:14,440 --> 00:21:15,600
+<b>Snivy!</b>
+
+240
+00:21:15,700 --> 00:21:16,700
+<b>Scrag!</b>
+
+241
+00:21:17,400 --> 00:21:18,400
+<b>Scraggy!</b>
+
+242
+00:21:19,770 --> 00:21:21,470
+<b>Sorry about that, Scraggy...</b>
+
+243
+00:21:27,050 --> 00:21:28,540
+<b>Hey, Pikachu, what's up?</b>
+
+244
+00:21:44,060 --> 00:21:46,030
+<b>That Pokemon is new to me...</b>
+
+245
+00:21:46,130 --> 00:21:47,400
+<b>Me too!</b>
+
+246
+00:21:47,500 --> 00:21:48,760
+<b>lt must be hurt!</b>
+
+247
+00:21:53,940 --> 00:21:54,940
+<b>Ash! Iris!</b>
+
+248
+00:21:54,941 --> 00:21:56,140
+<b>Pansage!</b>
+
+249
+00:21:56,240 --> 00:21:57,240
+<b>Pansage!</b> <b>Pansage!</b>
+
+250
+00:21:58,310 --> 00:21:59,680
+<b>Snivy!</b>
+
+251
+00:22:01,680 --> 00:22:02,680
+<b>lt's coming...</b>
+
+252
+00:22:03,280 --> 00:22:04,280
+<b>Kyurem's coming!</b>
+
+253
+00:22:05,020 --> 00:22:06,020
+<b>Did it talk?</b>
+
+254
+00:22:06,890 --> 00:22:08,320
+<b>I think!</b> <b>I heard it!</b>
+
+255
+00:22:08,420 --> 00:22:09,680
+<b>I did too...</b>
+
+256
+00:22:09,790 --> 00:22:10,790
+<b>Kyurem is coming!</b>
+
+257
+00:22:12,460 --> 00:22:13,460
+<b>Hey, hold on!</b>
+
+258
+00:22:14,030 --> 00:22:15,500
+<b>Try to calm down!</b>
+
+259
+00:22:17,460 --> 00:22:19,760
+<b>I thought it said</b>
+<b>"Kyurem is coming"...</b>
+
+260
+00:22:19,930 --> 00:22:21,560
+<b>l've heard that name before!</b>
+
+261
+00:22:21,900 --> 00:22:23,530
+<b>Come on, wake up, please!</b>
+
+262
+00:22:28,380 --> 00:22:29,710
+<b>ls that Kyurem?</b>
+
+263
+00:22:37,650 --> 00:22:38,650
+<b>Cilan: Run!</b>
+
+264
+00:22:38,750 --> 00:22:39,750
+<b>Pan, Pan, Pan!</b>
+
+265
+00:22:40,550 --> 00:22:45,790
+<b>Pan, Pan, Pan, Pan, Pansage!</b>
+
+266
+00:22:53,530 --> 00:22:55,200
+<b>Scraggy!</b>
+
+267
+00:23:02,680 --> 00:23:04,940
+<b>Why do you keep attacking us?</b>
+
+268
+00:23:25,630 --> 00:23:26,630
+<b>Pan!</b>
+
+269
+00:23:26,631 --> 00:23:28,070
+<b>Well?</b>
+
+270
+00:23:28,170 --> 00:23:29,470
+<b>lt's obviously really weak!</b>
+
+271
+00:23:29,870 --> 00:23:30,870
+<b>Hang in there.</b>
+
+272
+00:23:30,970 --> 00:23:32,560
+<b>We'll get some help in the city!</b>
+
+273
+00:23:37,780 --> 00:23:39,040
+<b>You know,</b>
+
+274
+00:23:39,150 --> 00:23:40,770
+<b>the Elder of the Village</b>
+<b>of Dragons</b>
+
+275
+00:23:40,920 --> 00:23:43,110
+<b>told me about Kyurem once.</b>
+
+276
+00:23:48,960 --> 00:23:50,390
+<b>lris: Elder?</b>
+
+277
+00:23:50,490 --> 00:23:52,120
+<b>Who's the strongest</b>
+<b>Dragon-type Pokemon?</b>
+
+278
+00:23:53,530 --> 00:23:57,160
+<b>lf I tell, you might not</b>
+<b>like it very much, lris.</b>
+
+279
+00:23:57,400 --> 00:24:00,890
+<b>But Elder, you know that I love</b>
+<b>all kinds of Dragon types!</b>
+
+280
+00:24:01,000 --> 00:24:02,970
+<b>This Dragon-type Pokemon</b>
+<b>came into being</b>
+
+281
+00:24:03,800 --> 00:24:05,100
+<b>with Zekrom and Reshiram.</b>
+
+282
+00:24:06,110 --> 00:24:08,730
+<b>And that gives it unsurpassed</b>
+<b>strength and power!</b>
+
+283
+00:24:10,240 --> 00:24:12,540
+<b>This Pokemon's body is</b>
+<b>constantly giving off</b>
+
+284
+00:24:13,280 --> 00:24:14,580
+<b>a harsh, freezing wind...</b>
+
+285
+00:24:15,820 --> 00:24:17,010
+<b>Really?</b>
+
+286
+00:24:17,120 --> 00:24:19,110
+<b>Well, that sounds</b>
+<b>way too chilly for me!</b>
+
+287
+00:24:19,220 --> 00:24:21,520
+<b>l'm not a big fan of cold...</b>
+
+288
+00:24:22,220 --> 00:24:23,220
+<b>Kyurem...</b>
+
+289
+00:24:23,890 --> 00:24:24,890
+<b>... is the strongest...</b>
+
+290
+00:24:24,990 --> 00:24:27,290
+<b>Dragon-type</b>
+<b>Pokemon in the world!</b>
+
+291
+00:24:57,960 --> 00:24:58,960
+<b>Oh my!</b>
+
+292
+00:24:59,030 --> 00:25:00,650
+<b>lts horn was recently broken!</b>
+
+293
+00:25:01,030 --> 00:25:02,090
+<b>Audino!</b>
+
+294
+00:25:02,200 --> 00:25:03,490
+<b>So, exactly what happened?</b>
+
+295
+00:25:03,830 --> 00:25:05,800
+<b>Thing is...</b>
+<b>we really don't know.</b>
+
+296
+00:25:06,270 --> 00:25:07,490
+<b>l'm sorry.</b>
+
+297
+00:25:07,630 --> 00:25:08,630
+<b>We're guessing.</b>
+
+298
+00:25:09,200 --> 00:25:11,109
+<b>...but we think it</b>
+<b>might've been Kyurem.</b>
+
+299
+00:25:11,110 --> 00:25:12,110
+<b>What?</b>
+
+300
+00:25:12,111 --> 00:25:13,539
+<b>You mean, you met Kyurem?</b>
+
+301
+00:25:13,540 --> 00:25:14,540
+<b>Yes...</b>
+
+302
+00:25:14,541 --> 00:25:15,700
+<b>That's strange...</b>
+
+303
+00:25:15,810 --> 00:25:19,110
+<b>Kyurem lives in an abandoned</b>
+<b>mine up over the mountains.</b>
+
+304
+00:25:19,250 --> 00:25:21,650
+<b>They say it's</b>
+<b>almost always there.</b>
+
+305
+00:25:23,180 --> 00:25:26,150
+<b>But it came and attacked us</b>
+<b>out of nowhere!</b>
+
+306
+00:25:26,390 --> 00:25:28,010
+<b>Then, Kyurem</b>
+<b>battled with Keldeo...</b>
+
+307
+00:25:29,060 --> 00:25:30,060
+<b>So that's Keldeo?</b>
+
+308
+00:25:31,060 --> 00:25:32,060
+<b>Keldeo's its name!</b>
+
+309
+00:25:33,230 --> 00:25:34,290
+<b>You didn't know?</b>
+
+310
+00:25:34,400 --> 00:25:35,929
+<b>We never saw it before!</b>
+
+311
+00:25:35,930 --> 00:25:36,930
+<b>I see...</b>
+
+312
+00:25:36,931 --> 00:25:38,960
+<b>Here, let me show you something.</b>
+
+313
+00:25:42,840 --> 00:25:44,270
+<b>Who're they?</b>
+
+314
+00:25:44,370 --> 00:25:46,340
+<b>They're called</b>
+<b>the Swords of Justice.</b>
+
+315
+00:25:46,570 --> 00:25:47,570
+<b>Swords of Justice?</b>
+
+316
+00:25:48,680 --> 00:25:50,770
+<b>They train tirelessly</b>
+<b>and travel the world,</b>
+
+317
+00:25:50,880 --> 00:25:52,510
+<b>protecting those who need help!</b>
+
+318
+00:25:52,850 --> 00:25:54,140
+<b>Everyone...</b> <b>people and Pokemon!</b>
+
+319
+00:25:54,720 --> 00:25:55,779
+<b>- Axew!</b>
+<b>- Pika!</b>
+
+320
+00:25:55,780 --> 00:25:56,840
+<b>That's awesome!</b>
+
+321
+00:25:56,950 --> 00:25:59,310
+<b>Terrakion, with unparalleled</b>
+<b>strength and charging skills...</b>
+
+322
+00:26:01,460 --> 00:26:04,750
+<b>Virizion, with great speed and</b>
+<b>a clear sense of justice...</b>
+
+323
+00:26:06,090 --> 00:26:08,390
+<b>...and Cobalion, the</b>
+<b>Swords of Justice leader!</b>
+
+324
+00:26:09,930 --> 00:26:13,230
+<b>Cool and calm, with a body</b>
+<b>and heart of steel!</b>
+
+325
+00:26:14,030 --> 00:26:15,330
+<b>Also...</b>
+
+326
+00:26:15,470 --> 00:26:16,630
+<b>...there's Keldeo.</b>
+
+327
+00:26:16,770 --> 00:26:18,200
+<b>Training to be the newest member</b>
+
+328
+00:26:18,310 --> 00:26:21,210
+<b>of the Swords of Justice,</b>
+<b>so I've been told.</b>
+
+329
+00:26:21,310 --> 00:26:22,500
+<b>Whoa...</b>
+
+330
+00:26:22,610 --> 00:26:25,080
+<b>Then Keldeo and the Swords</b>
+<b>of Justice are friends!</b>
+
+331
+00:26:25,180 --> 00:26:26,180
+<b>That's right!</b>
+
+332
+00:26:26,750 --> 00:26:28,340
+<b>Oh wow!</b>
+
+333
+00:26:32,320 --> 00:26:34,180
+<b>lris: I'm so glad you're</b>
+<b>feeling better!</b>
+
+334
+00:26:35,860 --> 00:26:37,150
+<b>My name is Ash!</b>
+
+335
+00:26:37,290 --> 00:26:39,050
+<b>And this's my buddy Pikachu!</b>
+
+336
+00:26:39,190 --> 00:26:40,630
+<b>Pikachu.</b>
+
+337
+00:26:40,790 --> 00:26:41,990
+<b>My name's lris!</b>
+
+338
+00:26:42,100 --> 00:26:43,720
+<b>- And this is Axew!</b>
+<b>- Axew!</b>
+
+339
+00:26:44,260 --> 00:26:45,560
+<b>My name is Cilan!</b>
+
+340
+00:26:45,900 --> 00:26:48,770
+<b>Hey, Keldeo, so what just</b>
+<b>happened, anyway?</b>
+
+341
+00:26:59,450 --> 00:27:01,410
+<b>I challenged it to a battle...</b>
+
+342
+00:27:01,680 --> 00:27:02,680
+<b>- Wait, Kyurem?</b>
+<b>- Pika!</b>
+
+343
+00:27:03,420 --> 00:27:05,720
+<b>I wanna become</b>
+<b>a Sword of Justice!</b>
+
+344
+00:27:05,890 --> 00:27:07,820
+<b>So becoming a Sword of Justice</b>
+
+345
+00:27:07,920 --> 00:27:10,080
+<b>means you have to battle</b>
+<b>with Kyurem then?</b>
+
+346
+00:27:11,630 --> 00:27:13,250
+<b>- Whoa, so that's it...</b>
+<b>- Pikachu.</b>
+
+347
+00:27:26,470 --> 00:27:28,530
+<b>But... as the battle got underway,</b>
+<b>I got scared!</b>
+
+348
+00:27:31,080 --> 00:27:33,210
+<b>And because of me,</b>
+<b>the Swords of Justice</b>
+
+349
+00:27:33,310 --> 00:27:35,580
+<b>were all frozen in ice</b>
+<b>by Kyurem...</b>
+
+350
+00:27:44,890 --> 00:27:46,220
+<b>Then l...</b>
+
+351
+00:27:46,330 --> 00:27:47,330
+<b>I ran away!</b>
+
+352
+00:27:48,360 --> 00:27:50,330
+<b>But what about the Swords</b>
+<b>of Justice?</b>
+
+353
+00:27:57,400 --> 00:27:59,030
+<b>They're still trapped in ice!</b>
+
+354
+00:28:00,370 --> 00:28:03,400
+<b>l'm sure Kyurem is furious</b>
+<b>with me for running away!</b>
+
+355
+00:28:03,510 --> 00:28:05,340
+<b>That's why it attacked us...</b>
+
+356
+00:28:05,750 --> 00:28:06,910
+<b>Pika.</b>
+
+357
+00:28:08,720 --> 00:28:09,740
+<b>Keldeo!</b>
+
+358
+00:28:09,850 --> 00:28:10,910
+<b>You still scared?</b>
+
+359
+00:28:11,020 --> 00:28:12,020
+<b>- Tell me!</b>
+<b>- What?</b>
+
+360
+00:28:13,020 --> 00:28:15,510
+<b>You can't keep being scared</b>
+<b>just because you got beat!</b>
+
+361
+00:28:15,620 --> 00:28:17,250
+<b>Remember who you wanna be!</b>
+
+362
+00:28:17,590 --> 00:28:19,220
+<b>l'm not scared of anything!</b>
+
+363
+00:28:19,930 --> 00:28:23,390
+<b>l'm gonna go and save the</b>
+<b>Swords of Justice right now!</b>
+
+364
+00:28:26,470 --> 00:28:28,090
+<b>- Now that's the spirit!</b>
+<b>- Pikachu.</b>
+
+365
+00:28:29,340 --> 00:28:31,100
+<b>l'll go along and help you out!</b>
+
+366
+00:28:31,970 --> 00:28:33,369
+<b>Pika, Pika.</b>
+
+367
+00:28:33,370 --> 00:28:34,370
+<b>- Me too!</b>
+<b>- And me!</b>
+
+368
+00:28:34,371 --> 00:28:36,000
+<b>- Let's go together!</b>
+<b>- Pikachu.</b>
+
+369
+00:28:37,540 --> 00:28:39,910
+<b>Ash... everyone...</b>
+
+370
+00:28:42,920 --> 00:28:43,920
+<b>All right!</b>
+
+371
+00:28:44,590 --> 00:28:46,210
+<b>- Ew.</b>
+<b>- Wait just a minute...</b>
+
+372
+00:28:47,290 --> 00:28:48,650
+<b>Let's not forget...</b>
+
+373
+00:28:51,790 --> 00:28:53,420
+<b>First, it's Boxed Lunch time!</b>
+
+374
+00:28:54,160 --> 00:28:55,806
+<b>- Ew, Ew, Ew, Axew, Ew!</b>
+<b>- We can't battle on</b>
+
+375
+00:28:55,830 --> 00:28:57,390
+<b>an empty stomach, now can we?</b>
+
+376
+00:28:57,500 --> 00:28:58,790
+<b>Yeah!</b> <b>Darumaka boxed lunch!</b>
+
+377
+00:28:59,130 --> 00:29:01,100
+<b>All right!</b> <b>With the cool box!</b>
+
+378
+00:29:01,240 --> 00:29:03,260
+<b>- Ew, Ew, Ew, Axew!</b>
+<b>- It looks delish!</b>
+
+379
+00:29:03,370 --> 00:29:05,460
+<b>Yeah, go ahead</b>
+<b>and dig in, Keldeo!</b>
+
+380
+00:29:07,840 --> 00:29:10,140
+<b>Cilan: What a delectable</b>
+<b>aroma and texture!</b>
+
+381
+00:29:10,810 --> 00:29:12,010
+<b>Juicy yet firm!</b>
+
+382
+00:29:12,210 --> 00:29:13,840
+<b>I give it five stars!</b>
+
+383
+00:29:13,950 --> 00:29:14,950
+<b>- Delicious.</b>
+<b>- lsn't it great?</b>
+
+384
+00:29:14,951 --> 00:29:16,540
+<b>The true mark of</b>
+<b>a great boxed lunch</b>
+
+385
+00:29:16,650 --> 00:29:18,080
+<b>is that it remains scrumptious,</b>
+
+386
+00:29:18,190 --> 00:29:20,310
+<b>even when it</b>
+<b>sits for a long time.</b>
+
+387
+00:29:22,090 --> 00:29:23,180
+<b>lris: You two!</b>
+
+388
+00:29:23,290 --> 00:29:24,690
+<b>What a couple of little kids!</b>
+
+389
+00:29:24,790 --> 00:29:26,150
+<b>- Water... water!</b>
+<b>- There's plenty!</b>
+
+390
+00:29:26,590 --> 00:29:28,220
+<b>No one's going to steal it.</b>
+
+391
+00:29:40,510 --> 00:29:41,510
+<b>Cryog, Cryogonal.</b>
+
+392
+00:29:43,510 --> 00:29:44,510
+<b>Cryog.</b>
+
+393
+00:29:45,250 --> 00:29:46,250
+<b>Cryogonal, Cryogonal!</b>
+
+394
+00:29:47,780 --> 00:29:50,010
+<b>Cryogonal, Cryogonal!</b>
+
+395
+00:29:52,920 --> 00:29:58,590
+<b>Cryogonal, Cryogonal, Cryogonal,</b>
+<b>Cryo...!</b>
+
+396
+00:30:13,570 --> 00:30:15,200
+<b>Elder: This is White Kyurem...</b>
+
+397
+00:30:17,710 --> 00:30:19,340
+<b>and this is Black Kyurem.</b>
+
+398
+00:30:20,750 --> 00:30:22,040
+<b>- They look strong!</b>
+<b>- Axew!</b>
+
+399
+00:30:22,920 --> 00:30:25,540
+<b>You see, Kyurem has</b>
+<b>the power to transform.</b>
+
+400
+00:30:25,850 --> 00:30:28,480
+<b>And that allows it</b>
+<b>to wield the power</b>
+
+401
+00:30:29,120 --> 00:30:31,650
+<b>of Reshiram and Zekrom!</b>
+
+402
+00:30:33,260 --> 00:30:34,350
+<b>Amazing...</b>
+
+403
+00:30:34,460 --> 00:30:36,220
+<b>That's why Kyurem's</b>
+<b>the strongest Pokemon</b>
+
+404
+00:30:36,330 --> 00:30:37,490
+<b>in the world...</b>
+
+405
+00:30:37,630 --> 00:30:40,000
+<b>Ash: The powers of Reshiram</b>
+<b>and Zekrom!</b>
+
+406
+00:30:47,840 --> 00:30:50,470
+<b>What's going on?</b>
+<b>I can't stand the cold!</b>
+
+407
+00:30:51,040 --> 00:30:52,120
+<b>Cryogonal, Cryogonal!</b> <b>Cryog!</b>
+
+408
+00:30:54,180 --> 00:30:55,456
+<b>- Cryogonal, Cryogonal!</b>
+<b>- Cryogonal!</b>
+
+409
+00:30:55,480 --> 00:30:57,450
+<b>Keldeo: Careful, they're friends</b>
+<b>with Kyurem!</b>
+
+410
+00:30:58,820 --> 00:31:00,380
+<b>Cryog!</b>
+
+411
+00:31:01,920 --> 00:31:03,220
+<b>Hey, what're you doing?</b>
+
+412
+00:31:03,920 --> 00:31:05,220
+<b>Leave my friends alone!</b>
+
+413
+00:31:06,360 --> 00:31:07,420
+<b>Cryogonal, Cryogonal!</b>
+
+414
+00:31:07,530 --> 00:31:09,260
+<b>Ash, this way!</b>
+
+415
+00:31:11,200 --> 00:31:12,530
+<b>Cryogonal, Cryogonal!</b> <b>Cryog!</b>
+
+416
+00:31:17,000 --> 00:31:18,000
+<b>Cryogonal, Cryog!</b>
+
+417
+00:31:18,940 --> 00:31:21,430
+<b>Cryo, Cryogonal!</b>
+
+418
+00:31:21,540 --> 00:31:23,010
+<b>White Kyurem!</b>
+
+419
+00:31:27,250 --> 00:31:29,940
+<b>Cryogonal! Cryogonal!</b>
+
+420
+00:31:34,520 --> 00:31:35,520
+<b>Pikachu, use Thunderbolt!</b>
+
+421
+00:31:36,260 --> 00:31:37,750
+<b>Pikachu!</b>
+
+422
+00:31:44,500 --> 00:31:45,830
+<b>lt changed again!</b>
+
+423
+00:31:45,930 --> 00:31:47,560
+<b>Now it's Black Kyurem!</b>
+
+424
+00:32:18,900 --> 00:32:20,660
+<b>Hey, Ash, where are you going?</b>
+
+425
+00:32:23,700 --> 00:32:25,500
+<b>Pikachu, use lron Tail!</b>
+
+426
+00:32:28,310 --> 00:32:29,310
+<b>Cryog! Cryog!</b>
+
+427
+00:32:30,110 --> 00:32:31,340
+<b>Thanks, Pikachu!</b>
+
+428
+00:32:31,450 --> 00:32:32,500
+<b>Ash!</b>
+
+429
+00:32:34,050 --> 00:32:35,050
+<b>Ew?</b>
+
+430
+00:32:35,650 --> 00:32:41,819
+<b>Cryog! Cryog!</b>
+
+431
+00:32:41,820 --> 00:32:43,559
+<b>Yeah!</b>
+
+432
+00:32:43,560 --> 00:32:44,560
+<b>Great, Keldeo!</b>
+
+433
+00:32:45,190 --> 00:32:46,190
+<b>Pikachu, Electro Ball!</b>
+
+434
+00:32:47,090 --> 00:32:50,150
+<b>Cry! Cryog!</b> <b>Cry!</b>
+
+435
+00:32:53,430 --> 00:32:54,430
+<b>Cryog! Cryog!</b>
+
+436
+00:32:56,070 --> 00:32:59,300
+<b>Cryogonal! Cryog!</b>
+
+437
+00:33:02,080 --> 00:33:03,600
+<b>Ash, Pikachu, grab on!</b>
+
+438
+00:33:08,180 --> 00:33:12,080
+<b>Ash: Whoa... whoa!</b>
+
+439
+00:33:14,390 --> 00:33:16,180
+<b>Whoa!</b>
+
+440
+00:33:25,370 --> 00:33:26,730
+<b>Whoa!</b>
+
+441
+00:33:38,650 --> 00:33:39,650
+<b>Hey, thanks!</b>
+
+442
+00:33:40,450 --> 00:33:41,540
+<b>Let's go!</b>
+
+443
+00:33:41,650 --> 00:33:42,650
+<b>Cryogonal! Cryogonal!</b>
+
+444
+00:33:43,850 --> 00:33:45,610
+<b>Cryog!</b>
+
+445
+00:33:48,720 --> 00:33:50,350
+<b>Ash, look!</b> <b>We're over here!</b>
+
+446
+00:33:51,120 --> 00:33:52,120
+<b>Ew, Axew!</b>
+
+447
+00:33:53,290 --> 00:33:56,160
+<b>Cryogonal, Cryogonal!</b>
+
+448
+00:34:04,300 --> 00:34:05,670
+<b>Ew!</b>
+
+449
+00:34:07,210 --> 00:34:08,900
+<b>Cry! Cryogonal!</b>
+
+450
+00:34:14,350 --> 00:34:16,750
+<b>Boldore, I choose you!</b>
+
+451
+00:34:19,720 --> 00:34:20,720
+<b>Boldore!</b>
+
+452
+00:34:22,090 --> 00:34:23,090
+<b>Cryogonal! Cryogonal!</b>
+
+453
+00:34:24,160 --> 00:34:25,160
+<b>Cry! Cryo!</b>
+
+454
+00:34:26,430 --> 00:34:27,430
+<b>Ash: Keldeo!</b>
+
+455
+00:34:28,030 --> 00:34:29,206
+<b>Pikachu, Thunderbolt, let's go!</b>
+
+456
+00:34:29,230 --> 00:34:30,320
+<b>Pikachu!</b>
+
+457
+00:34:32,770 --> 00:34:34,200
+<b>Cryogonal!</b>
+
+458
+00:34:42,480 --> 00:34:44,310
+<b>Ash!</b> <b>We're over here!</b>
+
+459
+00:34:46,450 --> 00:34:47,850
+<b>Ash: Boldore, return!</b>
+
+460
+00:34:51,790 --> 00:34:53,720
+<b>lris: How are we gonna</b>
+<b>get out of here?</b>
+
+461
+00:34:53,850 --> 00:34:55,650
+<b>Cilan: This city's</b>
+<b>subway system is designed</b>
+
+462
+00:34:55,760 --> 00:34:58,250
+<b>so you can go anywhere</b>
+<b>you want to go!</b>
+
+463
+00:34:58,390 --> 00:35:00,690
+<b>Ash: Wait... so we're</b>
+<b>going by subway?</b>
+
+464
+00:35:01,460 --> 00:35:02,990
+<b>I thought we could</b>
+<b>take advantage</b>
+
+465
+00:35:03,160 --> 00:35:06,160
+<b>of the unused train</b>
+<b>tracks, but I'm afraid...</b>
+
+466
+00:35:08,230 --> 00:35:09,860
+<b>... the door is</b> <b>locked tight!</b>
+
+467
+00:35:10,640 --> 00:35:12,040
+<b>Lemme try...</b>
+
+468
+00:35:16,340 --> 00:35:17,740
+<b>Will that work?</b>
+
+469
+00:35:23,280 --> 00:35:24,580
+<b>- Cryog! Cryog!</b>
+<b>- Cryog! Cryog!</b>
+
+470
+00:35:29,990 --> 00:35:31,050
+<b>- Cry!</b>
+<b>- Cryog!</b>
+
+471
+00:35:40,970 --> 00:35:42,460
+<b>Hey, I'm kind of hungry.</b>
+
+472
+00:35:42,640 --> 00:35:43,660
+<b>Pikachu.</b>
+
+473
+00:35:43,770 --> 00:35:45,930
+<b>Ash Ketchum,</b>
+<b>you just ate, didn't you?</b>
+
+474
+00:35:46,110 --> 00:35:47,330
+<b>What a kid.</b>
+
+475
+00:35:47,440 --> 00:35:48,740
+<b>Got anymore box lunches?</b>
+
+476
+00:35:49,380 --> 00:35:50,670
+<b>Oh, not you too.</b>
+
+477
+00:35:51,910 --> 00:35:52,949
+<b>Axew.</b>
+
+478
+00:35:52,950 --> 00:35:53,950
+<b>- We're here.</b>
+<b>- Ew?</b>
+
+479
+00:35:55,280 --> 00:35:56,280
+<b>Another door?</b>
+
+480
+00:35:57,550 --> 00:35:59,110
+<b>Just leave it to me!</b>
+
+481
+00:35:59,250 --> 00:36:00,840
+<b>Wait a minute!</b>
+
+482
+00:36:03,960 --> 00:36:05,930
+<b>Some doors are unlocked,</b>
+<b>you know...</b>
+
+483
+00:36:06,230 --> 00:36:07,450
+<b>Ew!</b>
+
+484
+00:36:11,900 --> 00:36:14,530
+<b>Cilan: This old subway station</b>
+<b>has been transformed</b>
+
+485
+00:36:15,040 --> 00:36:16,040
+<b>into a museum!</b>
+
+486
+00:36:16,670 --> 00:36:17,670
+<b>Ash: Wow...</b>
+
+487
+00:36:18,640 --> 00:36:20,270
+<b>Once we pass through here,</b>
+
+488
+00:36:20,540 --> 00:36:22,510
+<b>we should exit</b>
+<b>just outside the city!</b>
+
+489
+00:36:26,080 --> 00:36:28,210
+<b>I just had the greatest idea!</b>
+
+490
+00:36:30,150 --> 00:36:31,150
+<b>lris: Yup!</b>
+
+491
+00:36:31,151 --> 00:36:32,980
+<b>l'll bet we can still use it!</b>
+
+492
+00:37:02,050 --> 00:37:03,280
+<b>Ew, Ew!</b>
+
+493
+00:37:03,380 --> 00:37:04,780
+<b>Axew, everything'll be fine!</b>
+
+494
+00:37:04,880 --> 00:37:06,320
+<b>Don't worry!</b>
+
+495
+00:37:19,800 --> 00:37:21,430
+<b>- Will she be okay?</b>
+<b>- Pikachu.</b>
+
+496
+00:37:21,970 --> 00:37:23,770
+<b>We have to believe in her!</b>
+
+497
+00:37:23,900 --> 00:37:24,960
+<b>Right...</b>
+
+498
+00:37:26,510 --> 00:37:28,130
+<b>... so I'll make myself</b>
+<b>the bait!</b>
+
+499
+00:37:28,240 --> 00:37:29,640
+<b>Understand?</b>
+
+500
+00:37:29,780 --> 00:37:32,070
+<b>Meanwhile, you go and save</b>
+<b>your friends!</b>
+
+501
+00:37:32,450 --> 00:37:34,000
+<b>- Good luck!</b>
+<b>- Ew!</b>
+
+502
+00:37:36,080 --> 00:37:37,520
+<b>lris...</b>
+
+503
+00:37:44,190 --> 00:37:45,490
+<b>You're out of luck!</b>
+
+504
+00:37:45,860 --> 00:37:47,420
+<b>lt's just the two of us...</b>
+
+505
+00:37:47,530 --> 00:37:48,990
+<b>Axew and little ole' me!</b>
+
+506
+00:37:49,100 --> 00:37:50,430
+<b>Axew, Ew!</b>
+
+507
+00:37:50,530 --> 00:37:51,900
+<b>Ew, Ew, Axew!</b>
+
+508
+00:37:52,030 --> 00:37:53,400
+<b>Ew!</b>
+
+509
+00:39:01,230 --> 00:39:02,530
+<b>lt runs on electricity!</b>
+
+510
+00:39:03,400 --> 00:39:04,700
+<b>l'll distract the Cryogonal!</b>
+
+511
+00:39:06,110 --> 00:39:07,110
+<b>Go!</b>
+
+512
+00:39:07,111 --> 00:39:09,300
+<b>Save the Swords of Justice,</b>
+<b>Keldeo!</b>
+
+513
+00:39:12,410 --> 00:39:14,000
+<b>Cilan.</b>
+
+514
+00:39:20,220 --> 00:39:21,480
+<b>We're over here!</b>
+
+515
+00:39:21,590 --> 00:39:23,220
+<b>Stunfisk, give it more power!</b>
+
+516
+00:39:23,590 --> 00:39:25,180
+<b>Stunfisk!</b>
+
+517
+00:39:42,010 --> 00:39:44,070
+<b>Greater than one is two!</b>
+
+518
+00:39:46,080 --> 00:39:48,510
+<b>Greater than two is three!</b>
+
+519
+00:39:50,480 --> 00:39:53,450
+<b>When the strength of friends</b>
+<b>is combined into one...</b>
+
+520
+00:39:53,590 --> 00:39:56,280
+<b>all: then true power</b>
+<b>and courage are created!</b>
+
+521
+00:40:01,060 --> 00:40:04,090
+<b>True power... and courage!</b>
+
+522
+00:40:06,170 --> 00:40:07,170
+<b>Ash: Hey, Keldeo...</b>
+
+523
+00:40:08,600 --> 00:40:09,900
+<b>The Swords of Justice...</b>
+
+524
+00:40:10,240 --> 00:40:11,480
+<b>- So what are they like?</b>
+<b>- Pika.</b>
+
+525
+00:40:13,810 --> 00:40:16,900
+<b>Well, Terrakion is</b>
+<b>the toughest Pokemon I know!</b>
+
+526
+00:40:18,810 --> 00:40:19,909
+<b>Listen, Keldeo.</b>
+
+527
+00:40:19,910 --> 00:40:20,949
+<b>When you're in battle,</b>
+
+528
+00:40:20,950 --> 00:40:23,149
+<b>never take your eyes</b>
+<b>off your opponent.</b>
+
+529
+00:40:23,150 --> 00:40:25,980
+<b>Keep up your concentration</b>
+<b>to the very end!</b>
+
+530
+00:40:27,520 --> 00:40:29,989
+<b>Basc.</b>
+
+531
+00:40:29,990 --> 00:40:32,010
+<b>- Ha!</b>
+<b>- Basculin!</b>
+
+532
+00:40:34,060 --> 00:40:35,060
+<b>Culin!</b>
+
+533
+00:40:36,760 --> 00:40:37,960
+<b>Basc.</b>
+
+534
+00:40:44,870 --> 00:40:47,170
+<b>Keldeo: Terrakion's nice</b>
+<b>and really funny too!</b>
+
+535
+00:40:48,140 --> 00:40:50,110
+<b>lt sounds totally awesome to me!</b>
+
+536
+00:40:50,610 --> 00:40:51,610
+<b>How about Virizion?</b>
+
+537
+00:40:52,550 --> 00:40:53,640
+<b>Virizion?</b>
+
+538
+00:40:53,750 --> 00:40:56,580
+<b>Always calm and really cool!</b>
+
+539
+00:41:09,500 --> 00:41:11,120
+<b>Fear is your greatest enemy.</b>
+
+540
+00:41:11,760 --> 00:41:14,430
+<b>You must conquer the fear</b>
+<b>that lives in your heart!</b>
+
+541
+00:41:19,070 --> 00:41:20,330
+<b>Keldeo: Virizion!</b>
+
+542
+00:41:28,080 --> 00:41:30,710
+<b>Once your fear is gone,</b>
+<b>you are free!</b>
+
+543
+00:41:32,390 --> 00:41:33,390
+<b>Virizion's really smart.</b>
+
+544
+00:41:34,390 --> 00:41:37,360
+<b>and also the fastest</b>
+<b>of the Swords of Justice!</b>
+
+545
+00:41:37,460 --> 00:41:38,460
+<b>What about Cobalion?</b>
+
+546
+00:41:39,830 --> 00:41:41,790
+<b>The Swords of Justice</b>
+<b>leader, right?</b>
+
+547
+00:41:42,360 --> 00:41:43,360
+<b>- Pika, Pika.</b>
+<b>- Right.</b>
+
+548
+00:41:44,060 --> 00:41:46,000
+<b>Cobalion's an</b>
+<b>inspiration to us all!</b>
+
+549
+00:42:01,580 --> 00:42:03,110
+<b>l'm not finished!</b>
+
+550
+00:42:07,520 --> 00:42:11,890
+<b>lt is what you learn from</b>
+<b>defeat that is truly important.</b>
+
+551
+00:42:14,730 --> 00:42:15,890
+<b>But...</b>
+
+552
+00:42:16,000 --> 00:42:18,290
+<b>Now is a time to learn, Keldeo.</b>
+
+553
+00:42:18,530 --> 00:42:21,000
+<b>Until you know the</b>
+<b>true weight of the sword!</b>
+
+554
+00:42:21,100 --> 00:42:24,560
+<b>Sometimes Cobalion says things</b>
+<b>I really don't understand...</b>
+
+555
+00:42:26,270 --> 00:42:27,710
+<b>- I hear ya!</b>
+<b>- Pika, Pikachu.</b>
+
+556
+00:42:31,940 --> 00:42:33,280
+<b>Hey, Keldeo?</b>
+
+557
+00:42:33,380 --> 00:42:35,340
+<b>I hope you'll become a Sword</b>
+<b>of Justice soon, too!</b>
+
+558
+00:42:36,150 --> 00:42:37,170
+<b>Pika, Pika.</b>
+
+559
+00:43:01,210 --> 00:43:02,210
+<b>Crustle!</b>
+
+560
+00:43:02,210 --> 00:43:03,210
+<b>Let's go!</b>
+
+561
+00:43:04,640 --> 00:43:05,640
+<b>- Crustle!</b>
+<b>- All right...</b>
+
+562
+00:43:07,010 --> 00:43:09,350
+<b>- Use Rock Wrecker!</b>
+<b>- Crust!</b>
+
+563
+00:43:16,020 --> 00:43:17,650
+<b>Crust!</b>
+
+564
+00:43:19,190 --> 00:43:20,190
+<b>Ready, Crustle?</b>
+
+565
+00:43:20,890 --> 00:43:22,360
+<b>- Attack!</b>
+<b>- Crustle!</b>
+
+566
+00:43:25,200 --> 00:43:26,229
+<b>Perfect!</b>
+
+567
+00:43:26,230 --> 00:43:27,560
+<b>Thanks, Crustle!</b>
+
+568
+00:43:51,290 --> 00:43:52,380
+<b>l'm sorry to tell you,</b>
+
+569
+00:43:52,490 --> 00:43:53,730
+<b>but we're the only ones in here.</b>
+
+570
+00:43:53,890 --> 00:43:55,550
+<b>- Stun.</b>
+<b>- Crust!</b>
+
+571
+00:43:57,630 --> 00:43:59,260
+<b>- Crust?</b>
+<b>- Fisk!</b>
+
+572
+00:44:07,740 --> 00:44:09,170
+<b>- Keldeo: Ash!</b>
+<b>- Pika.</b>
+
+573
+00:44:20,590 --> 00:44:23,210
+<b>Ash... Why are you</b>
+<b>doing this for me?</b>
+
+574
+00:44:24,490 --> 00:44:26,460
+<b>I mean, you just met me...</b>
+
+575
+00:44:27,630 --> 00:44:28,920
+<b>What're you talking about?</b>
+
+576
+00:44:29,600 --> 00:44:31,220
+<b>Come on!</b> <b>We're friends, right?</b>
+
+577
+00:44:32,830 --> 00:44:33,830
+<b>Friends?</b>
+
+578
+00:44:35,370 --> 00:44:36,490
+<b>Friends!</b>
+
+579
+00:44:36,600 --> 00:44:38,116
+<b>And besides, you're a blast</b>
+<b>to be around!</b>
+
+580
+00:44:38,140 --> 00:44:39,260
+<b>Pikachu.</b>
+
+581
+00:44:56,760 --> 00:44:57,780
+<b>- That must be it!</b>
+<b>- Pika.</b>
+
+582
+00:45:08,270 --> 00:45:09,290
+<b>Pika.</b>
+
+583
+00:45:39,770 --> 00:45:40,820
+<b>Let's go and get this done!</b>
+
+584
+00:45:46,510 --> 00:45:47,510
+<b>Pika, Pi.</b>
+
+585
+00:45:51,940 --> 00:45:53,349
+<b>Keldeo?</b>
+
+586
+00:45:53,350 --> 00:45:54,879
+<b>l...</b>
+
+587
+00:45:54,880 --> 00:45:55,880
+<b>- l...</b>
+<b>- Pika.</b>
+
+588
+00:45:56,720 --> 00:45:59,690
+<b>I told Kyurem I was</b>
+<b>a Sword of Justice!</b>
+
+589
+00:46:00,850 --> 00:46:04,120
+<b>I lied when I challenged it</b>
+<b>to a battle...</b>
+
+590
+00:46:12,970 --> 00:46:15,260
+<b>That's gotta be</b>
+<b>why Kyurem's so angry...</b>
+
+591
+00:46:20,270 --> 00:46:21,400
+<b>Don't worry!</b>
+
+592
+00:46:23,980 --> 00:46:25,270
+<b>We'll handle it ourselves!</b>
+
+593
+00:46:25,980 --> 00:46:27,640
+<b>- Pikachu, let's go!</b>
+<b>- Pika.</b>
+
+594
+00:46:55,980 --> 00:46:57,030
+<b>Hey!</b>
+
+595
+00:46:57,140 --> 00:46:58,940
+<b>Down here!</b>
+
+596
+00:47:01,380 --> 00:47:04,140
+<b>Ew, Axew!</b> <b>Axew, Ew!</b>
+
+597
+00:47:18,900 --> 00:47:20,200
+<b>The Swords of Justice...</b>
+
+598
+00:47:20,830 --> 00:47:21,930
+<b>- where are they?</b>
+<b>- Pika.</b>
+
+599
+00:47:32,910 --> 00:47:33,979
+<b>Pikachu.</b>
+
+600
+00:47:33,980 --> 00:47:35,380
+<b>All right!</b>
+
+601
+00:47:48,360 --> 00:47:49,959
+<b>No doubt about it!</b>
+
+602
+00:47:49,960 --> 00:47:51,329
+<b>That's gotta be them!</b>
+
+603
+00:47:51,330 --> 00:47:52,330
+<b>Pika, Pika!</b>
+
+604
+00:47:53,630 --> 00:47:54,699
+<b>Okay!</b>
+
+605
+00:47:54,700 --> 00:47:55,760
+<b>Let's get 'em outta there!</b>
+
+606
+00:47:58,200 --> 00:47:59,539
+<b>Boldore!</b>
+
+607
+00:47:59,540 --> 00:48:00,909
+<b>Pignite!</b>
+
+608
+00:48:00,910 --> 00:48:01,910
+<b>Pignite, Flamethrower!</b>
+
+609
+00:48:03,210 --> 00:48:04,210
+<b>Boldore, Rock Smash!</b>
+
+610
+00:48:05,240 --> 00:48:06,710
+<b>Pignite!</b>
+
+611
+00:48:08,310 --> 00:48:10,110
+<b>Boldore!</b>
+
+612
+00:48:12,320 --> 00:48:13,600
+<b>- Pikachu, use lron Tail!</b>
+<b>- Pika!</b>
+
+613
+00:48:18,190 --> 00:48:19,359
+<b>Pika.</b>
+
+614
+00:48:19,360 --> 00:48:20,360
+<b>Don't worry!</b>
+
+615
+00:48:20,361 --> 00:48:21,459
+<b>We'll get you out!</b>
+
+616
+00:48:21,460 --> 00:48:23,330
+<b>Nite!</b>
+
+617
+00:48:24,860 --> 00:48:25,860
+<b>Pignite!</b>
+
+618
+00:48:28,570 --> 00:48:29,570
+<b>Pignite!</b>
+
+619
+00:48:32,270 --> 00:48:33,670
+<b>Pignite!</b>
+
+620
+00:48:39,010 --> 00:48:40,070
+<b>Pikachu!</b>
+
+621
+00:48:55,090 --> 00:48:57,390
+<b>This is no place for a human!</b>
+
+622
+00:48:58,760 --> 00:48:59,760
+<b>Now leave!</b>
+
+623
+00:49:00,970 --> 00:49:04,030
+<b>We've got something to do</b>
+<b>and you won't stop us!</b>
+
+624
+00:49:08,170 --> 00:49:09,170
+<b>Nite!</b>
+
+625
+00:49:10,340 --> 00:49:11,380
+<b>- Nite!</b>
+<b>- Boldore, Boldore!</b>
+
+626
+00:49:13,480 --> 00:49:14,910
+<b>Nite!</b>
+
+627
+00:49:40,170 --> 00:49:41,170
+<b>- Keldeo!</b>
+<b>- Pika.</b>
+
+628
+00:49:41,970 --> 00:49:43,940
+<b>- I knew you'd come!</b>
+<b>- Pignite: Nite!</b>
+
+629
+00:49:44,480 --> 00:49:46,450
+<b>Yup, I just knew you would!</b>
+
+630
+00:49:47,150 --> 00:49:48,150
+<b>- Pikachu!</b>
+<b>- Nite!</b>
+
+631
+00:49:48,880 --> 00:49:50,870
+<b>Ash, Pikachu...</b>
+
+632
+00:50:01,890 --> 00:50:02,920
+<b>Kyurem!</b>
+
+633
+00:50:04,660 --> 00:50:05,960
+<b>I lied to you.</b>
+
+634
+00:50:06,830 --> 00:50:09,130
+<b>l'm not a Sword of Justice yet!</b>
+
+635
+00:50:09,370 --> 00:50:11,000
+<b>l'm just training to be one.</b>
+
+636
+00:50:14,640 --> 00:50:17,230
+<b>I had no business</b>
+<b>challenging you to a battle!</b>
+
+637
+00:50:17,340 --> 00:50:19,310
+<b>But... but I did it anyway!</b>
+
+638
+00:50:20,250 --> 00:50:22,740
+<b>I wanted to battle you</b>
+<b>no matter what!</b>
+
+639
+00:50:26,720 --> 00:50:29,450
+<b>I knew it all along!</b>
+
+640
+00:50:48,770 --> 00:50:50,740
+<b>Pass through the gate once more.</b>
+
+641
+00:50:51,480 --> 00:50:53,410
+<b>Time to finish this!</b>
+
+642
+00:50:57,580 --> 00:50:58,580
+<b>Ash: Keldeo!</b>
+
+643
+00:50:59,650 --> 00:51:00,950
+<b>You can do it!</b>
+
+644
+00:51:01,590 --> 00:51:03,359
+<b>You're gonna be a Sword</b>
+<b>of Justice, right?</b>
+
+645
+00:51:03,360 --> 00:51:04,360
+<b>Ash!</b>
+
+646
+00:51:05,760 --> 00:51:06,780
+<b>Pika, Pika!</b>
+
+647
+00:51:21,070 --> 00:51:22,100
+<b>Keldeo: That's it.</b>
+
+648
+00:51:25,950 --> 00:51:27,570
+<b>l've never, ever been alone...</b>
+
+649
+00:51:28,610 --> 00:51:31,580
+<b>My friends have been with me</b>
+<b>the whole time!</b>
+
+650
+00:51:33,420 --> 00:51:35,940
+<b>They've always</b>
+<b>helped me to grow!</b>
+
+651
+00:51:39,020 --> 00:51:40,150
+<b>But, this time...</b>
+
+652
+00:51:40,260 --> 00:51:42,020
+<b>l'm not running away!</b>
+
+653
+00:51:45,860 --> 00:51:50,200
+<b>I will become</b>
+<b>a Sword of Justice!</b>
+
+654
+00:52:06,190 --> 00:52:07,190
+<b>Keldeo... transformed!</b>
+
+655
+00:52:09,190 --> 00:52:10,210
+<b>lncredible!</b>
+
+656
+00:52:10,320 --> 00:52:11,320
+<b>- lris! Cilan!</b>
+<b>- Nite!</b>
+
+657
+00:52:11,960 --> 00:52:13,250
+<b>Here I come, Kyurem!</b>
+
+658
+00:52:14,360 --> 00:52:16,390
+<b>Then come!</b>
+
+659
+00:53:01,670 --> 00:53:03,570
+<b>- Way to go, Keldeo!</b>
+<b>- Pika!</b>
+
+660
+00:53:15,990 --> 00:53:19,480
+<b>You'll never defeat me</b>
+<b>with that sword!</b>
+
+661
+00:53:24,160 --> 00:53:25,260
+<b>Ew!</b>
+
+662
+00:53:25,360 --> 00:53:26,800
+<b>Keldeo, no!</b>
+
+663
+00:53:43,920 --> 00:53:45,410
+<b>- Keldeo...</b>
+<b>- Pika, Pika.</b>
+
+664
+00:54:04,440 --> 00:54:05,900
+<b>- Axew!</b>
+<b>- ls that it?</b>
+
+665
+00:54:24,190 --> 00:54:25,190
+<b>Kyurem!</b>
+
+666
+00:54:25,290 --> 00:54:26,620
+<b>- That's enough!</b>
+<b>- Pika, Pika!</b>
+
+667
+00:54:30,000 --> 00:54:31,080
+<b>Quick, Pikachu, Thunderbolt!</b>
+
+668
+00:54:31,530 --> 00:54:33,770
+<b>Pika.</b>
+
+669
+00:54:43,310 --> 00:54:44,310
+<b>This battle...</b>
+
+670
+00:54:45,640 --> 00:54:46,640
+<b>is far...</b>
+
+671
+00:54:47,450 --> 00:54:49,350
+<b>...from over!</b>
+
+672
+00:55:37,700 --> 00:55:38,750
+<b>The Swords of Justice!</b>
+
+673
+00:55:38,860 --> 00:55:39,860
+<b>- Yes!</b>
+<b>- Ew!</b>
+
+674
+00:55:40,730 --> 00:55:42,360
+<b>Ash, you have our gratitude!</b>
+
+675
+00:55:43,740 --> 00:55:45,290
+<b>How do you know my name?</b>
+
+676
+00:55:45,400 --> 00:55:47,240
+<b>We heard you through the ice...</b>
+
+677
+00:55:47,340 --> 00:55:49,670
+<b>Thank you for saving Keldeo!</b>
+
+678
+00:55:56,680 --> 00:55:57,880
+<b>Ash: Pignite, Boldore, thanks!</b>
+
+679
+00:56:09,230 --> 00:56:10,230
+<b>Pika.</b>
+
+680
+00:56:17,440 --> 00:56:18,440
+<b>Keldeo...</b>
+
+681
+00:56:19,000 --> 00:56:20,639
+<b>lt can't take any more!</b>
+
+682
+00:56:20,640 --> 00:56:21,669
+<b>I know...</b>
+
+683
+00:56:21,670 --> 00:56:23,339
+<b>Please, you've gotta stop this!</b>
+
+684
+00:56:23,340 --> 00:56:24,909
+<b>lt's not our battle.</b>
+
+685
+00:56:24,910 --> 00:56:26,209
+<b>lt's Keldeo's!</b>
+
+686
+00:56:26,210 --> 00:56:28,270
+<b>Only Keldeo can end this!</b>
+
+687
+00:56:30,720 --> 00:56:31,720
+<b>- Ew!</b>
+<b>- Pika!</b>
+
+688
+00:56:40,260 --> 00:56:42,490
+<b>Never take your</b>
+<b>eyes off your opponent.</b>
+
+689
+00:56:42,590 --> 00:56:45,150
+<b>Keep up your concentration</b>
+<b>until the very end.</b>
+
+690
+00:56:49,840 --> 00:56:51,460
+<b>Fear is your greatest enemy.</b>
+
+691
+00:56:51,840 --> 00:56:54,270
+<b>You must conquer the fear that lives in</b>
+<b>your heart.</b>
+
+692
+00:57:06,150 --> 00:57:09,180
+<b>lt is what you learn from defeat</b>
+<b>that is truly important.</b>
+
+693
+00:57:16,560 --> 00:57:17,590
+<b>Pika.</b>
+
+694
+00:57:17,700 --> 00:57:19,220
+<b>Keldeo!</b>
+
+695
+00:57:55,470 --> 00:57:56,760
+<b>Keldeo is battling well!</b>
+
+696
+00:57:57,670 --> 00:58:00,300
+<b>Now if it can only use</b>
+<b>its sword...</b>
+
+697
+00:58:00,770 --> 00:58:02,400
+<b>- Way to go, Keldeo!</b>
+<b>- Pikachu!</b>
+
+698
+00:58:03,910 --> 00:58:05,400
+<b>Ash! Pikachu!</b>
+
+699
+00:58:07,650 --> 00:58:08,770
+<b>Ew!</b>
+
+700
+00:58:42,150 --> 00:58:43,340
+<b>Wait!</b>
+
+701
+00:59:12,810 --> 00:59:13,810
+<b>- ls that...</b>
+<b>- Yes!</b>
+
+702
+00:59:14,880 --> 00:59:16,070
+<b>Secret Sword!</b>
+
+703
+00:59:20,920 --> 00:59:22,220
+<b>I can still battle!</b>
+
+704
+00:59:23,860 --> 00:59:25,450
+<b>- Do it, Keldeo!</b>
+<b>- Pika.</b>
+
+705
+00:59:43,940 --> 00:59:45,240
+<b>- All right!</b>
+<b>- Ew, Ew!</b>
+
+706
+00:59:45,840 --> 00:59:48,140
+<b>Now that's a taste</b>
+<b>of real power!</b>
+
+707
+00:59:48,250 --> 00:59:49,840
+<b>Keldeo can do this!</b>
+
+708
+01:00:00,460 --> 01:00:01,790
+<b>- lt's blocking it!</b>
+<b>- Pikachu.</b>
+
+709
+01:00:15,840 --> 01:00:17,470
+<b>I was waiting for this...</b>
+
+710
+01:00:18,440 --> 01:00:20,500
+<b>your true power!</b>
+
+711
+01:00:28,750 --> 01:00:30,720
+<b>Because you found</b>
+<b>your true power,</b>
+
+712
+01:00:31,320 --> 01:00:33,290
+<b>this is now a real battle!</b>
+
+713
+01:01:23,440 --> 01:01:24,440
+<b>Ew? Axew?</b>
+
+714
+01:01:25,410 --> 01:01:26,970
+<b>Axew!</b>
+
+715
+01:01:58,910 --> 01:01:59,910
+<b>You win.</b>
+
+716
+01:02:01,050 --> 01:02:02,170
+<b>I yield...</b>
+
+717
+01:02:16,530 --> 01:02:17,830
+<b>Rather than pursue victory,</b>
+
+718
+01:02:20,170 --> 01:02:22,570
+<b>you protected your friends...</b>
+
+719
+01:02:25,400 --> 01:02:28,270
+<b>You have a fine sword.</b>
+
+720
+01:02:30,140 --> 01:02:31,230
+<b>Kyurem!</b>
+
+721
+01:02:49,590 --> 01:02:50,860
+<b>Ash: Keldeo!</b>
+
+722
+01:02:50,960 --> 01:02:52,280
+<b>That was a totally</b>
+<b>amazing battle!</b>
+
+723
+01:02:53,500 --> 01:02:54,860
+<b>Pika, Pika.</b>
+
+724
+01:02:54,970 --> 01:02:55,970
+<b>And look at that!</b>
+
+725
+01:02:56,070 --> 01:02:57,690
+<b>- Your horn grew back!</b>
+<b>- Axew!</b>
+
+726
+01:02:57,940 --> 01:03:01,370
+<b>Now you understand the true</b>
+<b>weight of the sword...</b>
+
+727
+01:03:03,140 --> 01:03:04,770
+<b>- Ew!</b>
+<b>- Pika, Pika.</b>
+
+728
+01:03:07,510 --> 01:03:08,770
+<b>Right!</b>
+
+729
+01:03:24,100 --> 01:03:25,560
+<b>Climb aboard!</b>
+
+730
+01:03:39,040 --> 01:03:40,640
+<b>Pikachu!</b>
+
+731
+01:03:44,080 --> 01:03:45,280
+<b>Keldeo: I'll go on ahead!</b>
+
+732
+01:04:19,420 --> 01:04:22,050
+<b>lt's like a castle</b>
+<b>made out of ice!</b>
+
+733
+01:04:22,720 --> 01:04:24,350
+<b>lt looks kinda cold, though...</b>
+
+734
+01:04:24,660 --> 01:04:26,560
+<b>- I hate the cold!</b>
+<b>- Axew!</b>
+
+735
+01:04:47,250 --> 01:04:48,540
+<b>Cobalion: Keldeo!</b>
+
+736
+01:04:48,650 --> 01:04:50,940
+<b>You're now a true</b>
+<b>Sword of Justice!</b>
+
+737
+01:04:51,220 --> 01:04:52,510
+<b>I am in agreement!</b>
+
+738
+01:04:53,120 --> 01:04:55,149
+<b>Let's work hard together</b>
+<b>from now on!</b>
+
+739
+01:04:55,150 --> 01:04:56,189
+<b>Sure!</b>
+
+740
+01:04:56,190 --> 01:04:58,160
+<b>- You did it, Keldeo!</b>
+<b>- Pika, Pika.</b>
+
+741
+01:04:58,820 --> 01:05:00,120
+<b>- That's great!</b>
+<b>- Axew, Ew!</b>
+
+742
+01:05:00,590 --> 01:05:02,890
+<b>lt's a joy to offer</b>
+<b>my congratulations!</b>
+
+743
+01:05:03,400 --> 01:05:04,599
+<b>Thanks!</b>
+
+744
+01:05:04,600 --> 01:05:06,159
+<b>I owe it all to you!</b>
+
+745
+01:05:06,160 --> 01:05:09,399
+<b>I think it's time for</b>
+<b>the Sword of Justice oath,</b>
+
+746
+01:05:09,400 --> 01:05:12,099
+<b>and I'd like Ash and his friends</b>
+<b>to be our witnesses!</b>
+
+747
+01:05:12,100 --> 01:05:13,800
+<b>- You bet!</b>
+<b>- Pikachu.</b>
+
+748
+01:05:20,810 --> 01:05:22,110
+<b>Look at Keldeo now!</b>
+
+749
+01:05:23,250 --> 01:05:25,610
+<b>That's Keldeo's Resolute Form!</b>
+
+750
+01:05:50,010 --> 01:05:52,310
+<b>Axew, Ew!</b>
+
+751
+01:05:56,510 --> 01:05:58,140
+<b>Greater than one is two!</b>
+
+752
+01:05:58,950 --> 01:06:00,580
+<b>Greater than two is three!</b>
+
+753
+01:06:01,450 --> 01:06:03,080
+<b>Greater than three is four!</b>
+
+754
+01:06:03,890 --> 01:06:06,860
+<b>When the strength of friends</b>
+<b>is combined into one...</b>
+
+755
+01:06:07,630 --> 01:06:09,820
+<b>all: then true power</b>
+<b>and courage are created!</b>
+
+756
+01:06:52,770 --> 01:06:54,740
+<b>♪ Be brave be strong ♪</b>
+
+757
+01:06:55,540 --> 01:06:57,010
+<b>♪ Be honest ♪</b>
+
+758
+01:06:58,680 --> 01:07:00,010
+<b>♪ And to yourself ♪</b>
+
+759
+01:07:01,480 --> 01:07:02,780
+<b>♪ Be true ♪</b>
+
+760
+01:07:04,720 --> 01:07:06,340
+<b>♪ And with your friends ♪</b>
+
+761
+01:07:07,520 --> 01:07:08,820
+<b>♪ Beside you ♪</b>
+
+762
+01:07:09,550 --> 01:07:11,850
+<b>♪ You'll know what to do ♪</b>
+
+763
+01:07:17,700 --> 01:07:19,490
+<b>♪ There's a time in everyone's life ♪</b>
+
+764
+01:07:19,600 --> 01:07:20,930
+<b>♪ When it's hard to know ♪</b>
+
+765
+01:07:21,030 --> 01:07:22,430
+<b>♪ What's wrong or right ♪</b>
+
+766
+01:07:22,530 --> 01:07:24,500
+<b>♪ What should you do ♪</b>
+
+767
+01:07:28,440 --> 01:07:30,809
+<b>♪ Maybe just turn and walk away ♪</b>
+
+768
+01:07:30,810 --> 01:07:33,780
+<b>♪ Or somehow find the strength to stay ♪</b>
+
+769
+01:07:33,980 --> 01:07:35,610
+<b>♪ Only you alone ♪</b>
+
+770
+01:07:36,380 --> 01:07:38,350
+<b>♪ Can find your way ♪</b>
+
+771
+01:07:39,780 --> 01:07:41,340
+<b>♪ ln the cold of night ♪</b>
+
+772
+01:07:42,090 --> 01:07:44,050
+<b>♪ Or your darkest hour ♪</b>
+
+773
+01:07:45,260 --> 01:07:47,220
+<b>♪ Listen to your heart ♪</b>
+
+774
+01:07:47,760 --> 01:07:50,060
+<b>♪ 'Cause you've got the power ♪</b>
+
+775
+01:07:51,800 --> 01:07:53,760
+<b>♪ Be brave be strong ♪</b>
+
+776
+01:07:54,630 --> 01:07:55,930
+<b>♪ Be honest ♪</b>
+
+777
+01:07:57,300 --> 01:07:59,600
+<b>♪ And to yourself be true ♪</b>
+
+778
+01:08:02,940 --> 01:08:04,570
+<b>♪ And with your friends ♪</b>
+
+779
+01:08:05,680 --> 01:08:06,970
+<b>♪ Beside you ♪</b>
+
+780
+01:08:07,550 --> 01:08:09,840
+<b>♪ You'll know what to do ♪</b>
+
+781
+01:08:12,420 --> 01:08:14,720
+<b>♪ lt's all inside of you ♪</b>
+
+782
+01:08:18,090 --> 01:08:20,589
+<b>♪ When you're out there all alone ♪</b>
+
+783
+01:08:20,590 --> 01:08:23,229
+<b>♪ Feeling scared of the great unknown ♪</b>
+
+784
+01:08:23,230 --> 01:08:25,200
+<b>♪ But you will survive ♪</b>
+
+785
+01:08:25,760 --> 01:08:27,390
+<b>♪ You will survive ♪</b>
+
+786
+01:08:29,430 --> 01:08:30,469
+<b>♪ Have the faith ♪</b>
+
+787
+01:08:30,470 --> 01:08:31,869
+<b>♪ Do what's right ♪</b>
+
+788
+01:08:31,870 --> 01:08:34,469
+<b>♪ Just believe and never lose sight ♪</b>
+
+789
+01:08:34,470 --> 01:08:36,100
+<b>♪ Of your destiny ♪</b>
+
+790
+01:08:37,080 --> 01:08:39,040
+<b>♪ You won't be denied ♪</b>
+
+791
+01:08:40,350 --> 01:08:42,509
+<b>♪ ln the cold of night ♪</b>
+
+792
+01:08:42,510 --> 01:08:44,480
+<b>♪ Or your darkest hour ♪</b>
+
+793
+01:08:45,880 --> 01:08:47,850
+<b>♪ Listen to your heart ♪</b>
+
+794
+01:08:48,390 --> 01:08:50,680
+<b>♪ 'Cause you've got the power ♪</b>
+
+795
+01:08:52,460 --> 01:08:54,430
+<b>♪ Be brave be strong ♪</b>
+
+796
+01:08:55,090 --> 01:08:56,390
+<b>♪ Be honest ♪</b>
+
+797
+01:08:57,960 --> 01:09:00,260
+<b>♪ And to yourself be true ♪</b>
+
+798
+01:09:03,670 --> 01:09:05,140
+<b>♪ And with your friends ♪</b>
+
+799
+01:09:06,370 --> 01:09:07,670
+<b>♪ Beside you ♪</b>
+
+800
+01:09:08,210 --> 01:09:10,500
+<b>♪ You'll know what to do ♪</b>
+
+801
+01:09:13,140 --> 01:09:15,440
+<b>♪ lt's all inside of you ♪</b>
+
+802
+01:09:18,450 --> 01:09:20,080
+<b>♪ So stand tall ♪</b>
+
+803
+01:09:21,220 --> 01:09:23,819
+<b>♪ You can make a difference ♪</b>
+
+804
+01:09:23,820 --> 01:09:26,120
+<b>♪ When you hear the call ♪</b>
+
+805
+01:09:26,790 --> 01:09:29,090
+<b>♪ lt's your chance to shine ♪</b>
+
+806
+01:09:29,730 --> 01:09:31,350
+<b>♪ Give your all ♪</b>
+
+807
+01:09:32,460 --> 01:09:34,430
+<b>♪ And don't resist it ♪</b>
+
+808
+01:09:35,400 --> 01:09:37,370
+<b>♪ This is your moment ♪</b>
+
+809
+01:09:38,470 --> 01:09:40,440
+<b>♪ This is your time ♪</b>
+
+810
+01:10:03,230 --> 01:10:05,200
+<b>♪ Be brave be strong ♪</b>
+
+811
+01:10:05,700 --> 01:10:06,990
+<b>♪ Be honest ♪</b>
+
+812
+01:10:08,630 --> 01:10:10,930
+<b>♪ And to yourself be true ♪</b>
+
+813
+01:10:14,370 --> 01:10:16,000
+<b>♪ And with your friends ♪</b>
+
+814
+01:10:17,040 --> 01:10:18,340
+<b>♪ Beside you ♪</b>
+
+815
+01:10:18,880 --> 01:10:21,170
+<b>♪ You'll know what to do ♪</b>
+
+816
+01:10:25,820 --> 01:10:27,790
+<b>♪ Be brave be strong ♪</b>
+
+817
+01:10:28,420 --> 01:10:29,720
+<b>♪ Be honest ♪</b>
+
+818
+01:10:31,290 --> 01:10:33,590
+<b>♪ And to yourself be true ♪</b>
+
+819
+01:10:36,930 --> 01:10:38,400
+<b>♪ And with your friends ♪</b>
+
+820
+01:10:39,700 --> 01:10:41,529
+<b>♪ Beside you ♪</b>
+
+821
+01:10:41,530 --> 01:10:43,830
+<b>♪ You'll know what to do ♪</b>
+
+822
+01:10:46,370 --> 01:10:48,670
+<b>♪ lt's all inside of you ♪</b>
+
+823
+01:10:52,640 --> 01:10:54,940
+<b>♪ lt's all inside of you ♪</b>
+
+824
+01:11:03,550 --> 01:11:05,850
+<b>♪ lt's all inside of you ♪</b>
+
+825
+01:11:09,160 --> 01:11:11,630
+<b>♪ lt's all inside of you ♪♪</b>
+

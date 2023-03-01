@@ -1,0 +1,1329 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+
+
+    
+  
+  
+  <title>Changelog</title>
+</head>
+
+
+<body>
+
+
+<span style="font-weight: bold;">[1.3.5]<br />
+
+
+
+</span>
+<ul>
+
+  <li>Fixed an INI bug breaking Skin / Theme compatibility.</li>
+
+</ul>
+
+<span style="font-weight: bold;">[1.3.4]<br />
+
+
+
+</span>
+<ul>
+
+
+  <li>Fixed string allocation issues that were causing Runtime Errors on Vista with certain badware scanners.</li>
+
+
+  <li>Fixed a couple of string buffer memory leaks.</li>
+
+
+</ul>
+
+
+
+<span style="font-weight: bold;"></span><span style="font-weight: bold;">[1.3.3]<br />
+
+
+
+</span>
+<ul>
+
+
+
+  <li>Fixed BSOD and random crashes caused by an out-of-date compiler.</li>
+
+
+
+</ul>
+
+
+
+<span style="font-weight: bold;">[1.3.2]<br />
+
+
+
+</span>
+<ul>
+
+
+
+  <li>Fixed garbled INI files being created on Win2k</li>
+
+
+
+  <li>Fixed Arguments not being evaluated for Environment Variables</li>
+
+
+
+  <li>Fixed buffer overflow in the asyncronous ShellExecute code...
+This should fix crashing when dragging large amounts of files into the
+dock.</li>
+
+
+
+  <li>Fixed incorrect centering when on the Left or Right side of the monitor</li>
+
+
+
+  <li>Fixed stuck skins when booting in Vista</li>
+
+
+
+  <li>Fixed a thread handle being closed twice when launching icons, this was throwing an exception</li>
+
+
+
+  <li>Fixed Docklet bug that was "freezing" the dock with the iCal docklet</li>
+
+
+
+  <li>Fixed Docklet bug that was preventing docklets from showing the default Icon Settings window</li>
+
+
+
+  <li>Fixed Docklets losing their character encoding when converting to and from Unicode (hopefully)</li>
+
+
+
+  <li>Fixed "Open Running" being&nbsp;enabled for docklet settings</li>
+
+
+
+  <li>Fixed some windows having a problem being restored from "Open Running Instance"</li>
+
+
+
+  <li>Fixed fonts being improperly clipped</li>
+
+
+
+  <li>Changed the two "load defaults?" dialogs to be "yes/no" instead of "ok/cancel"</li>
+
+
+
+  <li>Added some usefull info to generated debug files</li>
+
+
+
+  <li>Updated the CC license to 3.0</li>
+
+
+
+</ul>
+
+
+
+<span style="font-weight: bold;">[1.3.1]</span><br />
+
+
+<span style="font-weight: bold;">
+</span>
+<ul>
+
+
+
+  <li>Improved Running Indicators to be more efficient and not require a timer</li>
+
+
+
+  <li>Added a new "Warnings" tab in Dock Settings that will appear if known and solvable problems exist</li>
+
+
+
+  <li>Added "Debug.exe" to assist in debugging Mods (and for our
+internal use in debugging RD). &nbsp;It also will show the contents of
+any generated "Debug Info" files for our more paranoid users.</li>
+
+
+
+  <li>Moved "LanguageID Finder.exe" to the Tools directory.</li>
+
+
+
+  <li>Changed docklet handling of OnConfigure() and other events so
+that docklets now have a normal right-click menu. &nbsp;"Icon Settings"
+will configure the docklet</li>
+
+
+
+  <li>Fixed problem where docklets (iCal) could change&nbsp;the Current Directory and cause problems</li>
+
+
+
+  <li>Changed the "hot" area of the dock to only extended to the edge
+of your monitor if any of the following are true: AutoHide is enabled,
+Popup on Mouseover is enabled, or the Edge Offset is greater than zero</li>
+
+
+
+  <li>Changed to better clean up "ghost" settings from deleted icons/filters</li>
+
+
+
+  <li>Added TinyCC as an embedded compiler for our upcomming "Mod" system</li>
+
+
+
+  <li>Fixed minor defect in detecting the mouse being in/out of the dock</li>
+
+
+
+  <li>Fixed Vista problems with RocketDock.dll and RocketClock.dll using the wrong Code Generation type</li>
+
+
+
+  <li>Changed Popup on Mouseover to only steal focus in "Normal" layering mode</li>
+
+
+
+  <li>Added per-icon "Open Running Applicaiton Instance" options</li>
+
+
+
+  <li>Changed "Find Target" into a&nbsp;"..." button</li>
+
+
+
+  <li>Fixed OD Docklet bug that would crash docklets that browsed for icons durring OnCreate()</li>
+
+
+
+  <li>Fixed RocketDock.dll crashing on Vista</li>
+
+
+
+  <li>Fixed AutoHide+Minimize jumping</li>
+
+
+
+  <li>Fixed crashing when restoring multiple windows (by unchecking "Minimize Windows to the Dock")</li>
+
+
+
+  <li>Fixed visual glitches when minimizing windows</li>
+
+
+
+  <li>Added Window Filtering (hold Control+Alt+Shift when minimizing to create/delete filters)</li>
+
+
+
+  <li>Rewrote thread synchronization.</li>
+
+
+
+  <li>Added "Disable Minimize Animations" option</li>
+
+
+
+  <li>Fixed OD Docklet API&nbsp;&nbsp;DockletGetLabel(). &nbsp;It now returns the char count</li>
+
+
+
+  <li>Fixed ini quote limitation</li>
+
+
+
+  <li>Added a "Debug Info" button to save usefull bug report information</li>
+
+
+
+  <li>Fixed&nbsp;Calendar Docklet images being cut off or scaled incorrectly</li>
+
+
+
+  <li>Fixed Flickering/Popping Down after a display change (or playing a game)</li>
+
+
+
+  <li>Fixed random crashing when right-clicking on icons</li>
+
+
+
+  <li>Fixed Volume Docklet "popup menu" bug</li>
+
+
+
+  <li>Fixed problem with some TrueType fonts displaying improperly</li>
+
+
+
+  <li>Fixed crashing on 1-bit icons by not reading&nbsp;them with Gdiplus (which apparently can't handle them)</li>
+
+
+
+  <li>Fixed skin appearing in upper-left momentarily on startup</li>
+
+
+
+  <li>Updated the installer</li>
+
+
+
+  <li>Many tiny internal changes</li>
+
+
+
+</ul>
+
+
+<span style="font-weight: bold;"><br />
+
+
+[1.3.0]<br />
+
+
+
+</span>
+<ul>
+
+
+
+  <li>Added "Minimize windows to Dock" (with realtime previews under Vista with Desktop Composition enabled)</li>
+
+
+
+  <li>Added ability to store all settings in "Settings.ini" (for portability)</li>
+
+
+
+  <li>Added Icon Activation FX options</li>
+
+
+
+  <li>Added Hover Effect option</li>
+
+
+
+  <li>Added Icon Opacity option</li>
+
+
+
+  <li>Added Zoom Opaque option (Fades Icon Opacity to 100% when zooming)</li>
+
+
+
+  <li>Added Zoom "Plateau" mode (like "Bubble" only flat at the peak)</li>
+
+
+
+  <li>Added the ability to set a negative Edget Offset (down to -15px)</li>
+
+
+
+  <li>Added Popup on Mouseover Delay option</li>
+
+
+
+  <li>Added&nbsp;Behavior Settings area</li>
+
+
+
+  <li>Added ability to have multiple custom icon folders</li>
+
+
+
+  <li>Added ability to browse executable files as "folders" for icon resources</li>
+
+
+
+  <li>Added support for Vista icon resources</li>
+
+
+
+  <li>Improved Icon Transitions</li>
+
+
+
+  <li>Added "Running Task Indicators"</li>
+
+
+
+  <li>Added "Open Existing Application Instance"</li>
+
+
+
+  <li>Added a simple Clock Docklet</li>
+
+
+
+  <li>Changed Recycle Bin Icons to have 2 states</li>
+
+
+
+  <li>Added a hot key to toggle RocketDock visibility (CTRL+ALT+R)</li>
+
+
+
+  <li>Fixed multi-monitor issue with RD forgetting your setting when connecting/disconnecting monitors (or using Remote Desktop).</li>
+
+
+
+  <li>Fixed Icons adding to the end of the dock.</li>
+
+
+
+  <li>Fixed many window layering issues (Icons and Labels)</li>
+
+
+
+  <li>Fixed Vista UAC awareness issue</li>
+
+
+
+  <li>Icons now maintain image size ratio</li>
+
+
+
+  <li>Improved icon resource support</li>
+
+
+
+  <li>Fixed Thread/Handle leak</li>
+
+
+
+  <li>Fixed Icon Settings crashing in the System32 directory</li>
+
+
+
+  <li>Fixed icons being reloaded when canceling the Dock Settings window</li>
+
+
+
+  <li>Lock Icons now prevents you from dragging in new icons, but allows you to drag onto other icons.</li>
+
+
+
+  <li>Fixed Docklets forgetting their icon image</li>
+
+
+
+  <li>Fixed special shortcuts loading incorrectly (My Computer, iTunes, Office)</li>
+
+
+
+  <li>Fixed Icon / Separator shifting glitch affecting "pixel-perfect" skins</li>
+
+
+
+  <li>Changed Separator spacing to 1/2 that of a normal&nbsp;icon.</li>
+
+
+
+  <li>Fixed random Icons not sliding (usually after pressing cancel in the Dock Settings window)</li>
+
+
+
+  <li>Fixed AutoHide working while in&nbsp;Settings windows.</li>
+
+
+
+  <li>Fixed crashing when right-clicking on the context menu. &nbsp;Right clicking is now functional as well.</li>
+
+
+
+  <li>Fixed relative paths not executing properly.</li>
+
+
+
+  <li>Ported hooks to C++ and merged into a single dll (RocketDock.dll)</li>
+
+
+
+  <li>Added German and French documentation</li>
+
+
+
+  <li>Optimized bubble algo and label rendering...</li>
+
+
+
+  <li>Minor bug fixes that I can't remember :)</li>
+
+
+
+</ul>
+
+
+
+<span style="font-weight: bold;">[1.2.5]</span><br />
+
+
+<ul>
+
+
+
+  <li>Complete rewrite of&nbsp;rendering code</li>
+
+
+
+  <li>Improved performance on systems with&nbsp;newer video cards. &nbsp;Older systems will vary in performance</li>
+
+
+
+  <li>Icons now slide and transition smoothly like the OS X dock</li>
+
+
+
+  <li>Icons and docklets now&nbsp;bounce when launching or getting your attention</li>
+
+
+
+  <li>Icons now do a "poof" animation while deleting</li>
+
+
+
+  <li>Icons now are solid so you cannot "click through" transparent areas by mistake</li>
+
+
+
+  <li>Added support for RK Launcher skins</li>
+
+
+
+  <li>Improved support for skins that use tiling (in various formats)</li>
+
+
+
+  <li>Better ObjectDock Docklet SDK support</li>
+
+
+
+  <li>Popup on Mouseover no longer interrupts&nbsp;fullscreen applicaitons</li>
+
+
+
+  <li>Drag 'n Drop from the Start Menu now works</li>
+
+
+
+  <li>Dropping files/folders onto folders in the dock now performs a copy operation</li>
+
+
+
+  <li>Dropping files/folders onto any ReycleBin icon will now act properly</li>
+
+
+
+  <li>Dropping files/folders onto programs on the dock now launches the
+program with the dropped file as an argument (much like&nbsp;explorer)</li>
+
+
+
+  <li>Added a new error catching system to ensure that RocketDock loads
+properly. &nbsp;If it has a problem loading it will now ask you if it should revert to defaults</li>
+
+
+
+  <li>Redesigned zoom algorithm to solve visual glitches and to support new effects</li>
+
+
+
+  <li>Massive restructuring and organization of the entire project</li>
+
+
+
+  <li>Simplified and (hopefully) fixed thread syncronization...</li>
+
+
+
+  <li>Added "Update" menu item when&nbsp;right-clicking on the dock</li>
+
+
+
+  <li>Popup on Mousover now works when using "Always on Top" layering</li>
+
+
+
+  <li>New option to treat all your monitors as a single large one</li>
+
+
+
+  <li>Fixed a nasty bug where RocketDock would crash while loading</li>
+
+
+
+  <li>Fixed separators vanishing durring drag operations</li>
+
+
+
+  <li>Fixed unnecessary saving when items are locked and you try to drag one</li>
+
+
+
+  <li>Fixed Icon Labels appearing under the dock skin</li>
+
+
+
+  <li>Removed Screenshot capabilities due to the new rendering system. &nbsp;This may return in a future version</li>
+
+
+
+  <li>Settings are now stored in HKEY_CURRENT_USER\\Software\\RocketDock</li>
+
+
+
+  <li>Removed Monitor clipping due to the new rendering code...</li>
+
+
+
+</ul>
+
+
+<p><strong>[1.2.0] </strong> </p>
+
+
+<ul>
+
+
+
+  <li>Added WindowsXP Icon (ICO) support</li>
+
+
+
+  <li>Improved EXE/DLL Icon&nbsp;Resource  Support</li>
+
+
+
+  <li>Added full documentation </li>
+
+
+
+  <li>All New Icons and 14 New Skins by ZaK (<a href="http://zakar.deviantart.com/">zakar.deviantart.com</a>)</li>
+
+
+
+  <li>2 New Skins by dlb (<a href="http://www.crystalxp.net/">www.crystalxp.net</a>)</li>
+
+
+
+  <li>Added "Zoom Flat" effect for zooming icons without a bubble</li>
+
+
+
+  <li>Added "Edge Offset" for positioning the dock
+perpendicular to the edge of your screen ("Offset" is now known as "Centering")</li>
+
+
+
+  <li>Added "Add Item-&gt;Blank Icon" for convenience when
+adding icons manually (like a website URI)</li>
+
+
+
+  <li>Changed "Hide Icon Labels" to have a realtime preview</li>
+
+
+
+  <li>Improved "Change Folder" option so that "Icons\" remains
+available...</li>
+
+
+
+  <li>Uninstaller now removes the&nbsp;RocketDock folder in the Start Menu</li>
+
+
+
+  <li>Fixed a nasty MouseHook.dll handle leak (and renamed to MouseHook2.dll to prevent conflicts)</li>
+
+
+
+  <li>Fixed a leak in the Icon Settings "Icons" SysListView32 control</li>
+
+
+
+  <li>Fixed a&nbsp;leak in the Icon Settings "Preview" Static control</li>
+
+
+
+  <li>Fixed 6 tiny handle leaks throughout RocketDock in random directory listing code...</li>
+
+
+
+  <li>Fixed "Default Icon" button not working on most items</li>
+
+
+
+  <li>Fixed "Add Item" not appearing when right-clicking on the
+dock skin (not selecting an icon)</li>
+
+
+
+  <li>Fixed "Popup on Mouseover" flickering when in "Normal"
+Layering mode</li>
+
+
+
+  <li>Fixed dock locking up using AutoHide+PopupOnMouseover and
+dragging an icon out</li>
+
+
+
+  <li>Fixed RocketDock animating under the mouse when covered by
+another window</li>
+
+
+
+  <li>Fixed Mouseover Activation only working when cursor was in
+Trigger Area... Now it just needs to be over the dock (or the Trigger
+Area if blocked by a window)</li>
+
+
+
+  <li>Fixed Settings window getting hidden in Always on Bottom
+and Normal layering modes (especially with "Popup on Mouseover" enabled)</li>
+
+
+
+</ul>
+
+
+<p><strong>[1.1.3] </strong> </p>
+
+
+<ul>
+
+
+
+  <li> Fixed major ThreadSync bug causing docklets to fail
+updating </li>
+
+
+
+  <li> Fixed incorrect implimentation of ObjectDocklet SDK
+GetPath functions </li>
+
+
+
+  <li> Fixed bug causing iTunes docklet to not update the song
+title </li>
+
+
+
+  <li> Fixed bug where docklet labels wouldn't update if you kept
+your mouse over them </li>
+
+
+
+  <li> Rewrote some code to avoid a layered window / DirectShow
+bug that was causing blank screens in some media software </li>
+
+
+
+  <li> Removed Separator on "Add Item" popup menu when there are
+no Docklets</li>
+
+
+
+</ul>
+
+
+<p><strong>[1.1.2] </strong> </p>
+
+
+<ul>
+
+
+
+  <li> Added option to use UberIcon effects as the 'attention'
+animation </li>
+
+
+
+  <li> Added basic support for ObjectDock Docklets.&nbsp;
+Drag 'n Drop is still not supported </li>
+
+
+
+  <li> Added real-time preview for the Icon
+Settings&nbsp;image selector </li>
+
+
+
+  <li> Added more AutoHide options </li>
+
+
+
+  <li> Control+Drag can now move locked Icons </li>
+
+
+
+  <li> Optimized DragIcon rendering </li>
+
+
+
+  <li> Optimized auto-saving when Icons are dragged </li>
+
+
+
+  <li> Improved ObjectDock skin loading </li>
+
+
+
+  <li> Converted all Astro and Proto skins to the Mobydock format
+to keep them looking the same w/ the newly improved skin support </li>
+
+
+
+  <li> Disabled skin-rotation for all skins made for docks that
+don't support skin-rotation... This will make them appear more like
+they did in their original docks... </li>
+
+
+
+  <li> Removed some unneeded registry access </li>
+
+
+
+  <li> Removed Quit button from the Dock Settings window </li>
+
+
+
+  <li> Reorganized the popup menu </li>
+
+
+
+  <li> Moved Mouseover Activation option to the Position tab. </li>
+
+
+
+  <li> Fixed Mouseover Activation so that it works in Top,
+Normal, and Bottom zOrder modes </li>
+
+
+
+  <li> Fixed AutoRun path missing quotes (rarely causing a
+long-pathname problem) </li>
+
+
+
+  <li> Fixed Start In being left blank when a new file is dragged
+in... Start In now defaults to the Desktop when left blank (like
+desktop shortcuts do) </li>
+
+
+
+  <li> Fixed some settings not saving on shutdown </li>
+
+
+
+  <li> Fixed ghost&nbsp;label left behind after an autohide </li>
+
+
+
+  <li> Fixed dock not autohiding when first run and when closing
+options windows </li>
+
+
+
+  <li> Fixed a rare zoom timer bug that&nbsp;wasted
+precious&nbsp;cpu cycles </li>
+
+
+
+  <li> Fixed Theme Opacity allowing 0% (couldn't add
+icons&nbsp;/ other problems) </li>
+
+
+
+  <li> Fixed&nbsp;sticking Icons/Labels when using AutoHide </li>
+
+
+
+  <li> Fixed major Zoom related bugs </li>
+
+
+
+  <li> Fixed AutoHide oddities after closing option windows </li>
+
+
+
+  <li> Fixed minor oddity w/ AutoHide+Zoom while in option windows</li>
+
+
+
+</ul>
+
+
+<p>&nbsp;<strong>[1.1.1] </strong>
+</p>
+
+
+<ul>
+
+
+
+  <li> Updated Creative Commons license to the new version 2.5 </li>
+
+
+
+  <li> Fixed bug allowing RocketDock to run multiple times </li>
+
+
+
+  <li> Fixed Icon-Label centering bug</li>
+
+
+
+  <li>Newly Supported / Improved Languages:
+    
+    
+    <ul>
+
+
+
+  <li> Italian by LazyBoy </li>
+
+
+
+  <li> Norwegian by Ozzy1 </li>
+
+
+
+  <li> Spanish by Edmundo Alvarez </li>
+
+
+
+  <li> French by Alain Guignard</li>
+
+
+
+    
+    
+    </ul>
+
+
+  </li>
+
+
+
+</ul>
+
+
+<p><strong>[1.1.0]</strong>
+</p>
+
+
+<ul>
+
+
+
+  <li> Complete rewrite of core to be Unicode Compliant </li>
+
+
+
+  <li> Support for Multiple Languages added </li>
+
+
+
+  <li> RAM usage down from previous versions </li>
+
+
+
+  <li> Huge speed boost when using ThemeOpacity below 100% </li>
+
+
+
+  <li> Added "Always on Bottom" and "Normal" layering modes </li>
+
+
+
+  <li> Added real-time previewing of more settings and improved
+efficiency </li>
+
+
+
+  <li> Drasticly improved ObjectDock skin loading </li>
+
+
+
+  <li> Painstakingly redesigned all the Icons again... </li>
+
+
+
+  <li> All Icons are now free for commercial use and will soon be
+available at a new site: <a href="http://www.antiartist.com/">http://www.antiartist.com</a>
+. We hope this will help out a few people with great ideas, and no
+artistic skill (or money to buy some). Uggg, something in that foood
+didn't agree with us ;) </li>
+
+
+
+  <li> Added ability to duplicate Icons by holding
+Control+Dragging </li>
+
+
+
+  <li> Increased ZoomWidth range to allow up to "10" </li>
+
+
+
+  <li> Improved efficiency when dragging icons out of the dock </li>
+
+
+
+  <li> Added support for Environment Variables in Icon's Target
+and WorkingDirectory </li>
+
+
+
+  <li> Removed Dock automatically sizing down to fit the
+constraints of your monitor... There were too many problems w/ games
+changing resolution, and this feature is unnecessary </li>
+
+
+
+  <li> Fixed various bugs with settings being saved at the wrong
+times </li>
+
+
+
+  <li> Fixed Zoom Setting changing while editing Icon Size </li>
+
+
+
+  <li> Fixed gap remaining between icons when a new item was
+dragged in, and then out of the dock </li>
+
+
+
+  <li> Fixed Screenshot bug with hidden labels </li>
+
+
+
+  <li> Fixed z-ordering of icon labels </li>
+
+
+
+  <li> Fixed skin rendering when size is invalid </li>
+
+
+
+  <li> Fixed CPU draining after Auto-Hide option is turned off
+(until RD is restared) </li>
+
+
+
+  <li> Fixed Dock Settings window not properly centering </li>
+
+
+
+  <li> Fixed positioning bug when changing desktop resolution </li>
+
+
+
+  <li> Fixed Separator positioning when separator's width was
+equal to the space provided for it... (0 / 2 = random)...compiler bug? </li>
+
+
+
+  <li> Fixed Separator and DragIcon wasting some RAM with unused
+bitmaps </li>
+
+
+
+  <li> Fixed incorrect thread syncronization with the Icon
+Settings window </li>
+
+
+
+  <li> Fixed execution of special shell items (ie 'Startmenu \
+Run') </li>
+
+
+
+  <li> Fixed separator randomly appearing under newly dragged in
+items</li>
+
+
+
+  <li>Newly Supported Languages:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    <ul>
+
+
+
+  <li> Brazillian Portuguese by Flitz</li>
+
+
+
+  <li>Bulgarian by the_TAHK </li>
+
+
+
+  <li> Czech by FutureMillennium </li>
+
+
+
+  <li> Dutch by surfer </li>
+
+
+
+  <li> French by KrK </li>
+
+
+
+  <li> German by stenosis </li>
+
+
+
+  <li> Hebrew by Danimal3 </li>
+
+
+
+  <li> Japanese by keng0 </li>
+
+
+
+  <li> Russian by zhuchok </li>
+
+
+
+  <li> Swedish by P@itor </li>
+
+
+
+  <li> Traditional Chinese by Nelson</li>
+
+
+
+    
+    
+    </ul>
+
+
+  </li>
+
+
+
+</ul>
+
+
+<p><strong>[1.0.1]</strong> </p>
+
+
+<ul>
+
+
+
+  <li> Fixed CPU draining when moving the mouse </li>
+
+
+
+  <li> Fixed bug preventing real-time preview of some options </li>
+
+
+
+  <li> Fixed missing scrollbars on Icon Folder-View </li>
+
+
+
+  <li> Added AstroLife Skin </li>
+
+
+
+  <li> Replaced foood icons with ugly PSW icons</li>
+
+
+
+</ul>
+
+
+<p><strong>[1.0.0]</strong> </p>
+
+
+<ul>
+
+
+
+  <li> Added Auto-hide option </li>
+
+
+
+  <li> Added Auto-run option </li>
+
+
+
+  <li> Screenshots are now numbered as "Rocketdock-*num*.png" on
+the desktop</li>
+
+
+
+</ul>
+
+
+<p><strong>[0.9.5]</strong> </p>
+
+
+<ul>
+
+
+
+  <li> New Dock Settings window layout (Firefox-esque) </li>
+
+
+
+  <li> Fixed bug with relative icon paths... All icon paths are
+now fully qualified </li>
+
+
+
+  <li> Fixed bug with context menu displaying some items as
+hidden </li>
+
+
+
+  <li> Fixed bug with context menu handling invalid items</li>
+
+
+
+</ul>
+
+
+<strong>[0.9.4]</strong>
+<ul>
+
+
+
+  <li> Bug fix for Dock Settings Icon (That actually works) </li>
+
+
+
+  <li> Clears your settings</li>
+
+
+
+</ul>
+
+
+<strong>[0.9.3]</strong>
+<ul>
+
+
+
+  <li> Bug fix for Dock Settings Icon</li>
+
+
+
+</ul>
+
+
+<p><strong>[0.9.2]</strong> </p>
+
+
+<ul>
+
+
+
+  <li> Rewrote special item handling... "My Computer" type icons
+can now be dragged in </li>
+
+
+
+  <li> Rewrote Icon Loading </li>
+
+
+
+  <li> Improved Shortcut loading </li>
+
+
+
+  <li> Rewrote Icon Settings to be Shortcut-like</li>
+
+
+
+</ul>
+
+
+<strong>[0.9.1]</strong>
+<ul>
+
+
+
+  <li> Fixed Windows 2000 Compatibility issues </li>
+
+
+
+  <li> Now includes the redistributable Gdiplus library</li>
+
+
+
+</ul>
+
+
+<strong>[0.9.0]</strong> <br />
+
+
+<ul>
+
+
+
+  <li> First Beta Release :)</li>
+
+
+
+</ul>
+
+
+
+</body>
+</html>

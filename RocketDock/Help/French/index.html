@@ -1,0 +1,571 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
+	<TITLE>Documentation de RocketDock</TITLE>
+	<link rel="shortcut icon" href="../shared/Help.ico">
+	<link href="../shared/style.css" rel="stylesheet" type="text/css">
+	<META NAME="GENERATOR" CONTENT="OpenOffice.org 2.1  (Win32)">
+	<META NAME="CREATED" CONTENT="20070122;11050250">
+	<META NAME="CHANGED" CONTENT="20070128;14405856">
+	<!-- Main -->
+</HEAD>
+<BODY LANG="fr-FR" DIR="LTR">
+<iframe id="languages" src="../shared/languages.html"></iframe>
+<!-- Main --><img src="images/Snap1.jpg" alt="" title="" align="right">
+
+<H1>RocketDock Documentation</H1>
+<UL>
+	<LI><P STYLE="margin-bottom: 0cm"><A NAME="nav"></A><A HREF="#introduction">Introduction</A>
+		</P>
+	<OL>
+		<LI><P STYLE="margin-bottom: 0cm"><A HREF="#what-is-rocketdock">Qu'est-ce
+		que RocketDock ?</A> 
+		</P>
+	</OL>
+	<LI><P STYLE="margin-bottom: 0cm"><A HREF="#features">Fonctionnalit&eacute;s</A></P>
+	<LI><P STYLE="margin-bottom: 0cm"><A HREF="#system-requirements">Configuration
+	minimale requise</A></P>
+	<LI><P STYLE="margin-bottom: 0cm"><A HREF="#supported-languages">Langages
+	propos&eacute;s</A></P>
+	<LI><P STYLE="margin-bottom: 0cm"><A HREF="#managing-items">G&eacute;rer
+	les &eacute;l&eacute;ments du Dock</A></P>
+	<OL>
+		<LI><P STYLE="margin-bottom: 0cm"><A HREF="#adding-new-items">Ajouter
+		des &eacute;l&eacute;ments</A></P>
+	</OL>
+	<LI><P STYLE="margin-bottom: 0cm"><A HREF="#docklets">Les
+	&laquo;&nbsp;Docklets&nbsp;&raquo;</A></P>
+	<LI><P STYLE="margin-bottom: 0cm"><A HREF="#customizing-items">Modifier
+	un &eacute;l&eacute;ment</A></P>
+	<LI><P STYLE="margin-bottom: 0cm"><A HREF="#removing-items">Supprimer
+	un &eacute;l&eacute;ment</A></P>
+	<LI><P STYLE="margin-bottom: 0cm"><A HREF="#drag-n-drop">Drag 'n
+	Drop (Glisser-D&eacute;poser)</A></P>
+	<LI><P STYLE="margin-bottom: 0cm"><A HREF="#minimized-windows">Fen&ecirc;tres
+	r&eacute;duites dans le Dock</A></P>
+	<LI><P STYLE="margin-bottom: 0cm"><A HREF="#dock-settings">R&eacute;glages
+	de RocketDock</A></P>
+	<OL>
+		<LI><P STYLE="margin-bottom: 0cm"><A HREF="#settings-general">R&eacute;glages
+		globaux</A></P>
+	</OL>
+	<LI><P STYLE="margin-bottom: 0cm"><A HREF="#settings-icons">Ic&ocirc;nes</A></P>
+	<LI><P STYLE="margin-bottom: 0cm"><A HREF="#settings-position">Position</A>
+		</P>
+	<LI><P STYLE="margin-bottom: 0cm"><A HREF="#settings-style">Style</A>
+		</P>
+	<LI><P STYLE="margin-bottom: 0cm"><A HREF="#settings-behavior">Comportement</A>
+		</P>
+	<LI><P STYLE="margin-bottom: 0cm"><A HREF="#quick-access-to-options">Acc&egrave;s
+	rapide aux options</A> 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><A HREF="#settings-reset-options">Remettre
+	les options par d&eacute;faut</A> 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><A HREF="#hotkeys">Raccourcis
+	Claviers (Hot Keys)</A></P>
+	<OL>
+		<LI><P STYLE="margin-bottom: 0cm"><A HREF="#hotkeys-disable">D&eacute;sactiver
+		le dock</A></P>
+	</OL>
+	<LI><P STYLE="margin-bottom: 0cm"><A HREF="#finding-help-and-contributing">Trouver
+	de l'aide et aider</A></P>
+	<OL>
+		<LI><P STYLE="margin-bottom: 0cm"><A HREF="#more-help">O&ugrave;
+		trouver encore plus d'aide ?</A></P>
+	</OL>
+	<LI><P STYLE="margin-bottom: 0cm"><A HREF="#help-translate">Aider en
+	traduisant</A></P>
+	<LI><P STYLE="margin-bottom: 0cm"><A HREF="#spread-the-word">Parlez
+	de RocketDock autour de vous</A> 
+	</P>
+	<LI><P><A HREF="#our-shop">Passez faire un tour &agrave; la boutique
+	web</A></P>
+</UL>
+<H1 STYLE="margin-left: 0.53cm"><A NAME="introduction"></A><!-- End Section -->Introduction</H1>
+<H2 STYLE="margin-left: 0.53cm"><A NAME="what-is-rocketdock"></A>1.
+Qu'est-ce que RocketDock ?</H2>
+<P STYLE="margin-left: 1.06cm">Si vous avez d&eacute;j&agrave;
+regard&eacute; par dessus l'&eacute;paule de quelqu'un qui travaille
+sur un Mac, vous avez d&ucirc; remarquer cette jolie petite barre
+d'ic&ocirc;nes au bas de l'&eacute;cran, non ? Cette barre est un
+'dock'. Pour ceux qui n'auraient jamais vu cela, disons qu'un dock
+est une barre qui s'accroche au bord de votre &eacute;cran, avec une
+image de fond et tout un rang d'ic&ocirc;nes. La fonction d'un dock
+est de pr&eacute;senter des raccourcis vers vos applications et
+documents de fa&ccedil;on organis&eacute;e, en limitant
+l'encombrement de votre bureau.</P>
+<H2 STYLE="margin-left: 0.53cm"><A NAME="features"></A>2.
+Fonctionnalit&eacute;s</H2>
+<UL>
+	<LI><P STYLE="margin-bottom: 0cm">R&eacute;duire les fen&ecirc;tres
+	vers le dock 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm">Visualisation de miniatures en
+	temps r&eacute;el sur Windows Vista 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm">Indicateurs d'application en cours
+	d'ex&eacute;cution</P>
+	<LI><P STYLE="margin-bottom: 0cm">Utilisation simple par
+	glisser-d&eacute;poser</P>
+	<LI><P STYLE="margin-bottom: 0cm">Compatible avec les environnements
+	multi-moniteurs</P>
+	<LI><P STYLE="margin-bottom: 0cm">Peut utiliser les PNG transparents
+	et les ICO</P>
+	<LI><P STYLE="margin-bottom: 0cm">Zoom et transitions douces des
+	ic&ocirc;nes</P>
+	<LI><P STYLE="margin-bottom: 0cm">Masquage automatique</P>
+	<LI><P STYLE="margin-bottom: 0cm">Popup au survol de souris</P>
+	<LI><P STYLE="margin-bottom: 0cm">Options de positionnement et
+	d'apparence</P>
+	<LI><P STYLE="margin-bottom: 0cm">Enti&egrave;rement personnalisable</P>
+	<LI><P STYLE="margin-bottom: 0cm">Compatible avec les docklets pour
+	Objectdock 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm">Compatible avec les skins de
+	MobyDock, ObjectDock, RK Launcher, et Y'z Dock 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm">Marche bien sur les ordinateurs
+	peu puissants 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm">Support d'Unicode</P>
+	<LI><P>Traduit en nombreuses langues et facilement traduisible 
+	</P>
+</UL>
+<H2 STYLE="margin-left: 0.53cm"><A NAME="system-requirements"></A>3.
+Configuration minimale requise</H2>
+<UL>
+	<LI><P STYLE="margin-bottom: 0cm">Windows 2000/XP/Vista</P>
+	<LI><P STYLE="margin-bottom: 0cm">Processeur &agrave; 500MHz minimum</P>
+	<LI><P>10Mo de RAM libre</P>
+</UL>
+<H2 STYLE="margin-left: 0.53cm"><A NAME="supported-languages"></A>4.
+Langages propos&eacute;s</H2>
+<P STYLE="margin-left: 1.06cm">Afrikaans, albanais, arabe, bengali,
+br&eacute;silien, bulgare, catalan, chinois simplifi&eacute; et
+traditionnel, croate, tch&egrave;que, danois, n&eacute;erlandais,
+anglais, finnois, fran&ccedil;ais, galicien, g&eacute;orgien,
+allemand, grec, h&eacute;breu, hongrois, indon&eacute;sien, italien,
+japonais, cor&eacute;en, norv&eacute;gien, persan, polonais,
+portugais, roumain, russe, serbe (cyrillique), serbe (latin),
+sinhala, slovaque, slov&egrave;ne, espagnol, su&eacute;dois, tha&iuml;,
+turc, ukrainien 
+</P>
+<H1><A NAME="managing-items"></A><!-- End Section -->G&eacute;rer les
+&eacute;l&eacute;ments du dock</H1>
+<H2 STYLE="margin-left: 0.53cm"><A NAME="adding-new-items"></A>1.
+ajouter un nouvel &eacute;l&eacute;ment</H2>
+<P STYLE="margin-left: 1.06cm">La premi&egrave;re chose que la
+plupart des gens veulent faire apr&egrave;s l'installation de
+RocketDock est d'ajouter de nouveaux raccourcis. Il y a plusieurs
+fa&ccedil;ons de faire cela : 
+</P>
+<P STYLE="margin-left: 1.06cm">Vous pouvez faire simplement glisser
+un raccourci de n'importe quel endroit ou presque ( votre bureau, une
+fen&ecirc;tre de l'explorateur, la barre de lancement rapide, et le
+menu de d&eacute;marrage) vers RocketDock</P>
+<P STYLE="margin-left: 1.06cm">Une autre fa&ccedil;on de faire est
+par le biais du menu &laquo;&nbsp;Nouveau Raccourci&nbsp;&raquo;
+accessible par un clic droit sur le dock.</P>
+<P STYLE="margin-left: 1.06cm"><IMG SRC="../English/images/Snap2.jpg" NAME="graphics2" ALIGN=BOTTOM WIDTH=584 HEIGHT=220 BORDER=0>
+</P>
+<P STYLE="margin-left: 1.06cm">Ce menu vous propose plusieurs options
+et chacune donne acc&egrave;s &agrave; un type d'&eacute;l&eacute;ment
+diff&eacute;rent. D&eacute;taillons les :</P>
+<UL>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Fichier:</STRONG> Vous
+	pouvez ajouter n'importe quel type de fichier &agrave; RocketDock.
+	Quand vous cliquerez ce fichier s'ouvrira avec son application
+	associ&eacute;e. 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Dossier:</STRONG> Vous
+	pouvez ajouter n'importe quel dossier &agrave; RocketDock. Il
+	s'ouvrira dans l'Explorateur Windows.</P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Ic&ocirc;ne Vierge:</STRONG>
+	Cette option cr&eacute;&eacute; un objet avec aucun r&eacute;glage
+	d'ic&ocirc;ne. Quand vous cliquez dessus, la fen&ecirc;tre
+	&quot;Propri&eacute;t&eacute;s&quot; s'ouvrira pour que vous
+	puissiez configurer manuellement ces propri&eacute;t&eacute;s. C'est
+	utile quand vous voulez ajouter un objet sp&eacute;cial qui n'est
+	pas un fichier ou un dossier. Par exemple, &ccedil;a peut &ecirc;tre
+	un lien vers une page web. 
+	</P>
+</UL>
+<UL>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>S&eacute;parateur:</STRONG>
+	Ceci ajoute un s&eacute;parateur entre les ic&ocirc;nes ce qui vous
+	aide &agrave; les organiser par cat&eacute;gories. Il peut &ecirc;tre
+	utilis&eacute; comme un rep&egrave;re visuel. 
+	</P>
+</UL>
+<UL>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Corbeille:</STRONG> Cela
+	ajoute un raccourci vers la corbeille, qui montre si elle est vide
+	ou pleine. 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Raccourci vers
+	&quot;Param&egrave;tres&quot;:</STRONG> Ceci est un objet
+	particulier. Dans le cas ou vous avez effac&eacute; le raccourci
+	vers les Param&egrave;tre du Dock sur RocketDock, ceci le remettra &agrave;
+	sa place.</P>
+	<LI><P><STRONG>Quitter:</STRONG> Cr&eacute;e une ic&ocirc;ne qui
+	ferme RocketDock quand on clique dessus.</P>
+</UL>
+<H2 STYLE="margin-left: 0.53cm"><A NAME="docklets"></A>2. Docklets</H2>
+<P STYLE="margin-left: 1.06cm"><BR><BR>
+</P>
+<P STYLE="margin-left: 1.06cm">Les docklets sont des sortes de mini
+applications qui remplissent une fonction et tourne au sein de
+RocketDock. Il vont du vu-m&egrave;tre de m&eacute;moire vive jusqu'&agrave;
+une corbeille qui montre si elle est vide ou pleine. Vous pouvez en
+ajouter &agrave; RocketDock en les ajoutant au dossier situ&eacute; &agrave;
+l'emplacement : 
+</P>
+<P STYLE="margin-left: 1.06cm"><EM>C:\Program
+Files\RocketDock\Docklets</EM> (par d&eacute;faut)</P>
+<P STYLE="margin-left: 1.06cm">Cliquez ensuite du bouton droit de la
+souris sur rocket dock et dans le menu d'ajout d'&eacute;l&eacute;ment,
+une option suppl&eacute;mentaire appara&icirc;tra pour chacun des
+docklets que vous avez ajout&eacute;s.</P>
+<P STYLE="margin-left: 1.06cm"><IMG SRC="../English/images/Snap3.jpg" NAME="graphics3" ALIGN=BOTTOM WIDTH=584 HEIGHT=228 BORDER=0>
+</P>
+<P STYLE="margin-left: 1.06cm">Remarquez que RocketDock ne supporte
+que les docklets d'ObjectDock</P>
+<H2 STYLE="margin-left: 0.53cm"><A NAME="customizing-items"></A>3.
+Modifier un &eacute;l&eacute;ment</H2>
+<P STYLE="margin-left: 1.06cm">Vous pouvez modifier l'apparence de
+chaque &eacute;l&eacute;ment de RocketDock. Faites un clic droit sur
+l'ic&ocirc;ne et choisissez &laquo;&nbsp;propri&eacute;t&eacute;s&nbsp;&raquo;</P>
+<P STYLE="margin-left: 1.06cm"><IMG SRC="../English/images/Snap4.jpg" NAME="graphics4" ALIGN=BOTTOM WIDTH=503 HEIGHT=220 BORDER=0>
+</P>
+<P STYLE="margin-left: 1.06cm">Vous verrez appara&icirc;tre la
+fen&ecirc;tres des param&egrave;tres d'ic&ocirc;nes ou vous pourrez
+changer ses propri&eacute;t&eacute;s.</P>
+<P STYLE="margin-left: 1.06cm"><IMG SRC="../English/images/Snap5.jpg" NAME="graphics5" ALIGN=BOTTOM WIDTH=633 HEIGHT=590 BORDER=0>
+</P>
+<H3 STYLE="margin-left: 1.06cm">Dossiers</H3>
+<P STYLE="margin-left: 1.59cm">Ici se trouve une liste des
+sous-dossiers de votre dossiers d'ic&ocirc;nes :</P>
+<P STYLE="margin-left: 1.59cm"><EM>C:\Program Files\RocketDock\Icons</EM>
+(par d&eacute;faut)</P>
+<P STYLE="margin-left: 1.59cm">Vous pouvez y ajouter autant d'ic&ocirc;nes
+que vous voulez et elles seront disponibles. Les boutons + &amp; -
+permettent d'ajouter et supprimer des r&eacute;pertoires qui ne sont
+pas des sous-dossiers du dossier d'ic&ocirc;nes de RocketDock.</P>
+<H3 STYLE="margin-left: 1.06cm">Ic&ocirc;nes</H3>
+<P STYLE="margin-left: 1.59cm">Ici apparaissent les ic&ocirc;nes
+contenues dans le dossier s&eacute;lectionn&eacute; dans le panneau
+&laquo;&nbsp;Dossiers&nbsp;&raquo;</P>
+<H3 STYLE="margin-left: 1.06cm">Aper&ccedil;u</H3>
+<P STYLE="margin-left: 1.59cm">Ici est repr&eacute;sent&eacute;e
+l'ic&ocirc;ne que vous avez choisie pour cet &eacute;l&eacute;ment.
+Le menu d&eacute;roulant sous l'aper&ccedil;u (g&eacute;n&eacute;ralement
+gris&eacute;) sert pour les ic&ocirc;nes avec diff&eacute;rents
+&eacute;tats, comme la corbeille vide ou pleine ou les ic&ocirc;nes
+vides.</P>
+<H3 STYLE="margin-left: 1.06cm">Propri&eacute;t&eacute;s</H3>
+<P STYLE="margin-left: 1.59cm">C'est l&agrave; que vous changerez la
+fa&ccedil;on dont le titre de votre ic&ocirc;ne s'affichera, &agrave;
+quoi il est li&eacute;, et d'autres action sp&eacute;ciales
+propos&eacute;es.</P>
+<UL>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Nom:</STRONG> Mettez le
+	label qui appara&icirc;tra quand vous survolerez l'item dans
+	RocketDock avec votre souris. 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Cible:</STRONG> C'est
+	l'adresse de votre item sur l'ordinateur. 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Emplacement:</STRONG> Ceci
+	d&eacute;finit l'adresse de l'application qui sera sollicit&eacute;
+	par l'item. 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Arguments:</STRONG> Ceci
+	met des param&egrave;tres optionnels pour l'application cibl&eacute;e.
+		</P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Ex&eacute;cuter:</STRONG>
+	Ceci met l'&eacute;tat r&eacute;duit de la fen&ecirc;tre quand
+	l'item les lanc&eacute; depuis RocketDock. 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Rechercher la cible:</STRONG>
+	Ceci vous permet de changer la cible en s&eacute;lectionnant le
+	fichier ou le dossier de votre choix. 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Menu contextuel en
+	cascade:</STRONG> Ceci choisira les options d'affichage sp&eacute;ciales
+	dans le menu contextuel d'un item de RocketDock. Par exemple quand
+	vous avez un raccourci vers la Corbeille dans RocketDock et l'option
+	Menu contextuel en cascade activ&eacute;, vous obtenez &ccedil;a : 
+	</P>
+</UL>
+<P STYLE="margin-left: 1.59cm"><IMG SRC="../English/images/Snap6.jpg" NAME="graphics6" ALIGN=BOTTOM WIDTH=579 HEIGHT=154 BORDER=0>
+</P>
+<H2 STYLE="margin-left: 0.53cm"><A NAME="removing-items"></A>4.
+Retirer les items</H2>
+<P STYLE="margin-left: 0.53cm">Vous pouvez retirer les items de
+RocketDock tr&egrave;s simplement et ce de deux fa&ccedil;ons. La
+premi&egrave;re consiste &agrave; faire glisser l'item hors de
+RocketDock et de le mettre sur le bureau. Il dispara&icirc;tra
+simplement. La seconde est de faire un clic droit sur l'item et de
+s&eacute;lectionner l'option &quot;Effacer&quot;.</P>
+<P STYLE="margin-left: 1.06cm"><IMG SRC="../English/images/Snap7.jpg" NAME="graphics7" ALIGN=BOTTOM WIDTH=500 HEIGHT=217 BORDER=0>
+</P>
+<P STYLE="margin-left: 1.06cm">Vous pouvez enlever les s&eacute;parateur
+de la m&ecirc;me fa&ccedil;on. Les docklets eux peuvent seulement
+&ecirc;tre enlev&eacute; avec la premi&egrave;re m&eacute;thode.</P>
+<H2 STYLE="margin-left: 0.53cm"><A NAME="drag-n-drop"></A>5.
+Glisser-D&eacute;poser</H2>
+<P STYLE="margin-left: 1.06cm">Vous pouvez glisser des fichiers et
+des dossiers dans votre un item de votre dock.</P>
+<P STYLE="margin-left: 1.06cm">Si vous glissez un fichier/dossier
+dans l'item d'une application, si l'application le peut elle ouvrira
+le fichier d&eacute;pos&eacute;. Par exemple si vous d&eacute;posez
+un PNG sur un raccourci vers Photoshop, Photoshop se lancera et
+ouvrira l'image.</P>
+<P STYLE="margin-left: 1.06cm">Si vous glissez un fichier ou un
+dossier dans un item qui est li&eacute; &agrave; un dossier, alors le
+fichier d&eacute;pos&eacute; sera copi&eacute; dans le dossier li&eacute;
+&agrave; l'item. Chaque item r&eacute;agira de la m&ecirc;me fa&ccedil;on
+qu'un item sur votre bureau.</P>
+<P STYLE="margin-left: 0.53cm">Si vous glissez un fichier ou un
+dossier vers un item qui pointe vers la corbeille, il sera effac&eacute;.</P>
+<H2 STYLE="margin-left: 0.53cm"><A NAME="minimized-windows"></A>6.
+Fen&ecirc;tres r&eacute;duites</H2>
+<P STYLE="margin-left: 1.06cm">Si vous avez choisi l'option &laquo;&nbsp;r&eacute;duire
+les fen&ecirc;tres vers le dock&nbsp;&raquo; dans les r&eacute;glages,
+les fen&ecirc;tres que vous r&eacute;duirez appara&icirc;tront en
+tant que miniatures dans le dock. Elles peuvent &ecirc;tre
+r&eacute;organis&eacute;es comme on peut s'y attendre, mais on ne
+peut pas les effacer en les glissant hors du dock. Sous Windows Vista
+vous b&eacute;n&eacute;ficierez d'un aper&ccedil;u en temps r&eacute;el
+&agrave; condition que la 'Composition du Bureau' soit activ&eacute;e
+dans les r&eacute;glages de performance de Windows. [N.D.T. :
+Traduction de 'Composition du bureau' incertaine]</P>
+<P STYLE="margin-left: 1.06cm">Vous pouvez restaurer ou fermer une
+fen&ecirc;tre en faisant un clic droit sur son ic&ocirc;ne et en
+s&eacute;lectionnant les options. Par d&eacute;faut, la fen&ecirc;tre
+s'ouvrira sur un clic gauche.</P>
+<P STYLE="margin-left: 1.06cm"><IMG SRC="../English/images/Snap14.jpg" NAME="graphics8" ALIGN=BOTTOM WIDTH=563 HEIGHT=160 BORDER=0>
+</P>
+<P STYLE="margin-left: 1.06cm">Pour &eacute;viter la minimisation
+vers le dock au cas par cas, il suffit de maintenir CTRL en
+minimisant. Ainsi votre lecteur ou programme ira se loger dans la
+barre des t&acirc;ches comme d'habitude.</P>
+<H1><A NAME="dock-settings"></A><!-- End Section -->R&eacute;glages
+du Dock</H1>
+<H2 STYLE="margin-left: 0.53cm"><A NAME="settings-general"></A>1.
+G&eacute;n&eacute;ral</H2>
+<P STYLE="margin-left: 1.06cm"><IMG SRC="../English/images/Snap8.jpg" NAME="graphics9" ALIGN=BOTTOM WIDTH=482 HEIGHT=521 BORDER=0>
+</P>
+<UL>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Langue:</STRONG>
+	Choisissez la langues que vous voulez pour utiliser RocketDock. Par
+	d&eacute;faut la langue devrait &ecirc;tre la langue par d&eacute;faut
+	de votre syst&egrave;me. 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>lancer RocketDock au
+	d&eacute;marrage:</STRONG> Cochez cette option si vous voulez que
+	RocketDock se lance au d&eacute;marrage de Windows. 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Verrouiller les ic&ocirc;nes:</STRONG>
+	Cette option fera en sorte qu'aucun des items sur RocketDock ne
+	puisse &ecirc;tre enlev&eacute; ou effac&eacute;. Pour un acc&egrave;s
+	rapide vous pouvez appuyer sur le bouton &quot;Control&quot; de
+	votre clavier pendant que vous glissez un item pour le d&eacute;placer
+	ou l'effacer. 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><B>Indicateurs d'applications
+	ouvertes</B><SPAN STYLE="font-weight: medium">: affiche un petit
+	marqueur si l'application est d&eacute;j&agrave; lanc&eacute;e.</SPAN></P>
+	<LI><P STYLE="margin-bottom: 0cm"><B>Ouvrir les fen&ecirc;tres d&eacute;j&agrave;
+	ouvertes:</B><SPAN STYLE="font-weight: medium"> pour rappeler une
+	fen&ecirc;tre de l'application au lieu d'en ouvrir une nouvelle.</SPAN></P>
+</UL>
+<H2 STYLE="margin-left: 0.53cm"><A NAME="settings-icons"></A>2.
+Ic&ocirc;nes</H2>
+<P STYLE="margin-left: 1.06cm"><IMG SRC="../English/images/Snap9.jpg" NAME="graphics10" ALIGN=BOTTOM WIDTH=482 HEIGHT=521 BORDER=0>
+</P>
+<UL>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Qualit&eacute;:</STRONG>
+	Ceci fixe le rendu des ic&ocirc;nes pendant le grossissement. 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Taille:</STRONG> Ceci fixe
+	la taille initiale des items sur RocketDock. 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>&Eacute;tirement:</STRONG>
+	Ceci fixe la taille maximum jusqu'&agrave; laquelle vos items
+	grossiront pendant le survol avec la souris. 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Nombre d'ic&ocirc;nes
+	anim&eacute;es:</STRONG> le nombre d'ic&ocirc;nes s'animeront
+	pendant l'&eacute;tirement. 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Dur&eacute;e de
+	l'animation:</STRONG> La vitesse (en millisecondes) avec laquelle
+	les items iront jusqu'&agrave; leur taille maximale. 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>&Eacute;tirement continu:</STRONG>
+	Une sorte sp&eacute;ciale d'&eacute;tirement ou tous vos items
+	changent de taille en m&ecirc;me temps, cr&eacute;ant une apparence
+	de rail. 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><B>Opacit&eacute;:</B> la
+	transparence des ic&ocirc;nes.</P>
+</UL>
+<H2 STYLE="margin-left: 0.53cm"><A NAME="settings-position"></A>3.
+Position</H2>
+<P STYLE="margin-left: 1.06cm"><IMG SRC="../English/images/Snap10.jpg" NAME="graphics11" ALIGN=BOTTOM WIDTH=482 HEIGHT=521 BORDER=0>
+</P>
+<UL>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Moniteur:</STRONG> Si vous
+	avez plus d'un &eacute;cran, vous pourrez choisir sur lequel
+	RocketDock appara&icirc;tra. Le r&eacute;glage &quot;Moniteur *&quot;
+	traitera tous vos moniteurs comme un ensemble. 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Position:</STRONG>
+	Choisissez sur quel c&ocirc;t&eacute; de votre &eacute;cran
+	RocketDock se placera. 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Niveau:</STRONG>
+	Choisissez comment RocketDock appara&icirc;tra avec les fen&ecirc;tres.
+	&quot;Au premier plan&quot; signifie que RocketDock appara&icirc;tra
+	au dessus des fen&ecirc;tres. &quot;Normal&quot; autorise les
+	nouvelle fen&ecirc;tres ou les fen&ecirc;tre agrandies &agrave;
+	couvrir RocketDock. &quot;A l'arri&egrave;re plan&quot; fait en
+	sorte que RocketDock reste toujours sous les fen&ecirc;tres. 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>D&eacute;placement:</STRONG>
+	Ceci vous permet de r&eacute;gler l'emplacement de RocketDock sur le
+	bord que vous avez choisi. C'est le r&eacute;glage horizontal. 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Ajustement vertical:</STRONG>
+	Vous pouvez d&eacute;cider de d&eacute;coller RocketDock du bord de
+	l'&eacute;cran avec ce r&eacute;glage. 
+	</P>
+</UL>
+<H2 STYLE="margin-left: 0.53cm"><A NAME="settings-style"></A>4. Style</H2>
+<P STYLE="margin-left: 1.06cm"><IMG SRC="../English/images/Snap11.jpg" NAME="graphics12" ALIGN=BOTTOM WIDTH=482 HEIGHT=521 BORDER=0>
+</P>
+<UL>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Th&egrave;me:</STRONG>
+	Choisissez le th&egrave;me que vous voudriez utiliser sur
+	RocketDock. Vous pouvez ajouter plus de th&egrave;mes en les copiant
+	dans le dossier des Skins de RocketDock qui se situe l&agrave;:
+	<EM>C:\Program Files\RocketDock\Skins</EM> (adresse par d&eacute;faut)
+		</P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Transparence:</STRONG>
+	R&egrave;gle la transparence du fond de RocketDock. 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><B>Masquer le texte des ic&ocirc;nes:</B><SPAN STYLE="font-weight: medium">
+	enl&egrave;ve le texte d'une ic&ocirc;nes quand on la survole &agrave;
+	la souris.</SPAN></P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Police:</STRONG>
+	S&eacute;lectionnez la police, sa couleur, sa taille et son style. 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Contour:</STRONG> Vous
+	pouvez choisir la couleur du contour de la police. 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Ombre:</STRONG> Vous
+	pouvez choisir la couleur de l'ombre qui sera appliqu&eacute;e au
+	texte. 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Opacit&eacute; du contour:</STRONG>
+	Choisissez la transparence du contour du texte. 
+	</P>
+	<LI><P STYLE="margin-bottom: 0cm"><B><STRONG>opacit&eacute; de
+	l'ombre:</STRONG> Choisissez la transparence de l'ombre. </B>
+	</P>
+</UL>
+<H2 STYLE="margin-left: 0.53cm"><A NAME="settings-behavior"></A>5.
+R&eacute;actions</H2>
+<P STYLE="margin-left: 1.06cm"><IMG SRC="../English/images/Snap12.jpg" NAME="graphics13" ALIGN=BOTTOM WIDTH=482 HEIGHT=521 BORDER=0>
+</P>
+<UL>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>Effet d'activation: <SPAN STYLE="font-weight: medium">Un
+	effet quand vous cliquez sur une ic&ocirc;ne. C'est aussi celui qui
+	sera utilis&eacute; pour attirer votre attention, comme quand une
+	fen&ecirc;tre &laquo;&nbsp;flashe&nbsp;&raquo; dans beaucoup de
+	messageries instantan&eacute;es quand vous recevez un message.</SPAN></STRONG></P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG><B>Masquer
+	automatiquement: RocketDock</B><SPAN STYLE="font-weight: medium"> se
+	camouflera au bord de votre &eacute;cran et r&eacute;appara&icirc;tra
+	quand vous passerez la souris au bord de l'&eacute;cran o&ugrave; il
+	se trouve.</SPAN></STRONG></P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG>D&eacute;lai pour masquer
+	la barre:<SPAN STYLE="font-weight: medium"> C'est le temps pour
+	RocketDock d'appara&icirc;tre depuis le bord de l'&eacute;cran.</SPAN></STRONG></P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG><B>Dur&eacute;e du
+	masquage:</B><SPAN STYLE="font-weight: medium"> c'est la dur&eacute;e
+	de l'animation de masquage elle-m&ecirc;me.</SPAN></STRONG></P>
+	<LI><P STYLE="margin-bottom: 0cm"><STRONG><STRONG>Activation &agrave;
+	la souris:</STRONG> <SPAN STYLE="font-weight: medium">Ceci autorise
+	RocketDock &agrave; surgir au dessus de n'importe quelle fen&ecirc;tre
+	quand il est couvert et &agrave; se cacher &agrave; nouveau quand
+	vous avez fini. </SPAN></STRONG>
+	</P>
+	<LI><P><B>D&eacute;lai d'activation: </B><SPAN STYLE="font-weight: medium">c'est
+	la dur&eacute;e en ms que RocketDock attendra avant de surgir
+	(popup) quand sa zone sera survol&eacute;e &agrave; la souris.</SPAN></P>
+</UL>
+<H2 STYLE="margin-left: 0.53cm"><A NAME="quick-access-to-options"></A>
+6. Acc&egrave;s rapide aux options</H2>
+<P STYLE="margin-left: 0.53cm">Vous pouvez acc&eacute;der aux
+diff&eacute;rentes options via un clic droit sur RocketDock.</P>
+<P STYLE="margin-left: 1.06cm"><IMG SRC="../English/images/Snap13.jpg" NAME="graphics14" ALIGN=BOTTOM WIDTH=500 HEIGHT=197 BORDER=0>
+</P>
+<P STYLE="margin-left: 1.06cm">Vous pouvez choisir la position sur
+l'&eacute;cran, le verrouillage des ic&ocirc;nes, le r&eacute;glage
+des moniteurs et le masquage automatique de RocketDock. Vous pouvez
+aussi voir un raccourci vers les Param&egrave;tres du Dock, donc
+ajouter un item vers ceci dans RocketDock n'est pas n&eacute;cessaire.</P>
+<H2 STYLE="margin-left: 0.53cm"><A NAME="settings-reset-options"></A>7.
+R&eacute;initialiser les options</H2>
+<P STYLE="margin-left: 1.06cm">Dans la fen&ecirc;tre des r&eacute;glages
+du Dock, vous trouverez un bouton &quot;Par d&eacute;faut&quot;, ce
+dernier r&eacute;initialisera tous les r&eacute;glages de RocketDock
+et remettra ceux que vous aviez &agrave; la premi&egrave;re
+installation de RocketDock.</P>
+<P STYLE="margin-left: 0.53cm">Note: Ceci n'affectera pas vos items.</P>
+<H1><A NAME="hotkeys"></A><!-- End Section -->Hot Keys (Raccourcis
+Clavier)</H1>
+<H2 STYLE="margin-left: 0.53cm"><A NAME="hotkeys-disable"></A>1. pour
+d&eacute;sactiver le dock</H2>
+<P STYLE="margin-left: 1.06cm">Vous pouvez cacher et faire
+r&eacute;appara&icirc;tre le dock en tapant <B>ctrl+alt+R</B><SPAN STYLE="font-weight: medium">.</SPAN></P>
+<H1><A NAME="s4"></A><!-- End Section -->Trouver de l'aide et
+contribuer</H1>
+<H2 STYLE="margin-left: 0.53cm"><A NAME="s4-1"></A>1. Ou aller si
+vous avez besoin de plus d'aide</H2>
+<P STYLE="margin-left: 1.06cm">Si vous avez des questions
+suppl&eacute;mentaires sur RocketDock vous pouvez simplement visiter
+notre <A HREF="http://forums.punksoftware.com/">forum.</A> Vous
+pouvez aussi trouver des tutoriaux qui vous montre les diff&eacute;rentes
+fa&ccedil;ons de customiser RocketDock.</P>
+<H2 STYLE="margin-left: 0.53cm"><A NAME="s4-2"></A>2. Aider &agrave;
+traduire</H2>
+<P STYLE="margin-left: 1.06cm">Si votre langue n'est pas support&eacute;e
+et que vous voudriez aider &agrave; traduire, ou mettre &agrave; jour
+un fichier de langue vous trouverez les <A HREF="http://www.punksoftware.com/localize-win">instructions
+ici.</A> Si vous voulez aider &agrave; traduire cette documentation,
+merci de nous contacter sur <A HREF="http://forums.punksoftware.com/">le
+forum.</A></P>
+<H2 STYLE="margin-left: 0.53cm"><A NAME="s4-3"></A>3. Faire du bouche
+&agrave; oreille</H2>
+<P STYLE="margin-left: 1.06cm">Parler &agrave; votre entourage de
+notre logiciel est une tr&egrave;s bonne fa&ccedil;on de nous aider.
+Poster les liens sur votre site web est la meilleur fa&ccedil;on de
+commencer. Vous pouvez trouver des banni&egrave;res ou soumettre les
+votre sur le <A HREF="http://forums.punksoftware.com/">forum.</A></P>
+<H2 STYLE="margin-left: 0.53cm"><A NAME="s4-4"></A>4. Visitez notre
+boutique</H2>
+<P STYLE="margin-left: 1.06cm">Nous avons une boutique en ligne nomm&eacute;
+le <A HREF="http://www.punksoftware.com/shop">Punk Software Swag
+Shack.</A> Vous pouvez y acheter des objets comme des t-shirts, des
+tapis de souris, ou des casquettes que vous ne pouvez qu'aimer. Une
+partie des b&eacute;n&eacute;fices servira &agrave; nourrir les
+programmeurs affam&eacute; de Punk Software.</P>
+<P STYLE="margin-left: 1.06cm"><!-- End Section --><BR><BR>
+</P>
+</BODY>
+</HTML>
